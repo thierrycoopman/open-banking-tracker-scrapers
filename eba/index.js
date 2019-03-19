@@ -9,6 +9,7 @@ const main = async () => {
 
   console.log(file[1].length)
 
+
   // const provider = await saveEntity(file[1][0])
   // writeFile(`./data/${provider.EntityType}/${provider.EntityCode}.json`, provider)
 
@@ -16,19 +17,21 @@ const main = async () => {
     const provider = await saveEntity(f)
     let dir = `./eba/data/${provider.EntityType}`
 
-    let fileName = provider.ENT_NAM
-
+    let fileName = provider.EntityCode
+/*
     if (typeof provider.ENT_NAM === 'object') {
       fileName = provider.ENT_NAM[1]
     } else {
       fileName = provider.ENT_NAM
     }
-
+*/
     if (!fs.existsSync(dir)){
       fs.mkdirSync(dir);
     }
 
-    writeFile(`${dir}/${utils.convertToSlug(fileName)}.json`, provider)
+	if (provider.EntityType != "PSD_AG"){
+		writeFile(`${dir}/${utils.convertToSlug(fileName)}.json`, provider)
+	}
   
     // writeFile(`./data/${provider.EntityType}/${provider.EntityCode}.json`, provider)
   })
@@ -59,3 +62,5 @@ const saveEntity = (f) => {
 }
 
 main()
+ 
+
