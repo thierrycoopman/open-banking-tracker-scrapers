@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3254",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3254",
+  "ENT_NAM": "ZNATURY Spó3ka z Ograniczon1 Odpowiedzialnooci1",
+  "ENT_ADD": "Tadeusza Boya —elenskiego 85, Katowice, 40-750, PL",
+  "ENT_TOW_CIT_RES": "Katowice",
+  "ENT_POS_COD": "40-750",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

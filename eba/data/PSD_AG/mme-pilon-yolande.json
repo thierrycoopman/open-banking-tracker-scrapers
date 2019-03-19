@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!79148",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "501074074",
+  "ENT_NAM": "Mme PILON YOLANDE",
+  "ENT_ADD": "11 RUE DU PAYS D'OUCHE",
+  "ENT_TOW_CIT_RES": "CRULAI",
+  "ENT_POS_COD": "61300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

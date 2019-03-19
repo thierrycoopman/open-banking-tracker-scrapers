@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!760364_AG624",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG760364",
+  "ENT_NAM": "Amici Market S.A.S. Di Muhammad Shahzad E C.",
+  "ENT_ADD": "Strada Giuseppe Garibaldi 43",
+  "ENT_TOW_CIT_RES": "PARMA",
+  "ENT_POS_COD": "43121",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

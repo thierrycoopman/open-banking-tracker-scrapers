@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5532469740",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5532469740",
+  "ENT_NAM": "VERIUS DICAM Barbara Chamera",
+  "ENT_ADD": "Plac Powstańców Śląskich 4a/12, Bytom, 41-933, PL",
+  "ENT_TOW_CIT_RES": "Bytom",
+  "ENT_POS_COD": "41-933",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-01-10"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!578351_AG1461",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG578351",
+  "ENT_NAM": "Matkar Ltd",
+  "ENT_ADD": "11 Castle Meadow",
+  "ENT_TOW_CIT_RES": "Norwich",
+  "ENT_POS_COD": "NR13 DE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

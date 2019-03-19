@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R142706",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R142706",
+  "ENT_NAM": "Stichting Derdengelden weTickets",
+  "ENT_ADD": "Wega 4",
+  "ENT_TOW_CIT_RES": "ROCKANJE",
+  "ENT_POS_COD": "3235 TR",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

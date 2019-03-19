@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72409",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "528242266",
+  "ENT_NAM": "M. REDJAIMI Akim",
+  "ENT_ADD": "102 avenue Jean Jaurès",
+  "ENT_TOW_CIT_RES": "BELFORT",
+  "ENT_POS_COD": "90000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!591466_AG2238",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG591466",
+  "ENT_NAM": "Grzegorz Liszewski",
+  "ENT_ADD": "Szulmierz 16A",
+  "ENT_TOW_CIT_RES": "Regimin",
+  "ENT_POS_COD": "0646 1",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

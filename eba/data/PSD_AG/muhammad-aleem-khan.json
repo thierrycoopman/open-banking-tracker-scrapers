@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!816021_AG8982",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG816021",
+  "ENT_NAM": "Muhammad Aleem Khan",
+  "ENT_ADD": "Paulinstrasse 100",
+  "ENT_TOW_CIT_RES": "Trier",
+  "ENT_POS_COD": "54292",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

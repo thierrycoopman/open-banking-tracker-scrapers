@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!778684_AG6431",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG778684",
+  "ENT_NAM": "Nader Tawanapour",
+  "ENT_ADD": "Unnaer Strasse 22",
+  "ENT_TOW_CIT_RES": "Menden",
+  "ENT_POS_COD": "58706",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

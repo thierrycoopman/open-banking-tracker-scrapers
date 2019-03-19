@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!38",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "38",
+  "ENT_NAM": "ZiP ZBIGNIEW PAWEŁEK",
+  "ENT_ADD": "Maratońska 87/68, Łódź, 94-007, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "94-007",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

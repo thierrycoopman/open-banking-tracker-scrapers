@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!578824!631515_AG30",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG631515",
+  "ENT_NAM": "Abdulai Shapo",
+  "ENT_ADD": "158 Ormeau Road",
+  "ENT_TOW_CIT_RES": "Belfast",
+  "ENT_POS_COD": "BT7 2ED",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!578824",
+  "DER_CHI_ENT_AUT": "Active"
+}

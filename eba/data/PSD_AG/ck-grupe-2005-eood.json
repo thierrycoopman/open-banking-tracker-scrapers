@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!115933227",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "115933227",
+  "ENT_NAM": [
+    "Си Кей Груп 2005 ЕООД",
+    "CK Grupe 2005 EOOD"
+  ],
+  "ENT_ADD": "1A Mariya Kyuri str., Severen dist.",
+  "ENT_TOW_CIT_RES": "Plovdiv",
+  "ENT_POS_COD": "4003",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!573203",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "573203",
+  "ENT_NAM": "UK Exchange Ltd",
+  "ENT_NAM_COM": "UK Money Exchange",
+  "ENT_ADD": "78 Lumb Lane",
+  "ENT_TOW_CIT_RES": "Bradford",
+  "ENT_POS_COD": "BD8 7QZ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-12-20"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!578824!823875_AG93",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG823875",
+  "ENT_NAM": "RAWAL TRAVELS LIMITED",
+  "ENT_ADD": "94 Waterloo Road",
+  "ENT_TOW_CIT_RES": "Stoke-on-Trent",
+  "ENT_POS_COD": "ST6 3EX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!578824",
+  "DER_CHI_ENT_AUT": "Active"
+}

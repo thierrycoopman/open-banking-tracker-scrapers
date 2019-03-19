@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64241",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "483732111",
+  "ENT_NAM": "M. STAHL Bruno",
+  "ENT_ADD": "17 Rue Gabriel Didier",
+  "ENT_TOW_CIT_RES": "ECHIROLLES",
+  "ENT_POS_COD": "38130",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

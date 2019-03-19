@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65386",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "490825205",
+  "ENT_NAM": "M. LEPARQ Daniel",
+  "ENT_ADD": "9 quai de Prague",
+  "ENT_TOW_CIT_RES": "ORLEANS",
+  "ENT_POS_COD": "45100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

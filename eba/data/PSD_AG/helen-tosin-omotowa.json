@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!763891_AG5693",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG763891",
+  "ENT_NAM": "Helen Tosin Omotowa",
+  "ENT_ADD": "38 40 Great Junction Street",
+  "ENT_TOW_CIT_RES": "Edinburgh",
+  "ENT_POS_COD": "EH6 5LA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

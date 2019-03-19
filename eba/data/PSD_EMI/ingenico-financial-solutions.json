@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BE_NBB",
+  "EntityCode": "BE_NBB!0886476763",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "0886476763",
+  "ENT_NAM": "Ingenico Financial Solutions",
+  "ENT_ADD": [
+    "Leonardo Da Vincilaan 3",
+    "Corporate Village                                                  Bayreuth Building"
+  ],
+  "ENT_TOW_CIT_RES": "Zaventem",
+  "ENT_POS_COD": "1930",
+  "ENT_COU_RES": "BE",
+  "ENT_AUT": [
+    "2012-11-30"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!598192_AG2509",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG598192",
+  "ENT_NAM": "Tommy Sas Di Fiorillo Emanuela & C",
+  "ENT_ADD": "Via Frosini 4",
+  "ENT_TOW_CIT_RES": "Pistoia",
+  "ENT_POS_COD": "51100",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

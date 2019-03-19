@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "AT_FMA",
+  "EntityCode": "AT_FMA_PSD_PI_42665",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "94615",
+  "ENT_NAM": "DIMOCO Europe GmbH",
+  "ENT_ADD": "Europaring F15/302",
+  "ENT_TOW_CIT_RES": "Brunn am Gebirge",
+  "ENT_POS_COD": "2345",
+  "ENT_COU_RES": "AT",
+  "ENT_AUT": [
+    "2016-01-19"
+  ]
+}

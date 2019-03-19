@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!728143_AG331",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG728143",
+  "ENT_NAM": "Rossana Michela Fabiano",
+  "ENT_ADD": "Via Piave,6/Bis",
+  "ENT_TOW_CIT_RES": "Matera",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

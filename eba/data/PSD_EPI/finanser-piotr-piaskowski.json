@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6651278656",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6651278656",
+  "ENT_NAM": "FINANSER Piotr Piaskowski",
+  "ENT_ADD": "Powstańców Styczniowych 2/58, Konin, 62-510, PL",
+  "ENT_TOW_CIT_RES": "Konin",
+  "ENT_POS_COD": "62-510",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-19"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!148113877",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "148113877",
+  "ENT_NAM": [
+    "Йод - Бос ЕООД",
+    "Iod - Boc EOOD"
+  ],
+  "ENT_ADD": "9 Tsar Simeon str.",
+  "ENT_TOW_CIT_RES": "Staro Oryahovo village",
+  "ENT_POS_COD": "9110",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

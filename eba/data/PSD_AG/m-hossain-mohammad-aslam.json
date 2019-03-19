@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13046!68253",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "PSD_PI!FR_ACPR!13046!68253",
+  "ENT_NAM": "M. HOSSAIN Mohammad Aslam",
+  "ENT_ADD": "Mercator Str. 80",
+  "ENT_TOW_CIT_RES": "47051 DUISBURG",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13046",
+  "DER_CHI_ENT_AUT": "Active"
+}

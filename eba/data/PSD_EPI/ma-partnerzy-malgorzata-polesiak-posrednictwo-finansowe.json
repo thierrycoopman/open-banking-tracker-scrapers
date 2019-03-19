@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!4980193598",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "4980193598",
+  "ENT_NAM": "M.A. PARTNERZY MAŁGORZATA POLESIAK POŚREDNICTWO FINANSOWE",
+  "ENT_ADD": "Adama Mickiewicza  3A/1, Reda, 84-240, PL",
+  "ENT_TOW_CIT_RES": "Reda",
+  "ENT_POS_COD": "84-240",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-06-27",
+    "2018-08-01"
+  ]
+}

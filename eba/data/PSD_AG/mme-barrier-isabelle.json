@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64201",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "810874255",
+  "ENT_NAM": "Mme BARRIER Isabelle",
+  "ENT_ADD": "34 rue Jean Jaurès",
+  "ENT_TOW_CIT_RES": "MARSILLARGUES",
+  "ENT_POS_COD": "34590",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

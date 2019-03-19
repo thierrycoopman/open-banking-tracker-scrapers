@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!9491761930!112",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "112",
+  "ENT_NAM": "FIRMA HANDLOWA JÓZEF GLIWA",
+  "ENT_ADD": "BRACIEJOWA 1/\"I\", DĘBICA, 39-210, PL",
+  "ENT_TOW_CIT_RES": "DĘBICA",
+  "ENT_POS_COD": "39-210",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!9491761930",
+  "DER_CHI_ENT_AUT": "Active"
+}

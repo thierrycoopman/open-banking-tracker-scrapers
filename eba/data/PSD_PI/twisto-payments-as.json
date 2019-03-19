@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!01615165",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "01615165",
+  "ENT_NAM": "Twisto payments a.s. ",
+  "ENT_ADD": "Újezd 450/40",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "11800",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-11-11"
+  ]
+}

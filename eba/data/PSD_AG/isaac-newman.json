@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!541307_AG499",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG541307",
+  "ENT_NAM": "Isaac Newman",
+  "ENT_ADD": "55 Basingstoke Road",
+  "ENT_TOW_CIT_RES": "Reading",
+  "ENT_POS_COD": "RG2 0ER",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76326",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "435335872",
+  "ENT_NAM": "M. COURTILLY Christian",
+  "ENT_ADD": "27 RUE CHARLES ROBIN",
+  "ENT_TOW_CIT_RES": "BOURG EN BRESSE",
+  "ENT_POS_COD": "01000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!709879_AG4318",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG709879",
+  "ENT_NAM": "Pak Phone Center srl",
+  "ENT_ADD": "Via Giuseppe Simonelli 8",
+  "ENT_TOW_CIT_RES": "Napoli",
+  "ENT_POS_COD": "80134",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

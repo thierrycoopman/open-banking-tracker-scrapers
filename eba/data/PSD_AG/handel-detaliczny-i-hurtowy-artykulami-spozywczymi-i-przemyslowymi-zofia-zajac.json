@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2796",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2796",
+  "ENT_NAM": "Handel Detaliczny i Hurtowy Artykułami Spożywczymi i Przemysłowymi Zofia Zając",
+  "ENT_ADD": "Bieniewice, Gimnazjalna 40, Błonie, 05-870, PL",
+  "ENT_TOW_CIT_RES": "Błonie",
+  "ENT_POS_COD": "05-870",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

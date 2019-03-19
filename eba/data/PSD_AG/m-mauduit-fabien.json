@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65721",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "800479503",
+  "ENT_NAM": "M. MAUDUIT Fabien",
+  "ENT_ADD": "21 rue du Maréchal Leclerc",
+  "ENT_TOW_CIT_RES": "CHECY",
+  "ENT_POS_COD": "45430",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

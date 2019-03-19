@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R102815",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R102815",
+  "ENT_NAM": "Taxa-Meter Centrale B.V.",
+  "ENT_NAM_COM": "Taxa-Meter Centrale B.V./Eltra Parkeergroep/TMC/Htmc",
+  "ENT_ADD": "H.J.E. Wenckebachweg 80",
+  "ENT_TOW_CIT_RES": "AMSTERDAM-DUIVENDRECHT",
+  "ENT_POS_COD": "1114 AD",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

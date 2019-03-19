@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!585789_AG1944",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG585789",
+  "ENT_NAM": "Skk",
+  "ENT_ADD": "16 Avenue Aristide Briand",
+  "ENT_TOW_CIT_RES": "Livry Gargan",
+  "ENT_POS_COD": "9319 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

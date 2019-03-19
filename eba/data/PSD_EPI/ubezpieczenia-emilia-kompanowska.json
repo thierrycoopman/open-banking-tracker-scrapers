@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6661783539",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6661783539",
+  "ENT_NAM": "Ubezpieczenia Emilia Kompanowska",
+  "ENT_ADD": "Stare Morzyce 6, Stare Morzyce, 62-620, PL",
+  "ENT_TOW_CIT_RES": "Stare Morzyce",
+  "ENT_POS_COD": "62-620",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-12-23"
+  ]
+}

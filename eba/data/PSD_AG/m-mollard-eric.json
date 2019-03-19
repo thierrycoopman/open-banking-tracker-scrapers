@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67045",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "480408483",
+  "ENT_NAM": "M. MOLLARD Eric",
+  "ENT_ADD": "10 Avenue de la Gare",
+  "ENT_TOW_CIT_RES": "LEMPDES SUR ALLAGNON",
+  "ENT_POS_COD": "43410",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

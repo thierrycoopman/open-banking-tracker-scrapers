@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!650812_AG3626",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG650812",
+  "ENT_NAM": "Spazio Office SNC Di Basile Vincenzo & C",
+  "ENT_ADD": "Via Ripuaria 122",
+  "ENT_TOW_CIT_RES": "Giugliano In Campania",
+  "ENT_POS_COD": "8001 4",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

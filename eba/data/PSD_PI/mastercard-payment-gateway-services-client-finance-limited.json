@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!541065",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "541065",
+  "ENT_NAM": "Mastercard Payment Gateway Services Client Finance Limited",
+  "ENT_ADD": "10 Upper Bank Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E14 5NP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-04-21"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!8455",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8455",
+  "ENT_NAM": "1, Przedsiębiorstwo Produkcyjno-Handlowo-Usługowe \"DANEX\" Danuta Prusisz 2. \"CZWÓRKA\" S.C. U. Dąbrow",
+  "ENT_ADD": "Sienkiewicza 1, Dobroń, 95-082, PL",
+  "ENT_TOW_CIT_RES": "Dobroń",
+  "ENT_POS_COD": "95-082",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

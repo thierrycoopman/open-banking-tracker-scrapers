@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75426",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "423935535",
+  "ENT_NAM": "Mme MARIAGE Sylvie",
+  "ENT_ADD": "15 Boulevard Talabot",
+  "ENT_TOW_CIT_RES": "LA GRAND COMBE",
+  "ENT_POS_COD": "30110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

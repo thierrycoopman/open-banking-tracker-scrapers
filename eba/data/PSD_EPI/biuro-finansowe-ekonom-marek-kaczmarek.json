@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6981313522",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6981313522",
+  "ENT_NAM": "Biuro Finansowe EKONOM Marek Kaczmarek",
+  "ENT_ADD": "Młyńska 3, Kościan, 64-000, PL",
+  "ENT_TOW_CIT_RES": "Kościan",
+  "ENT_POS_COD": "64-000",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-11-28"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!780",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "780",
+  "ENT_NAM": "Jolube Krzysztof Szulc",
+  "ENT_ADD": "Gdańska 8/1, Więcbork, 89-410, PL",
+  "ENT_TOW_CIT_RES": "Więcbork",
+  "ENT_POS_COD": "89-410",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

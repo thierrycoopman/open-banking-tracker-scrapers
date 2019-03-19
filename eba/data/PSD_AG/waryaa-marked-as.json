@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!795271_AG1945",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG795271",
+  "ENT_NAM": "Waryaa Marked AS",
+  "ENT_ADD": "Pedersgata 41",
+  "ENT_TOW_CIT_RES": "Stavanger",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "NO",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

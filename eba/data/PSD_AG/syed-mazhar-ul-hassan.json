@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!532929_AG164",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG532929",
+  "ENT_NAM": "Syed Mazhar Ul Hassan",
+  "ENT_ADD": [
+    "65 Wokingham Road",
+    "Maisonette"
+  ],
+  "ENT_TOW_CIT_RES": "Reading",
+  "ENT_POS_COD": "RG6 1LH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

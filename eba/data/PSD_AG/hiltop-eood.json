@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200029210",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200029210",
+  "ENT_NAM": [
+    "Хилтоп ЕООД",
+    "Hiltop EOOD"
+  ],
+  "ENT_ADD": "15 zh.k. Vasil Karagyozov, fl. 4, app. 15",
+  "ENT_TOW_CIT_RES": "Yambol",
+  "ENT_POS_COD": "8600",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

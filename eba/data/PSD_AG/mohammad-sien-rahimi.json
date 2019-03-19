@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!590213_AG2197",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG590213",
+  "ENT_NAM": "Mohammad Sien Rahimi",
+  "ENT_ADD": "Karlsplatz 25",
+  "ENT_TOW_CIT_RES": "Muenchen",
+  "ENT_POS_COD": "8033 5",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

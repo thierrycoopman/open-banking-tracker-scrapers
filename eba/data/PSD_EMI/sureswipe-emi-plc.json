@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "CY_CBC",
+  "EntityCode": "PSD_EMICY_CBC!375602",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "115.1.3.26/2018",
+  "ENT_NAM": "Sureswipe E.M.I. PLC",
+  "ENT_NAM_COM": "Sureswipe E.M.I. PLC",
+  "ENT_ADD": "18 Kyriacou Matsi Avenue",
+  "ENT_TOW_CIT_RES": "Nicosia",
+  "ENT_POS_COD": "1082",
+  "ENT_COU_RES": "CY",
+  "ENT_AUT": [
+    "2018-06-19"
+  ]
+}

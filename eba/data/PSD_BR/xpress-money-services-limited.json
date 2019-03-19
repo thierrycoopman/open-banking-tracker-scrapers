@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!CY",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "Xpress Money Services Limited",
+  "ENT_ADD": null,
+  "ENT_TOW_CIT_RES": null,
+  "ENT_POS_COD": null,
+  "ENT_COU_RES": "CY",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

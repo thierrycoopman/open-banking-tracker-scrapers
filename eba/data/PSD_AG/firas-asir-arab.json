@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!827882_AG10005",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG827882",
+  "ENT_NAM": "Firas Asir Arab",
+  "ENT_ADD": "Koelner Landstrasse 196",
+  "ENT_TOW_CIT_RES": "Duesseldorf",
+  "ENT_POS_COD": "40591",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1568",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1568",
+  "ENT_NAM": "Małgorzata Krawczyk Handel Detaliczny Artykułami Ogólno-Spożywczymi, Ogólno-Przemysłowymi",
+  "ENT_ADD": "Wrocławska 19 A, Międzybórz, 56-513, PL",
+  "ENT_TOW_CIT_RES": "Międzybórz",
+  "ENT_POS_COD": "56-513",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

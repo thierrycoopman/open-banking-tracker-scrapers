@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6261068307",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "6261068307",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa \"CENTRUM\"",
+  "ENT_ADD": "ul. Stanisława Moniuszki 16A, Bytom, 41-902, PL",
+  "ENT_TOW_CIT_RES": "Bytom",
+  "ENT_POS_COD": "41-902",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-09"
+  ]
+}

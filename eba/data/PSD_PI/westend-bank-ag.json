@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!100339",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "100339",
+  "ENT_NAM": "Westend Bank AG",
+  "ENT_ADD": "Platanenallee 11 | 14050 Berlin",
+  "ENT_TOW_CIT_RES": "Berlin",
+  "ENT_POS_COD": "14050",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-07-13"
+  ]
+}

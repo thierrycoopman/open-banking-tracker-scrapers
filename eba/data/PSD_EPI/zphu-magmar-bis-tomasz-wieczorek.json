@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6381163907",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6381163907",
+  "ENT_NAM": "Z.P.H.U. MAGMAR-BIS Tomasz Wieczorek",
+  "ENT_ADD": "Warowna 49, Pszczyna, 43-200, PL",
+  "ENT_TOW_CIT_RES": "Pszczyna",
+  "ENT_POS_COD": "43-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-09-26"
+  ]
+}

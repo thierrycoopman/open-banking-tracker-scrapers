@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!602888_AG759",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG602888",
+  "ENT_NAM": "Abdul Ghafoorul Wadood",
+  "ENT_ADD": "379 Aspley Lane",
+  "ENT_TOW_CIT_RES": "Nottingham",
+  "ENT_POS_COD": "NG8 5RR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

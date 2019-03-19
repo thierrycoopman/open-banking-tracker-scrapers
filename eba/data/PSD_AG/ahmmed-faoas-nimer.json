@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!813519_AG8784",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG813519",
+  "ENT_NAM": "Ahmmed Faoas Nimer",
+  "ENT_ADD": "Bergsskolegrand 8",
+  "ENT_TOW_CIT_RES": "Falun",
+  "ENT_POS_COD": "79171",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

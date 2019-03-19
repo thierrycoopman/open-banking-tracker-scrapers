@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2220",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2220",
+  "ENT_NAM": "POMORSKA FIRMA FINANSOWA LIDIA ŻOŁNIERUK",
+  "ENT_ADD": "Waleriana Szefki 9H/lok. 3, Gdynia, 81-572, PL",
+  "ENT_TOW_CIT_RES": "Gdynia",
+  "ENT_POS_COD": "81-572",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

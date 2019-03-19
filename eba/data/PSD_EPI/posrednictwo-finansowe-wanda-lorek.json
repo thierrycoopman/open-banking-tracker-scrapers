@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8541081178",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8541081178",
+  "ENT_NAM": "Pośrednictwo Finansowe Wanda Lorek",
+  "ENT_ADD": "Pierwszej Brygady 4a, Stargard, 73-110, PL",
+  "ENT_TOW_CIT_RES": "Stargard",
+  "ENT_POS_COD": "73-110",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-02-01"
+  ]
+}

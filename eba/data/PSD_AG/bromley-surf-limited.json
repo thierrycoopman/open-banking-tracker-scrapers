@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!508268_AG35",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG508268",
+  "ENT_NAM": "BROMLEY SURF LIMITED",
+  "ENT_ADD": [
+    "Bromley",
+    "456a Bromley Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "BR1 4PP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

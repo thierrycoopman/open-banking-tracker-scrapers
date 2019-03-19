@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!15619559",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "15619559",
+  "ENT_NAM": "Moravcová Diana",
+  "ENT_ADD": "Zahradní 66",
+  "ENT_TOW_CIT_RES": "Heřmanův Městec",
+  "ENT_POS_COD": "53803",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

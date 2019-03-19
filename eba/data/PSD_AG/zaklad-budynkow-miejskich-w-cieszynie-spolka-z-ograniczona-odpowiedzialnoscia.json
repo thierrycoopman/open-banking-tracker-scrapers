@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!337",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "337",
+  "ENT_NAM": "Zakład Budynków Miejskich w Cieszynie Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "ul. Liburnia 2A, Cieszyn, 43-400, PL",
+  "ENT_TOW_CIT_RES": "Cieszyn",
+  "ENT_POS_COD": "43-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

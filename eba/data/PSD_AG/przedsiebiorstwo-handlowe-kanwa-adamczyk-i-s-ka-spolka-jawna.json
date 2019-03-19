@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2782",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2782",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO HANDLOWE \"KANWA\" ADAMCZYK I S-KA SPÓŁKA JAWNA",
+  "ENT_ADD": "Smoleńska 82, Warszawa, 03-528, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "03-528",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

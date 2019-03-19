@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R128261",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R128261",
+  "ENT_NAM": "Factory Group B.V.",
+  "ENT_ADD": "Middenweg 257",
+  "ENT_TOW_CIT_RES": "HEERHUGOWAARD",
+  "ENT_POS_COD": "1701 GC",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

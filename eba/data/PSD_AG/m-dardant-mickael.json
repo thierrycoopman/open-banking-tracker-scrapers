@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74935",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "419962410",
+  "ENT_NAM": "M. DARDANT Mickael",
+  "ENT_ADD": "6 PLACE DU GENERAL DE GAULLE",
+  "ENT_TOW_CIT_RES": "PONT L ABBE D ARNOULT",
+  "ENT_POS_COD": "17250",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

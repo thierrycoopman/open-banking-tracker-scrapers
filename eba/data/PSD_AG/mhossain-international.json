@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!662467_AG870",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG662467",
+  "ENT_NAM": "M.Hossain International",
+  "ENT_ADD": "Via Carlo Rota 5",
+  "ENT_TOW_CIT_RES": "Monza",
+  "ENT_POS_COD": "20 900",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

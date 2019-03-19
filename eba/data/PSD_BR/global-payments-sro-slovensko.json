@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!04235452!SK",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "Global Payments s.r.o. (Slovensko) ",
+  "ENT_ADD": "Hviezdoslavovo nám. 13",
+  "ENT_TOW_CIT_RES": "Bratislava",
+  "ENT_POS_COD": "81102",
+  "ENT_COU_RES": "SK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!04235452",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!26978636!60999918",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "60999918",
+  "ENT_NAM": "Krupa Petr",
+  "ENT_ADD": "Bezručova 117",
+  "ENT_TOW_CIT_RES": "Vrbno pod Pradědem",
+  "ENT_POS_COD": "79326",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!26978636",
+  "DER_CHI_ENT_AUT": "Active"
+}

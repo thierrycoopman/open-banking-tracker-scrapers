@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!102660050",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "102660050",
+  "ENT_NAM": "KAPRIS PANAGIOTIS",
+  "ENT_ADD": "14-16, ATHINON Ave.",
+  "ENT_TOW_CIT_RES": "CHALKIDA",
+  "ENT_POS_COD": "34100",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6263",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6263",
+  "ENT_NAM": "Rusnak Magdalena Sklep Spo?ywczo-Przemys3owy",
+  "ENT_ADD": "W3adys3awa Orkana 1, Zakopane, 34-500, PL",
+  "ENT_TOW_CIT_RES": "Zakopane",
+  "ENT_POS_COD": "34-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

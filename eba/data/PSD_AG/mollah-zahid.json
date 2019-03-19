@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094438857!141772529",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "141772529",
+  "ENT_NAM": "MOLLAH ZAHID",
+  "ENT_ADD": "68, IOULIANOU Str.",
+  "ENT_TOW_CIT_RES": "ATHENS ",
+  "ENT_POS_COD": "10440",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094438857",
+  "DER_CHI_ENT_AUT": "Active"
+}

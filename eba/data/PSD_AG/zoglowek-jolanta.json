@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6270024746!8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8",
+  "ENT_NAM": "Zogłowek Jolanta",
+  "ENT_ADD": "Łagiewnicka 20a, Świętochłowice, 41-608, PL",
+  "ENT_TOW_CIT_RES": "Świętochłowice",
+  "ENT_POS_COD": "41-608",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6270024746",
+  "DER_CHI_ENT_AUT": "Active"
+}

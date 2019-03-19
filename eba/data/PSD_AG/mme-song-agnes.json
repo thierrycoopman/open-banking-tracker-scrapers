@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!60437",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "538824285",
+  "ENT_NAM": "Mme SONG Agnès",
+  "ENT_ADD": [
+    "1 rue de la Vallée Monnaie ",
+    "Centre Commercial du Clos       ",
+    "Gaulti"
+  ],
+  "ENT_TOW_CIT_RES": "POITIERS",
+  "ENT_POS_COD": "86000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

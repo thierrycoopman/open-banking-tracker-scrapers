@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!784659_AG6732",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG784659",
+  "ENT_NAM": "Oltre La Favola Di Frau Francesca E Mussino Luca S.N.C.",
+  "ENT_ADD": "Via Redipuglia 46 A/46 B",
+  "ENT_TOW_CIT_RES": "Cagliari",
+  "ENT_POS_COD": "09122",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

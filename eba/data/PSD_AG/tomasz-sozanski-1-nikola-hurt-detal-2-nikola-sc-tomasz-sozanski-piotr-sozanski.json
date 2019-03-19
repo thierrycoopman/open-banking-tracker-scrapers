@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5531",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5531",
+  "ENT_NAM": "Tomasz Sozański 1. Nikola Hurt-Detal 2. Nikola S.C. Tomasz Sozański, Piotr Sozański",
+  "ENT_ADD": "Klikowska 185a, Tarnów, 33-100, PL",
+  "ENT_TOW_CIT_RES": "Tarnów",
+  "ENT_POS_COD": "33-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

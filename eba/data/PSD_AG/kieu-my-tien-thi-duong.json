@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!808793_AG8273",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808793",
+  "ENT_NAM": "Kieu My Tien Thi Duong",
+  "ENT_ADD": "Stromsveien 86",
+  "ENT_TOW_CIT_RES": "Strommen",
+  "ENT_POS_COD": "2010",
+  "ENT_COU_RES": "NO",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

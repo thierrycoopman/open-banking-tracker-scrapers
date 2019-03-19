@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!616124_AG3120",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG616124",
+  "ENT_NAM": "Agnieszka Grabowska Galas",
+  "ENT_ADD": "28 Mount Pleasant",
+  "ENT_TOW_CIT_RES": "Redditch",
+  "ENT_POS_COD": "B974 JB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

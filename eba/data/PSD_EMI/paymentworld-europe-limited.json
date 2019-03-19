@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!PWO",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "C65783",
+  "ENT_NAM": "PAYMENTWORLD EUROPE LIMITED",
+  "ENT_NAM_COM": "PAYMENTWORLD EUROPE LIMITED",
+  "ENT_ADD": "Skyway Offices, Office 3, Block A, 177, Main Street",
+  "ENT_TOW_CIT_RES": "PIETA'",
+  "ENT_POS_COD": "PTA 9072",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2015-07-14"
+  ]
+}

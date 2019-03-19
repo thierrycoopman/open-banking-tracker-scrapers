@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!000471753",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "000471753",
+  "ENT_NAM": [
+    "Кооперация Районен Кооперативен Съюз - Пловдив",
+    "Kooperatsia Rayonen Kooperativen Sayuz - Plovidv"
+  ],
+  "ENT_ADD": "4 Opalchenska str.",
+  "ENT_TOW_CIT_RES": "Plovdiv",
+  "ENT_POS_COD": "4000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

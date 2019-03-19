@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!272",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "272",
+  "ENT_NAM": "Wiesława Kwaśnik Kolektura Lotto",
+  "ENT_ADD": "Batalionów Chłopskich 43, Kozienice, 26-900, PL",
+  "ENT_TOW_CIT_RES": "Kozienice",
+  "ENT_POS_COD": "26-900",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

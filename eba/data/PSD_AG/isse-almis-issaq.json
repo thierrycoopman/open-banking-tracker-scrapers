@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!556052_AG75",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG556052",
+  "ENT_NAM": "Isse Almis Issaq",
+  "ENT_ADD": "14 Rue Bessieres",
+  "ENT_TOW_CIT_RES": "Montauban",
+  "ENT_POS_COD": "82 000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

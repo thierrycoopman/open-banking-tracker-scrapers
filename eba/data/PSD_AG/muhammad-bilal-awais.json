@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!762712_AG444",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG762712",
+  "ENT_NAM": "Muhammad Bilal Awais",
+  "ENT_ADD": "159R Marsh Road",
+  "ENT_TOW_CIT_RES": "Luton",
+  "ENT_POS_COD": "LU3 2QL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

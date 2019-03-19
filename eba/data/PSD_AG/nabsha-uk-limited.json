@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!706094_AG328",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG706094",
+  "ENT_NAM": "Nabsha UK Limited",
+  "ENT_ADD": "13 Albion Street",
+  "ENT_TOW_CIT_RES": "Ashton-under-Lyne",
+  "ENT_POS_COD": "OL6 6HF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

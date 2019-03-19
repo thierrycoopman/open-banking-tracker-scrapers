@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!532990!785378_AG6",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG785378",
+  "ENT_NAM": "Muhamamd Aslam Bhatti",
+  "ENT_ADD": "88D The Broadway",
+  "ENT_TOW_CIT_RES": "Southall",
+  "ENT_POS_COD": "UB1 1QF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!532990",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!613220",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "613220",
+  "ENT_NAM": "Superprime Ltd",
+  "ENT_ADD": "554 Claremont Road",
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M14 5XL",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2014-04-30"
+  ]
+}

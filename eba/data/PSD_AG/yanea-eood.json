@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!205212495",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "205212495",
+  "ENT_NAM": [
+    "Янеа ЕООД",
+    "Yanea EOOD"
+  ],
+  "ENT_ADD": "10 Rila str.",
+  "ENT_TOW_CIT_RES": "Byala Slatina",
+  "ENT_POS_COD": "3200",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!809051_AG8318",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG809051",
+  "ENT_NAM": "Mifa Solutions Limited",
+  "ENT_ADD": "513 Kingsbury Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW9 9EG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

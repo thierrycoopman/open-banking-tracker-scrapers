@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!000274293",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "000274293",
+  "ENT_NAM": [
+    "Кооперация ПК Иван Павлов",
+    "Cooperative PK Ivan Pavlov"
+  ],
+  "ENT_ADD": "Oreshak village 5630",
+  "ENT_TOW_CIT_RES": "Oreshak village",
+  "ENT_POS_COD": "5630",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64457",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "522253525",
+  "ENT_NAM": "M. FAVEROT Xavier",
+  "ENT_ADD": "131 Rue de l'Oranger",
+  "ENT_TOW_CIT_RES": "ST GERMAIN LESPINASSE",
+  "ENT_POS_COD": "42640",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

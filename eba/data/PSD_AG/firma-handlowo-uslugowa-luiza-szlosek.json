@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!639",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "639",
+  "ENT_NAM": "Firma Handlowo-Usługowa Luiza Szlosek",
+  "ENT_ADD": "Cisiecka 18A, Paczków, 48-370, PL",
+  "ENT_TOW_CIT_RES": "Paczków",
+  "ENT_POS_COD": "48-370",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

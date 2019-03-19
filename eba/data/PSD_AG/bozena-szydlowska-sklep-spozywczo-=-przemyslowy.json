@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7557",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7557",
+  "ENT_NAM": "BOŻENA SZYDŁOWSKA SKLEP SPOŻYWCZO = PRZEMYSŁOWY",
+  "ENT_ADD": "Libusza 755, Libusza, 38-306, PL",
+  "ENT_TOW_CIT_RES": "Libusza",
+  "ENT_POS_COD": "38-306",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

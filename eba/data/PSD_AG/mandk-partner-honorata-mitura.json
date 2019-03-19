@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!4010",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4010",
+  "ENT_NAM": "M&K Partner Honorata Mitura",
+  "ENT_ADD": "Radzynska 32, Kock, 21-150, PL",
+  "ENT_TOW_CIT_RES": "Kock",
+  "ENT_POS_COD": "21-150",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

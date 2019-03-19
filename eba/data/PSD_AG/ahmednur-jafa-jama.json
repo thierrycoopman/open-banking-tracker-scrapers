@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!525548!811090_AG31",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG811090",
+  "ENT_NAM": "AHMEDNUR JAFA JAMA",
+  "ENT_ADD": "233 Great Western Street",
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M14 4LG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!525548",
+  "DER_CHI_ENT_AUT": "Active"
+}

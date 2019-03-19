@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6651663495",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6651663495",
+  "ENT_NAM": "Agencja Finansowa INCASO Mirosław Staszak",
+  "ENT_ADD": "Konopnickiej 3, Golina, 62-590, PL",
+  "ENT_TOW_CIT_RES": "Golina",
+  "ENT_POS_COD": "62-590",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-11-20"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!793778_AG1402",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG793778",
+  "ENT_NAM": "SPAGNOLO IRINELLA",
+  "ENT_ADD": "VIA ROMA 32",
+  "ENT_TOW_CIT_RES": "VEGLIE",
+  "ENT_POS_COD": "73010",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

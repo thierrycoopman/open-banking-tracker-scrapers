@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!505572_AG12",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG505572",
+  "ENT_NAM": "Mir Atiqul Islam",
+  "ENT_ADD": "24d Magdalen Street",
+  "ENT_TOW_CIT_RES": "Norwich",
+  "ENT_POS_COD": "NR3 1HU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

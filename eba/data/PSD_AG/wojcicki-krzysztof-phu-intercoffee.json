@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!27",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "27",
+  "ENT_NAM": "Wójcicki Krzysztof PHU INTER@COFFEE",
+  "ENT_ADD": "Janka Bytnara 33, Kolbuszowa, 36-100, PL",
+  "ENT_TOW_CIT_RES": "Kolbuszowa",
+  "ENT_POS_COD": "36-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "BG_BNB!131574695",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "131574695",
+  "ENT_NAM": [
+    "Пейнетикс АД  (предишно наименование Кредибул ЕАД)",
+    "Paynetics AD (formerly known as Credibul EAD)"
+  ],
+  "ENT_ADD": "PI Address (Not Specified)",
+  "ENT_TOW_CIT_RES": "PI City (Not Specified)",
+  "ENT_POS_COD": "PI Postcode (Not Specified)",
+  "ENT_COU_RES": "BG",
+  "ENT_AUT": [
+    "2015-02-04",
+    "2018-04-18"
+  ]
+}

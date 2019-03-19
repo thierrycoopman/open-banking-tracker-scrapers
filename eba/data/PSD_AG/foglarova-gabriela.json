@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!16126874",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "16126874",
+  "ENT_NAM": "Foglarová Gabriela",
+  "ENT_ADD": "Holešovice 121",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "17000",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

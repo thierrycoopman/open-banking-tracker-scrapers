@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!584734_AG232",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG584734",
+  "ENT_NAM": "Chukwuma Okoruwe",
+  "ENT_ADD": "440 Hedgemans Rd",
+  "ENT_TOW_CIT_RES": "Dagenham",
+  "ENT_POS_COD": "RM96 BU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

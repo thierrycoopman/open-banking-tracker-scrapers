@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!778473",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "778473",
+  "ENT_NAM": "Credorax Services UK Ltd",
+  "ENT_ADD": [
+    "WeWork",
+    "22 Upper Ground",
+    "6th Floor"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE1 9PD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2019-01-07"
+  ]
+}

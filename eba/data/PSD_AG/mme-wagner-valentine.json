@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73419",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "453736928",
+  "ENT_NAM": "Mme WAGNER Valentine",
+  "ENT_ADD": "57, RUE WILSON",
+  "ENT_TOW_CIT_RES": "PUTTELANGE AUX LACS",
+  "ENT_POS_COD": "57510",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

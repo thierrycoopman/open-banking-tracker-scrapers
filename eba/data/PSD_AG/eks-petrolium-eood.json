@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!123517367",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "123517367",
+  "ENT_NAM": [
+    "Екс петролиум ЕООД",
+    "Eks petrolium EOOD"
+  ],
+  "ENT_ADD": "28 Kapitan Petko Voyvoda str.",
+  "ENT_TOW_CIT_RES": "Stara Zagorа",
+  "ENT_POS_COD": "6010",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!811465_AG8579",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG811465",
+  "ENT_NAM": "Daniela Borghi",
+  "ENT_ADD": "Via Puntiroli 43",
+  "ENT_TOW_CIT_RES": "Conselice",
+  "ENT_POS_COD": "48017",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

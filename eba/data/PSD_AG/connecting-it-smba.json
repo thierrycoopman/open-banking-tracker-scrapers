@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!591859_AG2252",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG591859",
+  "ENT_NAM": "Connecting IT SMBA",
+  "ENT_ADD": "Parkvej 2",
+  "ENT_TOW_CIT_RES": "Taastrup",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1857",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1857",
+  "ENT_NAM": "Sklep Wielobranżowy. Usługi Transportowe. Tadeusz Kryszk.",
+  "ENT_ADD": "Nowy Sielc 135, Nowy Sielc, 06-212, PL",
+  "ENT_TOW_CIT_RES": "Nowy Sielc",
+  "ENT_POS_COD": "06-212",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

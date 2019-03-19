@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6451164818",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6451164818",
+  "ENT_NAM": "Usługi Finansowe - Tomasz Wrodarczyk",
+  "ENT_ADD": "ks. Jerzego Popiełuszki 21/30, Piekary Śląskie, 41-940, PL",
+  "ENT_TOW_CIT_RES": "Piekary Śląskie",
+  "ENT_POS_COD": "41-940",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-07-10"
+  ]
+}

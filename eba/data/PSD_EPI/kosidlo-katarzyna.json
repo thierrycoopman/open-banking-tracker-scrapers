@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9251099584",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9251099584",
+  "ENT_NAM": " Kosidło Katarzyna",
+  "ENT_ADD": "Piłsudskiego 21F/lok. 2, Nowa Sól, 67-100, PL",
+  "ENT_TOW_CIT_RES": "Nowa Sól",
+  "ENT_POS_COD": "67-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-26"
+  ]
+}

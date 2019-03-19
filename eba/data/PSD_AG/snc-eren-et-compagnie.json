@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70778",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "484276266",
+  "ENT_NAM": "SNC EREN ET COMPAGNIE",
+  "ENT_ADD": [
+    "Rue Du moulin de la ville ",
+    "C.Cial les étangs"
+  ],
+  "ENT_TOW_CIT_RES": "AULNAY SOUS BOIS",
+  "ENT_POS_COD": "93600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

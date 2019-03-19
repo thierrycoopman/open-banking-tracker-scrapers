@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971683744!70",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "70",
+  "ENT_NAM": "AGENCJA OPŁAT EXPERT Joanna Sobkowiak",
+  "ENT_ADD": "Rydygiera 63/1A, Wrocław, 50-248, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "50-248",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971683744",
+  "DER_CHI_ENT_AUT": "Active"
+}

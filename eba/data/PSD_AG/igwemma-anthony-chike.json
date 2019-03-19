@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!588034_AG2043",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG588034",
+  "ENT_NAM": "Igwemma Anthony Chike",
+  "ENT_ADD": "Via Brandizzo  11A",
+  "ENT_TOW_CIT_RES": "Torino",
+  "ENT_POS_COD": "1015 2",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!511374",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "511374",
+  "ENT_NAM": "Fiaz Ahmed Raja",
+  "ENT_NAM_COM": "Pak Super Store",
+  "ENT_ADD": "188 - 189 Waterloo Street",
+  "ENT_TOW_CIT_RES": "Burton-on-Trent",
+  "ENT_POS_COD": "DE14 2NQ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-05",
+    "2018-04-16"
+  ]
+}

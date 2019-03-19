@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!784",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "784",
+  "ENT_NAM": "Jakub Kalicki",
+  "ENT_ADD": "Józefa Chełmońskiego 23 B, Żelechów, 96-321, PL",
+  "ENT_TOW_CIT_RES": "Żelechów",
+  "ENT_POS_COD": "96-321",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

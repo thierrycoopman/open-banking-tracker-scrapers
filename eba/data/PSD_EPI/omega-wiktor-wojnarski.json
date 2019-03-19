@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7481545081",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7481545081",
+  "ENT_NAM": "OMEGA Wiktor Wojnarski",
+  "ENT_ADD": "Kościuszki 2, Głubczyce, 48-100, PL",
+  "ENT_TOW_CIT_RES": "Głubczyce",
+  "ENT_POS_COD": "48-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-01-03"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R114576",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "R114576",
+  "ENT_NAM": "Twelve Events B.V.",
+  "ENT_NAM_COM": "Money =",
+  "ENT_ADD": "Herculesplein 313",
+  "ENT_TOW_CIT_RES": "UTRECHT",
+  "ENT_POS_COD": "3584 AA",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

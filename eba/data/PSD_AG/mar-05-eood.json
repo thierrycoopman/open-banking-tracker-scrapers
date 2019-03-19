@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!131230840",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "131230840",
+  "ENT_NAM": [
+    "Мар-05 ЕООД",
+    "Mar-05 EOOD"
+  ],
+  "ENT_ADD": "Ovcha kupel 1 dist., build. 65, app. 21",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1632",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

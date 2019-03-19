@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!523",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "40103535575",
+  "ENT_NAM": "Sabiedrība ar ierobežotu atbildību \"Digital Retail\"",
+  "ENT_NAM_COM": "Digital Retail",
+  "ENT_ADD": "Pirts iela 13 - 50",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1003",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2014-08-13"
+  ]
+}

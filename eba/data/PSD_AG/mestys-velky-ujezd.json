@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!00299677",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "00299677",
+  "ENT_NAM": "Městys Velký Újezd",
+  "ENT_ADD": "Olomoucká 15",
+  "ENT_TOW_CIT_RES": "Velký Újezd",
+  "ENT_POS_COD": "78355",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

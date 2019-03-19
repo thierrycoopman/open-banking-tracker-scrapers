@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3898",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3898",
+  "ENT_NAM": "Miros3aw Kotula",
+  "ENT_ADD": "ks. Pojdy 70, Rybnik, 44-213, PL",
+  "ENT_TOW_CIT_RES": "Rybnik",
+  "ENT_POS_COD": "44-213",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

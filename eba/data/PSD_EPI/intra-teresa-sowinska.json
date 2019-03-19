@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7821164663",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7821164663",
+  "ENT_NAM": "INTRA Teresa Sowińska",
+  "ENT_ADD": "Starołęcka  63A, Poznań, 61-361, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-361",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-01-02"
+  ]
+}

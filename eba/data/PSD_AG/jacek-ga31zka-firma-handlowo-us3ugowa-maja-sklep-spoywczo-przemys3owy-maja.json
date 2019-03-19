@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5999",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5999",
+  "ENT_NAM": "Jacek Ga31zka Firma Handlowo Us3ugowa Maja Sklep Spo?ywczo Przemys3owy Maja",
+  "ENT_ADD": "Golinska 10, Kazimierz Biskupi, 62-530, PL",
+  "ENT_TOW_CIT_RES": "Kazimierz Biskupi",
+  "ENT_POS_COD": "62-530",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

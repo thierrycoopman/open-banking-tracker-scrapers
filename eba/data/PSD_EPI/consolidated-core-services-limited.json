@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!616971",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "616971",
+  "ENT_NAM": "Consolidated Core Services Limited",
+  "ENT_NAM_COM": [
+    "Mutual Trust Money Transfers",
+    "Global Link International"
+  ],
+  "ENT_ADD": "122 Peckham High Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE15 5ED",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2014-03-10"
+  ]
+}

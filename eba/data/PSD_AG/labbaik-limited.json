@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!555955!520299_AG2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG520299",
+  "ENT_NAM": "Labbaik Limited",
+  "ENT_ADD": "80 Ben Jonson Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 3NN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!555955",
+  "DER_CHI_ENT_AUT": "Active"
+}

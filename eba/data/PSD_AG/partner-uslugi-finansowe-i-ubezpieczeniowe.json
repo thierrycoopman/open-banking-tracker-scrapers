@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5550004081!1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1",
+  "ENT_NAM": "Partner Usługi Finansowe i Ubezpieczeniowe",
+  "ENT_ADD": "31 Stycznia 20, Chojnice, 89-600, PL",
+  "ENT_TOW_CIT_RES": "Chojnice",
+  "ENT_POS_COD": "89-600",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5550004081",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

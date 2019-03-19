@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9680859529",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9680859529",
+  "ENT_NAM": ",,UNISACO'' SPÓŁKA JAWNA Stanisław Kaźmierczak, Krzysztof Słopień, Waldemar Olszewski",
+  "ENT_ADD": "Żelazków 115, Żelazków, 62-817, PL",
+  "ENT_TOW_CIT_RES": "Żelazków",
+  "ENT_POS_COD": "62-817",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-03-13"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!521847_AG257",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG521847",
+  "ENT_NAM": "Euro Clean Discount Pressing",
+  "ENT_ADD": [
+    "Drancy 93700",
+    "France",
+    "123 Henri Barbusse Avenue"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

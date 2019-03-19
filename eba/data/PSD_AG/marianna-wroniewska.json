@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!596890_AG2464",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG596890",
+  "ENT_NAM": "Marianna Wroniewska",
+  "ENT_ADD": "Waclawa Kurowskiego 44a",
+  "ENT_TOW_CIT_RES": "Hornowek",
+  "ENT_POS_COD": "0508 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

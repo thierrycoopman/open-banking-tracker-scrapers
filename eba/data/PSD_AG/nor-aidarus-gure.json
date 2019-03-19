@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!526301!792366_AG32",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG792366",
+  "ENT_NAM": "NOR AIDARUS GURE",
+  "ENT_ADD": "63A Derby Road",
+  "ENT_TOW_CIT_RES": "Southampton",
+  "ENT_POS_COD": "SO14 0DJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!526301",
+  "DER_CHI_ENT_AUT": "Active"
+}

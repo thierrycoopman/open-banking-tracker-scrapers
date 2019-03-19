@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5971454350",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5971454350",
+  "ENT_NAM": "Pośrednictwo Finansowe Małgorzata Kudrewicz-Baryło",
+  "ENT_ADD": "Niepodległości 32, Barlinek, 74-320, PL",
+  "ENT_TOW_CIT_RES": "Barlinek",
+  "ENT_POS_COD": "74-320",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-06-01"
+  ]
+}

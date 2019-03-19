@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!596703_AG195",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG596703",
+  "ENT_NAM": "T&C Multiservice Di Conte Assunta",
+  "ENT_ADD": "VIA G. VERDI 30",
+  "ENT_TOW_CIT_RES": "SAN MARCELLINO",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

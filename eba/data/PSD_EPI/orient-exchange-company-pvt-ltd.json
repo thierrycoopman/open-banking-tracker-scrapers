@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!507159",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "507159",
+  "ENT_NAM": "Orient Exchange Company PVT Ltd",
+  "ENT_NAM_COM": "Orient Exchange Company PVT Ltd",
+  "ENT_ADD": [
+    "Orient Exchange Company PVT Ltd",
+    "Unit 5 The Observatory Shopping Centre"
+  ],
+  "ENT_TOW_CIT_RES": "Slough",
+  "ENT_POS_COD": "SL1 1LN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-01"
+  ]
+}

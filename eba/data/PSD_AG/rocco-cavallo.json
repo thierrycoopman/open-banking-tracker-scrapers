@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!825238_AG9793",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG825238",
+  "ENT_NAM": "Rocco Cavallo",
+  "ENT_ADD": "Viale Europa 47 A",
+  "ENT_TOW_CIT_RES": "San Vito Dei Normanni",
+  "ENT_POS_COD": "72019",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

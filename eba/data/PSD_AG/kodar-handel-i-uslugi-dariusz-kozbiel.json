@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!874",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "874",
+  "ENT_NAM": "KODAR - HANDEL I USŁUGI DARIUSZ KOŹBIEL",
+  "ENT_ADD": "Jatwieź Duża 22, Suchowola, 16-150, PL",
+  "ENT_TOW_CIT_RES": "Suchowola",
+  "ENT_POS_COD": "16-150",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

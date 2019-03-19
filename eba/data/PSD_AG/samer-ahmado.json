@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!770820_AG6014",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG770820",
+  "ENT_NAM": "Samer Ahmado",
+  "ENT_ADD": "Fredsgatan 11 B",
+  "ENT_TOW_CIT_RES": "Avesta",
+  "ENT_POS_COD": "77440",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

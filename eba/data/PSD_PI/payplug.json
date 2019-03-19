@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!60246",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "751658881",
+  "ENT_NAM": "PAYPLUG",
+  "ENT_NAM_COM": "PayPlug",
+  "ENT_ADD": "23-25 rue Jean-Jacques Rousseau",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75001",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2016-10-24"
+  ]
+}

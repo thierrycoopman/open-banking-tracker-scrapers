@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!581992",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "581992",
+  "ENT_NAM": "Integral FX LLP",
+  "ENT_NAM_COM": "Aston Currency Management",
+  "ENT_ADD": "18 Savile Row",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W1S 3PW",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2013-01-02"
+  ]
+}

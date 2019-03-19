@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!50",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "50",
+  "ENT_NAM": "2M CAR SERWIS MACIEJ SOBOLEWSKI",
+  "ENT_ADD": "Nieszawska 5/lok. 55, Warszawa, 03-382, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "03-382",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

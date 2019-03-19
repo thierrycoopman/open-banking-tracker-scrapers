@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57257",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "441532728",
+  "ENT_NAM": "Mme CARON Claudine",
+  "ENT_ADD": "19 rue de la République",
+  "ENT_TOW_CIT_RES": "RUFFEC",
+  "ENT_POS_COD": "16700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

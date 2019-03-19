@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!71636",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "348339524",
+  "ENT_NAM": "M. COULAVIN Jean-François",
+  "ENT_ADD": "17 avenue du Maréchal Leclerc",
+  "ENT_TOW_CIT_RES": "ANNEMASSE",
+  "ENT_POS_COD": "74100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

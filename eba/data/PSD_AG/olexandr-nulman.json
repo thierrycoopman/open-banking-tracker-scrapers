@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!646785_AG3555",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG646785",
+  "ENT_NAM": "Olexandr Nulman",
+  "ENT_ADD": "Rendsburger Strasse 3",
+  "ENT_TOW_CIT_RES": "Neumuenster",
+  "ENT_POS_COD": "2453 4",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

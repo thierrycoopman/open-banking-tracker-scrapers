@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66486",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "533373015",
+  "ENT_NAM": "M. FAVREAU Mickaël",
+  "ENT_ADD": "2 Place de la Mairie",
+  "ENT_TOW_CIT_RES": "TREVE",
+  "ENT_POS_COD": "22600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

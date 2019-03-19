@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!692110_AG4130",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG692110",
+  "ENT_NAM": "The Vihn Tang",
+  "ENT_ADD": "9 � 11 Avenue Du General Pierre Billotte",
+  "ENT_TOW_CIT_RES": "Creteil",
+  "ENT_POS_COD": "940 00",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

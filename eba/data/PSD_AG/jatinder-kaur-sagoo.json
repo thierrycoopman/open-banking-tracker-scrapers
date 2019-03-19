@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!695198_AG4147",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG695198",
+  "ENT_NAM": "Jatinder Kaur Sagoo",
+  "ENT_ADD": "Parkvej 1",
+  "ENT_TOW_CIT_RES": "Slangerup",
+  "ENT_POS_COD": "35 50",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

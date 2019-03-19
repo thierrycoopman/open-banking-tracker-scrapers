@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70425",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "800790552",
+  "ENT_NAM": "HELS",
+  "ENT_ADD": "712 Route d'Orange",
+  "ENT_TOW_CIT_RES": "SORGUES",
+  "ENT_POS_COD": "84700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

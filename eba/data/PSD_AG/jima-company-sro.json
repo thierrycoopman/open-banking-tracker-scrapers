@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!05035996",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "05035996",
+  "ENT_NAM": "JIMA company s.r.o.",
+  "ENT_ADD": "Karla Dvořáčka 1224",
+  "ENT_TOW_CIT_RES": "Orlová",
+  "ENT_POS_COD": "73514",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

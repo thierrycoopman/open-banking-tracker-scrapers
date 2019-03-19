@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!825322_AG9827",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG825322",
+  "ENT_NAM": "Nishi Kamlesh Patel And Hasmukhbhai Manibhai Patel",
+  "ENT_ADD": "86 Wandsworth High Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW18 4LB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

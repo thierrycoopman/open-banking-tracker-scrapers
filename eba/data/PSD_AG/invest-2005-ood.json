@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!126653881",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "126653881",
+  "ENT_NAM": [
+    "Инвест 2005 ООД",
+    "Invest 2005 OOD"
+  ],
+  "ENT_ADD": "151 Bulgaria str.",
+  "ENT_TOW_CIT_RES": "Svilengrad",
+  "ENT_POS_COD": "6500",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

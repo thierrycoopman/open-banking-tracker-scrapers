@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!148789",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "148789",
+  "ENT_NAM": "real,- Digital Payment & Technology Services GmbH",
+  "ENT_ADD": "Am Albertussee 1 | 40549 Düsseldorf",
+  "ENT_TOW_CIT_RES": "Düsseldorf",
+  "ENT_POS_COD": "40549",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-07-13"
+  ]
+}

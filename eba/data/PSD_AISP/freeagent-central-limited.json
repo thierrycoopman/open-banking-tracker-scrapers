@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!799763",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "799763",
+  "ENT_NAM": "FreeAgent Central Limited",
+  "ENT_ADD": [
+    "133 Fountainbridge",
+    "One Edinburgh Quay"
+  ],
+  "ENT_TOW_CIT_RES": "Edinburgh",
+  "ENT_POS_COD": "EH3 9QG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-07-20"
+  ]
+}

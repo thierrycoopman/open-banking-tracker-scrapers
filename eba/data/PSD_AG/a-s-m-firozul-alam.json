@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!759788_AG5541",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG759788",
+  "ENT_NAM": "A S M Firozul Alam",
+  "ENT_ADD": "Via Dante Alighieri 86",
+  "ENT_TOW_CIT_RES": "Rimini",
+  "ENT_POS_COD": "47921",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

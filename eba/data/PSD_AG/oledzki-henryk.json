@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5272606618!527",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "527",
+  "ENT_NAM": "Olędzki Henryk",
+  "ENT_ADD": "11 listopada 73, Ząbki, 05-091, PL",
+  "ENT_TOW_CIT_RES": "Ząbki",
+  "ENT_POS_COD": "05-091",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5272606618",
+  "DER_CHI_ENT_AUT": "Active"
+}

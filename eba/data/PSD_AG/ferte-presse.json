@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!777250_AG6333",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG777250",
+  "ENT_NAM": "Ferte Presse",
+  "ENT_ADD": "2 Place De L Hotel De Ville",
+  "ENT_TOW_CIT_RES": "La Ferte Sous Jouarre",
+  "ENT_POS_COD": "77260",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

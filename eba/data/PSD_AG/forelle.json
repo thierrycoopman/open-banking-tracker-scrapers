@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64206",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "442506671",
+  "ENT_NAM": "FORELLE",
+  "ENT_ADD": "36 avenue de la République",
+  "ENT_TOW_CIT_RES": "TOMBLAINE",
+  "ENT_POS_COD": "54510",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

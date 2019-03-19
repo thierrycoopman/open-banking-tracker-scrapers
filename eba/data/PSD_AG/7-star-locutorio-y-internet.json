@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!605666_AG254",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG605666",
+  "ENT_NAM": "7 Star Locutorio y Internet",
+  "ENT_ADD": [
+    "Sant Bol De Llobregat",
+    "Calle Raurich, 13 Loc-2"
+  ],
+  "ENT_TOW_CIT_RES": "Barcelona",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

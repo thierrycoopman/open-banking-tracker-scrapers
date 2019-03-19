@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6961276166!7",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7",
+  "ENT_NAM": "BON FINANSE Konrad Wójciak",
+  "ENT_ADD": "1-go Maja 11, Kowary, 58-530, PL",
+  "ENT_TOW_CIT_RES": "Kowary",
+  "ENT_POS_COD": "58-530",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6961276166",
+  "DER_CHI_ENT_AUT": "Active"
+}

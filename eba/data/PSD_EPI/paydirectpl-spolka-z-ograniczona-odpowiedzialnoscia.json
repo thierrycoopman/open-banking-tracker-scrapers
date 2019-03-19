@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9721112142",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9721112142",
+  "ENT_NAM": "\"PAYDIRECT.PL\" Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Piłsudskiego 33/308, Legionowo, 05-120, PL",
+  "ENT_TOW_CIT_RES": "Legionowo",
+  "ENT_POS_COD": "05-120",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-12"
+  ]
+}

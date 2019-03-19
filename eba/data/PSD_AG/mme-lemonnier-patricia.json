@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!59097",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "339053639",
+  "ENT_NAM": "Mme LEMONNIER Patricia",
+  "ENT_ADD": "13 boulevard Alsace Lorraine",
+  "ENT_TOW_CIT_RES": "COUTANCES",
+  "ENT_POS_COD": "50200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

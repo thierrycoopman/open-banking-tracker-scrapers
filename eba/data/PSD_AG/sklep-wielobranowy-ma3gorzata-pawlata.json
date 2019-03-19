@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3865",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3865",
+  "ENT_NAM": "Sklep Wielobran?owy Ma3gorzata Pawlata",
+  "ENT_ADD": "Orzeszkowej 3, Ocinawka Orednia, 57-410, PL",
+  "ENT_TOW_CIT_RES": "Ocinawka Orednia",
+  "ENT_POS_COD": "57-410",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

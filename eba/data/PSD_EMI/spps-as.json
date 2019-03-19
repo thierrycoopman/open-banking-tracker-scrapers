@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "SK_NBS",
+  "EntityCode": "PSD_EMI!SK_NBS!46552723",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "46552723",
+  "ENT_NAM": "SPPS, a.s.",
+  "ENT_ADD": "Nám. SNP 35",
+  "ENT_TOW_CIT_RES": "Bratislava",
+  "ENT_POS_COD": "81101",
+  "ENT_COU_RES": "SK",
+  "ENT_AUT": [
+    "2018-07-13"
+  ]
+}

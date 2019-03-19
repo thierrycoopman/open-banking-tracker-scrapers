@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2217",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2217",
+  "ENT_NAM": "Handel art. spoż, przem, chem i napojami chłodzącymi Edyta Gorczyńska",
+  "ENT_ADD": "Pruski 1A/8, Iłowo-Osada, 13-240, PL",
+  "ENT_TOW_CIT_RES": "Iłowo-Osada",
+  "ENT_POS_COD": "13-240",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

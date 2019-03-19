@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5981309394",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5981309394",
+  "ENT_NAM": "CASSO Daniel Ślusarczyk",
+  "ENT_ADD": "Stefana Wyszyńskiego 59/3, Zielona Góra, 65-536, PL",
+  "ENT_TOW_CIT_RES": "Zielona Góra",
+  "ENT_POS_COD": "65-536",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-12-04"
+  ]
+}

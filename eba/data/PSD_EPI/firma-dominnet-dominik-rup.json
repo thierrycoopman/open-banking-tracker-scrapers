@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8161474859",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8161474859",
+  "ENT_NAM": "Firma \"DOMINNET\" Dominik Rup",
+  "ENT_ADD": "Brzóza Królewska 660, Brzóza Królewska, 37-307, PL",
+  "ENT_TOW_CIT_RES": "Brzóza Królewska",
+  "ENT_POS_COD": "37-307",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-04-16"
+  ]
+}

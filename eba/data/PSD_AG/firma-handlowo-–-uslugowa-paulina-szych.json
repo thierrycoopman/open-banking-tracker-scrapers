@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!594",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "594",
+  "ENT_NAM": "Firma Handlowo – Usługowa Paulina Szych",
+  "ENT_ADD": "ul. Fabryczna - Kiosk  , Krotoszyn, 62-700, PL",
+  "ENT_TOW_CIT_RES": "Krotoszyn",
+  "ENT_POS_COD": "62-700",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

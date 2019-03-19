@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!578826_AG1483",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG578826",
+  "ENT_NAM": "Nneka Sarah Odili",
+  "ENT_ADD": "Oostergrachtswal 7",
+  "ENT_TOW_CIT_RES": "Leeuwarden",
+  "ENT_POS_COD": "892 1AA",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

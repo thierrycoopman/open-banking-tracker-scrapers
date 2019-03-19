@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5213738821",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "5213738821",
+  "ENT_NAM": "CARDINA spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Wołoska 5, Warszawa, 02-675, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-675",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-12-05"
+  ]
+}

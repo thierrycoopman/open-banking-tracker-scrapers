@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!301150206",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "301150206",
+  "ENT_NAM": "MOULAIDIS ILIAS",
+  "ENT_ADD": "KONITSA",
+  "ENT_TOW_CIT_RES": "KONITSA",
+  "ENT_POS_COD": "44100",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

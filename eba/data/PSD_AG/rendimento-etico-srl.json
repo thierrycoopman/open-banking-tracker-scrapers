@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!79543",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "MI - 2523582",
+  "ENT_NAM": "RENDIMENTO ETICO S.R.L.",
+  "ENT_ADD": "VIA FABIO FILZI",
+  "ENT_TOW_CIT_RES": "MILANO 27 CAP 20124",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!580926_AG1570",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG580926",
+  "ENT_NAM": "Artur Wronka",
+  "ENT_ADD": "Naruszewo 65",
+  "ENT_TOW_CIT_RES": "Naruszewo",
+  "ENT_POS_COD": "0915 2",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

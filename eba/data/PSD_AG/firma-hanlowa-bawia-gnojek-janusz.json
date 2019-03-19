@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3352",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3352",
+  "ENT_NAM": "Firma Hanlowa \"Bawia\" Gnojek Janusz",
+  "ENT_ADD": "Stanisław Dolny 477, Kalwaria Zebrzydowska, 34-130, PL",
+  "ENT_TOW_CIT_RES": "Kalwaria Zebrzydowska",
+  "ENT_POS_COD": "34-130",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

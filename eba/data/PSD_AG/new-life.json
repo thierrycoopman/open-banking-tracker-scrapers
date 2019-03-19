@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63193",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "792563736",
+  "ENT_NAM": "NEW LIFE",
+  "ENT_ADD": "45B Rue Désiré Barquisseau",
+  "ENT_TOW_CIT_RES": "ST PIERRE",
+  "ENT_POS_COD": "97410",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

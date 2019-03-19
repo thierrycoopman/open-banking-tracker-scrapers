@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!763233_AG1541",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG763233",
+  "ENT_NAM": "Bilal Ahmed",
+  "ENT_ADD": [
+    "Grange Park",
+    "2 Wilks Walk",
+    "Unit"
+  ],
+  "ENT_TOW_CIT_RES": "Northampton",
+  "ENT_POS_COD": "NN4 5DW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

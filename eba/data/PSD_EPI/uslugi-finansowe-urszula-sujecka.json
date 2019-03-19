@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7691220095",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7691220095",
+  "ENT_NAM": "USŁUGI FINANSOWE URSZULA SUJECKA",
+  "ENT_ADD": "Al. K.K. Wyszyńkiego 15, Bełchatów, 97-400, PL",
+  "ENT_TOW_CIT_RES": "Bełchatów",
+  "ENT_POS_COD": "97-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-11",
+    "2019-02-08"
+  ]
+}

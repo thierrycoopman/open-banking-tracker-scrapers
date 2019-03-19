@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70049",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "808444004",
+  "ENT_NAM": "LE TABAC D'EVA",
+  "ENT_ADD": "43 Grande Rue",
+  "ENT_TOW_CIT_RES": "ARPAJON",
+  "ENT_POS_COD": "91290",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

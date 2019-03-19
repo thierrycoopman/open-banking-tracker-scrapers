@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!200772908",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200772908",
+  "ENT_NAM": [
+    "МСМ Комерс 09 ЕООД",
+    "MSM Komers 09 EOOD"
+  ],
+  "ENT_ADD": "22 Oborishte str.",
+  "ENT_TOW_CIT_RES": "Veliki Preslav",
+  "ENT_POS_COD": "9900",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

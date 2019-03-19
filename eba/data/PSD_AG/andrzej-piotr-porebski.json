@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!593364!654554_AG10",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG654554",
+  "ENT_NAM": "Andrzej Piotr Porebski",
+  "ENT_ADD": [
+    "Sandringham Road",
+    "52-54"
+  ],
+  "ENT_TOW_CIT_RES": "Doncaster",
+  "ENT_POS_COD": "DN2 5HZ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!593364",
+  "DER_CHI_ENT_AUT": "Active"
+}

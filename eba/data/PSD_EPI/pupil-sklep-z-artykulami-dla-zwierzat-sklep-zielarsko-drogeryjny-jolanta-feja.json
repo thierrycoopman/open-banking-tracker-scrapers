@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!1250638170",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "1250638170",
+  "ENT_NAM": "PUPIL - Sklep z artykułami dla zwierząt Sklep zielarsko - drogeryjny - Jolanta Feja",
+  "ENT_ADD": "Al. Armii Krajowej 28C, Wołomin, 05-200, PL",
+  "ENT_TOW_CIT_RES": "Wołomin",
+  "ENT_POS_COD": "05-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-06"
+  ]
+}

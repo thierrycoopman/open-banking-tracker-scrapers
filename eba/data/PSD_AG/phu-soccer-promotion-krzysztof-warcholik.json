@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!882",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "882",
+  "ENT_NAM": "PHU SOCCER PROMOTION Krzysztof Warcholik",
+  "ENT_ADD": "Franciszka Rzeźniczaka 9G/lok. 3, Zielona Góra, 65-119, PL",
+  "ENT_TOW_CIT_RES": "Zielona Góra",
+  "ENT_POS_COD": "65-119",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

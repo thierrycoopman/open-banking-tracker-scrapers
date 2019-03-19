@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1140",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1140",
+  "ENT_NAM": "NOWAK DANUTA Pośrednictwo Finansowo - Ubezpieczeniowe",
+  "ENT_ADD": "Strzyżów 57, Drzewica, 26-340, PL",
+  "ENT_TOW_CIT_RES": "Drzewica",
+  "ENT_POS_COD": "26-340",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

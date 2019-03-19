@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!792551",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "792551",
+  "ENT_NAM": "Tamsey Financial Services Ltd",
+  "ENT_ADD": [
+    "2 Plover House",
+    "Capstan Drive"
+  ],
+  "ENT_TOW_CIT_RES": "Rainham",
+  "ENT_POS_COD": "RM13 9JF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-02-09"
+  ]
+}

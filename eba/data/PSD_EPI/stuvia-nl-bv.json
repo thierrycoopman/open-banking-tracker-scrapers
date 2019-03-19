@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R149005",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R149005",
+  "ENT_NAM": "Stuvia NL B.V. ",
+  "ENT_ADD": "Overtoom 141 - 4",
+  "ENT_TOW_CIT_RES": "AMSTERDAM",
+  "ENT_POS_COD": "1054 HG",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

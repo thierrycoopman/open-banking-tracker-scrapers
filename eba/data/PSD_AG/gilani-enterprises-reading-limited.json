@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!806498_AG675",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG806498",
+  "ENT_NAM": "Gilani Enterprises (Reading) Limited",
+  "ENT_ADD": "75 Wokingham Road",
+  "ENT_TOW_CIT_RES": "Reading",
+  "ENT_POS_COD": "RG6 1LJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

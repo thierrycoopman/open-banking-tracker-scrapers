@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7371803932",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7371803932",
+  "ENT_NAM": "INKASENT Janusz Chmielecki",
+  "ENT_ADD": "Kopalniana 18/11, Ruda Śląska, 41-705, PL",
+  "ENT_TOW_CIT_RES": "Ruda Śląska",
+  "ENT_POS_COD": "41-705",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-12-23"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!SYS",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "C51532",
+  "ENT_NAM": "SYSPAY Limited",
+  "ENT_NAM_COM": "SYSPAY Limited",
+  "ENT_ADD": "54, Sir Luigi Camilleri Street",
+  "ENT_TOW_CIT_RES": "Sliema",
+  "ENT_POS_COD": "SLM 1840",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2011-10-24"
+  ]
+}

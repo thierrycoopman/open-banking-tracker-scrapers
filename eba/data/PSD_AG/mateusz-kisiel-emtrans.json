@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!142",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "142",
+  "ENT_NAM": "Mateusz Kisiel \"Emtrans\"",
+  "ENT_ADD": "Rynek  15, Koszyce, 32-130, PL",
+  "ENT_TOW_CIT_RES": "Koszyce",
+  "ENT_POS_COD": "32-130",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}

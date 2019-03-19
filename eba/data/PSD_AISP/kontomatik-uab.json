@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "PSD_AIS_LT_LT_BL_304852516",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "304852516",
+  "ENT_NAM": "\"Kontomatik\", UAB",
+  "ENT_ADD": "Upės str. 23",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "08128",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2018-12-17"
+  ]
+}

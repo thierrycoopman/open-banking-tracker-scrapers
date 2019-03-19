@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!047052491",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "047052491",
+  "ENT_NAM": "BANAKAS THOMAS",
+  "ENT_ADD": "CH. TRIKOUPI Str.",
+  "ENT_TOW_CIT_RES": "MATARAGKA",
+  "ENT_POS_COD": "30011",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

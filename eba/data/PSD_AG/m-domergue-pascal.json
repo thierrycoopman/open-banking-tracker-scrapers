@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62827",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "481807659",
+  "ENT_NAM": "M. DOMERGUE Pascal",
+  "ENT_ADD": [
+    "Rue du Grand Launay ",
+    "Centre commercial"
+  ],
+  "ENT_TOW_CIT_RES": "ANGERS",
+  "ENT_POS_COD": "49000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

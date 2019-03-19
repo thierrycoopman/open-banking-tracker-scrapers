@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533178!626770_AG1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG626770",
+  "ENT_NAM": "Quinto Finance",
+  "ENT_ADD": "41 Mukusalas Street",
+  "ENT_TOW_CIT_RES": "Riga,",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "LV",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533178",
+  "DER_CHI_ENT_AUT": "Active"
+}

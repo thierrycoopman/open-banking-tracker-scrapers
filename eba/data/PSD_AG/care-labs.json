@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_EMI!FR_ACPR!9950!65649",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "802966101",
+  "ENT_NAM": "CARE LABS",
+  "ENT_ADD": [
+    "Rond point Benjamin Franklin",
+    "CS 39521 Cap Oméga"
+  ],
+  "ENT_TOW_CIT_RES": "MONTPELLIER",
+  "ENT_POS_COD": "34000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!9950",
+  "DER_CHI_ENT_AUT": "Active"
+}

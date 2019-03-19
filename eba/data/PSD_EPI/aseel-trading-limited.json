@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!756669",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "756669",
+  "ENT_NAM": "Aseel Trading Limited",
+  "ENT_ADD": "410 Edgware Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W2 1ED",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-09-23"
+  ]
+}

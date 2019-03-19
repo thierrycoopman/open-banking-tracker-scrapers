@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203374927",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203374927",
+  "ENT_NAM": [
+    "Алекс - 008 ЕООД",
+    "Alex - 008 EOOD"
+  ],
+  "ENT_ADD": "7 Temenuga str.",
+  "ENT_TOW_CIT_RES": "Gorno Sahrene village",
+  "ENT_POS_COD": "6151",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

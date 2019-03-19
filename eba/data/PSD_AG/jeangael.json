@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!71643",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "803440023",
+  "ENT_NAM": "JEANGAEL",
+  "ENT_ADD": "52 rue Victor Eusen",
+  "ENT_TOW_CIT_RES": "BREST",
+  "ENT_POS_COD": "29200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

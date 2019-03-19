@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!13284",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "455500868",
+  "ENT_NAM": "Crédit financier lillois",
+  "ENT_NAM_COM": "PI Commercial Name (Not Specified)",
+  "ENT_ADD": "25 allee Vauban",
+  "ENT_TOW_CIT_RES": "LA MADELEINE",
+  "ENT_POS_COD": "59110",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2016-11-14"
+  ]
+}

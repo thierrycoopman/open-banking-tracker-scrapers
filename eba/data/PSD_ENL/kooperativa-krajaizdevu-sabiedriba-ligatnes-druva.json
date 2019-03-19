@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!29",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "40003317571",
+  "ENT_NAM": "Kooperatīvā krājaizdevu sabiedrība \"LĪGATNES DRUVA\"",
+  "ENT_NAM_COM": "LĪGATNES DRUVA",
+  "ENT_ADD": "Nītaures iela 6",
+  "ENT_TOW_CIT_RES": "Augšlīgatne, Līgatnes pag., Līgatnes nov",
+  "ENT_POS_COD": "LV-4108",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2000-10-24"
+  ]
+}

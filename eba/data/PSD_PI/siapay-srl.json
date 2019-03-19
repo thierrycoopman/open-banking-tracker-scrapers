@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!6556440961",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "6556440961",
+  "ENT_NAM": "SIAPAY S.R.L.",
+  "ENT_NAM_COM": "SIAPAY S.R.L.",
+  "ENT_ADD": "VIA FRANCESCO GONIN 36",
+  "ENT_TOW_CIT_RES": "MILANO",
+  "ENT_POS_COD": "20147",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

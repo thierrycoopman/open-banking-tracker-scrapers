@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!616315",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "616315",
+  "ENT_NAM": "Attijariwafa Limited",
+  "ENT_ADD": "95-95A Praed Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W2 1NT",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-01-19"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1917",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1917",
+  "ENT_NAM": "SKLEP SPOŻYWCZO-PRZEMYSŁOWY MAGDALENKA MAŁGORZATA DENIS",
+  "ENT_ADD": "Leśniczówka 8, Mordy, 08-140, PL",
+  "ENT_TOW_CIT_RES": "Mordy",
+  "ENT_POS_COD": "08-140",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

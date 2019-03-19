@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5791091549",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5791091549",
+  "ENT_NAM": "Agencja Finansowa \"Magnat\" Piotr Kropidłowski",
+  "ENT_ADD": "Henryka Sienkiewicza 26, Malbork, 82-200, PL",
+  "ENT_TOW_CIT_RES": "Malbork",
+  "ENT_POS_COD": "82-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-11-22"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!543412!514130_AG4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG514130",
+  "ENT_NAM": "Bareeze Limited",
+  "ENT_ADD": [
+    "Whalley Range",
+    "2 Woodside Road"
+  ],
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M16 0BT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!543412",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

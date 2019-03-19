@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!731883_AG156",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG731883",
+  "ENT_NAM": "TAIBA MOSQUE COMPLEX LTD",
+  "ENT_ADD": "30 Willoughby Road Turnpike lane",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "N8 0lj",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

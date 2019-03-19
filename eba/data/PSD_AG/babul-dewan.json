@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!552779_AG66",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG552779",
+  "ENT_NAM": "Babul Dewan",
+  "ENT_ADD": "VIA  AMARI MICHELE  8",
+  "ENT_TOW_CIT_RES": "Roma",
+  "ENT_POS_COD": "00179",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

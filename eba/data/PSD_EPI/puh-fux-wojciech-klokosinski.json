@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7531576707",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7531576707",
+  "ENT_NAM": "P.U.H. FUX Wojciech Kłokosiński",
+  "ENT_ADD": "Wyzwolenia 11, Korfantów, 48-317, PL",
+  "ENT_TOW_CIT_RES": "Korfantów",
+  "ENT_POS_COD": "48-317",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-12-18"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!72477",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "MI - 2022278/ 08 378490968",
+  "ENT_NAM": "FOLKFUNDING S.R.L",
+  "ENT_ADD": "Via Stefanardo da Vimercate, 28",
+  "ENT_TOW_CIT_RES": "20128 MILANO",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

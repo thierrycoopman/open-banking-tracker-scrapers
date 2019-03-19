@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!599678!627988_AG59",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG627988",
+  "ENT_NAM": "H&F SRL",
+  "ENT_ADD": "Via Elena Berrutti 9",
+  "ENT_TOW_CIT_RES": "Prato",
+  "ENT_POS_COD": "591 00",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!599678",
+  "DER_CHI_ENT_AUT": "Active"
+}

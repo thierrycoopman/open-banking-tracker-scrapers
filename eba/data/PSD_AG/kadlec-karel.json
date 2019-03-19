@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!15375676",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "15375676",
+  "ENT_NAM": "Kadlec Karel",
+  "ENT_ADD": "Antonína Pacovského 301",
+  "ENT_TOW_CIT_RES": "Žebrák",
+  "ENT_POS_COD": "26753",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

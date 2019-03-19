@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6431016339",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6431016339",
+  "ENT_NAM": "Grażyna Oborska",
+  "ENT_ADD": "Tysiąclecia 56, Dąbrowa Górnicza, 41-303, PL",
+  "ENT_TOW_CIT_RES": "Dąbrowa Górnicza",
+  "ENT_POS_COD": "41-303",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-12-21"
+  ]
+}

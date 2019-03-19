@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77759",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "751305004",
+  "ENT_NAM": "Mme GUIGNARD Catherine",
+  "ENT_ADD": " 8 Avenue Pasteur",
+  "ENT_TOW_CIT_RES": "LUCQUY",
+  "ENT_POS_COD": "08300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

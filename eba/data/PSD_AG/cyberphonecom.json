@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!507001!796846_AG91",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG796846",
+  "ENT_NAM": "CYBERPHONE.COM",
+  "ENT_ADD": "16 Rue Paul Pamard",
+  "ENT_TOW_CIT_RES": "Avignon",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!507001",
+  "DER_CHI_ENT_AUT": "Active"
+}

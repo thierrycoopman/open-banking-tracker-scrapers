@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!823867_AG541",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG823867",
+  "ENT_NAM": "M Murshed Kamal Khan",
+  "ENT_ADD": [
+    "Lisbon",
+    "Portugal",
+    "Calcada Do carmo 63LJ"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "1200090",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

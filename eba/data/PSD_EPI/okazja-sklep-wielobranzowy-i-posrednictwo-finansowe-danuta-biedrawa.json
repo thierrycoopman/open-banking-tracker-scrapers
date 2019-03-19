@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6811282202",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6811282202",
+  "ENT_NAM": "\"OKAZJA\" - Sklep Wielobranżowy i Pośrednictwo Finansowe Danuta Biedrawa",
+  "ENT_ADD": "3 Maja 4, Maków Podhalański, 34-220, PL",
+  "ENT_TOW_CIT_RES": "Maków Podhalański",
+  "ENT_POS_COD": "34-220",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-09-10",
+    "2019-01-30"
+  ]
+}

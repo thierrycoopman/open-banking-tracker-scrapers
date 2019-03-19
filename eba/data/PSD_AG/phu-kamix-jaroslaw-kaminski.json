@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!730",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "730",
+  "ENT_NAM": "PHU \"Kamix\" Jarosław Kamiński",
+  "ENT_ADD": "Konopnickiej 34, Modrzyca, 67-106, PL",
+  "ENT_TOW_CIT_RES": "Modrzyca",
+  "ENT_POS_COD": "67-106",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

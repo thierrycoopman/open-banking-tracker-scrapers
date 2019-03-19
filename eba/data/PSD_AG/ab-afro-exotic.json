@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!748021_AG5168",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG748021",
+  "ENT_NAM": "Ab Afro Exotic",
+  "ENT_ADD": "Rosenborgsgatan 31",
+  "ENT_TOW_CIT_RES": "Huskvarna",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

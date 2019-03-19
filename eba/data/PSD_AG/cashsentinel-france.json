@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_EMI!FR_ACPR!9950!67359",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "817634637",
+  "ENT_NAM": "CashSentinel France",
+  "ENT_ADD": "21 Place de la République",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75003",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!9950",
+  "DER_CHI_ENT_AUT": "Active"
+}

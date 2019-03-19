@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!260",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "260",
+  "ENT_NAM": "SKLEP WIELOBRAN—OWY \" SEZAM\"",
+  "ENT_ADD": "Warszawska 28, Debe Wielkie, 05-311, PL",
+  "ENT_TOW_CIT_RES": "Debe Wielkie",
+  "ENT_POS_COD": "05-311",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+}

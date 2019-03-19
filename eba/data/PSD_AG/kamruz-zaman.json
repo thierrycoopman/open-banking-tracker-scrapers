@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!804999_AG467",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG804999",
+  "ENT_NAM": "Kamruz Zaman",
+  "ENT_ADD": "74-77 Magdalen Road",
+  "ENT_TOW_CIT_RES": "Oxford",
+  "ENT_POS_COD": "OX4 1RB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

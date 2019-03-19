@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9690052254",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9690052254",
+  "ENT_NAM": "Firma Usługowa Start Andrzej Jankowski",
+  "ENT_ADD": "Szopena 1, Pyskowice, 44-120, PL",
+  "ENT_TOW_CIT_RES": "Pyskowice",
+  "ENT_POS_COD": "44-120",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-30"
+  ]
+}

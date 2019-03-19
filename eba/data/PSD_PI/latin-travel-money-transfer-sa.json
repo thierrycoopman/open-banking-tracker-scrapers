@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "ES_BE",
+  "EntityCode": "ES_BE!6834",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "6834",
+  "ENT_NAM": "LATIN TRAVEL MONEY TRANSFER, S.A.",
+  "ENT_ADD": "CL JUAN PANTOJA 19 ",
+  "ENT_TOW_CIT_RES": "MADRID",
+  "ENT_POS_COD": "28039",
+  "ENT_COU_RES": "ES",
+  "ENT_AUT": [
+    "2019-03-15"
+  ]
+}

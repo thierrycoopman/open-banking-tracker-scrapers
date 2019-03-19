@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5511386871",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5511386871",
+  "ENT_NAM": "CASH POINT Janina Wojtyła",
+  "ENT_ADD": "Krakowska 140A, Andrychów, 34-120, PL",
+  "ENT_TOW_CIT_RES": "Andrychów",
+  "ENT_POS_COD": "34-120",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-04-24",
+    "2018-10-02"
+  ]
+}

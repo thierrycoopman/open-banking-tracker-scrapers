@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1224",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1224",
+  "ENT_NAM": "Marek Rudnicki Przedsiębiorstwo Handlowo-Usługowe \"MAREK\"",
+  "ENT_ADD": "Derewiczna 27, Komarówka Podlaska, 21-311, PL",
+  "ENT_TOW_CIT_RES": "Komarówka Podlaska",
+  "ENT_POS_COD": "21-311",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

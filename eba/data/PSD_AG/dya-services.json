@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!793111_AG7167",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG793111",
+  "ENT_NAM": "Dya Services",
+  "ENT_ADD": "47 Avenue De La Californie",
+  "ENT_TOW_CIT_RES": "Nice",
+  "ENT_POS_COD": "06200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

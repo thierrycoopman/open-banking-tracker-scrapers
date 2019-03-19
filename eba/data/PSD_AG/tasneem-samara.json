@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!795217_AG7261",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG795217",
+  "ENT_NAM": "Tasneem Samara",
+  "ENT_ADD": [
+    "Friedrich Ebert Strasse 19",
+    "Moenchengladbach"
+  ],
+  "ENT_TOW_CIT_RES": "Nordrhein Westfalen",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

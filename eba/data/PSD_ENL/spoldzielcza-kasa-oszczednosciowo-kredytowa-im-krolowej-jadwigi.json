@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6751001316",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "6751001316",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Królowej Jadwigi",
+  "ENT_ADD": "Al. Jana Pawła II 190, Kraków, 31-982, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "31-982",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-06"
+  ]
+}

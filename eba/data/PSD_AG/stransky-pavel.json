@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!40641813",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "40641813",
+  "ENT_NAM": "Stránský Pavel",
+  "ENT_ADD": "Za skalkou 631/21",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "14700",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

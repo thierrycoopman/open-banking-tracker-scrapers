@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3778",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3778",
+  "ENT_NAM": "ANGELIKA LYSZCZARZ",
+  "ENT_ADD": "Podleska 8A, Miko3ów, 43-190, PL",
+  "ENT_TOW_CIT_RES": "Miko3ów",
+  "ENT_POS_COD": "43-190",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

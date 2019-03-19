@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!25458302",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "25458302",
+  "ENT_NAM": "CENTROPOL ENERGY, a.s. ",
+  "ENT_ADD": "Vaníčkova 1594/1",
+  "ENT_TOW_CIT_RES": "Ústí nad Labem",
+  "ENT_POS_COD": "40001",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2014-12-30"
+  ]
+}

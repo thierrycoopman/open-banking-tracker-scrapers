@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_EPI!CZ_CNB!24803316!01440632",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "01440632",
+  "ENT_NAM": "Europa Viza Consulting s.r.o.",
+  "ENT_ADD": "Pavla Švandy ze Semčic 580/10",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "15000",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!24803316",
+  "DER_CHI_ENT_AUT": "Active"
+}

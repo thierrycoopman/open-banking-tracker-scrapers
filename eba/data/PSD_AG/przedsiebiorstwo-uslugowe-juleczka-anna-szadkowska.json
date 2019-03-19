@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!65",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "65",
+  "ENT_NAM": "Przedsiębiorstwo Usługowe \"Juleczka\" Anna Szadkowska",
+  "ENT_ADD": "Stanisława Wigury 30A lok. 9, Łódź, 90-319, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "90-319",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

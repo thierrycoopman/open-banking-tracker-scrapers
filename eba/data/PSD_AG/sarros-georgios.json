@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094438857!067650470",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "067650470",
+  "ENT_NAM": "SARROS GEORGIOS",
+  "ENT_ADD": "5th MAIOU Str.",
+  "ENT_TOW_CIT_RES": "SKALA",
+  "ENT_POS_COD": "23051",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094438857",
+  "DER_CHI_ENT_AUT": "Active"
+}

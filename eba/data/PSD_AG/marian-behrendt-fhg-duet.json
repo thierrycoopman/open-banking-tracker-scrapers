@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3577",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3577",
+  "ENT_NAM": "MARIAN BEHRENDT - F.H.G. \"DUET\"",
+  "ENT_ADD": "KORNATOWO 26A, LISEWO, 86-230, PL",
+  "ENT_TOW_CIT_RES": "LISEWO",
+  "ENT_POS_COD": "86-230",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

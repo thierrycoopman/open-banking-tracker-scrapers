@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6504",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6504",
+  "ENT_NAM": "PAWEŁ SZCZESIK",
+  "ENT_ADD": "WILEŃSKA 47, PABIANICE, 95-200, PL",
+  "ENT_TOW_CIT_RES": "PABIANICE",
+  "ENT_POS_COD": "95-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

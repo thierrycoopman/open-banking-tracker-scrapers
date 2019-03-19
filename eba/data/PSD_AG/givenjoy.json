@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!73523",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "817972979",
+  "ENT_NAM": "GIVE'N'JOY",
+  "ENT_ADD": "3 rue de la 1ère armée ",
+  "ENT_TOW_CIT_RES": "WATTWILLER",
+  "ENT_POS_COD": "68700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

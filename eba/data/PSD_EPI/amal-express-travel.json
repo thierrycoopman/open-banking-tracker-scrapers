@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!21113",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "28226144 ",
+  "ENT_NAM": "Amal Express Travel",
+  "ENT_ADD": "Griffenfeldsgade 5, st",
+  "ENT_TOW_CIT_RES": "Copenhagen N",
+  "ENT_POS_COD": "2200",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2011-09-02"
+  ]
+}

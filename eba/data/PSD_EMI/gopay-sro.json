@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!26046768",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "26046768",
+  "ENT_NAM": "GOPAY s.r.o. ",
+  "ENT_ADD": "č.p. 67",
+  "ENT_TOW_CIT_RES": "Planá",
+  "ENT_POS_COD": "37001",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2012-11-23"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8270017256",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8270017256",
+  "ENT_NAM": "F.H.U. Grzegorz Gładysz",
+  "ENT_ADD": "Targowa 8/26, Sieradz, 98-200, PL",
+  "ENT_TOW_CIT_RES": "Sieradz",
+  "ENT_POS_COD": "98-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-01-09"
+  ]
+}

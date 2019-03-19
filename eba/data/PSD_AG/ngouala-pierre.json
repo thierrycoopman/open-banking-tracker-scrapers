@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!550751_AG922",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG550751",
+  "ENT_NAM": "N'GOUALA PIERRE",
+  "ENT_ADD": "2 ter RUE SPITALIERI 06000 NICE Alpes-maritimes",
+  "ENT_TOW_CIT_RES": "Nice",
+  "ENT_POS_COD": "06 000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

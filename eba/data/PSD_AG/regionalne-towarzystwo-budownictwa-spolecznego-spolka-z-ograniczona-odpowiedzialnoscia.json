@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2337",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2337",
+  "ENT_NAM": "Regionalne Towarzystwo Budownictwa Społecznego Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Rzeźnicza 1, Lubin, 59-300, PL",
+  "ENT_TOW_CIT_RES": "Lubin",
+  "ENT_POS_COD": "59-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

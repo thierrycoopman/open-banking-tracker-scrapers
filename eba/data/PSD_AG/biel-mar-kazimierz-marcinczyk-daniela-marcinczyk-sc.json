@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5716",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5716",
+  "ENT_NAM": "Biel-Mar Kazimierz Marcinczyk Daniela Marcinczyk s.c.",
+  "ENT_ADD": "Centaura 17, Gliwice, 44-117, PL",
+  "ENT_TOW_CIT_RES": "Gliwice",
+  "ENT_POS_COD": "44-117",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+"
+}

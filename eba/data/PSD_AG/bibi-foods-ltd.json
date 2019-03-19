@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!835684_AG10735",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG835684",
+  "ENT_NAM": "BiBi Foods Ltd",
+  "ENT_ADD": "51 Allan Crescent",
+  "ENT_TOW_CIT_RES": "Dunfermline",
+  "ENT_POS_COD": "KY11 4HE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

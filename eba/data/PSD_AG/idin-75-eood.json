@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202991701",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202991701",
+  "ENT_NAM": [
+    "Идин 75 ЕООД",
+    "Idin 75 EOOD"
+  ],
+  "ENT_ADD": "3 Bistritsa str.",
+  "ENT_TOW_CIT_RES": "Dolni chiflik ",
+  "ENT_POS_COD": "9120",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

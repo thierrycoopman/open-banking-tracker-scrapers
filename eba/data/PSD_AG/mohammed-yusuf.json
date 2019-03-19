@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!798279_AG547",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG798279",
+  "ENT_NAM": "Mohammed Yusuf",
+  "ENT_ADD": "334 Witton Road",
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B6 6PD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

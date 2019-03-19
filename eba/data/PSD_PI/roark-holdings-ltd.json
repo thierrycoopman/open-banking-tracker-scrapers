@@ -1,0 +1,23 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!782818",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "782818",
+  "ENT_NAM": "Roark Holdings Ltd",
+  "ENT_NAM_COM": [
+    "Pinwheel Pay",
+    "Pinwheel",
+    "Pinwheelpay"
+  ],
+  "ENT_ADD": [
+    "Medway City Estate",
+    "Spectrum Business Estate, Anthonys Way",
+    "Roark Holdings Ltd, Unit C7-C8"
+  ],
+  "ENT_TOW_CIT_RES": "Rochester",
+  "ENT_POS_COD": "ME2 4NP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-04-16"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!663369_AG3781",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG663369",
+  "ENT_NAM": "Ibrahima Ndiaye",
+  "ENT_ADD": "Via Salvo D Acquisto 8 Int 13",
+  "ENT_TOW_CIT_RES": "Porto Recanati",
+  "ENT_POS_COD": "62017",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

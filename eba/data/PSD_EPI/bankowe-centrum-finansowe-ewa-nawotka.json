@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5691000174",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5691000174",
+  "ENT_NAM": "Bankowe Centrum Finansowe Ewa Nawotka ",
+  "ENT_ADD": "Żwirki 16, Mława, 06-500, PL",
+  "ENT_TOW_CIT_RES": "Mława",
+  "ENT_POS_COD": "06-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-11-09"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13046!62121",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "523675924",
+  "ENT_NAM": "RAPID TELECOM",
+  "ENT_ADD": "17 Rue Labat ",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75018",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13046",
+  "DER_CHI_ENT_AUT": "Active"
+}

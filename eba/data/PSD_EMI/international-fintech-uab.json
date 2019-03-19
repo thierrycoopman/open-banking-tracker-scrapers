@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "LT_LT_BL_304409766",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "304409766",
+  "ENT_NAM": "International Fintech, UAB",
+  "ENT_ADD": "Jogailos str. 4",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "01116",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2016-11-29"
+  ]
+}

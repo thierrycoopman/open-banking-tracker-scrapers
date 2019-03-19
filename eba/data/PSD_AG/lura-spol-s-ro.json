@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!60850175",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "60850175",
+  "ENT_NAM": "LURA, spol. s r.o.",
+  "ENT_ADD": "Hraniční 2115",
+  "ENT_TOW_CIT_RES": "České Budějovice",
+  "ENT_POS_COD": "37006",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

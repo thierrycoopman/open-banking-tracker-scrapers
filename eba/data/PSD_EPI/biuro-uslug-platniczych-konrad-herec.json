@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6070082791",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6070082791",
+  "ENT_NAM": "Biuro Usług Płatniczych Konrad Hereć",
+  "ENT_ADD": "Kościelna 9D, Margonin, 64-830, PL",
+  "ENT_TOW_CIT_RES": "Margonin",
+  "ENT_POS_COD": "64-830",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-02-01"
+  ]
+}

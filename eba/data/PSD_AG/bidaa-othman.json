@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!510974_AG132",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG510974",
+  "ENT_NAM": "Bidaa Othman",
+  "ENT_ADD": "Porschestr 23",
+  "ENT_TOW_CIT_RES": "Wolfsburg",
+  "ENT_POS_COD": "38440",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

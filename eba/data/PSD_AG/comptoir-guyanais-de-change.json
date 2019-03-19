@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!66895",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "822713699",
+  "ENT_NAM": "COMPTOIR GUYANAIS DE CHANGE",
+  "ENT_ADD": "68 Avenue du Général de Gaulle",
+  "ENT_TOW_CIT_RES": "CAYENNE",
+  "ENT_POS_COD": "97300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

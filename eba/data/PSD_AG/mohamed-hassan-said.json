@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!524125_AG53",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG524125",
+  "ENT_NAM": "Mohamed Hassan Said",
+  "ENT_ADD": "272 Philip Lane",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "N15 4AD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

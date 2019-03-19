@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57337",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "420102295",
+  "ENT_NAM": "M. CORNU Jules",
+  "ENT_ADD": "639 boulevard Albert Schweitzer",
+  "ENT_TOW_CIT_RES": "HENIN BEAUMONT",
+  "ENT_POS_COD": "62110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

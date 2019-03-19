@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!250",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "250",
+  "ENT_NAM": "ELEMISZER Spó3ka z Ograniczon1 Odpowiedzialnooci1",
+  "ENT_ADD": "ul. Lagiewnicka 54/56C, Warszawa, 91-463, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "91-463",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

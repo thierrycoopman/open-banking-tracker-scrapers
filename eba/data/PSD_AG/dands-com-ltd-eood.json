@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202203752",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202203752",
+  "ENT_NAM": [
+    "Ди Ен СИ - КОМ ЕООД",
+    "D&S - COM LTD EOOD"
+  ],
+  "ENT_ADD": "zh.k. Lyulin, build. 513, entr. V, fl. 5, app. 84",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1359",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

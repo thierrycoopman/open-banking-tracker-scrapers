@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!879",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "879",
+  "ENT_NAM": "ZAKŁAD PIEKARNICZY W BODZENTYNIE WIĘCKOWSKI EMIL",
+  "ENT_ADD": "Turystyczna 29, Zagnańsk, 26-050, PL",
+  "ENT_TOW_CIT_RES": "Zagnańsk",
+  "ENT_POS_COD": "26-050",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

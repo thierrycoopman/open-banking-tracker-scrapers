@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!820399_AG9268",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG820399",
+  "ENT_NAM": "Let's Go Food And Wine Ltd",
+  "ENT_ADD": "133 High Street",
+  "ENT_TOW_CIT_RES": "Ruislip",
+  "ENT_POS_COD": "HA4 8JY",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

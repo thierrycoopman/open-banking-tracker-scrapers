@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3872",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3872",
+  "ENT_NAM": "\"Bonus\" El?bieta Piwowar, Szymon Mizga3a Spó3ka Cywilna",
+  "ENT_ADD": "Zabrzanska 68, Ruda Ol1ska, 41-700, PL",
+  "ENT_TOW_CIT_RES": "Ruda Ol1ska",
+  "ENT_POS_COD": "41-700",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

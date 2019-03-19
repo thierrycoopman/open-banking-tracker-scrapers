@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202611790",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202611790",
+  "ENT_NAM": [
+    "Елит Груп БГ ЕООД",
+    "Elit Grup BG EOOD"
+  ],
+  "ENT_ADD": "zh.k. Slaveykov, build. 15, entr. 8, fl. 7, app. 19",
+  "ENT_TOW_CIT_RES": "Burgas",
+  "ENT_POS_COD": "8000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

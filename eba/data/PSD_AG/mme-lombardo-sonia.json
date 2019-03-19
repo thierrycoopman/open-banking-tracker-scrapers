@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56671",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "492421433",
+  "ENT_NAM": "Mme LOMBARDO Sonia",
+  "ENT_ADD": [
+    "CHE DES QUILLES LES MARINES",
+    "DE SAINT CLAIR"
+  ],
+  "ENT_TOW_CIT_RES": "SETE",
+  "ENT_POS_COD": "34200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

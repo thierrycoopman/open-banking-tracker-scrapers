@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!8085",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8085",
+  "ENT_NAM": "Robert Szuliński",
+  "ENT_ADD": "Plac Wolności 9, Olecko, 19-400, PL",
+  "ENT_TOW_CIT_RES": "Olecko",
+  "ENT_POS_COD": "19-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

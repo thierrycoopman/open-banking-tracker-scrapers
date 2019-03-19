@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57077",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "478418510",
+  "ENT_NAM": "M. VREL Cyril",
+  "ENT_ADD": "15 rue Thiers",
+  "ENT_TOW_CIT_RES": "PONT AUDEMER",
+  "ENT_POS_COD": "27500",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

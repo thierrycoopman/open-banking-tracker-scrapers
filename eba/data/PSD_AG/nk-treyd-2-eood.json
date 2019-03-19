@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!202813481",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202813481",
+  "ENT_NAM": [
+    "НК Трейд 2 ЕООД",
+    "NK Treyd 2 EOOD"
+  ],
+  "ENT_ADD": "1 Knyaz Aleksandar Batenberg str.",
+  "ENT_TOW_CIT_RES": "Kazanlak",
+  "ENT_POS_COD": "6100",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,23 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!807377",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "807377",
+  "ENT_NAM": "BCB Payments Limited",
+  "ENT_NAM_COM": [
+    "BCB Group",
+    "BitcoinBro",
+    "BitcoinBro.com",
+    "BCBGroup.io"
+  ],
+  "ENT_ADD": [
+    "Level 39",
+    "One Canada Square"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E14 5AB",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-06-28"
+  ]
+}

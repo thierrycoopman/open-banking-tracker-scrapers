@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!750159_AG5216",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG750159",
+  "ENT_NAM": "Sathiyaseelan Arulseelan",
+  "ENT_ADD": "28 Old Church Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E4 8DD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

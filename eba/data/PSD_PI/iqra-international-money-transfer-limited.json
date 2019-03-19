@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!538435",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "538435",
+  "ENT_NAM": "Iqra International Money Transfer Limited",
+  "ENT_ADD": [
+    "Jubilee House",
+    "3 The Drive",
+    "Great Warley"
+  ],
+  "ENT_TOW_CIT_RES": "Brentwood",
+  "ENT_POS_COD": "CM13 3FR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-02-02"
+  ]
+}

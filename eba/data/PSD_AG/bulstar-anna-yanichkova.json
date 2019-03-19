@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!EL140726889",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "EL140726889",
+  "ENT_NAM": [
+    "Булстар - Анна Яничкова",
+    "Bulstar - Anna Yanichkova"
+  ],
+  "ENT_ADD": "Votsi Street 2",
+  "ENT_TOW_CIT_RES": "Patra",
+  "ENT_POS_COD": "26221",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

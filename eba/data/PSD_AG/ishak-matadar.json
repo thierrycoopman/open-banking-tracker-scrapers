@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!810557_AG8446",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG810557",
+  "ENT_NAM": "Ishak Matadar",
+  "ENT_ADD": "303  305 Blackburn Road",
+  "ENT_TOW_CIT_RES": "Bolton",
+  "ENT_POS_COD": "BL1 8HB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

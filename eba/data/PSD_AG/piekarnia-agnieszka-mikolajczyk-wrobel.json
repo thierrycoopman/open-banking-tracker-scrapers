@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1130",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1130",
+  "ENT_NAM": "\"Piekarnia\" Agnieszka Mikołajczyk-Wróbel",
+  "ENT_ADD": "Ząbkowska 28, Marki, 05-270, PL",
+  "ENT_TOW_CIT_RES": "Marki",
+  "ENT_POS_COD": "05-270",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

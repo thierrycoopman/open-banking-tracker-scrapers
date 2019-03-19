@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "PSD_EMI!MT_MFSA!EMO!AG101769601000",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "101769601000",
+  "ENT_NAM": "Argo Change S.A.",
+  "ENT_ADD": "Karagiorgi Servias, 10, Syntagma",
+  "ENT_TOW_CIT_RES": "Athens",
+  "ENT_POS_COD": "10562",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "MT_MFSA!EMO",
+  "DER_CHI_ENT_AUT": "Active"
+}

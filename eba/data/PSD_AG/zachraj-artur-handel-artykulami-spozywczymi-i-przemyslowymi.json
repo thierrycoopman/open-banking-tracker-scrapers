@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!559",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "559",
+  "ENT_NAM": "Zachraj Artur Handel Artykułami Spożywczymi i Przemysłowymi",
+  "ENT_ADD": "Niepodległości 266, Jastrzębie-Zdrój, 44-336, PL",
+  "ENT_TOW_CIT_RES": "Jastrzębie-Zdrój",
+  "ENT_POS_COD": "44-336",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

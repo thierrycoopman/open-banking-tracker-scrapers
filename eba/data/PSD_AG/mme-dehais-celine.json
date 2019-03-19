@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74733",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "513224576",
+  "ENT_NAM": "Mme DEHAIS Celine",
+  "ENT_ADD": "1 RUE MAIL DE L'ASPRE",
+  "ENT_TOW_CIT_RES": "CORNEILLA DEL VERCOL",
+  "ENT_POS_COD": "66200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

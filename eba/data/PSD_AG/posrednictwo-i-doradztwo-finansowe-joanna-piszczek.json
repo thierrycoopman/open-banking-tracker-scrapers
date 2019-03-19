@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!87",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "87",
+  "ENT_NAM": "Pośrednictwo i Doradztwo Finansowe Joanna Piszczek",
+  "ENT_ADD": "ul. Ludomira Różyckiego 30, Ruda Śląska, 41-710, PL",
+  "ENT_TOW_CIT_RES": "Ruda Śląska",
+  "ENT_POS_COD": "41-710",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

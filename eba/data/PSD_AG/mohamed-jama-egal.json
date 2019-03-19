@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!524141!659794_AG23",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG659794",
+  "ENT_NAM": "Mohamed Jama Egal",
+  "ENT_ADD": "17 Ipswich Close",
+  "ENT_TOW_CIT_RES": "Leicester",
+  "ENT_POS_COD": "LE4 1DQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!524141",
+  "DER_CHI_ENT_AUT": "Active"
+}

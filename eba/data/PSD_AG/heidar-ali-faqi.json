@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!572123!810000_AG24",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG810000",
+  "ENT_NAM": "HEIDAR ALI FAQI",
+  "ENT_ADD": "283 Caledonian Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "N1 1EF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!572123",
+  "DER_CHI_ENT_AUT": "Active"
+}

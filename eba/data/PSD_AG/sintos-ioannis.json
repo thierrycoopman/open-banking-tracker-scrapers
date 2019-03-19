@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!156502434",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "156502434",
+  "ENT_NAM": "SINTOS IOANNIS",
+  "ENT_ADD": "VOLAKAS",
+  "ENT_TOW_CIT_RES": "VOLAKAS",
+  "ENT_POS_COD": "66033",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

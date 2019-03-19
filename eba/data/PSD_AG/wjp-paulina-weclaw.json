@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2524",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2524",
+  "ENT_NAM": "WJP Paulina Węcław",
+  "ENT_ADD": "3 Maja 80, Komarów-Osada, 22-434, PL",
+  "ENT_TOW_CIT_RES": "Komarów-Osada",
+  "ENT_POS_COD": "22-434",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

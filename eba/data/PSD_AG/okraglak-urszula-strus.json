@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1038",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1038",
+  "ENT_NAM": "OKRĄGLAK Urszula Struś",
+  "ENT_ADD": "Mariacka 33, Nysa, 48-304, PL",
+  "ENT_TOW_CIT_RES": "Nysa",
+  "ENT_POS_COD": "48-304",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

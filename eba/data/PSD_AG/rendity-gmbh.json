@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!72486",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "438425v",
+  "ENT_NAM": "RENDITY Gmbh",
+  "ENT_ADD": "Tegetthoffstrasse 7",
+  "ENT_TOW_CIT_RES": "1010 WIEN",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

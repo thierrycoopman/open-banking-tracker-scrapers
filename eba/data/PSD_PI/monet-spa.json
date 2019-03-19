@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!9045400968",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "9045400968",
+  "ENT_NAM": "MO.NET S.P.A.",
+  "ENT_NAM_COM": "MO.NET S.P.A.",
+  "ENT_ADD": "LARGO  TOMMASO GALLARATI SCOTTI, 1",
+  "ENT_TOW_CIT_RES": "MILANO",
+  "ENT_POS_COD": "20123",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

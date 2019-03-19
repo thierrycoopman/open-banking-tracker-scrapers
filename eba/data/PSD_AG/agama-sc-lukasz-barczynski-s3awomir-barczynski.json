@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5666",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5666",
+  "ENT_NAM": "AGAMA s.c. Lukasz Barczynski S3awomir Barczynski",
+  "ENT_ADD": "Adama Mickiewicza 75, Torun, 87-100, PL",
+  "ENT_TOW_CIT_RES": "Torun",
+  "ENT_POS_COD": "87-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

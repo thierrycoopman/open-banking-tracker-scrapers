@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!897",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "897",
+  "ENT_NAM": "SKLEP OGÓLNOSPOŻYWCZY Grażyna Modzelewska",
+  "ENT_ADD": "Pomorska 2, Niechorze, 72-350, PL",
+  "ENT_TOW_CIT_RES": "Niechorze",
+  "ENT_POS_COD": "72-350",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

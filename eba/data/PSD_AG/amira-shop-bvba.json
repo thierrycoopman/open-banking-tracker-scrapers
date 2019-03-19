@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0010!R114658",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R114658",
+  "ENT_NAM": "Amira Shop BVBA",
+  "ENT_ADD": "Grondwetplein 6",
+  "ENT_TOW_CIT_RES": "SINT GILLIS, BRUSSEL",
+  "ENT_POS_COD": "1060",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0010",
+  "DER_CHI_ENT_AUT": "Active"
+}

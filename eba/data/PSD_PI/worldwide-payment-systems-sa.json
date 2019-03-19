@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "ES_BE",
+  "EntityCode": "ES_BE!6859",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "6859",
+  "ENT_NAM": "WORLDWIDE PAYMENT SYSTEMS, S.A.",
+  "ENT_ADD": "AV DIEGO MART�NEZ BARRIO 10 ",
+  "ENT_TOW_CIT_RES": "SEVILLA",
+  "ENT_POS_COD": "41013",
+  "ENT_COU_RES": "ES",
+  "ENT_AUT": [
+    "2019-03-15"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4838",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4838",
+  "ENT_NAM": "Pośrednictwo Finanosowo - Ubezpieczeniowe Damian Kosiński",
+  "ENT_ADD": "Adama Mickiewicza 22 lok.37, Korsze, 11-430, PL",
+  "ENT_TOW_CIT_RES": "Korsze",
+  "ENT_POS_COD": "11-430",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

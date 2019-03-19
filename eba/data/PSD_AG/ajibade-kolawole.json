@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!824025_AG550",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG824025",
+  "ENT_NAM": "AJIBADE KOLAWOLE",
+  "ENT_ADD": [
+    "2 rue edouard herriot",
+    "montataire"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "60160",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

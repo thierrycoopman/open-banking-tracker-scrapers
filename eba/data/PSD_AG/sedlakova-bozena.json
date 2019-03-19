@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!26978636!12200280",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "12200280",
+  "ENT_NAM": "Sedláková Božena",
+  "ENT_ADD": "Severní 1117",
+  "ENT_TOW_CIT_RES": "Hrušovany nad Jevišovkou",
+  "ENT_POS_COD": "67167",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!26978636",
+  "DER_CHI_ENT_AUT": "Active"
+}

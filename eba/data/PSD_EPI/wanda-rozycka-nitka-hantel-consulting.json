@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5881749136",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5881749136",
+  "ENT_NAM": "Wanda Różycka-Nitka HANTEL CONSULTING",
+  "ENT_ADD": "Rzeźnicka 2/1, Wejherowo, 84-200, PL",
+  "ENT_TOW_CIT_RES": "Wejherowo",
+  "ENT_POS_COD": "84-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-06-26",
+    "2018-06-27"
+  ]
+}

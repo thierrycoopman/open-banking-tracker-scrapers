@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!484347!816141_AG8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG816141",
+  "ENT_NAM": "BANCO COMERCIAL PORTUGUÊS, S.A.,",
+  "ENT_ADD": [
+    "Praca D Joao 1 28",
+    "4000-295"
+  ],
+  "ENT_TOW_CIT_RES": "Oporto",
+  "ENT_POS_COD": "4000 295",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!484347",
+  "DER_CHI_ENT_AUT": "Active"
+}

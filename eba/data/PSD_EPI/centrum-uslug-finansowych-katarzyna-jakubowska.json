@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5961705000",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5961705000",
+  "ENT_NAM": "Centrum Usług Finansowych Katarzyna Jakubowska",
+  "ENT_ADD": "30 Stycznia 39, Międzyrzecz, 66-300, PL",
+  "ENT_TOW_CIT_RES": "Międzyrzecz",
+  "ENT_POS_COD": "66-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-19",
+    "2018-12-06"
+  ]
+}

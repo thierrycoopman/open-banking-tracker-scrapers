@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!788044_AG602",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG788044",
+  "ENT_NAM": "Syed Nasir Abbas Jafri",
+  "ENT_ADD": "46 Drapery",
+  "ENT_TOW_CIT_RES": "Northampton",
+  "ENT_POS_COD": "NN1 2HG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

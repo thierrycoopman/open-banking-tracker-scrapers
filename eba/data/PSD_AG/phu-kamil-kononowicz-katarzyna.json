@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4745",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4745",
+  "ENT_NAM": "P.H.U. \"KAMIL\" KONONOWICZ KATARZYNA",
+  "ENT_ADD": "Nyska 9/10U, Goświnowice, 48-300, PL",
+  "ENT_TOW_CIT_RES": "Goświnowice",
+  "ENT_POS_COD": "48-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

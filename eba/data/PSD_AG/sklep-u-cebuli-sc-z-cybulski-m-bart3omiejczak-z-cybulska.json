@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3949",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3949",
+  "ENT_NAM": "\"Sklep U Cebuli\" s.c. Z. Cybulski, M. Bart3omiejczak, Z. Cybulska",
+  "ENT_ADD": "Przedszkolna 2, Tarnówka, 77-416, PL",
+  "ENT_TOW_CIT_RES": "Tarnówka",
+  "ENT_POS_COD": "77-416",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5311703255",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5311703255",
+  "ENT_NAM": "Beltime Solutions sp. z o.o.",
+  "ENT_ADD": "Przemysłowa 4, Nowy Dwór Mazowiecki, 05-100, PL",
+  "ENT_TOW_CIT_RES": "Nowy Dwór Mazowiecki",
+  "ENT_POS_COD": "05-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-12-12"
+  ]
+}

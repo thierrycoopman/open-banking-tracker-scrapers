@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!823202_AG9581",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG823202",
+  "ENT_NAM": "Valognes Market",
+  "ENT_ADD": "2 Rue De Poterie",
+  "ENT_TOW_CIT_RES": "Valognes",
+  "ENT_POS_COD": "50700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

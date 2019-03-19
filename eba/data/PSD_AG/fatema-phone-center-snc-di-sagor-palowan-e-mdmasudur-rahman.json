@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!757940_AG336",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG757940",
+  "ENT_NAM": "Fatema Phone Center S.N.C. Di Sagor Palowan E Mdmasudur Rahman",
+  "ENT_ADD": "VIA PONTE SEVESO, 27",
+  "ENT_TOW_CIT_RES": "MILANO",
+  "ENT_POS_COD": "20125",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

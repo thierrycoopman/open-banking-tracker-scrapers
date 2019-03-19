@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!27635007",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "27635007",
+  "ENT_NAM": "Advanced Telecom Services, s.r.o. ",
+  "ENT_ADD": "Kubánské náměstí 1391/11",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "10000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2011-08-11"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!06245242",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "06245242",
+  "ENT_NAM": "Draph Solutions s.r.o. ",
+  "ENT_ADD": "Pýchavková 264/2",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "10400",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-06-30"
+  ]
+}

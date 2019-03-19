@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!60978",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "450591037",
+  "ENT_NAM": "M. GENESTE Philippe",
+  "ENT_ADD": "11 Rue du Berry",
+  "ENT_TOW_CIT_RES": "BEAUVAIS",
+  "ENT_POS_COD": "60000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

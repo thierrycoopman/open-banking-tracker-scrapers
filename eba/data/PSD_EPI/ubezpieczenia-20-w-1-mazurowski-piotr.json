@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5782503030",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5782503030",
+  "ENT_NAM": "Ubezpieczenia 20 w 1 Mazurowski Piotr ",
+  "ENT_ADD": "Władysława Jagiełły 25, Pasłęk, 14-400, PL",
+  "ENT_TOW_CIT_RES": "Pasłęk",
+  "ENT_POS_COD": "14-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-08-20"
+  ]
+}

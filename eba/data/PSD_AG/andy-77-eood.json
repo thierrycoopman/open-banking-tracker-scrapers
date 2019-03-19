@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202482791",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202482791",
+  "ENT_NAM": [
+    "Анди 77 ЕООД",
+    "Andy 77 EOOD"
+  ],
+  "ENT_ADD": "23 Kavatsite str.",
+  "ENT_TOW_CIT_RES": "Sozopol",
+  "ENT_POS_COD": "8131",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

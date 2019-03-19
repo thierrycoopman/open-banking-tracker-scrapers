@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203018863",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203018863",
+  "ENT_NAM": [
+    "Джимекс ЕООД",
+    "Gimex EOOD"
+  ],
+  "ENT_ADD": "4 Aleksandar Genkov str., Stolichna municipality, Sofia area",
+  "ENT_TOW_CIT_RES": "Kokalyane village",
+  "ENT_POS_COD": "1191",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

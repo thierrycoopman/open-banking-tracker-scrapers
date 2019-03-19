@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2827",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2827",
+  "ENT_NAM": "Roll Spółka Jawna J. Post, D. Mulka",
+  "ENT_ADD": "Doliny Miętusiej 10, Bielsko-Biała, 43-300, PL",
+  "ENT_TOW_CIT_RES": "Bielsko-Biała",
+  "ENT_POS_COD": "43-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

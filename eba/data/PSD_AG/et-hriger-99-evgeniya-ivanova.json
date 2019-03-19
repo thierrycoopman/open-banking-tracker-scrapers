@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!114137280",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "114137280",
+  "ENT_NAM": [
+    "ЕТ Хригер 99 - Евгения Иванова",
+    "ET Hriger 99 - Evgeniya Ivanova"
+  ],
+  "ENT_ADD": "38B Stefan Karadzha str.",
+  "ENT_TOW_CIT_RES": "Levski",
+  "ENT_POS_COD": "5900",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

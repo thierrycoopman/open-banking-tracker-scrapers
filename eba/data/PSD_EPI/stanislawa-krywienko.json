@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9570315685",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9570315685",
+  "ENT_NAM": "Stanisława Krywienko",
+  "ENT_ADD": "Wójta Radtkego 36/40/box 211, Gdynia, 81-355, PL",
+  "ENT_TOW_CIT_RES": "Gdynia",
+  "ENT_POS_COD": "81-355",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-01-25"
+  ]
+}

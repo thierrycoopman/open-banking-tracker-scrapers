@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!610933",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "610933",
+  "ENT_NAM": "Vicom Inter-Commercials Limited",
+  "ENT_ADD": [
+    "164 Wyndham Road",
+    "Camberwell"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE5 0UB",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2014-08-28"
+  ]
+}

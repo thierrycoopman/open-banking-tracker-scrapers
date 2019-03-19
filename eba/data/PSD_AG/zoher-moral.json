@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!578824!647005_AG32",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG647005",
+  "ENT_NAM": "Zoher Moral",
+  "ENT_ADD": [
+    "C/Pau Piferer 18",
+    "Local 2"
+  ],
+  "ENT_TOW_CIT_RES": "Badalona",
+  "ENT_POS_COD": "08 914",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!578824",
+  "DER_CHI_ENT_AUT": "Active"
+}

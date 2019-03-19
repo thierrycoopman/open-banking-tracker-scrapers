@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1363",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1363",
+  "ENT_NAM": "Agencja Ubezpieczeniowa \"NO PROBLEM\"Anna Kondrat",
+  "ENT_ADD": "Trawniki 628, Trawniki, 21-044, PL",
+  "ENT_TOW_CIT_RES": "Trawniki",
+  "ENT_POS_COD": "21-044",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

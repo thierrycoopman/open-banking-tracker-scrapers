@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201609426",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201609426",
+  "ENT_NAM": [
+    "Картал-11 ЕООД",
+    "Kartal-11 EOOD"
+  ],
+  "ENT_ADD": "2 Deseta str.",
+  "ENT_TOW_CIT_RES": "Suhodol village",
+  "ENT_POS_COD": "7618",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

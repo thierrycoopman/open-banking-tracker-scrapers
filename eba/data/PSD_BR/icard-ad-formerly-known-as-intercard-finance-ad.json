@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!ES",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": [
+    "Айкарт АД  (предишно наименование Интеркарт Файнанс АД)",
+    "iCard AD (formerly known as Intercard Finance AD)"
+  ],
+  "ENT_ADD": "BR Address (Not Specified)",
+  "ENT_TOW_CIT_RES": "BR City (Not Specified)",
+  "ENT_POS_COD": "BR Postcode (Not Specified)",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

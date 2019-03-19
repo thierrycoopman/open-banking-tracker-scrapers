@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200781070",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200781070",
+  "ENT_NAM": [
+    "МГ Хабон ООД",
+    "MG Habon OOD"
+  ],
+  "ENT_ADD": "Pchinya str., build. 31A, entr. B, fl. 3, app. 39, zh.k. Krasna Polyana",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1330",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

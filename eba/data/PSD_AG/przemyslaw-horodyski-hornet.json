@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2254",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2254",
+  "ENT_NAM": "Przemysław Horodyski Hornet",
+  "ENT_ADD": "Chabrowa 6, Jelcz-Laskowice, 55-220, PL",
+  "ENT_TOW_CIT_RES": "Jelcz-Laskowice",
+  "ENT_POS_COD": "55-220",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

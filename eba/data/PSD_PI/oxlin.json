@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!72862",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "833350176",
+  "ENT_NAM": "OXLIN",
+  "ENT_NAM_COM": "PI Commercial Name (Not Specified)",
+  "ENT_ADD": "TERTIA 1-5 rue Charles DUCHESNE ",
+  "ENT_TOW_CIT_RES": "AIX EN PROVENCE",
+  "ENT_POS_COD": "13290",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2018-03-01"
+  ]
+}

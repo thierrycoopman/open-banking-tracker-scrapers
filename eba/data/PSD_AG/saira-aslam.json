@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!584039!775825_AG120",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG775825",
+  "ENT_NAM": "Saira Aslam",
+  "ENT_ADD": "31 Tweedale Street",
+  "ENT_TOW_CIT_RES": "Rochdale",
+  "ENT_POS_COD": "OL11 1HH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!584039",
+  "DER_CHI_ENT_AUT": "Active"
+}

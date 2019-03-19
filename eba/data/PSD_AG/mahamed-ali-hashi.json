@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!675016_AG138",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG675016",
+  "ENT_NAM": "Mahamed Ali Hashi",
+  "ENT_ADD": "Sommervagen 11M",
+  "ENT_TOW_CIT_RES": "Vaxjo",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

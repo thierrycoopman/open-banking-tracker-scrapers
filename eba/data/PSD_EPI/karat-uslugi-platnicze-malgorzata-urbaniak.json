@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!1250288824",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "1250288824",
+  "ENT_NAM": "Karat usługi płatnicze Małgorzata Urbaniak",
+  "ENT_ADD": "Tadeusz Korzona 111/15, Warszawa, 03-571, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "03-571",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-12-30",
+    "2018-12-31"
+  ]
+}

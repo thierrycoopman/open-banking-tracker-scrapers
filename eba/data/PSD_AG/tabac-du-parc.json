@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67048",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "753106962",
+  "ENT_NAM": "TABAC DU PARC",
+  "ENT_ADD": "19 Bis Rue Aristide Briand",
+  "ENT_TOW_CIT_RES": "BRY SUR MARNE",
+  "ENT_POS_COD": "94360",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

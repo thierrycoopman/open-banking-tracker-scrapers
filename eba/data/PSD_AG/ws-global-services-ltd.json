@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!807245_AG8128",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG807245",
+  "ENT_NAM": "WS Global Services Ltd",
+  "ENT_ADD": "54-56 High Street",
+  "ENT_TOW_CIT_RES": "Grays",
+  "ENT_POS_COD": "RM17 6NA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6631017119",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6631017119",
+  "ENT_NAM": "Usługi Bankowo - Ubezpieczeniowe Teresa Cieślik",
+  "ENT_ADD": "Apteczna 12A, Skarżysko-Kamienna, 26-110, PL",
+  "ENT_TOW_CIT_RES": "Skarżysko-Kamienna",
+  "ENT_POS_COD": "26-110",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-08-20",
+    "2018-08-31"
+  ]
+}

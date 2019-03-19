@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!554497_AG175",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG554497",
+  "ENT_NAM": "Brian Express Ltd",
+  "ENT_ADD": [
+    "Eccles",
+    "9 Buckthorn Lane"
+  ],
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M30 7QD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

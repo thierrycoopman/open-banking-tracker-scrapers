@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!827287_AG9955",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG827287",
+  "ENT_NAM": "Mohamed Ismail",
+  "ENT_ADD": "Baeckerstr 25",
+  "ENT_TOW_CIT_RES": "Luenen",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

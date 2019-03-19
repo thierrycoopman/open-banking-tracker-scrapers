@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!759323_AG5519",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG759323",
+  "ENT_NAM": "Vinayagar Cash Carry",
+  "ENT_ADD": [
+    "Allee Maurice Audin Et Allee Frederic  Ladrette",
+    "Ccial Du Chene Pointu"
+  ],
+  "ENT_TOW_CIT_RES": "Clichy Sous Bois",
+  "ENT_POS_COD": "93390",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

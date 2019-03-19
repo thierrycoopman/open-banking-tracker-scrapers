@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!830848_AG1054",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG830848",
+  "ENT_NAM": "Iman 2018 BCN Reformas S.L.",
+  "ENT_ADD": [
+    "Carrer de Joaquim Ruyra 18-22",
+    "Local 1"
+  ],
+  "ENT_TOW_CIT_RES": "Badalona",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

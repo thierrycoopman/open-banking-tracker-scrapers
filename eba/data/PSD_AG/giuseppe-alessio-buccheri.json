@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!621060_AG3235",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG621060",
+  "ENT_NAM": "Giuseppe Alessio Buccheri",
+  "ENT_ADD": "Via Modena 8",
+  "ENT_TOW_CIT_RES": "Misterbianco",
+  "ENT_POS_COD": "9504 5",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

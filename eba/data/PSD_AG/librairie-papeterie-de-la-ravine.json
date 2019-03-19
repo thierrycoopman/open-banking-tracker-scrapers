@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63436",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "413776410",
+  "ENT_NAM": "LIBRAIRIE PAPETERIE DE LA RAVINE",
+  "ENT_ADD": "53 rue du Père Maître",
+  "ENT_TOW_CIT_RES": "ST PIERRE",
+  "ENT_POS_COD": "97432",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

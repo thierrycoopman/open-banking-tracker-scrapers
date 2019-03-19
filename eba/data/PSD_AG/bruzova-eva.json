@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!86855778",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "86855778",
+  "ENT_NAM": "Brůžová Eva",
+  "ENT_ADD": "Alfonse Muchy 429/13",
+  "ENT_TOW_CIT_RES": "Litoměřice",
+  "ENT_POS_COD": "41201",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

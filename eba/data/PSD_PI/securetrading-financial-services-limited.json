@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!STF",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "C56013",
+  "ENT_NAM": "SECURETRADING FINANCIAL SERVICES LIMITED",
+  "ENT_NAM_COM": "SECURETRADING FINANCIAL SERVICES LIMITED",
+  "ENT_ADD": "167, Merchants Street",
+  "ENT_TOW_CIT_RES": "Valletta",
+  "ENT_POS_COD": "VLT 1174",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2012-06-21"
+  ]
+}

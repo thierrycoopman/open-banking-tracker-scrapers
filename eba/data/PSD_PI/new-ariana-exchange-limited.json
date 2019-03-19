@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577095",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "577095",
+  "ENT_NAM": "New Ariana Exchange Limited",
+  "ENT_NAM_COM": "Ariana Express",
+  "ENT_ADD": [
+    "Ashley House",
+    "86-94 High Street"
+  ],
+  "ENT_TOW_CIT_RES": "Hounslow",
+  "ENT_POS_COD": "TW3 1NH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-09-24"
+  ]
+}

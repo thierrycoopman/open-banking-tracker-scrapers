@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6058",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6058",
+  "ENT_NAM": "Lewiatan Beskidy s.c. Eugeniusz B1k, Przemys3aw B1k, Micha3 B1k",
+  "ENT_ADD": "Zwierzyniecka 4, Bielsko-Bia3a, 43-382, PL",
+  "ENT_TOW_CIT_RES": "Bielsko-Bia3a",
+  "ENT_POS_COD": "43-382",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

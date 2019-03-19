@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!552861_AG64",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG552861",
+  "ENT_NAM": "Qasid Mahmood Khan",
+  "ENT_ADD": "168 Birmingham Road",
+  "ENT_TOW_CIT_RES": "Oldbury",
+  "ENT_POS_COD": "B69 4EH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!65662075",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "65662075",
+  "ENT_NAM": "Vostárková Vlasta",
+  "ENT_ADD": "Čsl. armády 156",
+  "ENT_TOW_CIT_RES": "Litvínov",
+  "ENT_POS_COD": "43542",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

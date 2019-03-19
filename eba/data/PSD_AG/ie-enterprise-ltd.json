@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!766701_AG5821",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG766701",
+  "ENT_NAM": "IE Enterprise Ltd",
+  "ENT_ADD": "1A Brereton Road",
+  "ENT_TOW_CIT_RES": "Bedford",
+  "ENT_POS_COD": "MK40 1HU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

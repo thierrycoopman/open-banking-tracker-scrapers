@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6150",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6150",
+  "ENT_NAM": "P.P.H.\"ADAMO\" Adam Zielonka",
+  "ENT_ADD": "Zak3adowa 10 A, Ostrowy Nad Oksz1, 42-122, PL",
+  "ENT_TOW_CIT_RES": "Ostrowy Nad Oksz1",
+  "ENT_POS_COD": "42-122",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

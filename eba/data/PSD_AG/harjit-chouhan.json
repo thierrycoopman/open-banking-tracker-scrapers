@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!828257_AG10091",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG828257",
+  "ENT_NAM": "Harjit Chouhan",
+  "ENT_ADD": "Rudolfstrasse 9",
+  "ENT_TOW_CIT_RES": "Linz",
+  "ENT_POS_COD": "4040",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!047572435",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "047572435",
+  "ENT_NAM": "DOUKAKIS ANTONIOS",
+  "ENT_ADD": "ERESOS",
+  "ENT_TOW_CIT_RES": "ERESOS",
+  "ENT_POS_COD": "81105",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

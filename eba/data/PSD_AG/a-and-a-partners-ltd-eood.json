@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202498174",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202498174",
+  "ENT_NAM": [
+    "А и А партнърс ЕООД",
+    "A & A partners LTD. EOOD"
+  ],
+  "ENT_ADD": "1 Timok str., fl. 1, app. 3",
+  "ENT_TOW_CIT_RES": "Silistra",
+  "ENT_POS_COD": "7501",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

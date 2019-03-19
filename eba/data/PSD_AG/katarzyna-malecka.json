@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971683744!3",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3",
+  "ENT_NAM": "Katarzyna Małecka",
+  "ENT_ADD": "Dembińskiego 20, Ostrów Wielkopolski, 63-400, PL",
+  "ENT_TOW_CIT_RES": "Ostrów Wielkopolski",
+  "ENT_POS_COD": "63-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971683744",
+  "DER_CHI_ENT_AUT": "Active"
+}

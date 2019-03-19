@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!762936_AG5653",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG762936",
+  "ENT_NAM": "Asha London Limited",
+  "ENT_ADD": [
+    "Uxbridge Road",
+    "8 Marlborough Parade Uxbridge Road, Uxbridge"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "UB10 0LR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

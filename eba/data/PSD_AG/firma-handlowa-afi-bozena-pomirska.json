@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1200",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1200",
+  "ENT_NAM": "Firma Handlowa \"AFI\" Bożena Pomirska",
+  "ENT_ADD": "Świdnicka 1, Wałbrzych, 58-303, PL",
+  "ENT_TOW_CIT_RES": "Wałbrzych",
+  "ENT_POS_COD": "58-303",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

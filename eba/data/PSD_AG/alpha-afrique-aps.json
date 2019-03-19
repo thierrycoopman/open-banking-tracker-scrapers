@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!785724_AG6778",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG785724",
+  "ENT_NAM": "Alpha Afrique Aps",
+  "ENT_ADD": "Frederikssundsvej 185 A",
+  "ENT_TOW_CIT_RES": "Bronshoj",
+  "ENT_POS_COD": "2770",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!315",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "315",
+  "ENT_NAM": "P.H.U. ”ATA” Radosław Kmieć",
+  "ENT_ADD": "ul. Kiedrzyńska 66, Częstochowa, 42-200, PL",
+  "ENT_TOW_CIT_RES": "Częstochowa",
+  "ENT_POS_COD": "42-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

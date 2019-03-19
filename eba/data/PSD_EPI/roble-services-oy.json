@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!18231",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "18231",
+  "ENT_NAM": "ROBLE Services Oy",
+  "ENT_ADD": "Myllypurontie 22 A 219",
+  "ENT_TOW_CIT_RES": "HELSINKI",
+  "ENT_POS_COD": "00920",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2010-04-01"
+  ]
+}

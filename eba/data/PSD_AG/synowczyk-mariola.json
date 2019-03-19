@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6151412809!3",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3",
+  "ENT_NAM": "Synowczyk Mariola",
+  "ENT_ADD": "Poniatowskiego 19A, Zgorzelec, 59-900, PL",
+  "ENT_TOW_CIT_RES": "Zgorzelec",
+  "ENT_POS_COD": "59-900",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6151412809",
+  "DER_CHI_ENT_AUT": "Active"
+}

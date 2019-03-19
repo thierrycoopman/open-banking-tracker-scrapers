@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6921",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6921",
+  "ENT_NAM": "GRYZBALSKA MAGDALENA",
+  "ENT_ADD": "Roosevelta 13/9, Zabrze, 41-800, PL",
+  "ENT_TOW_CIT_RES": "Zabrze",
+  "ENT_POS_COD": "41-800",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

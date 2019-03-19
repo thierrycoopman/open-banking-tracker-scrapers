@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!129320",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "129320",
+  "ENT_NAM": "Rakuten Deutschland GmbH",
+  "ENT_ADD": "Geisfelder Straße 16 | 96050 Bamberg",
+  "ENT_TOW_CIT_RES": "Bamberg",
+  "ENT_POS_COD": "96050",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-07-13"
+  ]
+}

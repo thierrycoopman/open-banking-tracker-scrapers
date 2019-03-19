@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!802953_AG7763",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG802953",
+  "ENT_NAM": "Giuseppe Ciminnisi",
+  "ENT_ADD": "Corso F Crispi 123",
+  "ENT_TOW_CIT_RES": "San Giovanni Gemini",
+  "ENT_POS_COD": "92020",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!769726_AG5943",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG769726",
+  "ENT_NAM": "Grace Encarnacion Lauridsen",
+  "ENT_ADD": "Kai Lindbergs Gade 51",
+  "ENT_TOW_CIT_RES": "Hanstholm",
+  "ENT_POS_COD": "7730",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

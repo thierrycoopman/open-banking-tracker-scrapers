@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!812575_AG8654",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG812575",
+  "ENT_NAM": "Paula Alexandra Correia",
+  "ENT_ADD": [
+    "Hindley",
+    "77 Market Street"
+  ],
+  "ENT_TOW_CIT_RES": "Wigan",
+  "ENT_POS_COD": "WN2 3AE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

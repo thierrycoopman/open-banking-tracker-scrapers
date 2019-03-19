@@ -1,0 +1,22 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900153",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900153",
+  "ENT_NAM": "Lycamoney Financial Services Ltd",
+  "ENT_NAM_COM": [
+    "Lycamoney Financial Services Ltd",
+    "Lycaremit"
+  ],
+  "ENT_ADD": [
+    "195 Marsh Wall",
+    "South Quay",
+    "Walbrook Buliding"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E149SG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-07-12"
+  ]
+}

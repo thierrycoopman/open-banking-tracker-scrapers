@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8891273501",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8891273501",
+  "ENT_NAM": "F.H.U. \"AGA\" Agnieszka Pomianowska",
+  "ENT_ADD": "Brzeska 18, Radziejów, 88-200, PL",
+  "ENT_TOW_CIT_RES": "Radziejów",
+  "ENT_POS_COD": "88-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-18"
+  ]
+}

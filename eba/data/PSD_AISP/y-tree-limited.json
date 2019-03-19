@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!815261",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "815261",
+  "ENT_NAM": "Y Tree Limited",
+  "ENT_ADD": "2 Stephen Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W1T 1AN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-11-09"
+  ]
+}

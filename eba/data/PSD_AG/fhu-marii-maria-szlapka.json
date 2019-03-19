@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4556",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4556",
+  "ENT_NAM": "F.H.U. \"MARII\" Maria Szłapka",
+  "ENT_ADD": "Jarosława Dąbrowskiego 3, Ruda Śląska, 41-710, PL",
+  "ENT_TOW_CIT_RES": "Ruda Śląska",
+  "ENT_POS_COD": "41-710",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

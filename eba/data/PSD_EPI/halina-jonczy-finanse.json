@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8941093802",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8941093802",
+  "ENT_NAM": "Halina Jończy Finanse",
+  "ENT_ADD": "Bajana 1, Wrocław, 54-129, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "54-129",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-12"
+  ]
+}

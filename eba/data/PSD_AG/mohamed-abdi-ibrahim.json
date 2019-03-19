@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0010!R136053",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R136053",
+  "ENT_NAM": "Mohamed Abdi Ibrahim",
+  "ENT_ADD": "Rue pierre Picard 12",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75018",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0010",
+  "DER_CHI_ENT_AUT": "Active"
+}

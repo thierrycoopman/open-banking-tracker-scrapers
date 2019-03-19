@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!832021_AG1059",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG832021",
+  "ENT_NAM": "Muhammad Umer Nadeem",
+  "ENT_ADD": [
+    "Calle de Albino Pérez Ayestarain",
+    "35-L1"
+  ],
+  "ENT_TOW_CIT_RES": "San Fernando de Henares",
+  "ENT_POS_COD": "28830",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

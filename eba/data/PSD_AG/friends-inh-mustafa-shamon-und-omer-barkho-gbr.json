@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!830416_AG10395",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG830416",
+  "ENT_NAM": "Friends Inh Mustafa Shamon und Omer Barkho GbR",
+  "ENT_ADD": "Leerer Strasse 8",
+  "ENT_TOW_CIT_RES": "Steinfurt",
+  "ENT_POS_COD": "48565",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

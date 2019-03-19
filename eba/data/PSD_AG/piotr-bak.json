@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!429",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "429",
+  "ENT_NAM": "Piotr Bąk",
+  "ENT_ADD": "Jana III Sobieskiego 34, Zabrze, 41-800, PL",
+  "ENT_TOW_CIT_RES": "Zabrze",
+  "ENT_POS_COD": "41-800",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

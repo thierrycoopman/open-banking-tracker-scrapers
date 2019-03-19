@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!721185_AG4593",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG721185",
+  "ENT_NAM": "Sheikh Shahim Shahed",
+  "ENT_ADD": "326 Burdett Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E14 7DL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

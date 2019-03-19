@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PT_BP",
+  "EntityCode": "PSD_EMI!PT_BP!7500",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "7500",
+  "ENT_NAM": "Sonae Financial Services, SA",
+  "ENT_ADD": "Lugar do Espido, Via Norte",
+  "ENT_TOW_CIT_RES": "Maia",
+  "ENT_POS_COD": "4470-177",
+  "ENT_COU_RES": "PT",
+  "ENT_AUT": [
+    "2015-07-16"
+  ]
+}

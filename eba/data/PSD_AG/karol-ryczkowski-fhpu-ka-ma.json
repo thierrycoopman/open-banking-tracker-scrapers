@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3738",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3738",
+  "ENT_NAM": "Karol Ryczkowski F.H.P.U. \"KA-MA\"",
+  "ENT_ADD": "  3, Brzuze, 87-517, PL",
+  "ENT_TOW_CIT_RES": "Brzuze",
+  "ENT_POS_COD": "87-517",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65013",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "800882052",
+  "ENT_NAM": "TABAC DE LA GARE",
+  "ENT_ADD": "1 Rue Maurice Berteaux",
+  "ENT_TOW_CIT_RES": "HOUILLES",
+  "ENT_POS_COD": "78800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}
+"Active"
+}

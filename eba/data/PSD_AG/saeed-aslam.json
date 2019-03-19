@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!555880_AG75",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG555880",
+  "ENT_NAM": "Saeed Aslam",
+  "ENT_ADD": [
+    "Piazza Tola, 30",
+    "Sassari"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "07 100",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

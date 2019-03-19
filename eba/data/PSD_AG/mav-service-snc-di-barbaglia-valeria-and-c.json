@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!697637_AG1201",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG697637",
+  "ENT_NAM": "MAV Service SNC Di Barbaglia Valeria & C",
+  "ENT_ADD": [
+    "Via Mora E Gibin 83/C",
+    "Borgomanero"
+  ],
+  "ENT_TOW_CIT_RES": "Novara",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

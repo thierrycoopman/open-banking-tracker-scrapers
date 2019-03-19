@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!777457_AG6348",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG777457",
+  "ENT_NAM": "Ozgur Yurt",
+  "ENT_ADD": "Kaiserschutzenstrasse 8",
+  "ENT_TOW_CIT_RES": "Salzburg",
+  "ENT_POS_COD": "5020",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

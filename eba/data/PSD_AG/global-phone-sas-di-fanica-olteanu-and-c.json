@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!566585_AG1212",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG566585",
+  "ENT_NAM": "Global Phone S.A.S. Di Fanica Olteanu & C",
+  "ENT_ADD": "Via G. Mazzini",
+  "ENT_TOW_CIT_RES": "Pescara",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

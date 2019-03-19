@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!579515_AG133",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG579515",
+  "ENT_NAM": "Sangeta Kumar",
+  "ENT_ADD": "Werner Hilpert Strasse 8",
+  "ENT_TOW_CIT_RES": "Dietzenbach",
+  "ENT_POS_COD": "6312 8",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

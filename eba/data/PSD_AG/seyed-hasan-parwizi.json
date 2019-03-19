@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!780515_AG6534",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG780515",
+  "ENT_NAM": "Seyed Hasan Parwizi",
+  "ENT_ADD": "Keiserstrasse 77 5",
+  "ENT_TOW_CIT_RES": "Wien",
+  "ENT_POS_COD": "1070",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!520464_AG62",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG520464",
+  "ENT_NAM": "Pearl Globe Exchange LIMITED",
+  "ENT_ADD": "57 Ifield Road",
+  "ENT_TOW_CIT_RES": "Crawley",
+  "ENT_POS_COD": "RH11 7AS",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

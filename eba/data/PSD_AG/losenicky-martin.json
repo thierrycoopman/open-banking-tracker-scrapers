@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!72465123",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "72465123",
+  "ENT_NAM": "Losenický Martin",
+  "ENT_ADD": "č.p. 365",
+  "ENT_TOW_CIT_RES": "Vojnův Městec",
+  "ENT_POS_COD": "59101",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!787662_AG6889",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG787662",
+  "ENT_NAM": "Jani",
+  "ENT_ADD": "22 Rue De La Fontaine Henri  IV",
+  "ENT_TOW_CIT_RES": "Chaville",
+  "ENT_POS_COD": "92370",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!68514875",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "68514875",
+  "ENT_NAM": "Havlíčková Jana",
+  "ENT_ADD": "č.p. 73",
+  "ENT_TOW_CIT_RES": "Lochenice",
+  "ENT_POS_COD": "50302",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

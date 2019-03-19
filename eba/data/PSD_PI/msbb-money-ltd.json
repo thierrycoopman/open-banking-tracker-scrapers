@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504611",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "504611",
+  "ENT_NAM": "MSBB Money Ltd",
+  "ENT_ADD": [
+    "3RD Floor",
+    "5 Harbour Exchange Square"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E14 9GE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-01"
+  ]
+}

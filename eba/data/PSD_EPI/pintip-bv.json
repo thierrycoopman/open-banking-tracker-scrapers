@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R135017",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R135017",
+  "ENT_NAM": "Pintip B.V.",
+  "ENT_NAM_COM": "Pintip/Multoo",
+  "ENT_ADD": "Burg. Backxlaan 238",
+  "ENT_TOW_CIT_RES": "NIEUWLEUSEN",
+  "ENT_POS_COD": "7711 AL",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

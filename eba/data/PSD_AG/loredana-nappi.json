@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!591998_AG174",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG591998",
+  "ENT_NAM": "Loredana Nappi",
+  "ENT_ADD": "Via Montiglioni 61",
+  "ENT_TOW_CIT_RES": "Grottaferrata",
+  "ENT_POS_COD": "00 046",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

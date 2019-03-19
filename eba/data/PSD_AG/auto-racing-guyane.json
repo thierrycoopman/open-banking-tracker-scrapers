@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72795",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "482054442",
+  "ENT_NAM": "AUTO RACING GUYANE",
+  "ENT_ADD": [
+    "11, RESIDENCE ESPACE -",
+    "CHEMIN GRANT"
+  ],
+  "ENT_TOW_CIT_RES": "CAYENNE",
+  "ENT_POS_COD": "97300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

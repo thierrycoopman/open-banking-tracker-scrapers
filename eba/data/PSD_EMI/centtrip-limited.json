@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900717",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900717",
+  "ENT_NAM": "Centtrip Limited",
+  "ENT_NAM_COM": "Centtrip Limited",
+  "ENT_ADD": [
+    "1",
+    "Mark Square"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2A 4EG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-04-16"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!78816",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "392551958",
+  "ENT_NAM": "M. LOUGANI Arnaud",
+  "ENT_ADD": "82 RUE DU DOCTEUR COTONI",
+  "ENT_TOW_CIT_RES": "ST ETIENNE DU ROUVRAY",
+  "ENT_POS_COD": "76800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

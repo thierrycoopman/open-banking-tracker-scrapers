@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201601187",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201601187",
+  "ENT_NAM": [
+    " Саними ООД",
+    "Sanimi OOD "
+  ],
+  "ENT_ADD": "24 Tsarigradsko shose blvd., build 22, entr. A, fl. 4, app. 8, zh.k. Iztok",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1113",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

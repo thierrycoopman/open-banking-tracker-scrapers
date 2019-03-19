@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!580325!829562_AG5",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829562",
+  "ENT_NAM": "Opeyemi Olateju Omilabu",
+  "ENT_ADD": "51 Deptford High Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE8 4AD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!580325",
+  "DER_CHI_ENT_AUT": "Active"
+}

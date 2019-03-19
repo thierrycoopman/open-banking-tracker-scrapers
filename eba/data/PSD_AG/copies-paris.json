@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!766370_AG5802",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG766370",
+  "ENT_NAM": "Copies Paris",
+  "ENT_ADD": "5 Rue Guy Moquet",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75017",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!78502",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "840548911",
+  "ENT_NAM": "ROYAL II",
+  "ENT_ADD": "123 Avenue de Paris ",
+  "ENT_TOW_CIT_RES": "BONNEUIL SUR MARNE",
+  "ENT_POS_COD": "94380",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

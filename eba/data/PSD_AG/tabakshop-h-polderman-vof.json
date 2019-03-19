@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R129868",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R129868",
+  "ENT_NAM": "Tabakshop H. Polderman V.O.F.",
+  "ENT_ADD": "J.P. Heijeplein 4",
+  "ENT_TOW_CIT_RES": "DORDRECHT",
+  "ENT_POS_COD": "3314 SR",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

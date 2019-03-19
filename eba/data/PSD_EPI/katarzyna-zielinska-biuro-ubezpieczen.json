@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5831623901",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5831623901",
+  "ENT_NAM": "Katarzyna Zielińska Biuro Ubezpieczeń",
+  "ENT_ADD": "Przyokopowa  10B/6, Gdańsk, 80-746, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-746",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-12-22"
+  ]
+}

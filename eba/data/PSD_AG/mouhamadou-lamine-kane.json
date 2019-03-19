@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!744912_AG5048",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG744912",
+  "ENT_NAM": "Mouhamadou Lamine Kane",
+  "ENT_ADD": "Via Lomellina 52",
+  "ENT_TOW_CIT_RES": "Milano (MI)",
+  "ENT_POS_COD": "20133",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

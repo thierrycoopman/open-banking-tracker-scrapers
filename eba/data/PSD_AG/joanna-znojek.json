@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!387",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "387",
+  "ENT_NAM": "Joanna Znojek",
+  "ENT_ADD": "ul. Krakowska 9A, Rzeszów, 35-111, PL",
+  "ENT_TOW_CIT_RES": "Rzeszów",
+  "ENT_POS_COD": "35-111",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

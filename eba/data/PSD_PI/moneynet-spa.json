@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!5221390825",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "5221390825",
+  "ENT_NAM": "MONEYNET SPA",
+  "ENT_NAM_COM": "MONEYNET SPA",
+  "ENT_ADD": "VIA SACRA FAMIGLIA 18",
+  "ENT_TOW_CIT_RES": "PALERMO",
+  "ENT_POS_COD": "90146",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

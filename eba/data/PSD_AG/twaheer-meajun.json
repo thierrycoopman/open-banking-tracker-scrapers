@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!773532_AG6135",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG773532",
+  "ENT_NAM": "Twaheer Meajun",
+  "ENT_ADD": "25 Chemin Lagourgue",
+  "ENT_TOW_CIT_RES": "Saint Andre",
+  "ENT_POS_COD": "97440",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

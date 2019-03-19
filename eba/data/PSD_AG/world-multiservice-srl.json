@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!556005_AG405",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG556005",
+  "ENT_NAM": "World Multiservice SRL",
+  "ENT_ADD": "Via Danimarca 73",
+  "ENT_TOW_CIT_RES": "Pomezia",
+  "ENT_POS_COD": "00071",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

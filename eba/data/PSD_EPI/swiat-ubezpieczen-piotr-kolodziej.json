@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6020018064",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6020018064",
+  "ENT_NAM": "Świat Ubezpieczeń Piotr Kołodziej",
+  "ENT_ADD": "Rzeszowska 10, Nisko, 37-400, PL",
+  "ENT_TOW_CIT_RES": "Nisko",
+  "ENT_POS_COD": "37-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-06-08"
+  ]
+}

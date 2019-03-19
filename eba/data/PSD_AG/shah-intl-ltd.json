@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!606422_AG2830",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG606422",
+  "ENT_NAM": "Shah Intl. Ltd",
+  "ENT_ADD": "671 High Road",
+  "ENT_TOW_CIT_RES": "Ilford",
+  "ENT_POS_COD": "IG3 8RQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

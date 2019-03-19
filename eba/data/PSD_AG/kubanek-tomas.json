@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!65122771",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "65122771",
+  "ENT_NAM": "Kubánek Tomáš",
+  "ENT_ADD": "nám. Svobody 1050/6",
+  "ENT_TOW_CIT_RES": "Jeseník",
+  "ENT_POS_COD": "79001",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

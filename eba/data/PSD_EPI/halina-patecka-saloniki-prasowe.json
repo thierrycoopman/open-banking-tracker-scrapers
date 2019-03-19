@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7490007868",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7490007868",
+  "ENT_NAM": "Halina Patecka SALONIKI PRASOWE",
+  "ENT_ADD": "Wincentego Witosa 1, Kędzierzyn-Koźle, 47-223, PL",
+  "ENT_TOW_CIT_RES": "Kędzierzyn-Koźle",
+  "ENT_POS_COD": "47-223",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-09-11"
+  ]
+}

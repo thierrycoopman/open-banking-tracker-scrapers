@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4502",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4502",
+  "ENT_NAM": "Przedsiębiorstwo usługowo-handlowe KINGA Kinga Kiryszewska",
+  "ENT_ADD": "Franciszka Ksawerego Druckiego-Lubeckiego 25A, Szczecin, 71-643, PL",
+  "ENT_TOW_CIT_RES": "Szczecin",
+  "ENT_POS_COD": "71-643",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

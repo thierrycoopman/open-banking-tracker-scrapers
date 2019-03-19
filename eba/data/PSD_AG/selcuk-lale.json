@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!773797_AG6156",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG773797",
+  "ENT_NAM": "Selcuk Lale",
+  "ENT_ADD": "Broersvest 27B",
+  "ENT_TOW_CIT_RES": "Schiedam",
+  "ENT_POS_COD": "3111EA",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

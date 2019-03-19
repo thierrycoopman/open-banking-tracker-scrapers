@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!719463_AG4561",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG719463",
+  "ENT_NAM": "Abrar Ahmed",
+  "ENT_ADD": "692 Washwood Heath Road",
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B82H Q",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

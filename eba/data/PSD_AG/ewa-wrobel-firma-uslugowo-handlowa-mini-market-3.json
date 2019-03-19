@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7706",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7706",
+  "ENT_NAM": "Ewa Wróbel Firma Usługowo Handlowa \"Mini-Market 3\"",
+  "ENT_ADD": "Słoneczna 46, Brzeźnica, 39-206, PL",
+  "ENT_TOW_CIT_RES": "Brzeźnica",
+  "ENT_POS_COD": "39-206",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

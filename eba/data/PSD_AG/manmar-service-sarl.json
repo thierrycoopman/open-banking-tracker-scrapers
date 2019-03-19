@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!677620_AG3960",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG677620",
+  "ENT_NAM": "Manmar Service Sarl",
+  "ENT_ADD": "Rue Joseph Junck 38",
+  "ENT_TOW_CIT_RES": "Luxembourg",
+  "ENT_POS_COD": "L 1839",
+  "ENT_COU_RES": "LU",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

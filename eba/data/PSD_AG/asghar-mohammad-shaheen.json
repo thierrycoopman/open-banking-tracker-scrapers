@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!519920_AG20",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG519920",
+  "ENT_NAM": "Asghar Mohammad Shaheen",
+  "ENT_ADD": "17 Every Street",
+  "ENT_TOW_CIT_RES": "Nelson",
+  "ENT_POS_COD": "BB9 7NE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "HU_CBH",
+  "EntityCode": "PSD_PI!HU_CBH!13272346!10537914",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "10537914",
+  "ENT_NAM": "OTP Bank Nyrt.",
+  "ENT_ADD": "Nádor utca 16",
+  "ENT_TOW_CIT_RES": "Budapest",
+  "ENT_POS_COD": "1051",
+  "ENT_COU_RES": "HU",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "HU_CBH!13272346",
+  "DER_CHI_ENT_AUT": "Active"
+}

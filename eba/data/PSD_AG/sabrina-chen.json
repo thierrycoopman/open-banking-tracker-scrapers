@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!795333_AG7275",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG795333",
+  "ENT_NAM": "Sabrina Chen",
+  "ENT_ADD": "Via Delle Ombrine 62",
+  "ENT_TOW_CIT_RES": "Fiumicino",
+  "ENT_POS_COD": "00054",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

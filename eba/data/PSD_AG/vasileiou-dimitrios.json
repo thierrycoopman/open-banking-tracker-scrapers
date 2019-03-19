@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!044861762",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "044861762",
+  "ENT_NAM": "VASILEIOU DIMITRIOS",
+  "ENT_ADD": "16, AVANTON Str.",
+  "ENT_TOW_CIT_RES": "PSACHNA",
+  "ENT_POS_COD": "34400",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

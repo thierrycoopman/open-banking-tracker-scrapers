@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!816317_AG2261",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG816317",
+  "ENT_NAM": "Luceafarul SRL",
+  "ENT_ADD": "Corso Salvatore Aldisio 319",
+  "ENT_TOW_CIT_RES": "Gela",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094438857!102522728",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "102522728",
+  "ENT_NAM": "KOUTSOGLOU PANAGIOTIS",
+  "ENT_ADD": "94, OMONOIAS Str.",
+  "ENT_TOW_CIT_RES": "KAVALA",
+  "ENT_POS_COD": "65302",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094438857",
+  "DER_CHI_ENT_AUT": "Active"
+}

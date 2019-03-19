@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4485",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4485",
+  "ENT_NAM": "FIRMA HANDLOWO USŁUGOWA \"EURO\" Mirosław Moskwa",
+  "ENT_ADD": "Budryka-Nawojki działka nr 1178/2, Kraków, 30-072, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "30-072",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

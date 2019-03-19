@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!470",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "40103516911",
+  "ENT_NAM": "SIA \"Hermes Financial Services\"",
+  "ENT_NAM_COM": "Hermes Financial Services",
+  "ENT_ADD": "Baznīcas iela 45 - 1",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1010",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2012-04-19"
+  ]
+}

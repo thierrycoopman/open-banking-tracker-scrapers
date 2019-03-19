@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!573149_AG1353",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG573149",
+  "ENT_NAM": "Rana Telecom",
+  "ENT_ADD": "72 Rue de Tolbiac",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75013",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

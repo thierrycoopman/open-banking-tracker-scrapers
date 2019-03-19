@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56798",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "453951733",
+  "ENT_NAM": "Mme ZDUN Nelly",
+  "ENT_ADD": "2 rue du Général de Gaulle",
+  "ENT_TOW_CIT_RES": "HAYANGE",
+  "ENT_POS_COD": "57700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2954",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2954",
+  "ENT_NAM": "\"HSR Uni\" Spółka z Ograniczoną Odpowiedzialnością",
+  "ENT_ADD": "Wincentego Witosa 4, Kędzierzyn-Koźle, 47-223, PL",
+  "ENT_TOW_CIT_RES": "Kędzierzyn-Koźle",
+  "ENT_POS_COD": "47-223",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

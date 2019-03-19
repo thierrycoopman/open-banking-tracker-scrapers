@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!821906_AG993",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG821906",
+  "ENT_NAM": "DW Store Limited",
+  "ENT_ADD": "100 Green Lane Road",
+  "ENT_TOW_CIT_RES": "Leicester",
+  "ENT_POS_COD": "LE5 3TJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

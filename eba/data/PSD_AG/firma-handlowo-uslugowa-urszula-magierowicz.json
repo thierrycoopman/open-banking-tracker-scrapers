@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!867",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "867",
+  "ENT_NAM": "Firma Handlowo Usługowa Urszula Magierowicz",
+  "ENT_ADD": "Mikołaja Kopernika 19, Łódź, 90-503, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "90-503",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

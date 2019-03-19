@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2578",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2578",
+  "ENT_NAM": "Firma Handlowo-Usługowa \"Goliad\" Adam Jurkowski",
+  "ENT_ADD": "Stadła 163, Podegrodzie, 33-386, PL",
+  "ENT_TOW_CIT_RES": "Podegrodzie",
+  "ENT_POS_COD": "33-386",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

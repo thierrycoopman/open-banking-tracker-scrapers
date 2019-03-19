@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "LU_CSSF!Z00000009",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "Z00000009",
+  "ENT_NAM": "heidelpay S.A.",
+  "ENT_ADD": "1, place du Marché",
+  "ENT_TOW_CIT_RES": "Grevenmacher",
+  "ENT_POS_COD": "6755",
+  "ENT_COU_RES": "LU",
+  "ENT_AUT": [
+    "2015-02-09"
+  ]
+}

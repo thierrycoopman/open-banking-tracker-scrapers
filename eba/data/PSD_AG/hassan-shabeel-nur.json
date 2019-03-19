@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!616982_AG105",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG616982",
+  "ENT_NAM": "Hassan Shabeel Nur",
+  "ENT_ADD": "325 Alum Rock Road",
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B8 3BL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

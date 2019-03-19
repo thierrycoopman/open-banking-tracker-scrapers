@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76196",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "830558235",
+  "ENT_NAM": "LE LUTIN",
+  "ENT_ADD": "PL DU GUIGNE",
+  "ENT_TOW_CIT_RES": "MAREIL SUR MAULDRE",
+  "ENT_POS_COD": "78124",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

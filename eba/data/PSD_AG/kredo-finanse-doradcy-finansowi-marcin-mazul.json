@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!509",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "509",
+  "ENT_NAM": "KREDO FINANSE DORADCY FINANSOWI MARCIN MAŻUL",
+  "ENT_ADD": "ul. Ratuszowa 3, Lubań, 59-800, PL",
+  "ENT_TOW_CIT_RES": "Lubań",
+  "ENT_POS_COD": "59-800",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

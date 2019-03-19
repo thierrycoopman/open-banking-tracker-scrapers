@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6991221514",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6991221514",
+  "ENT_NAM": "Maria Starczewska TOLA",
+  "ENT_ADD": "Wojska Polskiego  43, Rawicz, 63-900, PL",
+  "ENT_TOW_CIT_RES": "Rawicz",
+  "ENT_POS_COD": "63-900",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-10-30",
+    "2018-06-29"
+  ]
+}

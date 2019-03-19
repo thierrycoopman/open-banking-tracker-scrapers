@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!804387_AG7827",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG804387",
+  "ENT_NAM": "Josy Creation",
+  "ENT_ADD": "4 8 Avenue Anatole France",
+  "ENT_TOW_CIT_RES": "Choisy Le Roi",
+  "ENT_POS_COD": "94600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

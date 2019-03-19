@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!820167_AG9251",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG820167",
+  "ENT_NAM": "Fix Gadget Online Ltd",
+  "ENT_ADD": "38 Goodmayes Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "IG3 9NR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!627814_AG3405",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG627814",
+  "ENT_NAM": "New J P Alimentation",
+  "ENT_ADD": [
+    "Le Bourget",
+    "106 Avenue De La Division Leclerc"
+  ],
+  "ENT_TOW_CIT_RES": "Ile-De-France",
+  "ENT_POS_COD": "933 50",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!567416!541250_AG2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG541250",
+  "ENT_NAM": "Aisha Nakanjako Kasule",
+  "ENT_ADD": [
+    "109 Magdalen Road",
+    "Cowley"
+  ],
+  "ENT_TOW_CIT_RES": "Oxford",
+  "ENT_POS_COD": "OX4 1RQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!567416",
+  "DER_CHI_ENT_AUT": "Active"
+}

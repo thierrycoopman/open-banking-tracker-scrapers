@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!04196899",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "04196899",
+  "ENT_NAM": "Devizová burza a.s. ",
+  "ENT_ADD": "Platnéřská 90/13",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "11000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2015-09-07"
+  ]
+}

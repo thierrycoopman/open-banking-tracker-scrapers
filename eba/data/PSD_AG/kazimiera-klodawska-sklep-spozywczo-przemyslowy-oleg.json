@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4862",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4862",
+  "ENT_NAM": "Kazimiera Kłodawska Sklep Spożywczo-Przemysłowy OLEG",
+  "ENT_ADD": "  23, Rekowo, 77-131, PL",
+  "ENT_TOW_CIT_RES": "Rekowo",
+  "ENT_POS_COD": "77-131",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

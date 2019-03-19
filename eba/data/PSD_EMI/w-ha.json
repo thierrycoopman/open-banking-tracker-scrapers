@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!10595",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "433506433",
+  "ENT_NAM": "W-HA",
+  "ENT_NAM_COM": "EMI Commercial Name (Not Specified)",
+  "ENT_ADD": "25 bis Avenue André Morizet",
+  "ENT_TOW_CIT_RES": "BOULOGNE BILLANCOURT",
+  "ENT_POS_COD": "92100",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2013-09-05"
+  ]
+}

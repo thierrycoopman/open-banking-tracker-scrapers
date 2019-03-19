@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!05783224",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "05783224",
+  "ENT_NAM": "Sonyshop s.r.o.",
+  "ENT_ADD": "Chomutovská 1899",
+  "ENT_TOW_CIT_RES": "Kadaň",
+  "ENT_POS_COD": "43201",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

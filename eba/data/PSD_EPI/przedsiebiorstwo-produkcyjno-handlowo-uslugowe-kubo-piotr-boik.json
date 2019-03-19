@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7711015198",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7711015198",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO PRODUKCYJNO-HANDLOWO-USŁUGOWE KUBO PIOTR BOIK",
+  "ENT_ADD": "Konstantynowska 15, Pabianice, 95-200, PL",
+  "ENT_TOW_CIT_RES": "Pabianice",
+  "ENT_POS_COD": "95-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-11-29"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!05735301",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "05735301",
+  "ENT_NAM": "AMORE Finance a.s. ",
+  "ENT_ADD": "Jindřišská 901/5",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "11000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-03-27"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!12",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "12",
+  "ENT_NAM": "DKB Biuro Pośrednictwa Finansowego Dorota Badera",
+  "ENT_ADD": "Al. Zdobywców Wału Pomorskiego 11, Wałcz, 78-600, PL",
+  "ENT_TOW_CIT_RES": "Wałcz",
+  "ENT_POS_COD": "78-600",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}

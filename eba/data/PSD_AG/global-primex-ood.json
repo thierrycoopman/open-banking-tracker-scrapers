@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131574695!683957",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "683957",
+  "ENT_NAM": [
+    "Глобал Примекс ООД",
+    "Global Primex OOD"
+  ],
+  "ENT_ADD": "92 Bukowiecka",
+  "ENT_TOW_CIT_RES": "Warsaw",
+  "ENT_POS_COD": " 03-893",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131574695",
+  "DER_CHI_ENT_AUT": "Active"
+}
+Active"
+}

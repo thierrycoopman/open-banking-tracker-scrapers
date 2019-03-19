@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200961321",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200961321",
+  "ENT_NAM": [
+    "ДВБ Дистрибюшънс ООД",
+    "DVB Distributions Ltd OOD"
+  ],
+  "ENT_ADD": "17 Patriarh German str.",
+  "ENT_TOW_CIT_RES": "German village",
+  "ENT_POS_COD": "1186",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

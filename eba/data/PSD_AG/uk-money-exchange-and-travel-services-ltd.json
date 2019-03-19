@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!761306_AG440",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG761306",
+  "ENT_NAM": "uk money exchange and travel services Ltd",
+  "ENT_ADD": [
+    "368 Green Lane",
+    "Small Heath"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B9 5DT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

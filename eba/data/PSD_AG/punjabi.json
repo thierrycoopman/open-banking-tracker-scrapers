@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!579774_AG1521",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG579774",
+  "ENT_NAM": "Punjabi",
+  "ENT_ADD": "45 Rue Alsace-Lorraine",
+  "ENT_TOW_CIT_RES": "Grenoble",
+  "ENT_POS_COD": "38 000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

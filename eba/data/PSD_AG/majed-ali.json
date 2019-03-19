@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!573340!540078_AG11",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG540078",
+  "ENT_NAM": "Majed Ali",
+  "ENT_ADD": "14 Abbey Hills Road",
+  "ENT_TOW_CIT_RES": "Oldham",
+  "ENT_POS_COD": "OL8 2BS",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!573340",
+  "DER_CHI_ENT_AUT": "Active"
+}

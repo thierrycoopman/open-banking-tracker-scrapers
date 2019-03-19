@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!574459!801933_AG1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG801933",
+  "ENT_NAM": "RIVA INVESTMENT LTD",
+  "ENT_ADD": "334 Whitehorse Road",
+  "ENT_TOW_CIT_RES": "Croydon",
+  "ENT_POS_COD": "CR0 2LF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!574459",
+  "DER_CHI_ENT_AUT": "Active"
+}

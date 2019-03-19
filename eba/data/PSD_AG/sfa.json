@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!582272_AG1824",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG582272",
+  "ENT_NAM": "Sfa",
+  "ENT_ADD": "39 Boulevard Ornano",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "7501 8",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

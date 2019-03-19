@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581426_AG1665",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581426",
+  "ENT_NAM": "Puc Sylwia Karina",
+  "ENT_ADD": "Bor 86 A",
+  "ENT_TOW_CIT_RES": "Brzeszcze",
+  "ENT_POS_COD": "3262 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9540022524",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "9540022524",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa \"Boże Dary\"",
+  "ENT_ADD": "ul. Samsonowicza 5, Katowice, 40-749, PL",
+  "ENT_TOW_CIT_RES": "Katowice",
+  "ENT_POS_COD": "40-749",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-07"
+  ]
+}

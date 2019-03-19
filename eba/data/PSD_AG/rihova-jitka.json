@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!01910761",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "01910761",
+  "ENT_NAM": "Říhová Jitka",
+  "ENT_ADD": "č.p. 14",
+  "ENT_TOW_CIT_RES": "Chrtníky",
+  "ENT_POS_COD": "53501",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

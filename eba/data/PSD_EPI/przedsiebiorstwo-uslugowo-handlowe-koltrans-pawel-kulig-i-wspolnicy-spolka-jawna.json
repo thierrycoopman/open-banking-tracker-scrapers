@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7342790492",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7342790492",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO USŁUGOWO-HANDLOWE \"KOLTRANS\" PAWEŁ KULIG I WSPÓLNICY SPÓŁKA JAWNA",
+  "ENT_ADD": "Łososina Dolna 60, Łososina Dolna, 33-314, PL",
+  "ENT_TOW_CIT_RES": "Łososina Dolna",
+  "ENT_POS_COD": "33-314",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-25"
+  ]
+}

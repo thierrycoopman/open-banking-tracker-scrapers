@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!22",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "22",
+  "ENT_NAM": "Taurus",
+  "ENT_ADD": "Michała Andriollego 68, Otwock, 05-400, PL",
+  "ENT_TOW_CIT_RES": "Otwock",
+  "ENT_POS_COD": "05-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}

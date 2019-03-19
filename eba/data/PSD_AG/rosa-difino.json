@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!612136_AG318",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG612136",
+  "ENT_NAM": "Rosa Difino",
+  "ENT_ADD": "Piazza Umberto L 17",
+  "ENT_TOW_CIT_RES": "Bari (BA) 70131",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

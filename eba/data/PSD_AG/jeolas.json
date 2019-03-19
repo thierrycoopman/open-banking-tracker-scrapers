@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66277",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "340250661",
+  "ENT_NAM": "JEOLAS",
+  "ENT_ADD": "Plan de Brie ",
+  "ENT_TOW_CIT_RES": "ANDUZE",
+  "ENT_POS_COD": "30140",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

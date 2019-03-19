@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6944",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6944",
+  "ENT_NAM": "Sklep Wielobranżowy S.C. Wolniak",
+  "ENT_ADD": "Bystre, Wrocławska 32, Oleśnica, 56-400, PL",
+  "ENT_TOW_CIT_RES": "Oleśnica",
+  "ENT_POS_COD": "56-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

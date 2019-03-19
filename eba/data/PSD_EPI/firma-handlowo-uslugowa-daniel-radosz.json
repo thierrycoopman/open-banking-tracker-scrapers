@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6971761710",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6971761710",
+  "ENT_NAM": "Firma Handlowo-Usługowa Daniel Radosz",
+  "ENT_ADD": "Sowiniecka 81, Mosina, 62-050, PL",
+  "ENT_TOW_CIT_RES": "Mosina",
+  "ENT_POS_COD": "62-050",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-12-06"
+  ]
+}

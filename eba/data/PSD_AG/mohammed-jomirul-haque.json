@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!757591_AG1489",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG757591",
+  "ENT_NAM": "Mohammed Jomirul Haque",
+  "ENT_ADD": [
+    "Haslingden",
+    "40 Blackburn Road"
+  ],
+  "ENT_TOW_CIT_RES": "Rossendale",
+  "ENT_POS_COD": "BB4 5QQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

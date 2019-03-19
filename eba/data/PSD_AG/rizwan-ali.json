@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!671896_AG423",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG671896",
+  "ENT_NAM": "Rizwan Ali",
+  "ENT_ADD": "76 Manchester Road",
+  "ENT_TOW_CIT_RES": "Nelson",
+  "ENT_POS_COD": "BB9 7HD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

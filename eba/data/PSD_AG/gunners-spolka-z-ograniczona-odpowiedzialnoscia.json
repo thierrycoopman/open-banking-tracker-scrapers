@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1368",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1368",
+  "ENT_NAM": "Gunners Spółka z Ograniczoną Odpowiedzialnoscią",
+  "ENT_ADD": "Pabla Nerudy 1, Warszawa, 01-926, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "01-926",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

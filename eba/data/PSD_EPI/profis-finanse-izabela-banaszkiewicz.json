@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9581012563",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9581012563",
+  "ENT_NAM": "PROFIS FINANSE IZABELA BANASZKIEWICZ",
+  "ENT_ADD": "Czerwony Dwór 17, Gdańsk, 80-395, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-395",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-10-02"
+  ]
+}

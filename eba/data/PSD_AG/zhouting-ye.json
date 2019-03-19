@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!599678!626276_AG58",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG626276",
+  "ENT_NAM": "Zhouting Ye",
+  "ENT_ADD": [
+    "Rua Nossa Senhora Candeias 17, 2 Centro",
+    "4480-828 VILA Do Conde"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!599678",
+  "DER_CHI_ENT_AUT": "Active"
+}

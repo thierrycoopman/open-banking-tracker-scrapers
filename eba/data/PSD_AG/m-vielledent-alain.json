@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56847",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "329153639",
+  "ENT_NAM": "M. VIELLEDENT Alain",
+  "ENT_ADD": "10 av de la Gare",
+  "ENT_TOW_CIT_RES": "ESPALION",
+  "ENT_POS_COD": "12500",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

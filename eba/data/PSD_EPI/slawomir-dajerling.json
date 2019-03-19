@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7831185224",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7831185224",
+  "ENT_NAM": "Sławomir Dajerling",
+  "ENT_ADD": "Jodłowa 30/2, Poznań, 61-427, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-427",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-04-16"
+  ]
+}

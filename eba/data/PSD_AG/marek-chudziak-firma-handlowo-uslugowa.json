@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4614",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4614",
+  "ENT_NAM": "MAREK CHUDZIAK FIRMA HANDLOWO-USŁUGOWA",
+  "ENT_ADD": "Lublin 132 c, Lublin, 20-258, PL",
+  "ENT_TOW_CIT_RES": "Lublin",
+  "ENT_POS_COD": "20-258",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

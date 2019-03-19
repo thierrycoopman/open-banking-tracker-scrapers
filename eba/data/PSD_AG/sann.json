@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77799",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "831002357",
+  "ENT_NAM": "SANN",
+  "ENT_ADD": [
+    "21 Allée du Professeur ",
+    "Guillaume Louis",
+    "Centre cial La Bergeonnerie Est"
+  ],
+  "ENT_TOW_CIT_RES": "TOURS",
+  "ENT_POS_COD": "37200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

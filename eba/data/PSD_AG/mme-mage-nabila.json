@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76010",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "750173940",
+  "ENT_NAM": "Mme MAGE Nabila",
+  "ENT_ADD": "3 RUE CAMILLE PASQUIER",
+  "ENT_TOW_CIT_RES": "SARGE SUR BRAYE",
+  "ENT_POS_COD": "41170",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

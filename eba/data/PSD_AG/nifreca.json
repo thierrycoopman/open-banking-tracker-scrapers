@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72340",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "810508432",
+  "ENT_NAM": "NIFRECA",
+  "ENT_ADD": "90 rue des Iris le Boucanet",
+  "ENT_TOW_CIT_RES": "LE GRAU DU ROI",
+  "ENT_POS_COD": "30240",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

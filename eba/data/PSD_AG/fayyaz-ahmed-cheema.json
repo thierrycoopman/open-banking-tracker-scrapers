@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!799343_AG864",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG799343",
+  "ENT_NAM": "Fayyaz Ahmed Cheema",
+  "ENT_ADD": "Via Circonvallazione Ovest 2/B-C",
+  "ENT_TOW_CIT_RES": "Luzzara (RE)",
+  "ENT_POS_COD": "42045",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

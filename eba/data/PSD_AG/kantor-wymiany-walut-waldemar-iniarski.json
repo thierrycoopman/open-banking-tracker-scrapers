@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!8521414205!1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1",
+  "ENT_NAM": "Kantor Wymiany Walut Waldemar Iniarski",
+  "ENT_ADD": "Wojska Polskiego 9, Bytów, 77-100, PL",
+  "ENT_TOW_CIT_RES": "Bytów",
+  "ENT_POS_COD": "77-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8521414205",
+  "DER_CHI_ENT_AUT": "Active"
+}

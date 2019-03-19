@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900033",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900033",
+  "ENT_NAM": "Think Money Limited",
+  "ENT_NAM_COM": "Think Money Limited",
+  "ENT_ADD": [
+    "Trafford Park",
+    "Think Park",
+    "Mosley Road"
+  ],
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M171FQ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-03-20"
+  ]
+}

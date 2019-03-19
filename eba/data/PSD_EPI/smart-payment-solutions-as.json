@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!04683811",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "04683811",
+  "ENT_NAM": "Smart Payment Solutions a.s. ",
+  "ENT_ADD": "Opletalova 1603/57",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "11000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2016-06-09"
+  ]
+}

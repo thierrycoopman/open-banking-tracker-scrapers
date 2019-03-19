@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!783",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "783",
+  "ENT_NAM": "BEZPIECZNE FINANSE S.C. MAGDALENA WOJTAK-SOKÓŁ, P.GŁOWACKI",
+  "ENT_ADD": "ul. Armii Krajowej 15, Kłodzko, 57-300, PL",
+  "ENT_TOW_CIT_RES": "Kłodzko",
+  "ENT_POS_COD": "57-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!808238_AG2127",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808238",
+  "ENT_NAM": "GM TRAVEL LTD",
+  "ENT_ADD": "726 High Road Leyton",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E10 6AA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

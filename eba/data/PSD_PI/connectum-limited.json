@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!624117",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "624117",
+  "ENT_NAM": "Connectum Limited",
+  "ENT_ADD": "40 Caversham Road",
+  "ENT_TOW_CIT_RES": "Reading",
+  "ENT_POS_COD": "RG1 7EB",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2014-11-05"
+  ]
+}

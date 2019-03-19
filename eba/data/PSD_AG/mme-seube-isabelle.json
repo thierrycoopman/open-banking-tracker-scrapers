@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76076",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "492509641",
+  "ENT_NAM": "Mme SEUBE Isabelle",
+  "ENT_ADD": "28 Avenue Peyrevidal",
+  "ENT_TOW_CIT_RES": "CASTILLON EN COUSERANS",
+  "ENT_POS_COD": "09800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

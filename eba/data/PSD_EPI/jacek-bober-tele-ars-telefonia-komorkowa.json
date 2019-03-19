@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8421158843",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8421158843",
+  "ENT_NAM": "Jacek Bober TELE-ARS Telefonia Komórkowa",
+  "ENT_ADD": "Konstytucji 3 Maja 2B, Miastko, 77-200, PL",
+  "ENT_TOW_CIT_RES": "Miastko",
+  "ENT_POS_COD": "77-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-12"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!46410660",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "46410660",
+  "ENT_NAM": "Pácalová Ilona",
+  "ENT_ADD": "Vítězná 2959",
+  "ENT_TOW_CIT_RES": "Kladno",
+  "ENT_POS_COD": "27204",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

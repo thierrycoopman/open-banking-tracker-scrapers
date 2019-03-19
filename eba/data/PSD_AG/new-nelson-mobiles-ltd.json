@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!766457_AG5812",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG766457",
+  "ENT_NAM": "New Nelson Mobiles Ltd",
+  "ENT_ADD": [
+    "Shopping Centre",
+    "1 Pendle Rise"
+  ],
+  "ENT_TOW_CIT_RES": "Nelson",
+  "ENT_POS_COD": "BB9 9SL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

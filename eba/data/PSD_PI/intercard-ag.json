@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!118849",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "118849",
+  "ENT_NAM": "InterCard AG",
+  "ENT_ADD": "Mehlbeerenstraße 4 | 82024 Taufkirchen, Kr München",
+  "ENT_TOW_CIT_RES": "Taufkirchen, Kr München",
+  "ENT_POS_COD": "82024",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-06-19"
+  ]
+}

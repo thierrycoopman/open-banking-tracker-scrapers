@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!608277!508340_AG26",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG508340",
+  "ENT_NAM": "Sai Cash and Carry Sussex Ltd",
+  "ENT_ADD": "80 BRIGHTON ROAD",
+  "ENT_TOW_CIT_RES": "WORTHING",
+  "ENT_POS_COD": "BN11 2EN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!608277",
+  "DER_CHI_ENT_AUT": "Active"
+}

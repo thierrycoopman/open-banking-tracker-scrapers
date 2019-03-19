@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5120",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5120",
+  "ENT_NAM": "Sklep spożywczo-przemysłowy \"BAJA\" Zofia Kotarska",
+  "ENT_ADD": "Tysiąclecia  , Nowe Miasto Lubawskie, 13-300, PL",
+  "ENT_TOW_CIT_RES": "Nowe Miasto Lubawskie",
+  "ENT_POS_COD": "13-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

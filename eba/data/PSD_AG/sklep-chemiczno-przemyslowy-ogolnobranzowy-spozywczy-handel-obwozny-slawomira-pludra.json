@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1036",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1036",
+  "ENT_NAM": "Sklep Chemiczno Przemysłowy Ogólnobranżowy, Spożywczy, Handel Obwoźny Sławomira Pludra",
+  "ENT_ADD": "  58, Chojno, 63-921, PL",
+  "ENT_TOW_CIT_RES": "Chojno",
+  "ENT_POS_COD": "63-921",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

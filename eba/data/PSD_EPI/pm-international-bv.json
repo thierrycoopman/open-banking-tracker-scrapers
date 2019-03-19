@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R128386",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R128386",
+  "ENT_NAM": "P.M. International B.V.",
+  "ENT_NAM_COM": "P.M. International B.V./Multicards",
+  "ENT_ADD": "Le Havre 75 -77",
+  "ENT_TOW_CIT_RES": "EINDHOVEN",
+  "ENT_POS_COD": "5627 SV",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

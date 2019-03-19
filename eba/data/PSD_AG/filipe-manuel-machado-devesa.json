@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!813712_AG954",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG813712",
+  "ENT_NAM": "Filipe Manuel Machado Devesa",
+  "ENT_ADD": [
+    "Kölner Street 89",
+    "Leverkusen"
+  ],
+  "ENT_TOW_CIT_RES": "Rheinland Pfalz",
+  "ENT_POS_COD": "51379",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

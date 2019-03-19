@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7732329513",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7732329513",
+  "ENT_NAM": "\"TROKOM\" Krzysztof Goliński",
+  "ENT_ADD": "Warszawska 2, Będków, 97-319, PL",
+  "ENT_TOW_CIT_RES": "Będków",
+  "ENT_POS_COD": "97-319",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-06"
+  ]
+}

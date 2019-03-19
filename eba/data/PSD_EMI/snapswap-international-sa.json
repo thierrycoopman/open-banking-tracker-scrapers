@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "LU_CSSF!W00000007",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "W00000007",
+  "ENT_NAM": "SnapSwap International S.A.",
+  "ENT_ADD": "59, boulevard Royal",
+  "ENT_TOW_CIT_RES": "Luxembourg",
+  "ENT_POS_COD": "2449",
+  "ENT_COU_RES": "LU",
+  "ENT_AUT": [
+    "2016-08-23"
+  ]
+}

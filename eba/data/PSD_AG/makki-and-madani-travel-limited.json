@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!596005_AG300",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG596005",
+  "ENT_NAM": "Makki & Madani travel Limited",
+  "ENT_ADD": "10 Lumb Lane",
+  "ENT_TOW_CIT_RES": "Bradford",
+  "ENT_POS_COD": "BD8 7QP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

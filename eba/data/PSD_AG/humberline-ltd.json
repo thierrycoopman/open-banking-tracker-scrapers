@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!829206_AG10200",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829206",
+  "ENT_NAM": "Humberline ltd",
+  "ENT_ADD": "70 Humber Road",
+  "ENT_TOW_CIT_RES": "Coventry",
+  "ENT_POS_COD": "CV3 1BA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

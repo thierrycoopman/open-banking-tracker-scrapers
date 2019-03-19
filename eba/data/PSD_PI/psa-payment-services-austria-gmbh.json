@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "AT_FMA",
+  "EntityCode": "AT_FMA_PSD_PI_34752",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "94634",
+  "ENT_NAM": "PSA Payment Services Austria GmbH",
+  "ENT_ADD": "Rennweg 46-50",
+  "ENT_TOW_CIT_RES": "Vienna",
+  "ENT_POS_COD": "1030",
+  "ENT_COU_RES": "AT",
+  "ENT_AUT": [
+    "2012-05-02"
+  ]
+}

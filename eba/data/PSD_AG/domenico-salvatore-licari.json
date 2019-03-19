@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!821767_AG9413",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG821767",
+  "ENT_NAM": "Domenico Salvatore Licari",
+  "ENT_ADD": "Via Rosarno 44",
+  "ENT_TOW_CIT_RES": "San Ferdinando",
+  "ENT_POS_COD": "89026",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

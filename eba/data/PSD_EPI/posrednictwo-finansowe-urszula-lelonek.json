@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6571407962",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6571407962",
+  "ENT_NAM": "POŚREDNICTWO FINANSOWE URSZULA LELONEK",
+  "ENT_ADD": "Kujawska 26, Kielce, 25-344, PL",
+  "ENT_TOW_CIT_RES": "Kielce",
+  "ENT_POS_COD": "25-344",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-06",
+    "2018-08-22"
+  ]
+}

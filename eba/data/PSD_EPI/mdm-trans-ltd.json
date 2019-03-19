@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!823512",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "823512",
+  "ENT_NAM": "MDM Trans Ltd",
+  "ENT_NAM_COM": "MDM Market",
+  "ENT_ADD": [
+    "269-271",
+    "Kensington"
+  ],
+  "ENT_TOW_CIT_RES": "Liverpool",
+  "ENT_POS_COD": "L7 2RG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2019-02-28"
+  ]
+}

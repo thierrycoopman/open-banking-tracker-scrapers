@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204482546",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204482546",
+  "ENT_NAM": [
+    "Астра алтера ЕООД",
+    "Astra altera EOOD"
+  ],
+  "ENT_ADD": "zh.k. Sveta Troitsa, build. 339, entr. B, app. 43",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1309",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

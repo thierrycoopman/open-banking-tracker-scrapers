@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!999762930",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "999762930",
+  "ENT_NAM": "AFOI VOULGARI O.E.",
+  "ENT_ADD": "55, AL. PAPANASTASIOU Str.",
+  "ENT_TOW_CIT_RES": "LARISA",
+  "ENT_POS_COD": "41222",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

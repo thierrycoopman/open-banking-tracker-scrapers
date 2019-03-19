@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!505339_AG7",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG505339",
+  "ENT_NAM": "Fazal Money Transfer & Travel",
+  "ENT_ADD": "25 Hebrew Road",
+  "ENT_TOW_CIT_RES": "Burnley",
+  "ENT_POS_COD": "BB10 1NQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

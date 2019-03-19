@@ -1,0 +1,25 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!662541",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "662541",
+  "ENT_NAM": "Supercapital Ltd",
+  "ENT_NAM_COM": [
+    "Hawk FX",
+    "Resonor Pay",
+    "Magna Financial",
+    "Airpay",
+    "Live Financial",
+    "Supermoney",
+    "Moneywire",
+    "Supercapital",
+    "APFX"
+  ],
+  "ENT_ADD": "3 Beeston Place",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW1W 0JJ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-06-08"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R103993",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R103993",
+  "ENT_NAM": "Tabakshop Sint Joseph",
+  "ENT_ADD": "Sint Josephsstraat 52",
+  "ENT_TOW_CIT_RES": "ROOSENDAAL",
+  "ENT_POS_COD": "4702 CX",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

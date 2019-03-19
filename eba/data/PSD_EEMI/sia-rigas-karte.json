@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!482",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "40003979933",
+  "ENT_NAM": "SIA \"RĪGAS KARTE\"",
+  "ENT_NAM_COM": "RĪGAS KARTE",
+  "ENT_ADD": "Vīlandes iela 6 - 3",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1010",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2013-01-30"
+  ]
+}

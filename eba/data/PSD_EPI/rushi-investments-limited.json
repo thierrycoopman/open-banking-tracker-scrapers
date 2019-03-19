@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!575100",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "575100",
+  "ENT_NAM": "Rushi Investments Limited",
+  "ENT_ADD": "66A Canon Street",
+  "ENT_TOW_CIT_RES": "Leicester",
+  "ENT_POS_COD": "LE4 6NG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-06-06",
+    "2018-01-19"
+  ]
+}

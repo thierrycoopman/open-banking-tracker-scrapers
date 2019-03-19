@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7621479014",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7621479014",
+  "ENT_NAM": "OPTYMAR AGATA SUCHENEK",
+  "ENT_ADD": "Przytorowa  AP-5, Duczki, 05-200, PL",
+  "ENT_TOW_CIT_RES": "Duczki",
+  "ENT_POS_COD": "05-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-04-05"
+  ]
+}

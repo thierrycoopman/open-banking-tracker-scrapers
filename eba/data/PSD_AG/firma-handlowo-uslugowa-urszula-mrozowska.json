@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!677",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "677",
+  "ENT_NAM": "Firma Handlowo Usługowa Urszula Mrozowska",
+  "ENT_ADD": "1 Brygady 36/16, Nowy Sącz, 33-300, PL",
+  "ENT_TOW_CIT_RES": "Nowy Sącz",
+  "ENT_POS_COD": "33-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

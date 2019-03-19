@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!745967_AG5092",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG745967",
+  "ENT_NAM": "Jerome Jean Paul Loiseau",
+  "ENT_ADD": "9 PLACE DE 14 JULLIET",
+  "ENT_TOW_CIT_RES": "BOURGES",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

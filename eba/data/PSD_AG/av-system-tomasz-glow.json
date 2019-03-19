@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!674",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "674",
+  "ENT_NAM": "AV System Tomasz Głów",
+  "ENT_ADD": "Rynek 7, Nakło nad Notecią, 89-100, PL",
+  "ENT_TOW_CIT_RES": "Nakło nad Notecią",
+  "ENT_POS_COD": "89-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6972313882",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6972313882",
+  "ENT_NAM": "ESTYMA UBEZPIECZENIA sp. z o. o.",
+  "ENT_ADD": "Wolińska 30, Leszno, 64-100, PL",
+  "ENT_TOW_CIT_RES": "Leszno",
+  "ENT_POS_COD": "64-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-03-16"
+  ]
+}

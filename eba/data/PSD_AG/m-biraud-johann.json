@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72322",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "813180833",
+  "ENT_NAM": "M. BIRAUD Johann",
+  "ENT_ADD": "5 bis rue des Forges",
+  "ENT_TOW_CIT_RES": "EPOISSES",
+  "ENT_POS_COD": "21460",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

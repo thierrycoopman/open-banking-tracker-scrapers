@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!18276",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "18276",
+  "ENT_NAM": "Kaahfin",
+  "ENT_ADD": "Kastelholmantie 2",
+  "ENT_TOW_CIT_RES": "Helsinki",
+  "ENT_POS_COD": "00930",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2010-04-01"
+  ]
+}

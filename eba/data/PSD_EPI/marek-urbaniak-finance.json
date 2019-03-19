@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5542652144",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5542652144",
+  "ENT_NAM": "MAREK URBANIAK FINANCE",
+  "ENT_ADD": "Swarzewska 38/2, Bydgoszcz, 85-731, PL",
+  "ENT_TOW_CIT_RES": "Bydgoszcz",
+  "ENT_POS_COD": "85-731",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-09-02"
+  ]
+}

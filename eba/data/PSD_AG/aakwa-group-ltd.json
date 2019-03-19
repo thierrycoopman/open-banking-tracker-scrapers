@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!810271_AG2158",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG810271",
+  "ENT_NAM": "Aakwa Group Ltd",
+  "ENT_ADD": "149 Waterloo Street",
+  "ENT_TOW_CIT_RES": "Burton-on-Trent",
+  "ENT_POS_COD": "DE14 2NG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

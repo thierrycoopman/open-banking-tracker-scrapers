@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!802287",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "802287",
+  "ENT_NAM": "GRANTS PAYMENTSOLUTIONS LTD",
+  "ENT_NAM_COM": "GRANTS PAYMENT",
+  "ENT_ADD": [
+    "C E M E Innovation Centre",
+    "Marsh Way"
+  ],
+  "ENT_TOW_CIT_RES": "Rainham",
+  "ENT_POS_COD": "RM13 8EU",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-10-31"
+  ]
+}

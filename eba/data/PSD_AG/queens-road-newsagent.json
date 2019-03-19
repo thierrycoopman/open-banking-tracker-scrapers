@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!608277!514075_AG41",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG514075",
+  "ENT_NAM": "Queens Road Newsagent",
+  "ENT_ADD": "89 Queens Road",
+  "ENT_TOW_CIT_RES": "Watford",
+  "ENT_POS_COD": "WD17 2QN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!608277",
+  "DER_CHI_ENT_AUT": "Active"
+}

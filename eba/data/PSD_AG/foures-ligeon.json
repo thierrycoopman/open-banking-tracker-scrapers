@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72022",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "818153868",
+  "ENT_NAM": "FOURES-LIGEON",
+  "ENT_ADD": [
+    "Place du Commandant Demarne",
+    "rue d'Aniane"
+  ],
+  "ENT_TOW_CIT_RES": "CANET",
+  "ENT_POS_COD": "34800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

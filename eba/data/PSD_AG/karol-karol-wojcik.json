@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!346",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "346",
+  "ENT_NAM": "KAROL Karol Wójcik",
+  "ENT_ADD": "Godziszów, Teczowa 25, Goleszów, 43-440, PL",
+  "ENT_TOW_CIT_RES": "Goleszów",
+  "ENT_POS_COD": "43-440",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+
+}

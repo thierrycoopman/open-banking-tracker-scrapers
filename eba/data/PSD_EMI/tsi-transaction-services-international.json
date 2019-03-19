@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!12624",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "450932710",
+  "ENT_NAM": "TSI - Transaction Services International",
+  "ENT_NAM_COM": "TICKET SURF",
+  "ENT_ADD": "91 Boulevard National",
+  "ENT_TOW_CIT_RES": "LA GARENNE COLOMBES",
+  "ENT_POS_COD": "92250",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2013-01-30"
+  ]
+}

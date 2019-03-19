@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203716868",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203716868",
+  "ENT_NAM": [
+    "Бест Мобайл Варна ЕООД",
+    "Best Mobile Varna EOOD"
+  ],
+  "ENT_ADD": "85 Osmi Primorski Polk blvd.",
+  "ENT_TOW_CIT_RES": "Varna",
+  "ENT_POS_COD": "9000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

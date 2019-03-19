@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72294",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "530970045",
+  "ENT_NAM": "9 PRESSE",
+  "ENT_ADD": "13 Avenue de Gascogne",
+  "ENT_TOW_CIT_RES": "VILLECOMTAL SUR ARROS",
+  "ENT_POS_COD": "32730",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

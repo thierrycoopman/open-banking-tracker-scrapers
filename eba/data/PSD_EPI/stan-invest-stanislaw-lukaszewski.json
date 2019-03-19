@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7611001699",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7611001699",
+  "ENT_NAM": "STAN-INVEST Stanisław Łukaszewski",
+  "ENT_ADD": "3 Maja  9, Przasnysz, 06-300, PL",
+  "ENT_TOW_CIT_RES": "Przasnysz",
+  "ENT_POS_COD": "06-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-05"
+  ]
+}

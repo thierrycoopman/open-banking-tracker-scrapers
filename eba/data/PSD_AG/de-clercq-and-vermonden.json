@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R104384",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R104384",
+  "ENT_NAM": "de Clercq & Vermonden",
+  "ENT_ADD": "Groene Hilledijk 161 B",
+  "ENT_TOW_CIT_RES": "ROTTERDAM",
+  "ENT_POS_COD": "3073 AA",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

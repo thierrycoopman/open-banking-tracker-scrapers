@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!671133",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "671133",
+  "ENT_NAM": "AccendoFX Limited",
+  "ENT_ADD": "1 Alie Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 8DE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-04-24",
+    "2019-01-10"
+  ]
+}

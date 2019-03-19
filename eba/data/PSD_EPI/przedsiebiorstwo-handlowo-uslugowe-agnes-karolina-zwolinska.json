@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6112770717",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6112770717",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo-Usługowe \"Agnes\" Karolina Zwolińska",
+  "ENT_ADD": "Jeleniogórska 29A, Kostrzyca, 58-533, PL",
+  "ENT_TOW_CIT_RES": "Kostrzyca",
+  "ENT_POS_COD": "58-533",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-08-29"
+  ]
+}

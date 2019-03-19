@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!835083_AG1505",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG835083",
+  "ENT_NAM": "GALLETTA MATTEO",
+  "ENT_ADD": "VIALE ROCCO LARUSSA 200",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "89018",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

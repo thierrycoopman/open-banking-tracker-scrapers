@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5348",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5348",
+  "ENT_NAM": "Kociuba Damian Przedsiębiorstwo Handlowo Usługowo Produkcyjne  \"PARTNER\"",
+  "ENT_ADD": "Kolejowa 8, Czekanów, 42-677, PL",
+  "ENT_TOW_CIT_RES": "Czekanów",
+  "ENT_POS_COD": "42-677",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

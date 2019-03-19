@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!592965_AG140",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG592965",
+  "ENT_NAM": "Shamimur Rahman",
+  "ENT_ADD": [
+    "115 King Edward Road",
+    "Kill Field"
+  ],
+  "ENT_TOW_CIT_RES": "Coventry",
+  "ENT_POS_COD": "CV1 5BQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!713690_AG4399",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG713690",
+  "ENT_NAM": "Michael Alvin Jensen",
+  "ENT_ADD": "Kordilgade 54",
+  "ENT_TOW_CIT_RES": "Kalundborg",
+  "ENT_POS_COD": "44 00",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

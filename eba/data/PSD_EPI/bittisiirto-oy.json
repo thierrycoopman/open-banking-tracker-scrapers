@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!22529",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "22529",
+  "ENT_NAM": "Bittisiirto Oy",
+  "ENT_ADD": "Keskiyöntie 23",
+  "ENT_TOW_CIT_RES": "HELSINKI",
+  "ENT_POS_COD": "00750",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2010-04-01"
+  ]
+}

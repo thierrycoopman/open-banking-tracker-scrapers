@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!766428_AG5810",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG766428",
+  "ENT_NAM": "Fiber Internet Limited",
+  "ENT_ADD": "85 Kilburn High Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW6 6JE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

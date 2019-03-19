@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4641",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4641",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE RAFAŁ PIECZKOWSKI",
+  "ENT_ADD": "Płocka 151B, Włocławek, 87-800, PL",
+  "ENT_TOW_CIT_RES": "Włocławek",
+  "ENT_POS_COD": "87-800",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

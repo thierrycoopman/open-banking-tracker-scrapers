@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!605358_AG2789",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG605358",
+  "ENT_NAM": "Am2a Services",
+  "ENT_ADD": "Centre Commercial Le Colombier Local 15",
+  "ENT_TOW_CIT_RES": "Survilliers",
+  "ENT_POS_COD": "9547 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

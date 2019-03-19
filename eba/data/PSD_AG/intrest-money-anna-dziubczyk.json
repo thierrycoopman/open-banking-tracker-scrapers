@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!60",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "60",
+  "ENT_NAM": "INTREST MONEY Anna Dziubczyk",
+  "ENT_ADD": "Ks. Mariana Kubowicza 12/10, Blachownia, 42-290, PL",
+  "ENT_TOW_CIT_RES": "Blachownia",
+  "ENT_POS_COD": "42-290",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}

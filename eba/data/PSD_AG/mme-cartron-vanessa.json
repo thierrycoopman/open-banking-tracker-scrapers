@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70913",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "411486798",
+  "ENT_NAM": "Mme CARTRON Vanessa",
+  "ENT_ADD": "121 bd du Général Delambre",
+  "ENT_TOW_CIT_RES": "ARGENTEUIL",
+  "ENT_POS_COD": "95100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57172",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "493944516",
+  "ENT_NAM": "M. RABOUAN Denis",
+  "ENT_ADD": "11 av. Ml de Lattre de Tassigny ",
+  "ENT_TOW_CIT_RES": "NIORT",
+  "ENT_POS_COD": "79000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

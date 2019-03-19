@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7238",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7238",
+  "ENT_NAM": "F.H. \"WW\" Wojciech Szczypior",
+  "ENT_ADD": "Długa 92, Wejherowo, 84-223, PL",
+  "ENT_TOW_CIT_RES": "Wejherowo",
+  "ENT_POS_COD": "84-223",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

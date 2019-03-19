@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!766403_AG5806",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG766403",
+  "ENT_NAM": "Soilihi Youssouf Aboudou",
+  "ENT_ADD": "Rue Emile Pedron",
+  "ENT_TOW_CIT_RES": "Dinan",
+  "ENT_POS_COD": "22100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

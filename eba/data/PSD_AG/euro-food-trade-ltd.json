@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!593364!692775_AG20",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG692775",
+  "ENT_NAM": "Euro Food Trade Ltd",
+  "ENT_ADD": "3-7 Cannon Street",
+  "ENT_TOW_CIT_RES": "Bristol",
+  "ENT_POS_COD": "BS3 1BH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!593364",
+  "DER_CHI_ENT_AUT": "Active"
+}

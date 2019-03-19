@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!04055616",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "04055616",
+  "ENT_NAM": "Concilio a.s. ",
+  "ENT_ADD": "Veveří 456/9",
+  "ENT_TOW_CIT_RES": "Brno",
+  "ENT_POS_COD": "60200",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2015-08-10"
+  ]
+}

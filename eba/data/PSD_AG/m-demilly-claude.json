@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56810",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "490655990",
+  "ENT_NAM": "M. DEMILLY Claude",
+  "ENT_ADD": "7 boulevard Gambetta",
+  "ENT_TOW_CIT_RES": "PONT ST ESPRIT",
+  "ENT_POS_COD": "30130",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!816952",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "816952",
+  "ENT_NAM": "Ducit.ai LTD",
+  "ENT_ADD": [
+    "Burgess Hill",
+    "PO BOX 421",
+    "West Sussex"
+  ],
+  "ENT_TOW_CIT_RES": "Burgess Hill",
+  "ENT_POS_COD": "RH15 5EA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2019-02-11"
+  ]
+}

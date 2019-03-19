@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5491948052",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5491948052",
+  "ENT_NAM": "Rzepka Robert Agencja Finansowa",
+  "ENT_ADD": "Kasprowicza 12/4, Oświęcim, 32-600, PL",
+  "ENT_TOW_CIT_RES": "Oświęcim",
+  "ENT_POS_COD": "32-600",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-19"
+  ]
+}

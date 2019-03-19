@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!594599_AG2361",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG594599",
+  "ENT_NAM": "Dorota Edyta Kolodziejska",
+  "ENT_ADD": "Nehringa Wladyslawa 20",
+  "ENT_TOW_CIT_RES": "Szczecin",
+  "ENT_POS_COD": "7183 6",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094438857!102085106",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "102085106",
+  "ENT_NAM": "NTALIS ALEXANDROS",
+  "ENT_ADD": "11, ZAIMI Str.",
+  "ENT_TOW_CIT_RES": "AIGIO",
+  "ENT_POS_COD": "25100",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094438857",
+  "DER_CHI_ENT_AUT": "Active"
+}

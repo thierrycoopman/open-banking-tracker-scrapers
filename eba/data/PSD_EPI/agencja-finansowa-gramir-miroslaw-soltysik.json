@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6481105795",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6481105795",
+  "ENT_NAM": "AGENCJA FINANSOWA \"GRAMIR\" MIROSŁAW SOŁTYSIK",
+  "ENT_ADD": "Piłsudskiego 7/9, Zabrze, 41-800, PL",
+  "ENT_TOW_CIT_RES": "Zabrze",
+  "ENT_POS_COD": "41-800",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-07-01"
+  ]
+}

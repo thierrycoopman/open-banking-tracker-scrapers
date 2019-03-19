@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!595373_AG2389",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG595373",
+  "ENT_NAM": "Senami Exotic",
+  "ENT_ADD": "54 56 Avenue Normandie Niemen",
+  "ENT_TOW_CIT_RES": "Sainte Genevieve Des Bois",
+  "ENT_POS_COD": "9170 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

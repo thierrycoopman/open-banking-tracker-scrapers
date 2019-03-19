@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74992",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "520860529",
+  "ENT_NAM": "M. GERBET Nicolas",
+  "ENT_ADD": "11 ROUTE DE SORE",
+  "ENT_TOW_CIT_RES": "PISSOS",
+  "ENT_POS_COD": "40410",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

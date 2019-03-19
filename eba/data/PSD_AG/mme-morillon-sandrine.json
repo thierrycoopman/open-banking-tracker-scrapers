@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74797",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "810196097",
+  "ENT_NAM": "Mme MORILLON Sandrine",
+  "ENT_ADD": "12 Rue Alienor d'Aquitaine",
+  "ENT_TOW_CIT_RES": "TAILLEBOURG",
+  "ENT_POS_COD": "17350",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5272847865",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5272847865",
+  "ENT_NAM": "MONEZIUM spółka z ograniczoną odpowiedzialnością ",
+  "ENT_ADD": "Grzybowska 80/82/700, Warszawa, 00-844, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-844",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-09-18"
+  ]
+}

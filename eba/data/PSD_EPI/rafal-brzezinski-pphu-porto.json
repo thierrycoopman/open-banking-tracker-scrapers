@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7781026422",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7781026422",
+  "ENT_NAM": "Rafał Brzeziński P.P.H.U. \"PORTO\"",
+  "ENT_ADD": "Marii Konopnickiej 1, Mosina, 62-050, PL",
+  "ENT_TOW_CIT_RES": "Mosina",
+  "ENT_POS_COD": "62-050",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-15"
+  ]
+}

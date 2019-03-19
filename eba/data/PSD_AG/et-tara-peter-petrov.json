@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!107500646",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "107500646",
+  "ENT_NAM": [
+    "ЕТ Тара-Петър Петров",
+    "ET Tara - Peter Petrov"
+  ],
+  "ENT_ADD": "14 Aleksandar Stamboliiski str., fl. 4, app. 11",
+  "ENT_TOW_CIT_RES": "Sevlievo",
+  "ENT_POS_COD": "5400",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

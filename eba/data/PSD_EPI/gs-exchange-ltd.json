@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!814851",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "814851",
+  "ENT_NAM": "GS Exchange Ltd",
+  "ENT_ADD": "269 Commercial Road",
+  "ENT_TOW_CIT_RES": "Portsmouth",
+  "ENT_POS_COD": "PO1 4BP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-08-23"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!12716",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "487779035",
+  "ENT_NAM": "La Banque Postale Financement",
+  "ENT_NAM_COM": "LA BANQUE POSTALE FINANCEMENT",
+  "ENT_ADD": "1-3 avenue François Mitterrand",
+  "ENT_TOW_CIT_RES": "ST DENIS",
+  "ENT_POS_COD": "93200",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2014-05-05"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971683744!25",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "25",
+  "ENT_NAM": "Grzegorz Poczubut",
+  "ENT_ADD": "Warcisława IV 34, Szczecinek, 78-400, PL",
+  "ENT_TOW_CIT_RES": "Szczecinek",
+  "ENT_POS_COD": "78-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971683744",
+  "DER_CHI_ENT_AUT": "Active"
+}

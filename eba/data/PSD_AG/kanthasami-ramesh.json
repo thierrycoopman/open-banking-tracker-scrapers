@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!608277!519882_AG54",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG519882",
+  "ENT_NAM": "Kanthasami Ramesh",
+  "ENT_ADD": [
+    "Masterman",
+    "Road",
+    "182"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E6 3NN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!608277",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5862318369",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5862318369",
+  "ENT_NAM": "Monezia spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Żołnierzy I Armii Wojska Polskiego  10 /B6, Gdynia, 81-383, PL",
+  "ENT_TOW_CIT_RES": "Gdynia",
+  "ENT_POS_COD": "81-383",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-06-25"
+  ]
+}

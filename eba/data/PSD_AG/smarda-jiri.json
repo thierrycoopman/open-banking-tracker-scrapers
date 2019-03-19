@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!25163680!65281365",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "65281365",
+  "ENT_NAM": "Šmarda Jiří",
+  "ENT_ADD": "Jungmannova 833/26",
+  "ENT_TOW_CIT_RES": "Brno",
+  "ENT_POS_COD": "61200",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!25163680",
+  "DER_CHI_ENT_AUT": "Active"
+}

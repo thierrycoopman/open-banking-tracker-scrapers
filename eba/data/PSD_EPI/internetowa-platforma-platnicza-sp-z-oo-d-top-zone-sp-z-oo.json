@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6783159316",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6783159316",
+  "ENT_NAM": "INTERNETOWA PLATFORMA PŁATNICZA SP. Z O.O. (d. TOP ZONE SP. Z O.O.)",
+  "ENT_ADD": "Jana Henryka Dąbrowskiego 75/70, Poznań, 60-523, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "60-523",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-06-16"
+  ]
+}

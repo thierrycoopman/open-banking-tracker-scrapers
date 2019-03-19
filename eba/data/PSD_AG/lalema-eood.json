@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203138834",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203138834",
+  "ENT_NAM": [
+    "Лалема ЕООД",
+    "Lalema EOOD"
+  ],
+  "ENT_ADD": "4 Gen. Danail Nikolaev str.",
+  "ENT_TOW_CIT_RES": "Plovdiv",
+  "ENT_POS_COD": "4000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

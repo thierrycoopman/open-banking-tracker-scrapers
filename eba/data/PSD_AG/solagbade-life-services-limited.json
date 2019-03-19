@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!798359_AG2005",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG798359",
+  "ENT_NAM": "Solagbade Life Services Limited",
+  "ENT_ADD": [
+    "47 College Street",
+    "First Floor"
+  ],
+  "ENT_TOW_CIT_RES": "Cavan",
+  "ENT_POS_COD": "Cavan",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

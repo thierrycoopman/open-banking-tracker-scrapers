@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!575164!541283_AG2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG541283",
+  "ENT_NAM": "Joginder Singh",
+  "ENT_ADD": "1 Pelham Road South",
+  "ENT_TOW_CIT_RES": "Gravesend",
+  "ENT_POS_COD": "DA11 8QN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!575164",
+  "DER_CHI_ENT_AUT": "Active"
+}

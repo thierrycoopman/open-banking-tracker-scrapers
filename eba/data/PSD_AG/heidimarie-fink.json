@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!830021_AG10334",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG830021",
+  "ENT_NAM": "Heidimarie Fink",
+  "ENT_ADD": "Rheinauweg 31",
+  "ENT_TOW_CIT_RES": "Höchst",
+  "ENT_POS_COD": "6973",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

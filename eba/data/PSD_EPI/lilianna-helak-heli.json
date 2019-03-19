@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8942354653",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8942354653",
+  "ENT_NAM": "Lilianna Helak HELI",
+  "ENT_ADD": "Szybowcowa 23, Wrocław, 54-130, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "54-130",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-25"
+  ]
+}

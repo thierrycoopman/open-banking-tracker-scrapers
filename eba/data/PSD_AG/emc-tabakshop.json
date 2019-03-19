@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!789633_AG7005",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG789633",
+  "ENT_NAM": "EMC Tabakshop",
+  "ENT_ADD": "Vaillantlaan 366",
+  "ENT_TOW_CIT_RES": "s Gravenhage",
+  "ENT_POS_COD": "2526HV",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

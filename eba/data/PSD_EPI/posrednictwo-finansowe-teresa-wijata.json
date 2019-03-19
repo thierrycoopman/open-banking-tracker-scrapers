@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7681022442",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7681022442",
+  "ENT_NAM": "Pośrednictwo Finansowe Teresa Wijata",
+  "ENT_ADD": "Biernackiego 17, Opoczno, 26-300, PL",
+  "ENT_TOW_CIT_RES": "Opoczno",
+  "ENT_POS_COD": "26-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-04-02"
+  ]
+}

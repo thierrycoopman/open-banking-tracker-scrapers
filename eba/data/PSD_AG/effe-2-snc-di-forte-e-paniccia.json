@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!662019_AG859",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG662019",
+  "ENT_NAM": "EFFE 2 S.N.C. DI FORTE E PANICCIA",
+  "ENT_ADD": "VIA PROCOIO 55/D",
+  "ENT_TOW_CIT_RES": "FIANO ROMANO (RM)",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

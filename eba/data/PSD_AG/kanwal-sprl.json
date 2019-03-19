@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!552657_AG982",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG552657",
+  "ENT_NAM": "Kanwal sprl",
+  "ENT_ADD": "286 chausse d'ixelles,",
+  "ENT_TOW_CIT_RES": "Bruxelles",
+  "ENT_POS_COD": "1050",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9720597462",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9720597462",
+  "ENT_NAM": "Ewa Marzec \"P.H.U.\"",
+  "ENT_ADD": "Osiedle Rusa 3, Poznań, 61-245, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-245",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-17"
+  ]
+}

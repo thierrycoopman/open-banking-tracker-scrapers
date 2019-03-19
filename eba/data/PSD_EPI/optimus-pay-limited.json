@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!600379",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "600379",
+  "ENT_NAM": "Optimus Pay Limited",
+  "ENT_ADD": [
+    "Rosyth",
+    "15 Cromarty Campus",
+    "Suite 3, Liberty House"
+  ],
+  "ENT_TOW_CIT_RES": "Dunfermline",
+  "ENT_POS_COD": "KY11 2YB",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2014-01-09"
+  ]
+}

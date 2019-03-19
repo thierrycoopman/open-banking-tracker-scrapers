@@ -1,0 +1,23 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!585091",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "585091",
+  "ENT_NAM": "AGPAYTECH LTD.",
+  "ENT_NAM_COM": [
+    "ATLPay",
+    "ATL Money",
+    "INSTNTMNY powered by ZEEPAY",
+    "ATL Bank",
+    "Illico",
+    "ATLMoneyTransfer",
+    "Afrikash.com"
+  ],
+  "ENT_ADD": "128 Peckham Hill Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE15 5JT",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2013-01-02"
+  ]
+}

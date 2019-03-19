@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0020",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0020",
+  "ENT_NAM": "STP Groep B.V.",
+  "ENT_NAM_COM": "aatransfer.com/STP Groep B.V./Havelem",
+  "ENT_ADD": "Brouwersdijk 149",
+  "ENT_TOW_CIT_RES": "DORDRECHT",
+  "ENT_POS_COD": "3314 GJ",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

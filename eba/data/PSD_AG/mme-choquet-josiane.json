@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77185",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "315913608",
+  "ENT_NAM": "Mme CHOQUET Josiane",
+  "ENT_ADD": "18 rue du Manoir ",
+  "ENT_TOW_CIT_RES": "MIANNAY",
+  "ENT_POS_COD": "80132",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

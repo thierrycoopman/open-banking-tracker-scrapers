@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!806559_AG8048",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG806559",
+  "ENT_NAM": "Macardi Bvba",
+  "ENT_ADD": "Nieuwstraat 14",
+  "ENT_TOW_CIT_RES": "Denderleeuw",
+  "ENT_POS_COD": "9470",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

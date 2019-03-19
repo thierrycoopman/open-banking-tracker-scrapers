@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!543412!745011_AG29",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG745011",
+  "ENT_NAM": "Apex Properties North Ltd",
+  "ENT_ADD": [
+    "Cheetham Hill Road",
+    "Cheetham Hill",
+    "426"
+  ],
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M8 9LE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!543412",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

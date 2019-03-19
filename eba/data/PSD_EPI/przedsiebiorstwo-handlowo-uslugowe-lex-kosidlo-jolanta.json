@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7151125720",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7151125720",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo-Usługowe \"LEX\" Kosidło Jolanta",
+  "ENT_ADD": "Kochanowskiego 1A, Kraśnik, 23-200, PL",
+  "ENT_TOW_CIT_RES": "Kraśnik",
+  "ENT_POS_COD": "23-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-23"
+  ]
+}

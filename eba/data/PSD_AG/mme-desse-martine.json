@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!69647",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "410168223",
+  "ENT_NAM": "Mme DESSE Martine",
+  "ENT_ADD": "19 Lieu-Dit Grand Rue",
+  "ENT_TOW_CIT_RES": "GENSAC",
+  "ENT_POS_COD": "33890",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

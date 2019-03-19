@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!566314_AG100",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG566314",
+  "ENT_NAM": "Muhammad Faraz Bhatti",
+  "ENT_ADD": "42 Daisy Hill",
+  "ENT_TOW_CIT_RES": "Dewsbury",
+  "ENT_POS_COD": "WF13 1LH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

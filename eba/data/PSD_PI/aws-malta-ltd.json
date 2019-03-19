@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!AWS",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "C63841",
+  "ENT_NAM": "AWS Malta Ltd",
+  "ENT_NAM_COM": "AWS Malta Ltd",
+  "ENT_ADD": "74, St. Mary Street",
+  "ENT_TOW_CIT_RES": "San Pawl tat-Targa",
+  "ENT_POS_COD": "NXR 1405",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2014-04-04"
+  ]
+}

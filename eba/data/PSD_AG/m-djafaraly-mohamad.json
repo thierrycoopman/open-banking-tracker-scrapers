@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!69963",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "751414640",
+  "ENT_NAM": "M. DJAFARALY Mohamad",
+  "ENT_ADD": "45 rue du Commerce",
+  "ENT_TOW_CIT_RES": "ST PAUL",
+  "ENT_POS_COD": "97460",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

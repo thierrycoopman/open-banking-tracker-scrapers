@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!599678!660627_AG72",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG660627",
+  "ENT_NAM": "Jiang Liangqin",
+  "ENT_ADD": "Piazza Sciuti, 1",
+  "ENT_TOW_CIT_RES": "Catania",
+  "ENT_POS_COD": "95 100",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!599678",
+  "DER_CHI_ENT_AUT": "Active"
+}

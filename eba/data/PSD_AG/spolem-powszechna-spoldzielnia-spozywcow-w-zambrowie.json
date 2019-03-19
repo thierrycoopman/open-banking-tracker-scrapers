@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2553",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2553",
+  "ENT_NAM": "\"Społem\" Powszechna Spółdzielnia Spożywców w Zambrowie",
+  "ENT_ADD": "Wojska Polskiego 37B, Zambrów, 18-300, PL",
+  "ENT_TOW_CIT_RES": "Zambrów",
+  "ENT_POS_COD": "18-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

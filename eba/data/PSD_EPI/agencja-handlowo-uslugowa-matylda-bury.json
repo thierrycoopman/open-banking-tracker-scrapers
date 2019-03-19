@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6951405780",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6951405780",
+  "ENT_NAM": "Agencja Handlowo-Usługowa Matylda Bury",
+  "ENT_ADD": "Marii Dąbrowskiej 4, Jawor, 59-400, PL",
+  "ENT_TOW_CIT_RES": "Jawor",
+  "ENT_POS_COD": "59-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-03-30"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537568!529461_AG2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG529461",
+  "ENT_NAM": "Kaysar Mahmud Hussain",
+  "ENT_ADD": "6 Westminster Street",
+  "ENT_TOW_CIT_RES": "Yeovil",
+  "ENT_POS_COD": "BA20 1AE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537568",
+  "DER_CHI_ENT_AUT": "Active"
+}

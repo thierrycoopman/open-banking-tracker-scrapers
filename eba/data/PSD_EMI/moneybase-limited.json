@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!MNB",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "C87193",
+  "ENT_NAM": "MONEYBASE LIMITED",
+  "ENT_NAM_COM": "MONEYBASE LIMITED",
+  "ENT_ADD": "Ewropa Business Centre, Triq Dun Karm",
+  "ENT_TOW_CIT_RES": "Birkirkara",
+  "ENT_POS_COD": "BKR 9034",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2018-11-27"
+  ]
+}

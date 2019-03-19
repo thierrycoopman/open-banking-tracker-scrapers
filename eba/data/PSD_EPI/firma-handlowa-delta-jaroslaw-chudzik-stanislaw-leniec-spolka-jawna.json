@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6730005303",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6730005303",
+  "ENT_NAM": "FIRMA HANDLOWA \"DELTA\" JAROSŁAW CHUDZIK, STANISŁAW LENIEC SPÓŁKA JAWNA",
+  "ENT_ADD": "Wyszyńskiego  41, Szczecinek, 78-400, PL",
+  "ENT_TOW_CIT_RES": "Szczecinek",
+  "ENT_POS_COD": "78-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-01-27"
+  ]
+}

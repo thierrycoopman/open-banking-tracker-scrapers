@@ -1,0 +1,21 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900002",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900002",
+  "ENT_NAM": "APS Financial Ltd",
+  "ENT_NAM_COM": [
+    "cashplus",
+    "APS Financial Ltd"
+  ],
+  "ENT_ADD": [
+    "Cottons Lane",
+    "Cottons Centre"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE12QG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-07-06"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!953",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "953",
+  "ENT_NAM": "Centrum Ubezpieczeń EMIS Elżbieta Sędrowska",
+  "ENT_ADD": "Armii Krajowej 2B, Węgorzewo, 11-600, PL",
+  "ENT_TOW_CIT_RES": "Węgorzewo",
+  "ENT_POS_COD": "11-600",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

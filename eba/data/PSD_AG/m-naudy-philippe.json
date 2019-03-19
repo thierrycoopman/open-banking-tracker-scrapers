@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75583",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "443865753",
+  "ENT_NAM": "M. NAUDY Philippe",
+  "ENT_ADD": [
+    "12 Lotissement la Palanque",
+    "Tabac Presse"
+  ],
+  "ENT_TOW_CIT_RES": "LA TOUR DU CRIEU",
+  "ENT_POS_COD": "09100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

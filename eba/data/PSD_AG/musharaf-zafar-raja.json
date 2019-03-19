@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!776743_AG733",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG776743",
+  "ENT_NAM": "Musharaf Zafar Raja",
+  "ENT_ADD": [
+    "Carrer de Castellar del Valles 170",
+    "Local 7"
+  ],
+  "ENT_TOW_CIT_RES": "Sabadell",
+  "ENT_POS_COD": "08208",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

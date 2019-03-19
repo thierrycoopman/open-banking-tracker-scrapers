@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!540765!543548_AG9",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG543548",
+  "ENT_NAM": "Hawkeye Sportworld Ltd",
+  "ENT_ADD": [
+    "Harlesden",
+    "59 High Street"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "NW10 4JN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!540765",
+  "DER_CHI_ENT_AUT": "Active"
+}

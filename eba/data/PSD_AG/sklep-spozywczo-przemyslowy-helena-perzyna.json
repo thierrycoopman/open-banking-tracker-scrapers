@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7556",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7556",
+  "ENT_NAM": "Sklep Spożywczo - Przemysłowy Helena Perzyna",
+  "ENT_ADD": "Władysława Gębika 77 lok. 1, Olsztyn, 10-691, PL",
+  "ENT_TOW_CIT_RES": "Olsztyn",
+  "ENT_POS_COD": "10-691",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

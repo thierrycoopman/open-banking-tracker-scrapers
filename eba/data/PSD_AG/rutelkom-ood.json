@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200623355",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200623355",
+  "ENT_NAM": [
+    "Рутелком ООД",
+    "Rutelkom OOD"
+  ],
+  "ENT_ADD": "zh.k. Lyulin, build. 301, entr. A, fl. 5, app. 24",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1336",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

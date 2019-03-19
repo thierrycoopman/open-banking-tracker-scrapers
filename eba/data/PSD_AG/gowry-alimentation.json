@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!776940_AG6301",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG776940",
+  "ENT_NAM": "Gowry Alimentation",
+  "ENT_ADD": "90-102 Rue De Chevilly",
+  "ENT_TOW_CIT_RES": "Villejuif",
+  "ENT_POS_COD": "94800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

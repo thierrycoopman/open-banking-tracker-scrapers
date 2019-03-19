@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!826265_AG2393",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG826265",
+  "ENT_NAM": "Mega Travel Ltd",
+  "ENT_ADD": [
+    "Thornton Lodge",
+    "16 Springdale Avenue"
+  ],
+  "ENT_TOW_CIT_RES": "Huddersfield",
+  "ENT_POS_COD": "HD1 3NQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

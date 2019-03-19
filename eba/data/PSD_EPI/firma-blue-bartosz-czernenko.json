@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7162242429",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7162242429",
+  "ENT_NAM": "Firma \"BLUE\" Bartosz Czerneńko",
+  "ENT_ADD": "Kowalskiego 19/74, Dęblin, 08-530, PL",
+  "ENT_TOW_CIT_RES": "Dęblin",
+  "ENT_POS_COD": "08-530",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-08"
+  ]
+}

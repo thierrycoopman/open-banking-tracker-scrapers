@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8431258262",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8431258262",
+  "ENT_NAM": "Beata Czerniawska Administarcyjna Obsługa Biura",
+  "ENT_ADD": "Kościuszki 1, Czarne, 77 - 330, PL",
+  "ENT_TOW_CIT_RES": "Czarne",
+  "ENT_POS_COD": "77 - 330",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-02-07"
+  ]
+}

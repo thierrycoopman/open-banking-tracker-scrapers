@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!579531",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "579531",
+  "ENT_NAM": "Solent House Limited (In Liquidation)",
+  "ENT_ADD": [
+    "c/o More Stephens (Sout) R&I LLP (Liquidators)",
+    "The French Quarter",
+    "114 High Street"
+  ],
+  "ENT_TOW_CIT_RES": "Southampton",
+  "ENT_POS_COD": "SO14 2AA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-09-11"
+  ]
+}

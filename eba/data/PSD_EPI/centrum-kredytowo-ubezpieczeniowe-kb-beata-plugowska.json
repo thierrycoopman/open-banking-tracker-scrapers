@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6211011274",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6211011274",
+  "ENT_NAM": "Centrum Kredytowo - Ubezpieczeniowe KB  Beata Pługowska",
+  "ENT_ADD": "Kotkowiaka 3, Pogorzela, 63-860, PL",
+  "ENT_TOW_CIT_RES": "Pogorzela",
+  "ENT_POS_COD": "63-860",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-12"
+  ]
+}

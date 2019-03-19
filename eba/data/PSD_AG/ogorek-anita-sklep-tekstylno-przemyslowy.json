@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1479",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1479",
+  "ENT_NAM": "OGÓREK ANITA SKLEP TEKSTYLNO-PRZEMYSŁOWY",
+  "ENT_ADD": "Gdańska 10, Trąbki Wielkie, 83-034, PL",
+  "ENT_TOW_CIT_RES": "Trąbki Wielkie",
+  "ENT_POS_COD": "83-034",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

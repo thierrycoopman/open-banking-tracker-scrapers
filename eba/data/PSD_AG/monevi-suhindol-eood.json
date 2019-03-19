@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!205256781",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "205256781",
+  "ENT_NAM": [
+    "Моневи Сухиндол ЕООД",
+    "Monevi Suhindol EOOD"
+  ],
+  "ENT_ADD": "106 Rositsa str., Pavilion",
+  "ENT_TOW_CIT_RES": "Suhindol",
+  "ENT_POS_COD": "5240",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

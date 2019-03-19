@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!517165",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "517165",
+  "ENT_NAM": "Custom House Financial (UK) LTD",
+  "ENT_NAM_COM": [
+    "Custom House",
+    " A Western Union Company"
+  ],
+  "ENT_ADD": "200 Hammersmith Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W6 7DL",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2010-04-01"
+  ]
+}

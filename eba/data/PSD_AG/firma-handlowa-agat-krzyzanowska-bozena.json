@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3516",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3516",
+  "ENT_NAM": "FIRMA HANDLOWA \"AGAT\" KRZYŻANOWSKA BOŻENA",
+  "ENT_ADD": "os. Południe 37, Rybnik, 44-253, PL",
+  "ENT_TOW_CIT_RES": "Rybnik",
+  "ENT_POS_COD": "44-253",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

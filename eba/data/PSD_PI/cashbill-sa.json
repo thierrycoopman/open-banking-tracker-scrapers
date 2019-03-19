@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6292410801",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "6292410801",
+  "ENT_NAM": "CashBill S.A.",
+  "ENT_ADD": "Sobieskiego 2, Katowice, 40-082, PL",
+  "ENT_TOW_CIT_RES": "Katowice",
+  "ENT_POS_COD": "40-082",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-05-07"
+  ]
+}

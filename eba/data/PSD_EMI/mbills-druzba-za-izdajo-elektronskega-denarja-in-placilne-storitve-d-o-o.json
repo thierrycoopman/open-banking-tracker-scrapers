@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "SI_BS",
+  "EntityCode": "SI_BS!6853633000",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "6853633000",
+  "ENT_NAM": "MBILLS družba za izdajo elektronskega denarja in plačilne storitve, d. o. o.",
+  "ENT_ADD": "Tržaška cesta 118",
+  "ENT_TOW_CIT_RES": "Ljubljana",
+  "ENT_POS_COD": "1000",
+  "ENT_COU_RES": "SI",
+  "ENT_AUT": [
+    "2018-12-18"
+  ]
+}

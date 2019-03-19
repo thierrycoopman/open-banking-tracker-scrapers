@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!26978636!49567586",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "49567586",
+  "ENT_NAM": "Makayová Jitka",
+  "ENT_ADD": "Jesenická 791/20",
+  "ENT_TOW_CIT_RES": "Bruntál",
+  "ENT_POS_COD": "79201",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!26978636",
+  "DER_CHI_ENT_AUT": "Active"
+}

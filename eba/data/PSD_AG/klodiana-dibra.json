@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!547454_AG863",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG547454",
+  "ENT_NAM": "Klodiana Dibra",
+  "ENT_ADD": "Via Gaspare Gozzi 3",
+  "ENT_TOW_CIT_RES": "Abano Terme",
+  "ENT_POS_COD": "35031",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

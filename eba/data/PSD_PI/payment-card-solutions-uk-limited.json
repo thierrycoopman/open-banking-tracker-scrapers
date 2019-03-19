@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!777613",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "777613",
+  "ENT_NAM": "Payment Card Solutions (UK) Limited",
+  "ENT_NAM_COM": "B4B Payments",
+  "ENT_ADD": [
+    "Unit 3a",
+    "The Plough Brewery, 516 Wandsworth Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW8 3JX",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-08-25"
+  ]
+}

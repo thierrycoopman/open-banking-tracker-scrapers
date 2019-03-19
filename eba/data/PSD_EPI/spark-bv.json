@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R131279",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R131279",
+  "ENT_NAM": "Spark B.V.",
+  "ENT_NAM_COM": "Spark B.V./Smartpark",
+  "ENT_ADD": "Nieuwstraat 4",
+  "ENT_TOW_CIT_RES": "LEIDSCHENDAM",
+  "ENT_POS_COD": "2266 AD",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

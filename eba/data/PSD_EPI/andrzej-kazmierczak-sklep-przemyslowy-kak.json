@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6791007905",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6791007905",
+  "ENT_NAM": "ANDRZEJ KAŹMIERCZAK Sklep Przemysłowy \"KAK\"",
+  "ENT_ADD": "SCHWEITZERA 11, Kraków,, 30-695, PL",
+  "ENT_TOW_CIT_RES": "Kraków,",
+  "ENT_POS_COD": "30-695",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-07-22"
+  ]
+}

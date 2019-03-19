@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!55794",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "431630847",
+  "ENT_NAM": "M. AUBINEAU Dominique",
+  "ENT_ADD": "71 avenue Galloudec",
+  "ENT_TOW_CIT_RES": "FLEURY LES AUBRAIS",
+  "ENT_POS_COD": "45400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

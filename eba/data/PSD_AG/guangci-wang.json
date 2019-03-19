@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!538435!758576_AG12",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG758576",
+  "ENT_NAM": "GUANGCI WANG",
+  "ENT_ADD": [
+    "NUMERO 45, R/CHAO DT",
+    "RUA FRANCISCO SANCHES"
+  ],
+  "ENT_TOW_CIT_RES": "LISBOA",
+  "ENT_POS_COD": "1170 141",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!538435",
+  "DER_CHI_ENT_AUT": "Active"
+}

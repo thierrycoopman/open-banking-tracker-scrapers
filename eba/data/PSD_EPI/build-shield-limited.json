@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!771793",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "771793",
+  "ENT_NAM": "Build Shield Limited",
+  "ENT_ADD": [
+    "106 Queens Road",
+    "3rd Floor"
+  ],
+  "ENT_TOW_CIT_RES": "Brighton",
+  "ENT_POS_COD": "BN1 3XF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-06-30"
+  ]
+}

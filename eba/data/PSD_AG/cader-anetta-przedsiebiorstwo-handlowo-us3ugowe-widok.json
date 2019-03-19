@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5730",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5730",
+  "ENT_NAM": "Cader Anetta Przedsiebiorstwo Handlowo - Us3ugowe \"Widok\"",
+  "ENT_ADD": "Por1bki 2, Bierna, 34-325, PL",
+  "ENT_TOW_CIT_RES": "Bierna",
+  "ENT_POS_COD": "34-325",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

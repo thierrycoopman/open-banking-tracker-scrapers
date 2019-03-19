@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!8042",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8042",
+  "ENT_NAM": "Ognista Barbara",
+  "ENT_ADD": "Adama Mickiewicza Kiosk, Mieroszów, 58-350, PL",
+  "ENT_TOW_CIT_RES": "Mieroszów",
+  "ENT_POS_COD": "58-350",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

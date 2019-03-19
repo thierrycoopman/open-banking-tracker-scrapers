@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!623879",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "623879",
+  "ENT_NAM": "Golden Xpress UK Ltd",
+  "ENT_ADD": [
+    "Sparkhill",
+    "76 Stratford Road"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B11 1AN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2014-08-11"
+  ]
+}

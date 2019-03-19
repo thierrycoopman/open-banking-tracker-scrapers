@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1174",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1174",
+  "ENT_NAM": "Kłosińska Jolanta Sklep Wielobranżowy",
+  "ENT_ADD": "Psary 5a, Drobin, 09-210, PL",
+  "ENT_TOW_CIT_RES": "Drobin",
+  "ENT_POS_COD": "09-210",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

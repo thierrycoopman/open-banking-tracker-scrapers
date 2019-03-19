@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!28",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "28",
+  "ENT_NAM": "Przedsiębiorstwo Wielobranżowe Marek Szczepanik",
+  "ENT_ADD": "ul. Polskiej Organizacji Wojskowej 74, Sieradz, 98-200, PL",
+  "ENT_TOW_CIT_RES": "Sieradz",
+  "ENT_POS_COD": "98-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!560",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "560",
+  "ENT_NAM": "Teresa Grochowska-Gajek ”ARTE” Usługi Finansowo – Księgowe",
+  "ENT_ADD": "ul. Sikorskiego 23, Kępice, 77-230, PL",
+  "ENT_TOW_CIT_RES": "Kępice",
+  "ENT_POS_COD": "77-230",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8671193065",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8671193065",
+  "ENT_NAM": "Grant Marek Rachwalski",
+  "ENT_ADD": "Wyspiańskiego  12, Tarnobrzeg, 39-400, PL",
+  "ENT_TOW_CIT_RES": "Tarnobrzeg",
+  "ENT_POS_COD": "39-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-03-21"
+  ]
+}

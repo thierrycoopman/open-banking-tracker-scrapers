@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!767096_AG667",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG767096",
+  "ENT_NAM": "Muhammad Nadeem Saleem Butt",
+  "ENT_ADD": [
+    "Calle Dr. Iranzo 43",
+    "Bajo"
+  ],
+  "ENT_TOW_CIT_RES": "Zaragoza",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68968",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "822509022",
+  "ENT_NAM": "Mme FOUCAUD Sonia",
+  "ENT_ADD": [
+    "2 Carrefour du Moulin ",
+    "La Chaume"
+  ],
+  "ENT_TOW_CIT_RES": "LES SABLES D OLONNE",
+  "ENT_POS_COD": "85100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

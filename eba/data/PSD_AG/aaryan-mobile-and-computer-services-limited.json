@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!773075_AG6087",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG773075",
+  "ENT_NAM": "Aaryan Mobile and Computer Services Limited",
+  "ENT_ADD": "33 Sydenham Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE26 5EX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

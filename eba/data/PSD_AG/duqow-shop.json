@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!631436_AG3511",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG631436",
+  "ENT_NAM": "Duqow Shop",
+  "ENT_ADD": "Kloosterdreef 110",
+  "ENT_TOW_CIT_RES": "Eindhoven",
+  "ENT_POS_COD": "5612 CT",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

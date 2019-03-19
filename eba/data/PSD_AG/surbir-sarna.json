@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!763572_AG5676",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG763572",
+  "ENT_NAM": "Surbir Sarna",
+  "ENT_ADD": "Reinprechtsdorferstrasse 39/3",
+  "ENT_TOW_CIT_RES": "Wien",
+  "ENT_POS_COD": "1050",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

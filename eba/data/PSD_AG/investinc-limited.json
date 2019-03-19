@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!767012_AG5843",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG767012",
+  "ENT_NAM": "Investinc Limited",
+  "ENT_ADD": "84 White Horse Lane",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 4LR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

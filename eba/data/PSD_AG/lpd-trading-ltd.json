@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!579306!766435_AG62",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG766435",
+  "ENT_NAM": "LPD TRADING LTD",
+  "ENT_ADD": "33 Abbotsbury Road",
+  "ENT_TOW_CIT_RES": "Morden",
+  "ENT_POS_COD": "SM4 5LJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!579306",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

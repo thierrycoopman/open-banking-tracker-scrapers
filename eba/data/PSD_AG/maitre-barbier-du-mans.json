@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!805492_AG7911",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG805492",
+  "ENT_NAM": "Maitre Barbier Du Mans",
+  "ENT_ADD": "4 Avenue Felix Geneslay",
+  "ENT_TOW_CIT_RES": "Le Mans",
+  "ENT_POS_COD": "72100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

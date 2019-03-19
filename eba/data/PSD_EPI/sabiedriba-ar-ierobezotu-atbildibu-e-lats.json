@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!435",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "40003482835",
+  "ENT_NAM": "Sabiedrība ar ierobežotu atbildību \"E LATS\"",
+  "ENT_NAM_COM": "E-LATS",
+  "ENT_ADD": "Bauskas iela 20",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1004",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2011-03-28"
+  ]
+}

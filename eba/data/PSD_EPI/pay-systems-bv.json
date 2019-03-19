@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R130347",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R130347",
+  "ENT_NAM": "Pay Systems B.V.",
+  "ENT_NAM_COM": "Pay Systems B.V.",
+  "ENT_ADD": "Hanzeweg 26",
+  "ENT_TOW_CIT_RES": "LOCHEM",
+  "ENT_POS_COD": "7241 CS",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68113",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "531012490",
+  "ENT_NAM": "Mme ISRAEL Carole",
+  "ENT_ADD": "71 Rue du Maréchal Foch",
+  "ENT_TOW_CIT_RES": "ABBEVILLE",
+  "ENT_POS_COD": "80100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

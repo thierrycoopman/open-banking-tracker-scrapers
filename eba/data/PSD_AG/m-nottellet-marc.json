@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!59823",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "418206223",
+  "ENT_NAM": "M. NOTTELLET Marc",
+  "ENT_ADD": "71 rue Pierre Bériot",
+  "ENT_TOW_CIT_RES": "DENAIN",
+  "ENT_POS_COD": "59220",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!609261",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "609261",
+  "ENT_NAM": "Funtech Global Communications Limited",
+  "ENT_ADD": "39 Coleridge Way",
+  "ENT_TOW_CIT_RES": "Borehamwood",
+  "ENT_POS_COD": "WD6 2AE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-03-09"
+  ]
+}

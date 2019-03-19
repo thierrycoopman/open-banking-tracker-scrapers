@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!811589_AG8605",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG811589",
+  "ENT_NAM": "Abdelkader Dellal",
+  "ENT_ADD": "4 Place Albert Thomas",
+  "ENT_TOW_CIT_RES": "Saint Etienne",
+  "ENT_POS_COD": "42000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

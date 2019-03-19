@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77924",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "841512304",
+  "ENT_NAM": "ROUSSE",
+  "ENT_ADD": "11 RUE DU GENERAL LECLERC",
+  "ENT_TOW_CIT_RES": "LE LION D ANGERS",
+  "ENT_POS_COD": "49220",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

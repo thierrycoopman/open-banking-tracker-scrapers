@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!514406!539941_AG19",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG539941",
+  "ENT_NAM": "Asad Ali",
+  "ENT_ADD": "457 Huddersfield Road",
+  "ENT_TOW_CIT_RES": "Dewsbury",
+  "ENT_POS_COD": "WF13 3JE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!514406",
+  "DER_CHI_ENT_AUT": "Active"
+}

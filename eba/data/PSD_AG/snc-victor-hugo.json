@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56830",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "435206891",
+  "ENT_NAM": "SNC VICTOR HUGO",
+  "ENT_ADD": "2 rue Victor Hugo",
+  "ENT_TOW_CIT_RES": "SARLAT LA CANEDA",
+  "ENT_POS_COD": "24200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

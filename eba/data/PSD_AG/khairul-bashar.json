@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!808721_AG8260",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808721",
+  "ENT_NAM": "Khairul Bashar",
+  "ENT_ADD": [
+    "Frederikssundsvej 210",
+    "Bronshoj"
+  ],
+  "ENT_TOW_CIT_RES": "Capital",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1273",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1273",
+  "ENT_NAM": "Mirosław Kowalik PHU \"AMIGO\"",
+  "ENT_ADD": "  135A, Szastarka, 23-225, PL",
+  "ENT_TOW_CIT_RES": "Szastarka",
+  "ENT_POS_COD": "23-225",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

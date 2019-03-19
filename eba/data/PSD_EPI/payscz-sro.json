@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!03686515",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "03686515",
+  "ENT_NAM": "pays.cz s.r.o. ",
+  "ENT_ADD": "Štefánikova 836/1",
+  "ENT_TOW_CIT_RES": "Brno",
+  "ENT_POS_COD": "60200",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2015-04-08"
+  ]
+}

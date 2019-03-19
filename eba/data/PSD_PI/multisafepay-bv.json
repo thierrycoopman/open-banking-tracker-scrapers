@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0035",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0035",
+  "ENT_NAM": "MultiSafepay B.V.",
+  "ENT_NAM_COM": "MultiSafepay B.V.",
+  "ENT_ADD": "Kraanspoor 39",
+  "ENT_TOW_CIT_RES": "AMSTERDAM",
+  "ENT_POS_COD": "1033 SC",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

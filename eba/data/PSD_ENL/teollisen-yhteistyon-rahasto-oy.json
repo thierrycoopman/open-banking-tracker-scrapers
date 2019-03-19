@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!4885",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "4885",
+  "ENT_NAM": "Teollisen Yhteistyön Rahasto Oy",
+  "ENT_ADD": "Ratakatu 27",
+  "ENT_TOW_CIT_RES": "HELSINKI",
+  "ENT_POS_COD": "00120",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2018-01-13"
+  ]
+}

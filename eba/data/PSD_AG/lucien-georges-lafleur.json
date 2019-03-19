@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!754059_AG5332",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG754059",
+  "ENT_NAM": "Lucien Georges Lafleur",
+  "ENT_ADD": "23 Rue Du Commandant Mortenol",
+  "ENT_TOW_CIT_RES": "Pointe A Pitre",
+  "ENT_POS_COD": "97110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

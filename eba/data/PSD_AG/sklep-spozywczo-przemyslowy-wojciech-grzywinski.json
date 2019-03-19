@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1144",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1144",
+  "ENT_NAM": "SKLEP SPOŻYWCZO-PRZEMYSŁOWY WOJCIECH GRZYWIŃSKI",
+  "ENT_ADD": "Nowy Targ 27, Nowy Targ, 82-410, PL",
+  "ENT_TOW_CIT_RES": "Nowy Targ",
+  "ENT_POS_COD": "82-410",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

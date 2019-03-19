@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!603",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "603",
+  "ENT_NAM": "Finanse i Ubezpieczenia Agnieszka Abbas",
+  "ENT_ADD": "ul. Świerczewskiego 13, Wieruszów, 98-400, PL",
+  "ENT_TOW_CIT_RES": "Wieruszów",
+  "ENT_POS_COD": "98-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

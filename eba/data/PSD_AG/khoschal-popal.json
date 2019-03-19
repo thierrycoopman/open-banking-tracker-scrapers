@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!515894_AG178",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG515894",
+  "ENT_NAM": "Khoschal Popal",
+  "ENT_ADD": "Klingerstrasse 16-20",
+  "ENT_TOW_CIT_RES": "Frankfurt Am Main",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

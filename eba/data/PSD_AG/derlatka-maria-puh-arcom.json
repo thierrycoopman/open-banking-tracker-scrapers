@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!19",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "19",
+  "ENT_NAM": "DERLATKA MARIA PUH \"ARCOM\"",
+  "ENT_ADD": "ALEJA JANA PAWŁA II 1A, Ostrowiec Świętokrzyski, 27-400, PL",
+  "ENT_TOW_CIT_RES": "Ostrowiec Świętokrzyski",
+  "ENT_POS_COD": "27-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

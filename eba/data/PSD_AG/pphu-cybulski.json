@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2743",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2743",
+  "ENT_NAM": "P.P.H.U. CYBULSKI",
+  "ENT_ADD": "Kościelna 23, Szczawin Kościelny, 95-002, PL",
+  "ENT_TOW_CIT_RES": "Szczawin Kościelny",
+  "ENT_POS_COD": "95-002",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

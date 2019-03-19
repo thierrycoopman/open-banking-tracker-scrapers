@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!656259_AG1053",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG656259",
+  "ENT_NAM": "Mamadou Billo Sow",
+  "ENT_ADD": [
+    "Unit 16",
+    "137-139 Rye Lane"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE15 4ST",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

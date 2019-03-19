@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8651005592",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "8651005592",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa Małopolska",
+  "ENT_ADD": "ul. Kwiatkowskiego  1, Stalowa Wola, 37 - 450, PL",
+  "ENT_TOW_CIT_RES": "Stalowa Wola",
+  "ENT_POS_COD": "37 - 450",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-05"
+  ]
+}

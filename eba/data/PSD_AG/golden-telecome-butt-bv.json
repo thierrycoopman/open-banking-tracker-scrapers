@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!777682_AG742",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG777682",
+  "ENT_NAM": "Golden Telecome Butt B.V",
+  "ENT_ADD": "Beeklaan 278A",
+  "ENT_TOW_CIT_RES": "Den Haag",
+  "ENT_POS_COD": "2562 AT",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

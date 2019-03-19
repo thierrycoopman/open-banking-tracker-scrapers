@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74713",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "445099443",
+  "ENT_NAM": "M. ISSOT Stéphane",
+  "ENT_ADD": "4 Rue Jean Monnet",
+  "ENT_TOW_CIT_RES": "FONSORBES",
+  "ENT_POS_COD": "31470",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

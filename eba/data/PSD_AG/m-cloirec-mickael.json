@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74100",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "512198748",
+  "ENT_NAM": "M. CLOIREC Mickaël",
+  "ENT_ADD": "1 rue de Quéven",
+  "ENT_TOW_CIT_RES": "GESTEL",
+  "ENT_POS_COD": "56530",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

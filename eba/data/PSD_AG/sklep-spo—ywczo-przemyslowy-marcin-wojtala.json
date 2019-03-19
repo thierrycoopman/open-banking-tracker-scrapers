@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3138",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3138",
+  "ENT_NAM": "SKLEP SPO—YWCZO PRZEMYSLOWY MARCIN WOJTALA",
+  "ENT_ADD": "Warszawska 43, Dawidy, 05-090, PL",
+  "ENT_TOW_CIT_RES": "Dawidy",
+  "ENT_POS_COD": "05-090",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

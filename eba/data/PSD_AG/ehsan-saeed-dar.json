@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!528845_AG336",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG528845",
+  "ENT_NAM": "Ehsan Saeed Dar",
+  "ENT_ADD": "669 Staniforth Road",
+  "ENT_TOW_CIT_RES": "Sheffield",
+  "ENT_POS_COD": "S9 4RE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

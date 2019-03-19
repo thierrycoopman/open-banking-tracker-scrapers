@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!762860_AG1537",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG762860",
+  "ENT_NAM": "Kopris Travel & Services AB",
+  "ENT_ADD": "Nobelvägen 54A",
+  "ENT_TOW_CIT_RES": "Malmö",
+  "ENT_POS_COD": "21433",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

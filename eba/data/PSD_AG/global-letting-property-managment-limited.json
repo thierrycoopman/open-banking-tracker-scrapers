@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!776550_AG6284",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG776550",
+  "ENT_NAM": "Global Letting Property Managment Limited",
+  "ENT_ADD": "92 Owler Lane",
+  "ENT_TOW_CIT_RES": "Sheffield",
+  "ENT_POS_COD": "S4 8GA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

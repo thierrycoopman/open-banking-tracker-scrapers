@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!69955905",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "69955905",
+  "ENT_NAM": "Muzslai Petr",
+  "ENT_ADD": "Pobřežní 329",
+  "ENT_TOW_CIT_RES": "Svatava",
+  "ENT_POS_COD": "35703",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

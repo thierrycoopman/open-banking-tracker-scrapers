@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!626869_AG429",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG626869",
+  "ENT_NAM": "Services Revolution SRL",
+  "ENT_ADD": [
+    "Corso Europa 68",
+    "Pontecagnano Faiano"
+  ],
+  "ENT_TOW_CIT_RES": "Montecorvino Pugliano",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

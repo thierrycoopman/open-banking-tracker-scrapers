@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!792642",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "792642",
+  "ENT_NAM": "Consents Online Limited",
+  "ENT_NAM_COM": "consents.online",
+  "ENT_ADD": [
+    "286 Euston Road",
+    "Floor 33",
+    "Euston Tower"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW1 3DP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-01-13"
+  ]
+}

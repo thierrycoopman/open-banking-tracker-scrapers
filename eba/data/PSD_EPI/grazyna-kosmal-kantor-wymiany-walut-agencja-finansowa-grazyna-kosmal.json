@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!1130125249",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "1130125249",
+  "ENT_NAM": "Grażyna Kosmal Kantor Wymiany Walut, Agencja Finansowa Grażyna Kosmal",
+  "ENT_ADD": "Pl. Mirowski 1, Warszawa, 00-138, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-138",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-23"
+  ]
+}

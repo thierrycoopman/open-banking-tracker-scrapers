@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0020!R104778",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R104778",
+  "ENT_NAM": "Megatour B.V.",
+  "ENT_ADD": "Ruysdaelbaan 43",
+  "ENT_TOW_CIT_RES": "EINDHOVEN",
+  "ENT_POS_COD": "5613 DX",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0020",
+  "DER_CHI_ENT_AUT": "Active"
+}

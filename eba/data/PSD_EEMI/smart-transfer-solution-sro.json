@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!05330769",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "05330769",
+  "ENT_NAM": "Smart Transfer Solution s.r.o. ",
+  "ENT_ADD": "Křižovnická 86/6",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "11000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-06-01"
+  ]
+}

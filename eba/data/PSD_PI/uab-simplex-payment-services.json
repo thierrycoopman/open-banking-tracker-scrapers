@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "LT_LT_BL_304445876",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "304445876",
+  "ENT_NAM": "UAB \"Simplex Payment Services\"",
+  "ENT_ADD": "Sporto g. 18",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "09238",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2017-04-18"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!716949",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "716949",
+  "ENT_NAM": "A&B General (UK) Ltd",
+  "ENT_NAM_COM": "ABFX",
+  "ENT_ADD": [
+    "Greenwich Quay",
+    "Pepys House",
+    "Unit 10",
+    "Clarence Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE8 3EY",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-08-10"
+  ]
+}

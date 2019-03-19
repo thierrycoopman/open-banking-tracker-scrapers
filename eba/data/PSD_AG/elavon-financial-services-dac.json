@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!484347!653389_AG4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG653389",
+  "ENT_NAM": "Elavon Financial Services DAC",
+  "ENT_ADD": [
+    "2nd Floor Block E,",
+    "Cherrywood Science & Technology Park"
+  ],
+  "ENT_TOW_CIT_RES": "Loughlinstown",
+  "ENT_POS_COD": "18",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!484347",
+  "DER_CHI_ENT_AUT": "Active"
+}

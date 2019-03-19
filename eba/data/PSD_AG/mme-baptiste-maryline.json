@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74725",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "508264439",
+  "ENT_NAM": "Mme BAPTISTE Maryline",
+  "ENT_ADD": "27 PL DE L'HOTEL DE VILLE",
+  "ENT_TOW_CIT_RES": "BRAZEY EN PLAINE",
+  "ENT_POS_COD": "21470",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

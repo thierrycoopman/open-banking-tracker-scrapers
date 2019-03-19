@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!175032358",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "175032358",
+  "ENT_NAM": [
+    "КИС - 2006 ЕООД",
+    "Kis - 2006 EOOD"
+  ],
+  "ENT_ADD": "zh.k. Ovcha Kupel, build. 521, entr. A, fl. 3, app. 8",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1632",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

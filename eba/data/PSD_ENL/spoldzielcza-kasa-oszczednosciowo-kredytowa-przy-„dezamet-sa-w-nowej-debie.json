@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8671031813",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "8671031813",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa przy „Dezamet” S.A. w Nowej Dębie",
+  "ENT_ADD": "ul. Szypowskiego 1, Nowa Dęba, 39-460, PL",
+  "ENT_TOW_CIT_RES": "Nowa Dęba",
+  "ENT_POS_COD": "39-460",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-02"
+  ]
+}

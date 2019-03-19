@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!767592_AG5851",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG767592",
+  "ENT_NAM": "Evelyne Bertin Billionniere",
+  "ENT_ADD": "Vieux Bourg 20 Cours Monbruno",
+  "ENT_TOW_CIT_RES": "Les Abymes",
+  "ENT_POS_COD": "97139",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

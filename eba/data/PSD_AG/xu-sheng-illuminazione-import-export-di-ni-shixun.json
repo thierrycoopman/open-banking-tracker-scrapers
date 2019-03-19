@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!599678!618343_AG42",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG618343",
+  "ENT_NAM": "Xu Sheng Illuminazione Import Export Di Ni Shixun",
+  "ENT_ADD": [
+    "22 Int.6, Ponte Di",
+    "Via Sottotreviso"
+  ],
+  "ENT_TOW_CIT_RES": "Piave",
+  "ENT_POS_COD": "3104 7",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!599678",
+  "DER_CHI_ENT_AUT": "Active"
+}

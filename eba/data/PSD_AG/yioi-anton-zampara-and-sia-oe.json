@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!800435095",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "800435095",
+  "ENT_NAM": "YIOI ANTON. ZAMPARA & SIA O.E.",
+  "ENT_ADD": "2nd km N.R. AGRINIO - KARPENISI",
+  "ENT_TOW_CIT_RES": "AGRINIO",
+  "ENT_POS_COD": "30100",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

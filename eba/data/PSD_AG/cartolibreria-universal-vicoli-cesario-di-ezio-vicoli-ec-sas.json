@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!662564_AG883",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG662564",
+  "ENT_NAM": "Cartolibreria Universal Vicoli Cesario Di Ezio Vicoli E.C. S.A.S.",
+  "ENT_ADD": "Corso Nuovo Italua 34-36-40",
+  "ENT_TOW_CIT_RES": "Vasto",
+  "ENT_POS_COD": "66 054",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

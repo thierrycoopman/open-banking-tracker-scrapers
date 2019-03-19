@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77067",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "340755677",
+  "ENT_NAM": "M. DESTHOMAS Pascal",
+  "ENT_ADD": [
+    "LE BOURG SAINT PIERRE",
+    "DE CHIGNAC"
+  ],
+  "ENT_TOW_CIT_RES": "ST PIERRE DE CHIGNAC",
+  "ENT_POS_COD": "24330",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

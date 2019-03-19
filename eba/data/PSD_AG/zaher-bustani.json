@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!829234_AG10216",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829234",
+  "ENT_NAM": "Zaher Bustani",
+  "ENT_ADD": "August Bebel Strasse 25",
+  "ENT_TOW_CIT_RES": "Ilmenau",
+  "ENT_POS_COD": "98693",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

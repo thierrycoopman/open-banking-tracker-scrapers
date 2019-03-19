@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8261346196",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8261346196",
+  "ENT_NAM": "Pośrednictwo Ubezpieczeniowe i Finansowe Bożena Łubian",
+  "ENT_ADD": "Górzno Kolonia 125, Górzno Kolonia, 08-404, PL",
+  "ENT_TOW_CIT_RES": "Górzno Kolonia",
+  "ENT_POS_COD": "08-404",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-10-27"
+  ]
+}

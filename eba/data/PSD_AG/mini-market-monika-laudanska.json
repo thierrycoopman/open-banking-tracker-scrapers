@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1457",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1457",
+  "ENT_NAM": "\"Mini Market\" Monika Laudańska",
+  "ENT_ADD": "Jana Jerzego Haffnera 44, Sopot, 81-707, PL",
+  "ENT_TOW_CIT_RES": "Sopot",
+  "ENT_POS_COD": "81-707",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

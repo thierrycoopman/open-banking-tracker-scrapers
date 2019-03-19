@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!112660816",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "112660816",
+  "ENT_NAM": [
+    "Ател инс ЕООД",
+    "Atel Ins EOOD"
+  ],
+  "ENT_ADD": "1 Trinadeseta str.",
+  "ENT_TOW_CIT_RES": "Krali Marko village",
+  "ENT_POS_COD": "4452",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

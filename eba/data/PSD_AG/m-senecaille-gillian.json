@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70828",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "499586824",
+  "ENT_NAM": "M. SENECAILLE Gillian",
+  "ENT_ADD": [
+    "75 Avenue du Lieutenant Colonel",
+    "Bernier"
+  ],
+  "ENT_TOW_CIT_RES": "LA ROCHELLE",
+  "ENT_POS_COD": "17000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

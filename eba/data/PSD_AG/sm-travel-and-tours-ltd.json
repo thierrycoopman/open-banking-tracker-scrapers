@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!786546_AG402",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG786546",
+  "ENT_NAM": "SM Travel and Tours Ltd",
+  "ENT_ADD": "293 Whitechapel Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 1BY",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

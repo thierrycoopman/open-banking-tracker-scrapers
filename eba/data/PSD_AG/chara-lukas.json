@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!76018199",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "76018199",
+  "ENT_NAM": "Chára Lukáš",
+  "ENT_ADD": "Jiránkova 2281",
+  "ENT_TOW_CIT_RES": "Pardubice",
+  "ENT_POS_COD": "53002",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

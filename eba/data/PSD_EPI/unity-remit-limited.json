@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!798474",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "798474",
+  "ENT_NAM": "Unity Remit Limited",
+  "ENT_ADD": "1 Vince Street",
+  "ENT_TOW_CIT_RES": "Smethwick",
+  "ENT_POS_COD": "B66 4JD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-03-26"
+  ]
+}

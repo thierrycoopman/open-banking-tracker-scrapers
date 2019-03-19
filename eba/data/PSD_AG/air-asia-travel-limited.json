@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!575164!584454_AG4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG584454",
+  "ENT_NAM": "Air Asia Travel Limited",
+  "ENT_ADD": "132 Dudley Road",
+  "ENT_TOW_CIT_RES": "Wolverhampton",
+  "ENT_POS_COD": "WV23 DH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!575164",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!150550",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "150550",
+  "ENT_NAM": "figo GmbH",
+  "ENT_ADD": "Gaußstraße 190 c | 22765 Hamburg",
+  "ENT_TOW_CIT_RES": "Hamburg",
+  "ENT_POS_COD": "22765",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-08-16"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4472",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4472",
+  "ENT_NAM": "Sklep spożywczo-przemysłowy Anna Florczyk",
+  "ENT_ADD": "  14, Dobrogosty, 06-520, PL",
+  "ENT_TOW_CIT_RES": "Dobrogosty",
+  "ENT_POS_COD": "06-520",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

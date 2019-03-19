@@ -1,0 +1,21 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577174",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "577174",
+  "ENT_NAM": "Supersonicz Limited",
+  "ENT_NAM_COM": [
+    "Supersonicz Money Transfer",
+    "Kapook"
+  ],
+  "ENT_ADD": [
+    "Pall Mall Court",
+    "61-67 King Street"
+  ],
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M2 4PD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-07-30"
+  ]
+}

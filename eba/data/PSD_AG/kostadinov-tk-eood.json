@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!205427499",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "205427499",
+  "ENT_NAM": [
+    "Костадинов ТК ЕООД",
+    "Kostadinov TK EOOD"
+  ],
+  "ENT_ADD": "zh.k. Meden rudnik, build 487, entr. D, fl. 1",
+  "ENT_TOW_CIT_RES": "Burgas",
+  "ENT_POS_COD": "8000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

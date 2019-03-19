@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3849",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3849",
+  "ENT_NAM": "Zbigniew Świątkiewicz Firma handlowo-usługowa \"Ola\"",
+  "ENT_ADD": "Kościuszki 57, Rędziny, 42-242, PL",
+  "ENT_TOW_CIT_RES": "Rędziny",
+  "ENT_POS_COD": "42-242",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

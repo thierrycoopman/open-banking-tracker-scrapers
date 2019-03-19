@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3576",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3576",
+  "ENT_NAM": "Delikatesy GM Grażyna Paczkowska",
+  "ENT_ADD": "Rynek 15, Dobre, 05-307, PL",
+  "ENT_TOW_CIT_RES": "Dobre",
+  "ENT_POS_COD": "05-307",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

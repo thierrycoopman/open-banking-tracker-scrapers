@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1421",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1421",
+  "ENT_NAM": "MARCIN GÓRNIAK HANDEL ARTYKUŁAMI SPOŻYWCZYMI",
+  "ENT_ADD": "Ramoty 14/lok. 5, ŁUKTA, 14-105, PL",
+  "ENT_TOW_CIT_RES": "ŁUKTA",
+  "ENT_POS_COD": "14-105",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

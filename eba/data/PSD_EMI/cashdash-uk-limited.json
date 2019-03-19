@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900769",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900769",
+  "ENT_NAM": "CashDash UK Limited",
+  "ENT_NAM_COM": "CashDash UK Limited",
+  "ENT_ADD": [
+    "Level 30, The Leadenhall Building",
+    "122 Leadenhall Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC3V 4AB",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-05-16"
+  ]
+}

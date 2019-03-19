@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!654109_AG3672",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG654109",
+  "ENT_NAM": "Dinamic Service SNC Di Gaudioso Paolo E Nicassio Anna",
+  "ENT_ADD": "Via Mizzi 85",
+  "ENT_TOW_CIT_RES": "Capurso",
+  "ENT_POS_COD": "7001 0",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

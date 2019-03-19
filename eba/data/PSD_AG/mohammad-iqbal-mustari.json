@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!793692_AG7201",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG793692",
+  "ENT_NAM": "Mohammad Iqbal Mustari",
+  "ENT_ADD": [
+    "Eichenstrasse 76 4",
+    "Wien",
+    "1120"
+  ],
+  "ENT_TOW_CIT_RES": "AUSTRIA",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

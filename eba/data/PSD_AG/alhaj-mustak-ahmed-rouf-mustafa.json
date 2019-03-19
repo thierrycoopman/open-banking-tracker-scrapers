@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!754016_AG1447",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG754016",
+  "ENT_NAM": "Alhaj Mustak Ahmed Rouf Mustafa",
+  "ENT_ADD": "259 Featherstall Road North",
+  "ENT_TOW_CIT_RES": "Oldham",
+  "ENT_POS_COD": "OL1 2NJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

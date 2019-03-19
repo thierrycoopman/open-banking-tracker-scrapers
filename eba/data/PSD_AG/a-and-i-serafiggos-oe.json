@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!999436557",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "999436557",
+  "ENT_NAM": "A. & I. SERAFIGGOS O.E.",
+  "ENT_ADD": "18, PEYKON Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "14122",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

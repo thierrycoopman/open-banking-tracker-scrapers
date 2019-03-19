@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!538513_AG17",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG538513",
+  "ENT_NAM": "Fairjoint & Co Ltd",
+  "ENT_ADD": [
+    "Red Lion Court, Alexandra Road",
+    "Unit 1"
+  ],
+  "ENT_TOW_CIT_RES": "Hounslow",
+  "ENT_POS_COD": "TW3 1JS",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}

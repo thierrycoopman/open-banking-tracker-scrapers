@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!652747_AG3644",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG652747",
+  "ENT_NAM": "Wasim Shahzad",
+  "ENT_ADD": "59 Top Moor Side",
+  "ENT_TOW_CIT_RES": "Leeds",
+  "ENT_POS_COD": "LS11 9LH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

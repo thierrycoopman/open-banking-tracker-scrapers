@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!7543004879!8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8",
+  "ENT_NAM": "IXI CONNECT sp. z o. o. ",
+  "ENT_ADD": "Gdańska 28/7, Głubczyce, 48-100, PL",
+  "ENT_TOW_CIT_RES": "Głubczyce",
+  "ENT_POS_COD": "48-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7543004879",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68900",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "505398172",
+  "ENT_NAM": "SNC MESSIAEN",
+  "ENT_ADD": "134 avenue du Général Leclerc",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75014",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

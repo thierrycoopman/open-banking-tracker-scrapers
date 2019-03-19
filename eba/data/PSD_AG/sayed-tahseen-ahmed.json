@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!543412!540240_AG8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG540240",
+  "ENT_NAM": "Sayed Tahseen Ahmed",
+  "ENT_ADD": "196 Dunstable Road",
+  "ENT_TOW_CIT_RES": "Luton",
+  "ENT_POS_COD": "LU4 8JJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!543412",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!7",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo - Usługowe - Anna Mierzwa",
+  "ENT_ADD": "Rynek 6, Kluczbork, 46-200, PL",
+  "ENT_TOW_CIT_RES": "Kluczbork",
+  "ENT_POS_COD": "46-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}

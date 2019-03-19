@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!786684_AG405",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG786684",
+  "ENT_NAM": "Asgar Ebrahim",
+  "ENT_ADD": [
+    "Calle Igualada, 1",
+    "Vilafranca del Penedes"
+  ],
+  "ENT_TOW_CIT_RES": "Barcelona",
+  "ENT_POS_COD": "08720",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

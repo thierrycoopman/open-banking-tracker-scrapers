@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65828",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "502119266",
+  "ENT_NAM": "Mme ALVES Marie-Thérèse",
+  "ENT_ADD": [
+    "2 - 4 rue des Pins",
+    "Saint Pierre la Mer"
+  ],
+  "ENT_TOW_CIT_RES": "FLEURY D AUDE",
+  "ENT_POS_COD": "11560",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!27954",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "27954",
+  "ENT_NAM": "Fundu Technology Oy",
+  "ENT_ADD": "Jokipiintie 230",
+  "ENT_TOW_CIT_RES": "JOKIPII",
+  "ENT_POS_COD": "61280",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2010-04-01"
+  ]
+}

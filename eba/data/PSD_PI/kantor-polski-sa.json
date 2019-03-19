@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5832859681",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "5832859681",
+  "ENT_NAM": "Kantor Polski S.A.",
+  "ENT_ADD": "Jabłoniowa  20/405, Gdańsk, 80-175, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-175",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-05-27"
+  ]
+}

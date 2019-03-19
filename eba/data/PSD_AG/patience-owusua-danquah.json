@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!743872_AG5026",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG743872",
+  "ENT_NAM": "Patience Owusua Danquah",
+  "ENT_ADD": "245 Kensington Road",
+  "ENT_TOW_CIT_RES": "Liverpool",
+  "ENT_POS_COD": "L7 2RG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7390005870",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7390005870",
+  "ENT_NAM": "Zakład Usługowo-Handlowy Waldemar Mikitiuk",
+  "ENT_ADD": "Krótka 2, Olsztynek, 11-015, PL",
+  "ENT_TOW_CIT_RES": "Olsztynek",
+  "ENT_POS_COD": "11-015",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-12"
+  ]
+}

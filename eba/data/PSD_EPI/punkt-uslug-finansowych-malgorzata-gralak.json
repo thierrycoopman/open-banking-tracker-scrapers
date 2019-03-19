@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7751955387",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7751955387",
+  "ENT_NAM": "Punkt Usług Finansowych Małgorzata Gralak",
+  "ENT_ADD": "Pl. Wolności 14, Kutno, 99-300, PL",
+  "ENT_TOW_CIT_RES": "Kutno",
+  "ENT_POS_COD": "99-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-12"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!543890_AG560",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG543890",
+  "ENT_NAM": "Tommaso Cattolico",
+  "ENT_ADD": "Corso Vittorio Emanuele 51",
+  "ENT_TOW_CIT_RES": "San Giuseppe Vesuviano",
+  "ENT_POS_COD": "80047",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

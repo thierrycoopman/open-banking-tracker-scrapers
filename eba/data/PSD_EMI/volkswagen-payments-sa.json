@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "LU_CSSF!W00000008",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "W00000008",
+  "ENT_NAM": "Volkswagen Payments S.A. ",
+  "ENT_ADD": "19-21, route d'Arlon",
+  "ENT_TOW_CIT_RES": "Strassen",
+  "ENT_POS_COD": "8009",
+  "ENT_COU_RES": "LU",
+  "ENT_AUT": [
+    "2017-12-04"
+  ]
+}

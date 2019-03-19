@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8871330584",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8871330584",
+  "ENT_NAM": "Sklep Handlowo - Usługowy \"AGA\" Grażyna Czapla",
+  "ENT_ADD": "Os. XX - lecia 2/3, Ząbkowice Śląskie, 57-200, PL",
+  "ENT_TOW_CIT_RES": "Ząbkowice Śląskie",
+  "ENT_POS_COD": "57-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-09-20",
+    "2018-11-26"
+  ]
+}

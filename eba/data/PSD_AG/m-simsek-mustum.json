@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77038",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "792823122",
+  "ENT_NAM": "M. SIMSEK Müstüm",
+  "ENT_ADD": "2 Rue Creuse ",
+  "ENT_TOW_CIT_RES": "GARNAY",
+  "ENT_POS_COD": "28500",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

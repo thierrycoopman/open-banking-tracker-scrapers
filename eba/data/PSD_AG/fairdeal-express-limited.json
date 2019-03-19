@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!833909_AG2557",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG833909",
+  "ENT_NAM": "Fairdeal Express Limited",
+  "ENT_ADD": [
+    "Vallance Road",
+    "14"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 5HR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

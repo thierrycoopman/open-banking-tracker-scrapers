@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3771",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3771",
+  "ENT_NAM": "Zenon Tercjak CENTRUM UBIEZPIECZEN",
+  "ENT_ADD": "Genera3a Augusta Emila Fieldorfa NILA 5A/lok. 6, Ostro3eka, 07-410, PL",
+  "ENT_TOW_CIT_RES": "Ostro3eka",
+  "ENT_POS_COD": "07-410",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!555481!810214_AG27",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG810214",
+  "ENT_NAM": "Mohamed Jeylani Mahamud",
+  "ENT_ADD": "253 Dudley Road",
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B18 4EJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!555481",
+  "DER_CHI_ENT_AUT": "Active"
+}

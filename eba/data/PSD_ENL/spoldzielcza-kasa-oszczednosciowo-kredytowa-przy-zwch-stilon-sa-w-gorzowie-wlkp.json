@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5992045450",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "5992045450",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa przy ZWCh \"Stilon\" S.A. w Gorzowie Wlkp.",
+  "ENT_ADD": "ul. Fr. Walczaka 25A, Gorzów Wielkopolski, 66-400, PL",
+  "ENT_TOW_CIT_RES": "Gorzów Wielkopolski",
+  "ENT_POS_COD": "66-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-07"
+  ]
+}

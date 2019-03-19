@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!119642169",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "119642169",
+  "ENT_NAM": [
+    "Креин ЕООД",
+    "Krein EOOD"
+  ],
+  "ENT_ADD": "4 Todor Ikonomov str., build. 1, app. 4",
+  "ENT_TOW_CIT_RES": "Sliven",
+  "ENT_POS_COD": "8800",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

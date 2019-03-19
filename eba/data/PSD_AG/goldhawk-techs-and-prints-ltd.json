@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!765198_AG171",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG765198",
+  "ENT_NAM": "Goldhawk Techs & Prints Ltd",
+  "ENT_ADD": "71 Goldhawk Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W12 8EG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

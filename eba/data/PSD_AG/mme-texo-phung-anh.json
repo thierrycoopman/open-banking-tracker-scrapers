@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74434",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "801583394",
+  "ENT_NAM": "Mme TEXO Phung Anh",
+  "ENT_ADD": "32 RUE GENERAL DE GAULLE",
+  "ENT_TOW_CIT_RES": "CROUY SUR OURCQ",
+  "ENT_POS_COD": "77840",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

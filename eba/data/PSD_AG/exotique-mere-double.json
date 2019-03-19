@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13046!59033",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "499340917",
+  "ENT_NAM": "EXOTIQUE MERE DOUBLE",
+  "ENT_ADD": "31 quai de la Grande Ile",
+  "ENT_TOW_CIT_RES": "MEAUX",
+  "ENT_POS_COD": "77100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13046",
+  "DER_CHI_ENT_AUT": "Active"
+}

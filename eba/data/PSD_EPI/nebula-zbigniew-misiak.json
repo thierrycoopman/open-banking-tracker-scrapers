@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7271552689",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7271552689",
+  "ENT_NAM": "\"NEBULA\" Zbigniew Misiak",
+  "ENT_ADD": "gen. Lucjana Żeligowskiego 20/43, Łódź, 90-753, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "90-753",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-11-09"
+  ]
+}

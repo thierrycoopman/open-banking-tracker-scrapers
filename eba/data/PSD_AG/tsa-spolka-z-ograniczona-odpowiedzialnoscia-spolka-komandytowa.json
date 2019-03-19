@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!38",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "38",
+  "ENT_NAM": "TSA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+  "ENT_ADD": "Aleja Marii Danilewicz-Zielińskiej 19 A, Stawki, 87-700, PL",
+  "ENT_TOW_CIT_RES": "Stawki",
+  "ENT_POS_COD": "87-700",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

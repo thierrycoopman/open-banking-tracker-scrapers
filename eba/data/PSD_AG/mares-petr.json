@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!70729557",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "70729557",
+  "ENT_NAM": "Mareš Petr",
+  "ENT_ADD": "Jedličkova 1403/35",
+  "ENT_TOW_CIT_RES": "Lysá nad Labem",
+  "ENT_POS_COD": "28922",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

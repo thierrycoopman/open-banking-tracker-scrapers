@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!826857_AG2403",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG826857",
+  "ENT_NAM": "Tic Accessories Kingdom Ltd",
+  "ENT_ADD": [
+    "Suite 1",
+    "47 Vallance Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 5AB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

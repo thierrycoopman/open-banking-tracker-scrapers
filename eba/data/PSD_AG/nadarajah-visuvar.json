@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!607282_AG198",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG607282",
+  "ENT_NAM": "Nadarajah Visuvar",
+  "ENT_ADD": "Philadelphia Strasse 135",
+  "ENT_TOW_CIT_RES": "Krefeld",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

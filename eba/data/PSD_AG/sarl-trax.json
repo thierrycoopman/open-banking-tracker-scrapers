@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!813286_AG8739",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG813286",
+  "ENT_NAM": "Sarl Trax",
+  "ENT_ADD": "3 Place Godard",
+  "ENT_TOW_CIT_RES": "Valentigney",
+  "ENT_POS_COD": "25700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

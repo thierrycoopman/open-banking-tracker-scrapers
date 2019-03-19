@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!836458_AG10743",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG836458",
+  "ENT_NAM": "Zainulabadin Rana",
+  "ENT_ADD": [
+    "33100",
+    "Viale Ungheria 127 AB",
+    "Udine"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

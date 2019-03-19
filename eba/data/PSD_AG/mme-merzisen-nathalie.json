@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65734",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "531330777",
+  "ENT_NAM": "Mme MERZISEN Nathalie",
+  "ENT_ADD": "6, rue du Général de Gaulle",
+  "ENT_TOW_CIT_RES": "HESINGUE",
+  "ENT_POS_COD": "68220",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

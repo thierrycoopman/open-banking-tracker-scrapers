@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!806236",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "806236",
+  "ENT_NAM": "Thirdfort Limited",
+  "ENT_ADD": [
+    "4th Floor, Sutton Yard",
+    "65 Goswell Street",
+    "Geovation Hub"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC1V 7EN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-07-24"
+  ]
+}

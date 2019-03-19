@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56988",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "439624560",
+  "ENT_NAM": "M. MAY Philippe",
+  "ENT_ADD": "37 rue Hyacinthe Montaudon",
+  "ENT_TOW_CIT_RES": "LA SOUTERRAINE",
+  "ENT_POS_COD": "23300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

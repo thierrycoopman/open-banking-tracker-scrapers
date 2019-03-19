@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3584",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3584",
+  "ENT_NAM": "MONIMAX Monika Czekało",
+  "ENT_ADD": "Koszalińska 15, Karlino, 78-230, PL",
+  "ENT_TOW_CIT_RES": "Karlino",
+  "ENT_POS_COD": "78-230",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

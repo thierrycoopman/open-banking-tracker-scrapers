@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!03025519",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "03025519",
+  "ENT_NAM": "TRAFIKA SJ s.r.o.",
+  "ENT_ADD": "Tepelská 137/3",
+  "ENT_TOW_CIT_RES": "Mariánské Lázně",
+  "ENT_POS_COD": "35301",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

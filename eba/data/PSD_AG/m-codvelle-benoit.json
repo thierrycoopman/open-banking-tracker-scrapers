@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56456",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "753147867",
+  "ENT_NAM": "M. CODVELLE Benoit",
+  "ENT_ADD": "Centre Commercial la Clairette",
+  "ENT_TOW_CIT_RES": "LES VANS",
+  "ENT_POS_COD": "07140",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

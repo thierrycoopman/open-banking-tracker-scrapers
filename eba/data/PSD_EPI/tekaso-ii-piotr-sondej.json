@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8861263923",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8861263923",
+  "ENT_NAM": "TEKASO II Piotr Sondej",
+  "ENT_ADD": "Sienkiewicza 1, Głuszyca, 58-340, PL",
+  "ENT_TOW_CIT_RES": "Głuszyca",
+  "ENT_POS_COD": "58-340",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-17"
+  ]
+}

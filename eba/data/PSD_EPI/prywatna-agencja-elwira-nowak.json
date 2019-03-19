@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5751354327",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5751354327",
+  "ENT_NAM": "Prywatna Agencja Elwira Nowak",
+  "ENT_ADD": "1 Maja  5, Kalety, 42-660, PL",
+  "ENT_TOW_CIT_RES": "Kalety",
+  "ENT_POS_COD": "42-660",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-02-02"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!705198_AG4207",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG705198",
+  "ENT_NAM": "Amjad Ali Khan",
+  "ENT_ADD": "Duenenweg 1 b",
+  "ENT_TOW_CIT_RES": "Boltenhagen",
+  "ENT_POS_COD": "23946",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

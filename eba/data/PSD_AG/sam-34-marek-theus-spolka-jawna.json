@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4714",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4714",
+  "ENT_NAM": "\"SAM 34 MAREK THEUS\" SPÓŁKA JAWNA",
+  "ENT_ADD": "BAJKI 8A, GDAŃSK, 80-706, PL",
+  "ENT_TOW_CIT_RES": "GDAŃSK",
+  "ENT_POS_COD": "80-706",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

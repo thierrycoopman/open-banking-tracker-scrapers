@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!784618_AG6730",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG784618",
+  "ENT_NAM": "S R S Superstore Limited",
+  "ENT_ADD": "338 St. Saviours Road",
+  "ENT_TOW_CIT_RES": "Leicester",
+  "ENT_POS_COD": "LE5 4HJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

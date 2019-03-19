@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!71667",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "809225964",
+  "ENT_NAM": "LE COMPTOIR D'ESTOUBLON",
+  "ENT_ADD": "Le Péage",
+  "ENT_TOW_CIT_RES": "ESTOUBLON",
+  "ENT_POS_COD": "04270",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

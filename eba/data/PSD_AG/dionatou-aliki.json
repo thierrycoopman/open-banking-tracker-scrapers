@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!116161456",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "116161456",
+  "ENT_NAM": "DIONATOU ALIKI",
+  "ENT_ADD": "41, MINOOS Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "12241",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

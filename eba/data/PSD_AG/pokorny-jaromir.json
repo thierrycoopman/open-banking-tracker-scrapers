@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!14490277",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "14490277",
+  "ENT_NAM": "Pokorný Jaromír",
+  "ENT_ADD": "Jalovcová 1848/1",
+  "ENT_TOW_CIT_RES": "České Budějovice",
+  "ENT_POS_COD": "37008",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

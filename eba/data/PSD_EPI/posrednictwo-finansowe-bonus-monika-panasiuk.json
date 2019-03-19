@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5372137531",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5372137531",
+  "ENT_NAM": "POŚREDNICTWO FINANSOWE \"BONUS\" MONIKA PANASIUK",
+  "ENT_ADD": "Parkowa 21, Biała Podlaska, 21-500, PL",
+  "ENT_TOW_CIT_RES": "Biała Podlaska",
+  "ENT_POS_COD": "21-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-01-25",
+    "2018-07-16"
+  ]
+}

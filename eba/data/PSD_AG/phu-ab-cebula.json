@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3746",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3746",
+  "ENT_NAM": "PHU AB CEBULA",
+  "ENT_ADD": "Jana Pawła II 13a, Paczków, 48-370, PL",
+  "ENT_TOW_CIT_RES": "Paczków",
+  "ENT_POS_COD": "48-370",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

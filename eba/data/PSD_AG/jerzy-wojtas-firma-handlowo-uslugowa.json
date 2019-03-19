@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!729",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "729",
+  "ENT_NAM": "Jerzy Wojtas Firma Handlowo - Usługowa",
+  "ENT_ADD": "1 Maja 12, Szczucin, 33-230, PL",
+  "ENT_TOW_CIT_RES": "Szczucin",
+  "ENT_POS_COD": "33-230",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

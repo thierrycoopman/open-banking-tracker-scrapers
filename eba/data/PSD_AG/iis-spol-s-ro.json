@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!25626558!25094416",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "25094416",
+  "ENT_NAM": "I.I.S. spol. s r.o.",
+  "ENT_ADD": "Vyžlovská 2251/52",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "10000",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!25626558",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1533",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1533",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo-Usługowe Jan Komarnicki",
+  "ENT_ADD": "Wolności 12-13, Świerzawa, 59-540, PL",
+  "ENT_TOW_CIT_RES": "Świerzawa",
+  "ENT_POS_COD": "59-540",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

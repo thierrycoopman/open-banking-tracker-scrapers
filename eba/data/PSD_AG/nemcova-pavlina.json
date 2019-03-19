@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!72308702",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "72308702",
+  "ENT_NAM": "Němcová Pavlína",
+  "ENT_ADD": "U Leskavy 787/29",
+  "ENT_TOW_CIT_RES": "Brno",
+  "ENT_POS_COD": "62500",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!205391512",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "205391512",
+  "ENT_NAM": [
+    "Цветелина 19 ЕООД",
+    "Cvetelina 19 EOOD"
+  ],
+  "ENT_ADD": "zh.k. Levski Zona G, build. 32, entr. D, fl. 1, app. 109, Poduyane dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1836",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

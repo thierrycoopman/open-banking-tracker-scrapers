@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200879917",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200879917",
+  "ENT_NAM": [
+    "ЕТ Еделвайс - Фейме Юрюкчи",
+    "ET Edelvays - Feyme Yuryukchi"
+  ],
+  "ENT_ADD": "8 Edelvays str., Sevlievo municipality, Gabrovo area",
+  "ENT_TOW_CIT_RES": "Ryahovtsite village",
+  "ENT_POS_COD": "5440",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

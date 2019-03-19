@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!45528586",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "45528586",
+  "ENT_NAM": "Čeřovský František",
+  "ENT_ADD": "Lázeňská 176",
+  "ENT_TOW_CIT_RES": "Lázně Bělohrad",
+  "ENT_POS_COD": "50781",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

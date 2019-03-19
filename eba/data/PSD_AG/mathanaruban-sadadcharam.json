@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!762580_AG1532",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG762580",
+  "ENT_NAM": "Mathanaruban Sadadcharam",
+  "ENT_ADD": [
+    "London Road",
+    "7 Laings Corner"
+  ],
+  "ENT_TOW_CIT_RES": "Mitcham",
+  "ENT_POS_COD": "CR4 2JA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

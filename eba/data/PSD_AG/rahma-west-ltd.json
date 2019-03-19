@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!714314_AG349",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG714314",
+  "ENT_NAM": "Rahma West Ltd",
+  "ENT_ADD": "218 Woodlands Road",
+  "ENT_TOW_CIT_RES": "Glasgow",
+  "ENT_POS_COD": "G3 6LN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

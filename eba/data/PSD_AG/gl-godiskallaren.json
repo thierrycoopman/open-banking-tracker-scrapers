@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!509272_AG77",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG509272",
+  "ENT_NAM": "Gl Godiskallaren",
+  "ENT_ADD": "Kyrkogatan 17",
+  "ENT_TOW_CIT_RES": "Skovde",
+  "ENT_POS_COD": "54 130",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

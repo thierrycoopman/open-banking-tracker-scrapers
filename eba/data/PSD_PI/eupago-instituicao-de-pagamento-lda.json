@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PT_BP",
+  "EntityCode": "PSD_PI!PT_BP!8709",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "8709",
+  "ENT_NAM": "Eupago - Instituição de Pagamento Lda",
+  "ENT_NAM_COM": "Eupago",
+  "ENT_ADD": "Rua do Paraíso, 258",
+  "ENT_TOW_CIT_RES": "Porto",
+  "ENT_POS_COD": "4000-376",
+  "ENT_COU_RES": "PT",
+  "ENT_AUT": [
+    "2015-04-13"
+  ]
+}

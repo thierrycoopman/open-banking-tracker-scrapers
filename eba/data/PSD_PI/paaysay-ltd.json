@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!665640",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "665640",
+  "ENT_NAM": "Paaysay Ltd",
+  "ENT_NAM_COM": "PaySay",
+  "ENT_ADD": [
+    "The Wenta Business Centre",
+    "Colne Way",
+    "Unit 400"
+  ],
+  "ENT_TOW_CIT_RES": "Watford",
+  "ENT_POS_COD": "WD24 7ND",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-08-21"
+  ]
+}

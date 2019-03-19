@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!792306_AG522",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG792306",
+  "ENT_NAM": "A & K Flights Ltd",
+  "ENT_ADD": "315 Green Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E13 9AR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

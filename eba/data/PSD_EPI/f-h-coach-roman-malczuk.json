@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6931003966",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6931003966",
+  "ENT_NAM": "F. H. \"COACH\" Roman Malczuk",
+  "ENT_ADD": "Pomorska 15, Legnica, 59-220, PL",
+  "ENT_TOW_CIT_RES": "Legnica",
+  "ENT_POS_COD": "59-220",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-10-23",
+    "2018-07-31"
+  ]
+}

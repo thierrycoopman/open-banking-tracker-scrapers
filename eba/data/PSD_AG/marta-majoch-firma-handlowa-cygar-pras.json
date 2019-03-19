@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!266",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "266",
+  "ENT_NAM": "Marta Majoch Firma Handlowa \"Cygar-Pras\"",
+  "ENT_ADD": "Szlak Papieski 94, Bańska Wyżna, 34-424, PL",
+  "ENT_TOW_CIT_RES": "Bańska Wyżna",
+  "ENT_POS_COD": "34-424",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

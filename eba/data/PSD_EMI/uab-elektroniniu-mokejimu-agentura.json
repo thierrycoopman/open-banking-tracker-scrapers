@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "LT_LT_BL_136031358",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "136031358",
+  "ENT_NAM": "UAB \"Elektroninių mokėjimų agentūra\"",
+  "ENT_ADD": "Žvejų str. 14",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "09310",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2017-09-20"
+  ]
+}

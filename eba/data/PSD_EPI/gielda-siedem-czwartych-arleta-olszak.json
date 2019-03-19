@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8431054766",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8431054766",
+  "ENT_NAM": "GIEŁDA SIEDEM CZWARTYCH - Arleta Olszak",
+  "ENT_ADD": "Traugutta 8/1, Debrzno, 77-310, PL",
+  "ENT_TOW_CIT_RES": "Debrzno",
+  "ENT_POS_COD": "77-310",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-04-20"
+  ]
+}

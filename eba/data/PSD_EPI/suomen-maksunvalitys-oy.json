@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!25134",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "25134",
+  "ENT_NAM": "Suomen Maksunvälitys Oy",
+  "ENT_ADD": "Mannerheimintie 12 B",
+  "ENT_TOW_CIT_RES": "HELSINKI",
+  "ENT_POS_COD": "00100",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2010-04-01"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!647805_AG671",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG647805",
+  "ENT_NAM": "Cosimo Davide",
+  "ENT_ADD": "Via San Martino 452",
+  "ENT_TOW_CIT_RES": "Vittoria",
+  "ENT_POS_COD": "97 019",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

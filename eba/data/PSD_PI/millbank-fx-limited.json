@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!787366",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "787366",
+  "ENT_NAM": "Millbank FX Limited",
+  "ENT_ADD": [
+    "GHL House",
+    "12-14 Albion Place"
+  ],
+  "ENT_TOW_CIT_RES": "Maidstone",
+  "ENT_POS_COD": "ME14 5DZ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-02-08"
+  ]
+}

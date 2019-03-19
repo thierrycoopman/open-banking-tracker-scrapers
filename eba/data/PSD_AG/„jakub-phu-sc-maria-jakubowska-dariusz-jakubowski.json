@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971683744!147",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "147",
+  "ENT_NAM": "„JAKUB” P.H.U. s.c. Maria Jakubowska, Dariusz Jakubowski",
+  "ENT_ADD": "Broniewskiego 67, Łódź, 93-258, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "93-258",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971683744",
+  "DER_CHI_ENT_AUT": "Active"
+}

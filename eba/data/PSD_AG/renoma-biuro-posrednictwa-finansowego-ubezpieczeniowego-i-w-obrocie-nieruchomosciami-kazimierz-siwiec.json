@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!7343537648!19",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "19",
+  "ENT_NAM": "RENOMA Biuro Pośrednictwa Finansowego, Ubezpieczeniowego i w Obrocie Nieruchomościami Kazimierz Siwiec",
+  "ENT_ADD": "Towarowa 2B, Czechowice-Dziedzice, 43-502, PL",
+  "ENT_TOW_CIT_RES": "Czechowice-Dziedzice",
+  "ENT_POS_COD": "43-502",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7343537648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57449",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "539299560",
+  "ENT_NAM": "SNC BARBIER",
+  "ENT_ADD": [
+    "1-3 boulevard Salvador Allende",
+    "Le Tillia"
+  ],
+  "ENT_TOW_CIT_RES": "ST HERBLAIN",
+  "ENT_POS_COD": "44800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

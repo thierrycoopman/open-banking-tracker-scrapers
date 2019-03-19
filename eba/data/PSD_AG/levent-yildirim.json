@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!816014_AG8978",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG816014",
+  "ENT_NAM": "Levent Yildirim",
+  "ENT_ADD": "Schoenhauser Allee 91",
+  "ENT_TOW_CIT_RES": "Berlin",
+  "ENT_POS_COD": "10439",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

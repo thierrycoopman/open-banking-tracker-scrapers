@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5851450734!23",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "23",
+  "ENT_NAM": "Przedsiębiorstwo Wielobranżowe \"Małgosia\"- Maria Andrzejewska-Różanowska",
+  "ENT_ADD": "Szostka 44, Radziejów, 88-200, PL",
+  "ENT_TOW_CIT_RES": "Radziejów",
+  "ENT_POS_COD": "88-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851450734",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

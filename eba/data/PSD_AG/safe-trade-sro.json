@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!28638581",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "28638581",
+  "ENT_NAM": "Safe Trade s.r.o.",
+  "ENT_ADD": "Sirotčí 605/10",
+  "ENT_TOW_CIT_RES": "Ostrava",
+  "ENT_POS_COD": "70300",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

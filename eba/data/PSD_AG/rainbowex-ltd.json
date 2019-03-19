@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!767566_AG537",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG767566",
+  "ENT_NAM": "Rainbow.Ex Ltd",
+  "ENT_ADD": [
+    "Ghani Baloch Court",
+    "123-125 City Road",
+    "Unit 1A"
+  ],
+  "ENT_TOW_CIT_RES": "Cardiff",
+  "ENT_POS_COD": "CF24 3BP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

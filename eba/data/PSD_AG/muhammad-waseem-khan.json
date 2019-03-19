@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!822907_AG9538",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG822907",
+  "ENT_NAM": "Muhammad Waseem Khan",
+  "ENT_ADD": "14 Well Street",
+  "ENT_TOW_CIT_RES": "Paisley",
+  "ENT_POS_COD": "PA1 2SW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

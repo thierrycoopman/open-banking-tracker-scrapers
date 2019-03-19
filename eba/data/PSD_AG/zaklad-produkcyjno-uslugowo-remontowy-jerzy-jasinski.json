@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6961276166!4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4",
+  "ENT_NAM": "Zakład Produkcyjno - Usługowo - Remontowy Jerzy Jasiński",
+  "ENT_ADD": "Mikołowska 3A, Mysłowice, 41-400, PL",
+  "ENT_TOW_CIT_RES": "Mysłowice",
+  "ENT_POS_COD": "41-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6961276166",
+  "DER_CHI_ENT_AUT": "Active"
+}

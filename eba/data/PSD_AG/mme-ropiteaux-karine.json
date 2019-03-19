@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77177",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "794253609",
+  "ENT_NAM": "Mme ROPITEAUX Karine",
+  "ENT_ADD": "45 Route Nationale 5",
+  "ENT_TOW_CIT_RES": "PARCEY",
+  "ENT_POS_COD": "39100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

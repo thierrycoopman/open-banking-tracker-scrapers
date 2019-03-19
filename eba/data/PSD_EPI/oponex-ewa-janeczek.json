@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7731012145",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7731012145",
+  "ENT_NAM": "\"OPONEX\" Ewa Janeczek",
+  "ENT_ADD": "Odlewnicza 34, Koluszki, 95-040, PL",
+  "ENT_TOW_CIT_RES": "Koluszki",
+  "ENT_POS_COD": "95-040",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-09-03"
+  ]
+}

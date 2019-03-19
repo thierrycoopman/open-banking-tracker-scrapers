@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9452125791",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9452125791",
+  "ENT_NAM": "Anna Gnyla Jokanik",
+  "ENT_ADD": "Celarowska 16/94, Kraków, 31-414, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "31-414",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-04-03"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!553517_AG158",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG553517",
+  "ENT_NAM": "EU Money Transfer Limited",
+  "ENT_ADD": [
+    "Moore Street",
+    "Ilac Shopping Centre",
+    "Unit 10"
+  ],
+  "ENT_TOW_CIT_RES": "Dublin 1",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

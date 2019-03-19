@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8881976164",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8881976164",
+  "ENT_NAM": "Progres Kamila Baranowska",
+  "ENT_ADD": "Budowlanych 1B, Włocławek, 87-800, PL",
+  "ENT_TOW_CIT_RES": "Włocławek",
+  "ENT_POS_COD": "87-800",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-01-21"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!582177!505427_AG2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG505427",
+  "ENT_NAM": "Mohamed Isse Warsame",
+  "ENT_ADD": "21 Gibraltar Street",
+  "ENT_TOW_CIT_RES": "Bolton",
+  "ENT_POS_COD": "BL3 5DY",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!582177",
+  "DER_CHI_ENT_AUT": "Active"
+}

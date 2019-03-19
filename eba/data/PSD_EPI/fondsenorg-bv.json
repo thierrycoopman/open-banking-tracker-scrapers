@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R104854",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R104854",
+  "ENT_NAM": "fondsen.org B.V.",
+  "ENT_NAM_COM": "fondsen.org B.V.",
+  "ENT_ADD": "Strandplevier 23",
+  "ENT_TOW_CIT_RES": "NOORDWIJK ZH",
+  "ENT_POS_COD": "2201 XJ",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

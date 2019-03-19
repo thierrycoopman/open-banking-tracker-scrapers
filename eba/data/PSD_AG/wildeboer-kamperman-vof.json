@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R107814",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R107814",
+  "ENT_NAM": "Wildeboer Kamperman V.O.F.",
+  "ENT_ADD": "Dorpsstraat 32",
+  "ENT_TOW_CIT_RES": "ELST GLD",
+  "ENT_POS_COD": "6661 EL",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

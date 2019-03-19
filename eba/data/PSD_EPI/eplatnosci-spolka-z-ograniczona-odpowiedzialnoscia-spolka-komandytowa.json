@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5512627897",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5512627897",
+  "ENT_NAM": "Epłatności spółka z ograniczoną odpowiedzialnością spółka komandytowa",
+  "ENT_ADD": "27 Stycznia 9, Andrychów, 34-120, PL",
+  "ENT_TOW_CIT_RES": "Andrychów",
+  "ENT_POS_COD": "34-120",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-04-11"
+  ]
+}

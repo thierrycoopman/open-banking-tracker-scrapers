@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!295",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "295",
+  "ENT_NAM": "Przedsiębiorstwo Wielobranżowe ”BEV” Beata Ciesiołkiewicz",
+  "ENT_ADD": "ul. Ludwika Zamenhofa 42, Świdnica, 58-105, PL",
+  "ENT_TOW_CIT_RES": "Świdnica",
+  "ENT_POS_COD": "58-105",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

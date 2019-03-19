@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8771431883",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8771431883",
+  "ENT_NAM": "AGENCJA UBEZPIECZENIOWA MONIKA ĆWIKLIŃSKA",
+  "ENT_ADD": "Kręta 27, Iława, 14-200, PL",
+  "ENT_TOW_CIT_RES": "Iława",
+  "ENT_POS_COD": "14-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-09-01"
+  ]
+}

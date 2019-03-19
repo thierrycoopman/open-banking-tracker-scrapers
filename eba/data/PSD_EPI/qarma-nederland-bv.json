@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R134621",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R134621",
+  "ENT_NAM": "Qarma Nederland B.V.",
+  "ENT_NAM_COM": "Qarma Nederland B.V.",
+  "ENT_ADD": "Adriaan Stooplaan 5",
+  "ENT_TOW_CIT_RES": "OVERVEEN",
+  "ENT_POS_COD": "2051 SM",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6751402305!4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4",
+  "ENT_NAM": "Gama Anna Miśkowiec",
+  "ENT_ADD": "Tymbark 510, Tymbark, 34-650, PL",
+  "ENT_TOW_CIT_RES": "Tymbark",
+  "ENT_POS_COD": "34-650",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6751402305",
+  "DER_CHI_ENT_AUT": "Active"
+}

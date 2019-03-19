@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!538435!758682_AG17",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG758682",
+  "ENT_NAM": "WENKAI YE",
+  "ENT_ADD": "R DUQUE D AVILA BOLAMA N 115",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "5450 030",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!538435",
+  "DER_CHI_ENT_AUT": "Active"
+}

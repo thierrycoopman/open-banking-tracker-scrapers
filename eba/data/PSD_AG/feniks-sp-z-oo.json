@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!176",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "176",
+  "ENT_NAM": "Feniks Sp. z o.o.",
+  "ENT_ADD": "Plac Niepodległości 42/1A, Kórnik, 62-035, PL",
+  "ENT_TOW_CIT_RES": "Kórnik",
+  "ENT_POS_COD": "62-035",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

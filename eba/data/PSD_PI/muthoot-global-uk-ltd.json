@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!541615",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "541615",
+  "ENT_NAM": "MUTHOOT GLOBAL UK LTD",
+  "ENT_NAM_COM": [
+    "www.rupee2india.eu",
+    "www.rupees2india.co.uk",
+    "Muthoot Global",
+    "Muthoot Xchange"
+  ],
+  "ENT_ADD": "5B King Street",
+  "ENT_TOW_CIT_RES": "Southall",
+  "ENT_POS_COD": "UB2 4DF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-08-10"
+  ]
+}

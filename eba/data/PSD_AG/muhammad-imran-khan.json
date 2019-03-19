@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!753907_AG423",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG753907",
+  "ENT_NAM": "muhammad imran khan",
+  "ENT_ADD": [
+    "plza de heredia 6 bajos",
+    "caspe aragon"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "50700",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

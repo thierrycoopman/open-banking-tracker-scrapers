@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5851450740!13",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "13",
+  "ENT_NAM": "Usługi Finansowe Beata Nowicka",
+  "ENT_ADD": "Toruńska 7c, Koło, 62-600, PL",
+  "ENT_TOW_CIT_RES": "Koło",
+  "ENT_POS_COD": "62-600",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851450740",
+  "DER_CHI_ENT_AUT": "Active"
+}

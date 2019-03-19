@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581541_AG1740",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581541",
+  "ENT_NAM": "Grzegorz Wiecek",
+  "ENT_ADD": "Tadeusza Kosciuszki",
+  "ENT_TOW_CIT_RES": "Trzebina",
+  "ENT_POS_COD": "3254 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

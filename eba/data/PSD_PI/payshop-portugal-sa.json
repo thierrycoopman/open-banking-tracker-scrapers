@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PT_BP",
+  "EntityCode": "PSD_PI!PT_BP!8701",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "8701",
+  "ENT_NAM": "PAYSHOP (PORTUGAL), S.A.",
+  "ENT_ADD": "AV. D. JOÃO II, LOTE 01.12.03",
+  "ENT_TOW_CIT_RES": "Lisboa",
+  "ENT_POS_COD": "1999-001",
+  "ENT_COU_RES": "PT",
+  "ENT_AUT": [
+    "2011-06-03"
+  ]
+}

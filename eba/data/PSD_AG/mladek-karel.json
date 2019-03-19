@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!42626790",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "42626790",
+  "ENT_NAM": "Mládek Karel",
+  "ENT_ADD": "č.p. 55",
+  "ENT_TOW_CIT_RES": "Litenčice",
+  "ENT_POS_COD": "76813",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

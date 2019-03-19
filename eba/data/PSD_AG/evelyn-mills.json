@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!510358_AG68",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG510358",
+  "ENT_NAM": "Evelyn Mills",
+  "ENT_ADD": [
+    "Cambria House",
+    "51 Littleworth"
+  ],
+  "ENT_TOW_CIT_RES": "Oxford",
+  "ENT_POS_COD": "OX33 1TR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

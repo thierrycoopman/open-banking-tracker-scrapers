@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9371596411",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "9371596411",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa \"Beskidy\"",
+  "ENT_ADD": "ul. Cyniarska 11, Bielsko-Biała, 43-300, PL",
+  "ENT_TOW_CIT_RES": "Bielsko-Biała",
+  "ENT_POS_COD": "43-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-07"
+  ]
+}

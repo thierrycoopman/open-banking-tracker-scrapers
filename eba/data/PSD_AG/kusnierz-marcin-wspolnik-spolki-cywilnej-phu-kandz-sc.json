@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5272606618!11",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "11",
+  "ENT_NAM": "Kuśnierz Marcin wspólnik spółki cywilnej PHU \"K&Z\" s.c.",
+  "ENT_ADD": "Żeromskiego 7A, Żywiec, 34-300, PL",
+  "ENT_TOW_CIT_RES": "Żywiec",
+  "ENT_POS_COD": "34-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5272606618",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!59106",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "502187651",
+  "ENT_NAM": "EURL MOTO ATHLETE MALEZI",
+  "ENT_ADD": "106 boulevard Baobab Mgombani",
+  "ENT_TOW_CIT_RES": "MAMOUDZOU",
+  "ENT_POS_COD": "97600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

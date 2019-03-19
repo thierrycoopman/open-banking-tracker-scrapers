@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!596446!778960_AG8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG778960",
+  "ENT_NAM": "Rakhs News Ltd",
+  "ENT_ADD": "Suite 37/38 Marshall House 124 Middleton Road",
+  "ENT_TOW_CIT_RES": "Morden",
+  "ENT_POS_COD": "SM4 6RW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!596446",
+  "DER_CHI_ENT_AUT": "Active"
+}

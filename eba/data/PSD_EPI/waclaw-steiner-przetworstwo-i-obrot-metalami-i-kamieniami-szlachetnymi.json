@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6950005274",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6950005274",
+  "ENT_NAM": "Wacław Steiner Przetwórstwo i Obrót Metalami i Kamieniami Szlachetnymi",
+  "ENT_ADD": "Paszowice 257, Paszowice, 59-411, PL",
+  "ENT_TOW_CIT_RES": "Paszowice",
+  "ENT_POS_COD": "59-411",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-06"
+  ]
+}

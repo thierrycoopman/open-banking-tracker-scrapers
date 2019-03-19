@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8513141112",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8513141112",
+  "ENT_NAM": "Apis Maksymilian Kardziejonek",
+  "ENT_ADD": "Maciejkowa 18/7, Szczecin, 71-784, PL",
+  "ENT_TOW_CIT_RES": "Szczecin",
+  "ENT_POS_COD": "71-784",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-04-22"
+  ]
+}

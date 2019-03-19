@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!789658_AG7016",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG789658",
+  "ENT_NAM": "Abderrahamane Belhoula",
+  "ENT_ADD": "4 Place Cesar Ossola",
+  "ENT_TOW_CIT_RES": "Grasse",
+  "ENT_POS_COD": "06130",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

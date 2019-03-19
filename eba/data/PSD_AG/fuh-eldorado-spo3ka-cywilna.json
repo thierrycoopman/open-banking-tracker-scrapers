@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4134",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4134",
+  "ENT_NAM": "F.U.H. Eldorado Spó3ka Cywilna",
+  "ENT_ADD": "Strzelców Bytomskich 56, Chorzów, 41-500, PL",
+  "ENT_TOW_CIT_RES": "Chorzów",
+  "ENT_POS_COD": "41-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

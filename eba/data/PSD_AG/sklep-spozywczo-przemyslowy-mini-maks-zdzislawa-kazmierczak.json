@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7567",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7567",
+  "ENT_NAM": "Sklep Spożywczo-Przemysłowy \"Mini-Maks\" Zdzisława Kaźmierczak",
+  "ENT_ADD": "Stare Bielice 24, Biesiekierz, 76-039, PL",
+  "ENT_TOW_CIT_RES": "Biesiekierz",
+  "ENT_POS_COD": "76-039",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

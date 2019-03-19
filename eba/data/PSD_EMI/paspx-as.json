@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!40503",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "  31778964 ",
+  "ENT_NAM": "PASPX A/S",
+  "ENT_ADD": "Søvangsvej 1-5",
+  "ENT_TOW_CIT_RES": "Hvidovre",
+  "ENT_POS_COD": "2650",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2015-11-16"
+  ]
+}

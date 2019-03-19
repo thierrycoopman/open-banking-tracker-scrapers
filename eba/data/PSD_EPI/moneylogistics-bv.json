@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R131299",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R131299",
+  "ENT_NAM": "Moneylogistics B.V.",
+  "ENT_NAM_COM": "Moneylogistics B.V.",
+  "ENT_ADD": "Hoge Kamp 29",
+  "ENT_TOW_CIT_RES": "ERMELO",
+  "ENT_POS_COD": "3853 GL",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

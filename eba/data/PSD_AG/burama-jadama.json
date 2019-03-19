@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577174!589187_AG9",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG589187",
+  "ENT_NAM": "Burama Jadama",
+  "ENT_ADD": "Carl Krooksgatan 11",
+  "ENT_TOW_CIT_RES": "Helsingborg",
+  "ENT_POS_COD": "2522 5",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577174",
+  "DER_CHI_ENT_AUT": "Active"
+}

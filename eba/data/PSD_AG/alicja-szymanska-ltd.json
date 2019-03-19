@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!593364!709509_AG23",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG709509",
+  "ENT_NAM": "ALICJA SZYMANSKA LTD",
+  "ENT_ADD": "10 High Street",
+  "ENT_TOW_CIT_RES": "Shaftesbury",
+  "ENT_POS_COD": "SP7 8HZ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!593364",
+  "DER_CHI_ENT_AUT": "Active"
+}

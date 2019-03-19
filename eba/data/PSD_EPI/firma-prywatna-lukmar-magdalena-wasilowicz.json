@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8761948366",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8761948366",
+  "ENT_NAM": "Firma Prywatna LUKMAR - Magdalena Wasiłowicz",
+  "ENT_ADD": "Dąbrowszczaków 24/22, Gdańsk, 80-365, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-365",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-12"
+  ]
+}

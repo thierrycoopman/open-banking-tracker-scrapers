@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!820647_AG9289",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG820647",
+  "ENT_NAM": "Kadem",
+  "ENT_ADD": "293 Rue Du Faubourg Bannier",
+  "ENT_TOW_CIT_RES": "Centre Val de Loire",
+  "ENT_POS_COD": "45000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

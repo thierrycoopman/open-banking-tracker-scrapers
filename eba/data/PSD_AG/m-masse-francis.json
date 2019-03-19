@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70514",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "380756072",
+  "ENT_NAM": "M. MASSE Francis",
+  "ENT_ADD": "13 rue Thiers",
+  "ENT_TOW_CIT_RES": "ALBERT",
+  "ENT_POS_COD": "80300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!509251_AG72",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG509251",
+  "ENT_NAM": "Bhai Bhai Livs Hb",
+  "ENT_ADD": "Visbyvagen 4",
+  "ENT_TOW_CIT_RES": "Spanga",
+  "ENT_POS_COD": "16 373",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

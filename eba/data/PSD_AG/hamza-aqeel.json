@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!805542_AG7940",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG805542",
+  "ENT_NAM": "Hamza Aqeel",
+  "ENT_ADD": "82 Boulevard Victor Hugo",
+  "ENT_TOW_CIT_RES": "Nantes",
+  "ENT_POS_COD": "44200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

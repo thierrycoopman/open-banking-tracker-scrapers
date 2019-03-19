@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!606378!609784_AG1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG609784",
+  "ENT_NAM": "Abubaker Abdurahman Sheiba",
+  "ENT_ADD": "43 High Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW10 4NJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!606378",
+  "DER_CHI_ENT_AUT": "Active"
+}

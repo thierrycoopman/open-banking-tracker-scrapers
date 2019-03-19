@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!01463179",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "01463179",
+  "ENT_NAM": "Tesaříková Marie",
+  "ENT_ADD": "Eimova 50",
+  "ENT_TOW_CIT_RES": "Polička",
+  "ENT_POS_COD": "57201",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

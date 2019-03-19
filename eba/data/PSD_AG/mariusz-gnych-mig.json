@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!8031",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8031",
+  "ENT_NAM": "Mariusz Gnych MIG",
+  "ENT_ADD": "Łęki Duże 40, Lututów, 98-360, PL",
+  "ENT_TOW_CIT_RES": "Lututów",
+  "ENT_POS_COD": "98-360",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

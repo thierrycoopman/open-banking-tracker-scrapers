@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68195",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "500503206",
+  "ENT_NAM": "YVAN",
+  "ENT_ADD": [
+    "Centre Commercial",
+    "Les Flanades Lot 115 355"
+  ],
+  "ENT_TOW_CIT_RES": "SARCELLES",
+  "ENT_POS_COD": "95200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!578374",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "578374",
+  "ENT_NAM": "Kwik Transfer Ltd",
+  "ENT_ADD": [
+    "Earley",
+    "65 Elm Road"
+  ],
+  "ENT_TOW_CIT_RES": "Reading",
+  "ENT_POS_COD": "RG6 5TR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2013-03-19"
+  ]
+}

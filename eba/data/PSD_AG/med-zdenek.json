@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!74618211",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "74618211",
+  "ENT_NAM": "Med Zdeněk",
+  "ENT_ADD": "Sokolovská 2868/2",
+  "ENT_TOW_CIT_RES": "Znojmo",
+  "ENT_POS_COD": "67181",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

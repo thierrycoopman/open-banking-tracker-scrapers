@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56848",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "448369207",
+  "ENT_NAM": "M. TEXIER Vincent",
+  "ENT_ADD": "1 Place du Général de Gaulle",
+  "ENT_TOW_CIT_RES": "COULOUNIEIX CHAMIERS",
+  "ENT_POS_COD": "24660",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

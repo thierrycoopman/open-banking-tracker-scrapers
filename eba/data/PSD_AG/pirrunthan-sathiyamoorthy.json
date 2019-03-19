@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!610791_AG207",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG610791",
+  "ENT_NAM": "Pirrunthan Sathiyamoorthy",
+  "ENT_ADD": "Ludwigstrasse 87A",
+  "ENT_TOW_CIT_RES": "Stuttgart",
+  "ENT_POS_COD": "70197",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

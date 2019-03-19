@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R124457",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R124457",
+  "ENT_NAM": "Co-Pay B.V.",
+  "ENT_NAM_COM": "Co-Pay B.V.",
+  "ENT_ADD": "Hardwareweg 2",
+  "ENT_TOW_CIT_RES": "AMERSFOORT",
+  "ENT_POS_COD": "3821 BM",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

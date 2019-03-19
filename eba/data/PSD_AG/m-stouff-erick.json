@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75883",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "333781706",
+  "ENT_NAM": "M. STOUFF Erick",
+  "ENT_ADD": "35 RUE DU CHALET",
+  "ENT_TOW_CIT_RES": "COURLAOUX",
+  "ENT_POS_COD": "39570",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

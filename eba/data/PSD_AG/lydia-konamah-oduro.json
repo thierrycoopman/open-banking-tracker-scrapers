@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!705825_AG60",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG705825",
+  "ENT_NAM": "Lydia Konamah Oduro",
+  "ENT_ADD": "37 Calverley Crescent",
+  "ENT_TOW_CIT_RES": "Dagenham",
+  "ENT_POS_COD": "RM10 7QU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

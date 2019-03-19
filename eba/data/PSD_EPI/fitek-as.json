@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!429",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "40003380477",
+  "ENT_NAM": "Fitek AS",
+  "ENT_NAM_COM": "Fitek",
+  "ENT_ADD": "Dēļu iela 4",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1004",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2011-01-28"
+  ]
+}

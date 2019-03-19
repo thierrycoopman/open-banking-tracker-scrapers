@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!22022",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "38472585 ",
+  "ENT_NAM": "PAYProff A/S",
+  "ENT_ADD": "Albuen 80",
+  "ENT_TOW_CIT_RES": "Kolding",
+  "ENT_POS_COD": "6000",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2017-08-25"
+  ]
+}

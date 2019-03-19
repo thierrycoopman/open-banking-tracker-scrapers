@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1623",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1623",
+  "ENT_NAM": "MAREK JARZĄB",
+  "ENT_ADD": "Jajczaki 5, Wierzchlas, 98-324, PL",
+  "ENT_TOW_CIT_RES": "Wierzchlas",
+  "ENT_POS_COD": "98-324",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

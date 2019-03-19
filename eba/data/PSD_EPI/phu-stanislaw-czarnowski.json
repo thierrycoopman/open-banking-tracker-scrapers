@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9290003200",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9290003200",
+  "ENT_NAM": "P.H.U. Stanisław Czarnowski",
+  "ENT_ADD": "Konicza 14, Zielona Góra , 65-001, PL",
+  "ENT_TOW_CIT_RES": "Zielona Góra ",
+  "ENT_POS_COD": "65-001",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-29"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!800316936!124146188",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "124146188",
+  "ENT_NAM": "SINGH GURNAM",
+  "ENT_ADD": "48, OINOIS Str.",
+  "ENT_TOW_CIT_RES": "SCHIMATARI",
+  "ENT_POS_COD": "32009",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800316936",
+  "DER_CHI_ENT_AUT": "Active"
+}

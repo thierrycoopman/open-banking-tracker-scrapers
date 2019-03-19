@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!607",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "607",
+  "ENT_NAM": "Izabela Małota Ana^L^Iza",
+  "ENT_ADD": "Wojska Polskiego 28B, Poręba, 42-480, PL",
+  "ENT_TOW_CIT_RES": "Poręba",
+  "ENT_POS_COD": "42-480",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

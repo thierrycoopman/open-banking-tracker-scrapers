@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!HAN",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "C70142",
+  "ENT_NAM": "handi.cash Limited",
+  "ENT_NAM_COM": "handi.cash Limited",
+  "ENT_ADD": "60, Suite 6, G. Cali Street",
+  "ENT_TOW_CIT_RES": "Ta' Xbiex",
+  "ENT_POS_COD": "XBX 1424",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2015-06-02"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!661185_AG831",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG661185",
+  "ENT_NAM": "Charlie Brown Di Giuliano Maria Filippa & C SAS",
+  "ENT_ADD": "Corso Vercelli 74",
+  "ENT_TOW_CIT_RES": "Torino",
+  "ENT_POS_COD": "10 155",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!747900_AG320",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG747900",
+  "ENT_NAM": "Abdul Wadud",
+  "ENT_ADD": "455 London Road",
+  "ENT_TOW_CIT_RES": "Camberley",
+  "ENT_POS_COD": "GU15 3JA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

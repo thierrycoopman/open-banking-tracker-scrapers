@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76561",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "424147841",
+  "ENT_NAM": "M. CHAUVET Philippe",
+  "ENT_ADD": "14 RUE ARISTIDE BRIAND",
+  "ENT_TOW_CIT_RES": "LAXOU",
+  "ENT_POS_COD": "54520",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

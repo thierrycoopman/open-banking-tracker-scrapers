@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6641344104",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6641344104",
+  "ENT_NAM": "Andrzej Marzec P.P.H.U. \"KADO\"",
+  "ENT_ADD": "Miodowa 10, Starachowice, 27-200, PL",
+  "ENT_TOW_CIT_RES": "Starachowice",
+  "ENT_POS_COD": "27-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-12-01"
+  ]
+}

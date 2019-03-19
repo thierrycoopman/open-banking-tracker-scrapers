@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!588399_AG2093",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG588399",
+  "ENT_NAM": "Bhupendra Chauhan",
+  "ENT_ADD": "12 13 The Arcade",
+  "ENT_TOW_CIT_RES": "Luton",
+  "ENT_POS_COD": "LU48 JE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

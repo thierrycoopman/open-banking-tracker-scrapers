@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!29268427",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "29268427",
+  "ENT_NAM": "Vrátka Třebíč s.r.o.",
+  "ENT_ADD": "L. Pokorného 56/19",
+  "ENT_TOW_CIT_RES": "Třebíč",
+  "ENT_POS_COD": "67401",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

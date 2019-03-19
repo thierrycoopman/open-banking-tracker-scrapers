@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2261",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2261",
+  "ENT_NAM": "Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej Spółka z Ograniczoną Odpowiedzialnością",
+  "ENT_ADD": "Krucza 20, Hrubieszów, 22-500, PL",
+  "ENT_TOW_CIT_RES": "Hrubieszów",
+  "ENT_POS_COD": "22-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

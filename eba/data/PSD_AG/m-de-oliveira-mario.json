@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!61863",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "392696522",
+  "ENT_NAM": "M. DE OLIVEIRA Mario",
+  "ENT_ADD": "69 rue d'Elbeuf",
+  "ENT_TOW_CIT_RES": "ROUEN",
+  "ENT_POS_COD": "76100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

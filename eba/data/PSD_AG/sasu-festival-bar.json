@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!67471",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "805242740",
+  "ENT_NAM": "S.A.S.U FESTIVAL BAR",
+  "ENT_ADD": [
+    "113 avenue Maurice Bishop",
+    "Boulevard de Sainte-Thérèse"
+  ],
+  "ENT_TOW_CIT_RES": "FORT DE FRANCE",
+  "ENT_POS_COD": "97200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

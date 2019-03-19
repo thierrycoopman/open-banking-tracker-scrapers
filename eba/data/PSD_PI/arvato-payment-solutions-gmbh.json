@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!142183",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "142183",
+  "ENT_NAM": "Arvato Payment Solutions GmbH",
+  "ENT_ADD": "Gütersloher Straße 123 | 33415 Verl",
+  "ENT_TOW_CIT_RES": "Verl",
+  "ENT_POS_COD": "33415",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-07-13"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!481",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "481",
+  "ENT_NAM": "Sławomir Malisz GROUP 3000",
+  "ENT_ADD": "ul. Solidarności 22/9, Ruda Śląska, 41-706, PL",
+  "ENT_TOW_CIT_RES": "Ruda Śląska",
+  "ENT_POS_COD": "41-706",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+

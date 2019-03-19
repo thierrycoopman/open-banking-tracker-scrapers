@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!472710581",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "472710581",
+  "ENT_NAM": "DINERS CLUB ITALIA SRL",
+  "ENT_NAM_COM": "DINERS CLUB ITALIA SRL",
+  "ENT_ADD": "VIA ROBERTO LEPETIT, 8",
+  "ENT_TOW_CIT_RES": "MILANO",
+  "ENT_POS_COD": "20124",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

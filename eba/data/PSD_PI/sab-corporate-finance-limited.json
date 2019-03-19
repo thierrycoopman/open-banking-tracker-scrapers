@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!775404",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "775404",
+  "ENT_NAM": "SAB Corporate Finance Limited",
+  "ENT_ADD": "30 St. Mary Axe",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC3A 8BF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-12-01"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900476",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900476",
+  "ENT_NAM": "Ace Union Limited",
+  "ENT_NAM_COM": "Ace Union Limited",
+  "ENT_ADD": [
+    "Pall Mall Court",
+    "61/67 King Street"
+  ],
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M2 4PD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-05-03"
+  ]
+}

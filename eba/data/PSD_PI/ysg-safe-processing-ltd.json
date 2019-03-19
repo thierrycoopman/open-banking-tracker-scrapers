@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!YSG",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "C63510",
+  "ENT_NAM": "YSG Safe Processing Ltd.",
+  "ENT_NAM_COM": "YSG Safe Processing Ltd.",
+  "ENT_ADD": "Level G, Office 1/5426, Quantum House, 75, Abate Rigord Street",
+  "ENT_TOW_CIT_RES": "Ta' Xbiex",
+  "ENT_POS_COD": "XBX1120",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2015-04-02"
+  ]
+}

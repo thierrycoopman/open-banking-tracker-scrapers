@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!596484",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "596484",
+  "ENT_NAM": "ONEFX Ltd",
+  "ENT_ADD": [
+    "Berkeley Square House",
+    "Second Floor"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W1J 6BD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2013-07-18"
+  ]
+}

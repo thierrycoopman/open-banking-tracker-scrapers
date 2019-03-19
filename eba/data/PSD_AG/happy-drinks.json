@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!71769",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "798127080",
+  "ENT_NAM": "HAPPY DRINKS",
+  "ENT_ADD": [
+    "2 Place Pierre Semard",
+    "angle 2 Avenue Foch",
+    "et rue de Malibran"
+  ],
+  "ENT_TOW_CIT_RES": "CORMEILLES EN PARISIS",
+  "ENT_POS_COD": "95240",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

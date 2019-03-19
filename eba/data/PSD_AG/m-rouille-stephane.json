@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74400",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "799507314",
+  "ENT_NAM": "M. ROUILLE Stéphane",
+  "ENT_ADD": "1 Rue de la Mairie",
+  "ENT_TOW_CIT_RES": "LE FIDELAIRE",
+  "ENT_POS_COD": "27190",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

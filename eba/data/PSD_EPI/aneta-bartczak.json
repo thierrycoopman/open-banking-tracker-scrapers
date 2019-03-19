@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7691049230",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7691049230",
+  "ENT_NAM": "ANETA BARTCZAK",
+  "ENT_ADD": "plac Narutowicza 6, Bełchatów, 97-400, PL",
+  "ENT_TOW_CIT_RES": "Bełchatów",
+  "ENT_POS_COD": "97-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-10-07"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!INTE",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "C46966",
+  "ENT_NAM": "INTEGRA PRIVATE WEALTH LIMITED",
+  "ENT_NAM_COM": "INTEGRA PRIVATE WEALTH LIMITED",
+  "ENT_ADD": "228, Tower Road",
+  "ENT_TOW_CIT_RES": "Sliema",
+  "ENT_POS_COD": "SLM 1601",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2017-11-10"
+  ]
+}

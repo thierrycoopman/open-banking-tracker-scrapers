@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!518355!578577_AG1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG578577",
+  "ENT_NAM": "Total Gifts Galore Limited",
+  "ENT_ADD": "113 Station Road",
+  "ENT_TOW_CIT_RES": "Hayes",
+  "ENT_POS_COD": "UB3 4BX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!518355",
+  "DER_CHI_ENT_AUT": "Active"
+}

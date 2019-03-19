@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_EPI!CZ_CNB!04111648!06290051",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "06290051",
+  "ENT_NAM": "KIMVI s.r.o.",
+  "ENT_ADD": "Nad Opatovem 2029/7",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "14900",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!04111648",
+  "DER_CHI_ENT_AUT": "Active"
+}

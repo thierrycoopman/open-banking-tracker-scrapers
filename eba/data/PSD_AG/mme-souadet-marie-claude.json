@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65012",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "398610774",
+  "ENT_NAM": "Mme SOUADET Marie-Claude",
+  "ENT_ADD": "33 rue de Bel Air",
+  "ENT_TOW_CIT_RES": "LES MONTILS",
+  "ENT_POS_COD": "41120",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!620517_AG243",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG620517",
+  "ENT_NAM": "Arif Alvi",
+  "ENT_ADD": [
+    "Flat 8",
+    "45 Dale Road"
+  ],
+  "ENT_TOW_CIT_RES": "Luton",
+  "ENT_POS_COD": "LU1 1LJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

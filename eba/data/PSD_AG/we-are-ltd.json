@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577345!727532_AG14",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG727532",
+  "ENT_NAM": "We Are+ LTD",
+  "ENT_ADD": "164 King Street",
+  "ENT_TOW_CIT_RES": "Great Yarmouth",
+  "ENT_POS_COD": "NR30 2PA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577345",
+  "DER_CHI_ENT_AUT": "Active"
+}

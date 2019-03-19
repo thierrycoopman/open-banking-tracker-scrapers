@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1527",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1527",
+  "ENT_NAM": "Mini Market Anna Borowska",
+  "ENT_ADD": "Poznańska 16, Brójce, 66-304, PL",
+  "ENT_TOW_CIT_RES": "Brójce",
+  "ENT_POS_COD": "66-304",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

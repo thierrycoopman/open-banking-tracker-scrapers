@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!779",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "779",
+  "ENT_NAM": "Sklep Wielobranżowy \"Łoś\" Arleta Wójcik",
+  "ENT_ADD": "3 Maja 94, Izabelin C, 05-080, PL",
+  "ENT_TOW_CIT_RES": "Izabelin C",
+  "ENT_POS_COD": "05-080",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

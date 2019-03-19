@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!28806689",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "28806689",
+  "ENT_NAM": "RENEW CZ s.r.o.",
+  "ENT_ADD": "Palackého 833",
+  "ENT_TOW_CIT_RES": "Úpice",
+  "ENT_POS_COD": "54232",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

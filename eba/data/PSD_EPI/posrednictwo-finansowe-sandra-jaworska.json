@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5030081402",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5030081402",
+  "ENT_NAM": "Pośrednictwo Finansowe Sandra Jaworska ",
+  "ENT_ADD": "Kościuszki 21, Golub-Dobrzyń, 87-400, PL",
+  "ENT_TOW_CIT_RES": "Golub-Dobrzyń",
+  "ENT_POS_COD": "87-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-05-02"
+  ]
+}

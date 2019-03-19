@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5272606618!35",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "35",
+  "ENT_NAM": "IWONA KĘDZIERSKA F.H.U. \"JASTELL\"",
+  "ENT_ADD": "Rynek 11a, Jasło, 38-200, PL",
+  "ENT_TOW_CIT_RES": "Jasło",
+  "ENT_POS_COD": "38-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5272606618",
+  "DER_CHI_ENT_AUT": "Active"
+}

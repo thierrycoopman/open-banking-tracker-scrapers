@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66495",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "497925545",
+  "ENT_NAM": "M. LEGENDRE Hugues",
+  "ENT_ADD": "23 rue Victor Hugo",
+  "ENT_TOW_CIT_RES": "ST AIGULIN",
+  "ENT_POS_COD": "17360",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

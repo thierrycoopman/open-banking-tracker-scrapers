@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!554549",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "554549",
+  "ENT_NAM": "Volopa Financial Services (Scotland) Limited",
+  "ENT_NAM_COM": "Volopa",
+  "ENT_ADD": "22 South Audley Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W1K 2NY",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-11-18"
+  ]
+}

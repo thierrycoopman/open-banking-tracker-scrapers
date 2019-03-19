@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1213",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1213",
+  "ENT_NAM": "Magdalena Bąbińska Z.U.H.P. \"Grudziecka\"",
+  "ENT_ADD": "Wolności 45, Gielniów, 26-434, PL",
+  "ENT_TOW_CIT_RES": "Gielniów",
+  "ENT_POS_COD": "26-434",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

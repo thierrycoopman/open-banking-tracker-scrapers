@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!610624_AG274",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG610624",
+  "ENT_NAM": "Vof Sigarenmagazijn \"de meeuw\"",
+  "ENT_ADD": "Meeuwenlaan 279",
+  "ENT_TOW_CIT_RES": "Amsterdam",
+  "ENT_POS_COD": "1022 AJ",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

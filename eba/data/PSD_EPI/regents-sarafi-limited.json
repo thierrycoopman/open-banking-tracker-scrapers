@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!798170",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "798170",
+  "ENT_NAM": "Regents Sarafi Limited",
+  "ENT_ADD": "242 Regents Park Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "N3 3HP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-05-22"
+  ]
+}

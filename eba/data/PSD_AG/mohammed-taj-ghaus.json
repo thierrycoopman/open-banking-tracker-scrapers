@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!584039!781621_AG127",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG781621",
+  "ENT_NAM": "Mohammed Taj Ghaus",
+  "ENT_ADD": [
+    "241A Selbourne Road",
+    "Luton"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "LU4 8NP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!584039",
+  "DER_CHI_ENT_AUT": "Active"
+}

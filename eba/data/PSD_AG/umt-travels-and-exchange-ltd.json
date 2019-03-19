@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!539449_AG460",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG539449",
+  "ENT_NAM": "UMT Travels and Exchange Ltd",
+  "ENT_ADD": [
+    "193 High Street",
+    "Pondersend"
+  ],
+  "ENT_TOW_CIT_RES": "Enfield",
+  "ENT_POS_COD": "EN3 4DZ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

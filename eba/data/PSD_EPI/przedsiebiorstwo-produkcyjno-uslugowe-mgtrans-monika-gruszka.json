@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7671592681",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7671592681",
+  "ENT_NAM": "Przedsiębiorstwo Produkcyjno Usługowe MGtrans Monika Gruszka",
+  "ENT_ADD": "Wysoka Mała 32, Wysoka Mała, 89-320, PL",
+  "ENT_TOW_CIT_RES": "Wysoka Mała",
+  "ENT_POS_COD": "89-320",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-01-30"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R108659",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R108659",
+  "ENT_NAM": "Metrocom",
+  "ENT_ADD": "Stationsweg 68 A",
+  "ENT_TOW_CIT_RES": "ALKMAAR",
+  "ENT_POS_COD": "1815 CD",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

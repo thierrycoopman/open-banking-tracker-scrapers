@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8842513106",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8842513106",
+  "ENT_NAM": "Grzegorz Szubert",
+  "ENT_ADD": "Ogrodowa 17, Wałbrzych, 58-306, PL",
+  "ENT_TOW_CIT_RES": "Wałbrzych",
+  "ENT_POS_COD": "58-306",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-09-18"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1558",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1558",
+  "ENT_NAM": "DELIKATESY \"MARIC\" ALINA CHRZANOWSKA I BEATA KURCEWICZ SPÓŁKA JAWNA",
+  "ENT_ADD": "Ostrowska 5A, Rzekuń, 07-411, PL",
+  "ENT_TOW_CIT_RES": "Rzekuń",
+  "ENT_POS_COD": "07-411",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

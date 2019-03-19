@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!506692_AG4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG506692",
+  "ENT_NAM": "Aftab Currency Exchange Limited",
+  "ENT_ADD": "44 St. Helens Road",
+  "ENT_TOW_CIT_RES": "Bolton",
+  "ENT_POS_COD": "BL3 3NH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

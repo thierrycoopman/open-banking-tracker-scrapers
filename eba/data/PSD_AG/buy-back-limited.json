@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!829540_AG1048",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829540",
+  "ENT_NAM": "Buy Back Limited",
+  "ENT_ADD": "195 Walsgrave Road",
+  "ENT_TOW_CIT_RES": "Coventry",
+  "ENT_POS_COD": "CV2 4HH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

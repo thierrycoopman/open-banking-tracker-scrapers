@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!766204_AG5792",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG766204",
+  "ENT_NAM": "Fadma Kamhi",
+  "ENT_ADD": "Av de la faculte d agronomie 45",
+  "ENT_TOW_CIT_RES": "Gembloux",
+  "ENT_POS_COD": "5030",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!529076_AG145",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG529076",
+  "ENT_NAM": "Amg Foods Limited",
+  "ENT_ADD": [
+    "Barway Road",
+    "Soham"
+  ],
+  "ENT_TOW_CIT_RES": "Ely",
+  "ENT_POS_COD": "CB7 5TZ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

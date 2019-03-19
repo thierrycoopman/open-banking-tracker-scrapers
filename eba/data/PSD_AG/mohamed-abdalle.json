@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!526301!735478_AG26",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG735478",
+  "ENT_NAM": "Mohamed Abdalle",
+  "ENT_ADD": "384 Stoney Stanton Road",
+  "ENT_TOW_CIT_RES": "Coventry",
+  "ENT_POS_COD": "CV6 5DH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!526301",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57070",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "519144935",
+  "ENT_NAM": "SNC KIFLONI",
+  "ENT_ADD": "8 T avenue de la Plage",
+  "ENT_TOW_CIT_RES": "BRETIGNOLLES SUR MER",
+  "ENT_POS_COD": "85470",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

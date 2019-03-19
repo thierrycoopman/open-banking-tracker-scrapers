@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!72566108",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "72566108",
+  "ENT_NAM": "Plachý František",
+  "ENT_ADD": "Mírová 675",
+  "ENT_TOW_CIT_RES": "Protivín",
+  "ENT_POS_COD": "39811",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

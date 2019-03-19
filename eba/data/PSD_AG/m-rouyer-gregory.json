@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70822",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "752866699",
+  "ENT_NAM": "M. ROUYER Grégory",
+  "ENT_ADD": "25 Bis Rue François Mitterand",
+  "ENT_TOW_CIT_RES": "FOUG",
+  "ENT_POS_COD": "54570",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

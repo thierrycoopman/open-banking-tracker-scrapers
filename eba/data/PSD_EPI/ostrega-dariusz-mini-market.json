@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6250012970",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6250012970",
+  "ENT_NAM": "Ostręga Dariusz \"MINI-MARKET\"",
+  "ENT_ADD": "Jana III Sobieskiego 262, Wojkowice, 42-580, PL",
+  "ENT_TOW_CIT_RES": "Wojkowice",
+  "ENT_POS_COD": "42-580",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-03-16"
+  ]
+}

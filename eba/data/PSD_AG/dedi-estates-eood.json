@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200400142",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200400142",
+  "ENT_NAM": [
+    "Деди Имоти ЕООД",
+    "Dedi Estates EOOD"
+  ],
+  "ENT_ADD": "27A Tsar Simeon str.",
+  "ENT_TOW_CIT_RES": "Novi Pazar",
+  "ENT_POS_COD": "9900",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

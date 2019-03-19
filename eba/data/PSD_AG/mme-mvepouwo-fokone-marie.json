@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!72442",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "798008363",
+  "ENT_NAM": "Mme MVEPOUWO FOKONE Marie",
+  "ENT_ADD": "180 Rue Paul Bellamy",
+  "ENT_TOW_CIT_RES": "NANTES",
+  "ENT_POS_COD": "44000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

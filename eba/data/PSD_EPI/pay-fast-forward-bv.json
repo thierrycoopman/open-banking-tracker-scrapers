@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R112142",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R112142",
+  "ENT_NAM": "Pay Fast Forward B.V.",
+  "ENT_NAM_COM": "Pay Fast Forward. B.V.",
+  "ENT_ADD": "Buitenhof 62",
+  "ENT_TOW_CIT_RES": "'S-GRAVENHAGE",
+  "ENT_POS_COD": "2513 AH",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73287",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "414081885",
+  "ENT_NAM": "TABAC LE SPORT",
+  "ENT_ADD": "15 Quai Général de Gaulle",
+  "ENT_TOW_CIT_RES": "SANARY SUR MER",
+  "ENT_POS_COD": "83110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

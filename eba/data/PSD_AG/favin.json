@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73452",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "530758820",
+  "ENT_NAM": "FAVIN",
+  "ENT_ADD": "16 rue de l'Etape au Vin ",
+  "ENT_TOW_CIT_RES": "NOGENT SUR SEINE",
+  "ENT_POS_COD": "10400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

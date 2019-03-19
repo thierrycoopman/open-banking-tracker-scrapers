@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!802307_AG7743",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG802307",
+  "ENT_NAM": "Ahmad Ali Hussein Alkayed",
+  "ENT_ADD": "55 Nicolson Street",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "EH8 9BZ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

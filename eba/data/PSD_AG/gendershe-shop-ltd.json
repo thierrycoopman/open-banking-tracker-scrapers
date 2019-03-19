@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!651229_AG131",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG651229",
+  "ENT_NAM": "Gendershe Shop Ltd",
+  "ENT_ADD": [
+    "163a Kentish Town Road",
+    "Flat 1/2"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW1 8PD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

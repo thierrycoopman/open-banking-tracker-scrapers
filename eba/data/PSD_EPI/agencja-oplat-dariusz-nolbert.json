@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7511513655",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7511513655",
+  "ENT_NAM": "Agencja Opłat Dariusz Nolbert",
+  "ENT_ADD": "Rynek 4, Kluczbork, 46-200, PL",
+  "ENT_TOW_CIT_RES": "Kluczbork",
+  "ENT_POS_COD": "46-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-06-03"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!748958",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "748958",
+  "ENT_NAM": "Kapook UK Ltd",
+  "ENT_NAM_COM": "Kapook EU",
+  "ENT_ADD": "94 Caledonian Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "N1 9DN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-06-01"
+  ]
+}

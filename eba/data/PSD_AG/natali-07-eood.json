@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!116588022",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "116588022",
+  "ENT_NAM": [
+    "Натали 07 ЕООД",
+    "Natali 07 EOOD"
+  ],
+  "ENT_ADD": "5 Vit str.",
+  "ENT_TOW_CIT_RES": "Razgrad",
+  "ENT_POS_COD": "7200",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

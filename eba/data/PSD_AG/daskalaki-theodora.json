@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!044540628",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "044540628",
+  "ENT_NAM": "DASKALAKI THEODORA",
+  "ENT_ADD": "49, IRAKLEOUS Str.",
+  "ENT_TOW_CIT_RES": "AIDIPSOS",
+  "ENT_POS_COD": "34300",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

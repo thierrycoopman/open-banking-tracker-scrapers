@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!596923_AG2468",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG596923",
+  "ENT_NAM": "Sklep Wielobranzowy S C Tadeusz Rulka Monika Rulka",
+  "ENT_ADD": [
+    "Kolejowa 35",
+    "Golab"
+  ],
+  "ENT_TOW_CIT_RES": "Lubelskie",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

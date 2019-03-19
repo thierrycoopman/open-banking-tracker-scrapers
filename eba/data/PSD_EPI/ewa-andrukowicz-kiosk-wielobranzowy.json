@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8681333585",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8681333585",
+  "ENT_NAM": "Ewa Andrukowicz Kiosk Wielobranżowy",
+  "ENT_ADD": "Rynek b/n, Nowy Wiśnicz, 32-720, PL",
+  "ENT_TOW_CIT_RES": "Nowy Wiśnicz",
+  "ENT_POS_COD": "32-720",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-02-20"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!794843",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "794843",
+  "ENT_NAM": "Zapptek Ltd",
+  "ENT_NAM_COM": "Zappwire",
+  "ENT_ADD": [
+    "Wenlock Road",
+    "20-22"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "N1 7GU",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-04-16"
+  ]
+}

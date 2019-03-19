@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!13046",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "508415676",
+  "ENT_NAM": "Tempo France",
+  "ENT_NAM_COM": "PI Commercial Name (Not Specified)",
+  "ENT_ADD": "89 Boulevard de Magenta",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75010",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2011-04-28"
+  ]
+}

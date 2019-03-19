@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7431017581",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7431017581",
+  "ENT_NAM": "Jan Kuźniak AGD HANDEL-USŁUGI",
+  "ENT_ADD": "Kasprowicza 7, Lidzbark Warmiński, 11-100, PL",
+  "ENT_TOW_CIT_RES": "Lidzbark Warmiński",
+  "ENT_POS_COD": "11-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-12"
+  ]
+}

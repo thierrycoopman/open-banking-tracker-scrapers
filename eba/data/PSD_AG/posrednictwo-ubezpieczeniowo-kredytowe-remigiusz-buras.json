@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!98",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "98",
+  "ENT_NAM": "POŚREDNICTWO UBEZPIECZENIOWO-KREDYTOWE REMIGIUSZ BURAS",
+  "ENT_ADD": "ul. Kielecka 14, Morawica, 26-026, PL",
+  "ENT_TOW_CIT_RES": "Morawica",
+  "ENT_POS_COD": "26-026",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

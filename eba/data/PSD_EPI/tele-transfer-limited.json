@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!512321",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "512321",
+  "ENT_NAM": "Tele Transfer Limited",
+  "ENT_ADD": [
+    "17 Air Street",
+    "First Floor"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W1B 5AF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-12-03"
+  ]
+}

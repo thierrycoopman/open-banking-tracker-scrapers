@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!03569187",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "03569187",
+  "ENT_NAM": "Hloušek Jiří",
+  "ENT_ADD": "Taškentská 1414/6",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "10100",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

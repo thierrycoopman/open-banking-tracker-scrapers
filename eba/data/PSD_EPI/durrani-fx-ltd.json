@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!710071",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "710071",
+  "ENT_NAM": "Durrani FX Ltd",
+  "ENT_ADD": "15A Station Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "HA1 2UF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-08-26",
+    "2018-02-02"
+  ]
+}

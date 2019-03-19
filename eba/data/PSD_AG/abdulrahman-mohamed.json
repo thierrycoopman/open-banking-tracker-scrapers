@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!518352!608722_AG11",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG608722",
+  "ENT_NAM": "Abdulrahman Mohamed",
+  "ENT_ADD": [
+    "411-421",
+    "Small Heath",
+    "Coventry Road"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B10 0TH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!518352",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!310",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "310",
+  "ENT_NAM": "SALONIK PRASOWY BOŻENA WOLAK",
+  "ENT_ADD": "Fryderyka Chopina 28, Zabrze, 41-807, PL",
+  "ENT_TOW_CIT_RES": "Zabrze",
+  "ENT_POS_COD": "41-807",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!66547!79408",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "528886674",
+  "ENT_NAM": "SCP de Vétérinaires Lalauze-Le Gall et Blot-Paviot",
+  "ENT_ADD": "67 Place du Souvenir",
+  "ENT_TOW_CIT_RES": "MOISSY CRAMAYEL",
+  "ENT_POS_COD": "77550",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!66547",
+  "DER_CHI_ENT_AUT": "Active"
+}

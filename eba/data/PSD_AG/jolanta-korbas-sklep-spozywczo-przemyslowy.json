@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1919",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1919",
+  "ENT_NAM": "Jolanta Korbas Sklep Spożywczo - Przemysłowy",
+  "ENT_ADD": "Stary Dzierzgoń 29, Stary Dzierzgoń, 82-450, PL",
+  "ENT_TOW_CIT_RES": "Stary Dzierzgoń",
+  "ENT_POS_COD": "82-450",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

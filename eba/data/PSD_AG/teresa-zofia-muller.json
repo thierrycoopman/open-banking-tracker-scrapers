@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581505_AG1715",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581505",
+  "ENT_NAM": "Teresa Zofia Muller",
+  "ENT_ADD": "Czeczewo Gdanska 21",
+  "ENT_TOW_CIT_RES": "Kielno",
+  "ENT_POS_COD": "8420 8",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

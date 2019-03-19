@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5862284736",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5862284736",
+  "ENT_NAM": "Mimpi S.A. (d. Makabila S.A.)",
+  "ENT_ADD": "Jerzego Waszyngtona 34/36/pokój 216, Gdynia, 81-342, PL",
+  "ENT_TOW_CIT_RES": "Gdynia",
+  "ENT_POS_COD": "81-342",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-12-30"
+  ]
+}

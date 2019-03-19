@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!81",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "81",
+  "ENT_NAM": "Pośrednictwo Finansowe - Teresa Miazga",
+  "ENT_ADD": "2 Lutego 1, Skwierzyna, 66-440, PL",
+  "ENT_TOW_CIT_RES": "Skwierzyna",
+  "ENT_POS_COD": "66-440",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}
+
+ENT_AUT": "Active"
+}

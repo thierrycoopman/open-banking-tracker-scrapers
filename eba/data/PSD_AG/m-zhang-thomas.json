@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72818",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "832870950",
+  "ENT_NAM": "M. ZHANG Thomas",
+  "ENT_ADD": "83 boulevard Henri Barbusse",
+  "ENT_TOW_CIT_RES": "HOUILLES",
+  "ENT_POS_COD": "78800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

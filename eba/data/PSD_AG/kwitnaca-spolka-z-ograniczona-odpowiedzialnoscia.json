@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2754",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2754",
+  "ENT_NAM": "\"Kwitnąca\" Spółka z Ograniczona Odpowiedzialnością",
+  "ENT_ADD": "Aspekt 79, Warszawa, 01-904, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "01-904",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

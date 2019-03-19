@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!759802",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "759802",
+  "ENT_NAM": "Dickson Osagie",
+  "ENT_NAM_COM": "Dickson's World Services",
+  "ENT_ADD": [
+    "530-532",
+    "Kingsland Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E8 4AH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-12-28"
+  ]
+}

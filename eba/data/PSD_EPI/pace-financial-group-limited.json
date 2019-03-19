@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!516182",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "516182",
+  "ENT_NAM": "Pace Financial Group Limited",
+  "ENT_ADD": "44 Petters Road",
+  "ENT_TOW_CIT_RES": "Ashtead",
+  "ENT_POS_COD": "KT21 1NE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2010-01-14",
+    "2018-10-03"
+  ]
+}

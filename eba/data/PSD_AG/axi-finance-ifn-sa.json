@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!35116319",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "35116319",
+  "ENT_NAM": [
+    "Акси Файнанс Инф АД",
+    "Axi Finance Ifn S.A."
+  ],
+  "ENT_ADD": "sector-1, 8 MR. George Shontsu, apt. 1 and apt. 2",
+  "ENT_TOW_CIT_RES": "Bucharest",
+  "ENT_POS_COD": "AG Postcode (Not Specified)",
+  "ENT_COU_RES": "RO",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

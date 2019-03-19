@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!791412_AG814",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG791412",
+  "ENT_NAM": "Mahamudul Hasan",
+  "ENT_ADD": "Via dei Faggi 104",
+  "ENT_TOW_CIT_RES": "Roma",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

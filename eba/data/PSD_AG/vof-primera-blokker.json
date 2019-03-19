@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R124820",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R124820",
+  "ENT_NAM": "v.o.f. Primera Blokker",
+  "ENT_ADD": "Westerblokker 107 C",
+  "ENT_TOW_CIT_RES": "BLOKKER",
+  "ENT_POS_COD": "1695 AC",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

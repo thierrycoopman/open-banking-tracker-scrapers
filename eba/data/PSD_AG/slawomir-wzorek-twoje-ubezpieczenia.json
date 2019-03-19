@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1164",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1164",
+  "ENT_NAM": "Sławomir Wzorek \"Twoje Ubezpieczenia\"",
+  "ENT_ADD": "Licealna 15, Bodzentyn, 26-010, PL",
+  "ENT_TOW_CIT_RES": "Bodzentyn",
+  "ENT_POS_COD": "26-010",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

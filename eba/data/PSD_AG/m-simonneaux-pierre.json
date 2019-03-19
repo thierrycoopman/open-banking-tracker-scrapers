@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!55563",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "392678728",
+  "ENT_NAM": "M. SIMONNEAUX Pierre",
+  "ENT_ADD": [
+    "Centre Commercial Rousselière",
+    "Champ de la Motte",
+    "26 route de Rennes"
+  ],
+  "ENT_TOW_CIT_RES": "ST AUBIN DU CORMIER",
+  "ENT_POS_COD": "35140",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

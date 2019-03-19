@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!808792_AG8272",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808792",
+  "ENT_NAM": "Marajah As",
+  "ENT_ADD": "Trondheimsveien 391",
+  "ENT_TOW_CIT_RES": "Oslo",
+  "ENT_POS_COD": "0952",
+  "ENT_COU_RES": "NO",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

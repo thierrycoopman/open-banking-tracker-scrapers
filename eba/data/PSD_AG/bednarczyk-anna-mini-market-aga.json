@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2368",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2368",
+  "ENT_NAM": "Bednarczyk Anna Mini Market \"Aga\"",
+  "ENT_ADD": "  33, Mroczków Gościnny, 26-300, PL",
+  "ENT_TOW_CIT_RES": "Mroczków Gościnny",
+  "ENT_POS_COD": "26-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

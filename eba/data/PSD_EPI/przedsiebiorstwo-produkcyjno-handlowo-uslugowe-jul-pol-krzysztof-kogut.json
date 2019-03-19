@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7551610838",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7551610838",
+  "ENT_NAM": "Przedsiębiorstwo Produkcyjno-Handlowo-Usługowe \"JUL-POL\" Krzysztof Kogut",
+  "ENT_ADD": "Adama Mickiewicza  8/1, Huta Stara B, 42-263, PL",
+  "ENT_TOW_CIT_RES": "Huta Stara B",
+  "ENT_POS_COD": "42-263",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-10-28"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!796385_AG1969",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG796385",
+  "ENT_NAM": "Braginskaya Maria",
+  "ENT_ADD": "Via Aquileia 91",
+  "ENT_TOW_CIT_RES": "Udine",
+  "ENT_POS_COD": "33100",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

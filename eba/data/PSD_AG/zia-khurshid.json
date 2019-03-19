@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!595588_AG2416",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG595588",
+  "ENT_NAM": "Zia Khurshid",
+  "ENT_ADD": "Amagerbrogade 234",
+  "ENT_TOW_CIT_RES": "Copenhagen S",
+  "ENT_POS_COD": "2300",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

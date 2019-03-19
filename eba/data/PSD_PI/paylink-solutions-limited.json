@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!767995",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "767995",
+  "ENT_NAM": "Paylink Solutions Limited",
+  "ENT_NAM_COM": "PayLink",
+  "ENT_ADD": [
+    "Dysart Road",
+    "Kempton House",
+    "Kempton Way"
+  ],
+  "ENT_TOW_CIT_RES": "Grantham",
+  "ENT_POS_COD": "NG31 7LE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-12-08"
+  ]
+}

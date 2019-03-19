@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!057756350",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "057756350",
+  "ENT_NAM": "MANANAS PANTELIS",
+  "ENT_ADD": "25, ANDROUTSOU Str.",
+  "ENT_TOW_CIT_RES": "GRAVIA",
+  "ENT_POS_COD": "33057",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

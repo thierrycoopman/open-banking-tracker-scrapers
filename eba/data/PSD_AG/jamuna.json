@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!768910_AG5918",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG768910",
+  "ENT_NAM": "JAMUNA",
+  "ENT_ADD": "205 Boulvard Voltaire",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75011",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!510523_AG94",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG510523",
+  "ENT_NAM": "Marcesa G.V. Ltd",
+  "ENT_ADD": "10 Blackfriars Road",
+  "ENT_TOW_CIT_RES": "King's Lynn",
+  "ENT_POS_COD": "PE30 1NR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

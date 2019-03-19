@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!62192736",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "62192736",
+  "ENT_NAM": "Šanovský Ladislav",
+  "ENT_ADD": "Dubová 575",
+  "ENT_TOW_CIT_RES": "Ústí nad Labem",
+  "ENT_POS_COD": "40331",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

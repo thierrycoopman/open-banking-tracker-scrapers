@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64513",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "511660839",
+  "ENT_NAM": "TABAC DE LA FONTAINE",
+  "ENT_ADD": "3 Place du 23 août 1944",
+  "ENT_TOW_CIT_RES": "BOURGOIN JALLIEU",
+  "ENT_POS_COD": "38300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

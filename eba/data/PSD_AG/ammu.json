@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!828369_AG10103",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG828369",
+  "ENT_NAM": "Ammu",
+  "ENT_ADD": [
+    "La Courneuve",
+    "2-4 Rue Maryse Bastie"
+  ],
+  "ENT_TOW_CIT_RES": "Ile de France",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

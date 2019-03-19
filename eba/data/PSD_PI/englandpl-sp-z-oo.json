@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6692501424",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "6692501424",
+  "ENT_NAM": "England.pl Sp. z o.o.",
+  "ENT_ADD": "Marszałka Józefa Piłsudskiego 45, Koszalin, 75-502, PL",
+  "ENT_TOW_CIT_RES": "Koszalin",
+  "ENT_POS_COD": "75-502",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-01-29"
+  ]
+}

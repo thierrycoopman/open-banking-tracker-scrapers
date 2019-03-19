@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!757803_AG621",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG757803",
+  "ENT_NAM": "G I K Traders Bcn S.L",
+  "ENT_ADD": "Calle Illa Noble 1 1 2",
+  "ENT_TOW_CIT_RES": "Sabadell",
+  "ENT_POS_COD": "08204",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

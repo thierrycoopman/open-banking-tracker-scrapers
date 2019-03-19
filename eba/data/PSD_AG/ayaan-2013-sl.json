@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!614943_AG227",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG614943",
+  "ENT_NAM": "Ayaan 2013 Sl",
+  "ENT_ADD": "Cl San Antoni Abad 61",
+  "ENT_TOW_CIT_RES": "Barcelona",
+  "ENT_POS_COD": "08 001",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

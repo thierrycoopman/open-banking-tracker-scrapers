@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504475",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "504475",
+  "ENT_NAM": "BDO Remit (UK) Ltd",
+  "ENT_ADD": [
+    "Strand Bridge House",
+    "142 Strand"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "WC2R 1HH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-24"
+  ]
+}

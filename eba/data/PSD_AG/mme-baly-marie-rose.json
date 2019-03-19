@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!75644",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "317819951",
+  "ENT_NAM": "Mme BALY Marie-Rose",
+  "ENT_ADD": [
+    "121 LD LA SAVAE",
+    "GRAND CASE"
+  ],
+  "ENT_TOW_CIT_RES": "ST MARTIN",
+  "ENT_POS_COD": "97150",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

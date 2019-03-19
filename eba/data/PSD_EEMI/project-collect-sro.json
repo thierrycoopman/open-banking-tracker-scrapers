@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!04631447",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "04631447",
+  "ENT_NAM": "Project collect s.r.o. ",
+  "ENT_ADD": "Černá cesta 142/35a",
+  "ENT_TOW_CIT_RES": "Olomouc",
+  "ENT_POS_COD": "77900",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2019-02-05"
+  ]
+}

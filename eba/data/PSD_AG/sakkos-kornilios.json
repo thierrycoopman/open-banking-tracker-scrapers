@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!119525956",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "119525956",
+  "ENT_NAM": "SAKKOS KORNILIOS",
+  "ENT_ADD": "14, TSIRIGOTI Str.",
+  "ENT_TOW_CIT_RES": "IOANNINA",
+  "ENT_POS_COD": "45444",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

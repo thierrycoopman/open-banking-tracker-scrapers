@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4802",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4802",
+  "ENT_NAM": "Laskowski Wiesław Sklep Spożywczo - Przemysłowy",
+  "ENT_ADD": "Pierwszych Osadników 12, Choczewo, 84-210, PL",
+  "ENT_TOW_CIT_RES": "Choczewo",
+  "ENT_POS_COD": "84-210",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

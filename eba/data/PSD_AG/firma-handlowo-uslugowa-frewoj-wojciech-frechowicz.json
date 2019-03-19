@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4468",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4468",
+  "ENT_NAM": "Firma Handlowo-Usługowa \"Frewoj\" Wojciech Fręchowicz",
+  "ENT_ADD": "Jarosława Dąbrowskiego 15, Radzyń Podlaski, 21-300, PL",
+  "ENT_TOW_CIT_RES": "Radzyń Podlaski",
+  "ENT_POS_COD": "21-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

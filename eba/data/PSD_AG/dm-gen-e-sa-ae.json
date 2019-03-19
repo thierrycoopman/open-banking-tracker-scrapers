@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!094165980",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "094165980",
+  "ENT_NAM": "D.M. GEN. E. SA. A.E.",
+  "ENT_ADD": "106, THEM. SOFOULI Str.",
+  "ENT_TOW_CIT_RES": "SAMOS",
+  "ENT_POS_COD": "83100",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

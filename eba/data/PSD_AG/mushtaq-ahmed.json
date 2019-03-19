@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!719454_AG4559",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG719454",
+  "ENT_NAM": "Mushtaq Ahmed",
+  "ENT_ADD": "346 Strathmore Avenue",
+  "ENT_TOW_CIT_RES": "Dundee",
+  "ENT_POS_COD": "DD36 RX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

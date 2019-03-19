@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R130172",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R130172",
+  "ENT_NAM": "Alberga",
+  "ENT_NAM_COM": "Alberga/AM Concepts/Fashion Square/Venelia/Alberga Marketing Concepts/Alberga Retail/E4 Webdesign/Alberga Financial/Givovashop/Alberga Synegy/Gsmcheck",
+  "ENT_ADD": "Ter Braaklaan 12",
+  "ENT_TOW_CIT_RES": "GRONINGEN",
+  "ENT_POS_COD": "9721 XS",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

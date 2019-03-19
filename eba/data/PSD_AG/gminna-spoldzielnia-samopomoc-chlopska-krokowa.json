@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1318",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1318",
+  "ENT_NAM": "GMINNA SPÓŁDZIELNIA \"SAMOPOMOC CHŁOPSKA\" KROKOWA",
+  "ENT_ADD": "Pucka 1/-, Minkowice, 84-110, PL",
+  "ENT_TOW_CIT_RES": "Minkowice",
+  "ENT_POS_COD": "84-110",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

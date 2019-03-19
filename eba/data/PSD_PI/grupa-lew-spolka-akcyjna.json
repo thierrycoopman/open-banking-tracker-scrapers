@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9491761930",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "9491761930",
+  "ENT_NAM": "Grupa \"LEW\" Spółka Akcyjna",
+  "ENT_ADD": "Brzeźnicka 46B, Częstochowa, 42-215, PL",
+  "ENT_TOW_CIT_RES": "Częstochowa",
+  "ENT_POS_COD": "42-215",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-04-23"
+  ]
+}

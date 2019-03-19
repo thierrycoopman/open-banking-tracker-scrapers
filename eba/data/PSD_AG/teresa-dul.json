@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581570_AG1762",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581570",
+  "ENT_NAM": "Teresa Dul",
+  "ENT_ADD": "Kazimierza Pulaskiego 11 Lok 5",
+  "ENT_TOW_CIT_RES": "Bytom",
+  "ENT_POS_COD": "4190 2",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

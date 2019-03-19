@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!25156870",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "25156870",
+  "ENT_NAM": "AREX CZ a.s.",
+  "ENT_ADD": "N/A",
+  "ENT_TOW_CIT_RES": "N/A",
+  "ENT_POS_COD": "N/A",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

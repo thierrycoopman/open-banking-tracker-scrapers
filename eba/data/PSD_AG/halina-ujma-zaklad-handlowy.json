@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!238",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "238",
+  "ENT_NAM": "Halina Ujma - Zakład Handlowy",
+  "ENT_ADD": "ul. Częstochowska 21, Zawady, 42-110, PL",
+  "ENT_TOW_CIT_RES": "Zawady",
+  "ENT_POS_COD": "42-110",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

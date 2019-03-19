@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!594315_AG687",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG594315",
+  "ENT_NAM": "Antonieta Maria Figueiredo Leite",
+  "ENT_ADD": "124 King Street",
+  "ENT_TOW_CIT_RES": "Great Yarmouth",
+  "ENT_POS_COD": "NR30 2PQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

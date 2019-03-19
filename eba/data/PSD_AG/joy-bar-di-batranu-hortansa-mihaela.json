@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!662543_AG875",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG662543",
+  "ENT_NAM": "Joy Bar Di Batranu Hortansa Mihaela",
+  "ENT_ADD": "Vicolo Del Laghetto SNC",
+  "ENT_TOW_CIT_RES": "Castel Gandolfo",
+  "ENT_POS_COD": "00 040",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

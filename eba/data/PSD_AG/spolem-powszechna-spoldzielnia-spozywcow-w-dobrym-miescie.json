@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2937",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2937",
+  "ENT_NAM": "\"Społem\" Powszechna Spółdzielnia Spożywców w Dobrym Mieście",
+  "ENT_ADD": "gen. Tadeusza Kościuszki 2B, Dobre Miasto, 11-040, PL",
+  "ENT_TOW_CIT_RES": "Dobre Miasto",
+  "ENT_POS_COD": "11-040",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

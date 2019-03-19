@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!148",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "148",
+  "ENT_NAM": "Eco Finance Kamil Białas",
+  "ENT_ADD": "Mickiewicza 5B, Skoczów, 43-430, PL",
+  "ENT_TOW_CIT_RES": "Skoczów",
+  "ENT_POS_COD": "43-430",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}

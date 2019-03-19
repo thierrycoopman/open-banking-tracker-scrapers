@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!720157",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "720157",
+  "ENT_NAM": "Crosspay Ltd",
+  "ENT_ADD": [
+    "Suites 1&2 Essex House",
+    "Station Road"
+  ],
+  "ENT_TOW_CIT_RES": "Upminster",
+  "ENT_POS_COD": "RM14 2SJ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-08-24"
+  ]
+}

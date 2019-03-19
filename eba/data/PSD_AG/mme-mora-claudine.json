@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!55582",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "384042958",
+  "ENT_NAM": "Mme MORA Claudine",
+  "ENT_ADD": "45 Allées Marines",
+  "ENT_TOW_CIT_RES": "BAYONNE",
+  "ENT_POS_COD": "64100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

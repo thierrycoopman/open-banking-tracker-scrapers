@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1876",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1876",
+  "ENT_NAM": "Sylwia Stawowska Sklep Spożywczo - Przemysłowy",
+  "ENT_ADD": "Środkowa 3, Rososzyca, 63-405, PL",
+  "ENT_TOW_CIT_RES": "Rososzyca",
+  "ENT_POS_COD": "63-405",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

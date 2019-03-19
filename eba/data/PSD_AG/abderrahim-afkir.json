@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!509174_AG63",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG509174",
+  "ENT_NAM": "Abderrahim Afkir",
+  "ENT_ADD": "Markt 19",
+  "ENT_TOW_CIT_RES": "Remscheid",
+  "ENT_POS_COD": "42 853",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

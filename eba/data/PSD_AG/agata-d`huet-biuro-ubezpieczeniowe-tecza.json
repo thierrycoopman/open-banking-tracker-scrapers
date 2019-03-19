@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6961002983!11",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "11",
+  "ENT_NAM": "Agata d`Huet Biuro Ubezpieczeniowe Tęcza",
+  "ENT_ADD": "Staszica 12, Twardogóra, 56-416, PL",
+  "ENT_TOW_CIT_RES": "Twardogóra",
+  "ENT_POS_COD": "56-416",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6961002983",
+  "DER_CHI_ENT_AUT": "Active"
+}

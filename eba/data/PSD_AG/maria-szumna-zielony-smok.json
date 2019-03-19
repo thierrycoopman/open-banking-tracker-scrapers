@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4359",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4359",
+  "ENT_NAM": "Maria Szumna \" Zielony Smok\"",
+  "ENT_ADD": "Ludwika Rydygiera 25 lok. L/U— 13, Kraków, 30-695, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "30-695",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

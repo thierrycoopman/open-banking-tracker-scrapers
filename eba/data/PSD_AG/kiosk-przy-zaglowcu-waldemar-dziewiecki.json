@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!37",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "37",
+  "ENT_NAM": "KIOSK \"PRZY ŻAGLOWCU\" WALDEMAR DZIEWIĘCKI",
+  "ENT_ADD": "Jagiellońska b/n, Ustka, 76-270, PL",
+  "ENT_TOW_CIT_RES": "Ustka",
+  "ENT_POS_COD": "76-270",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

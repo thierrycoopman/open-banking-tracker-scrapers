@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6651109072",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6651109072",
+  "ENT_NAM": "Biuro Usługowo-Handlowo-Turystyczne \"BAKAR\" Błażej Balcerzak",
+  "ENT_ADD": "Konstytucji 3 Maja 39a, Karpacz, 58-540, PL",
+  "ENT_TOW_CIT_RES": "Karpacz",
+  "ENT_POS_COD": "58-540",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-06"
+  ]
+}

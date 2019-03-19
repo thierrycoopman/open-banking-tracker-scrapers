@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "LT_LT_BL_304531663",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "304531663",
+  "ENT_NAM": "Via Payments UAB",
+  "ENT_ADD": "Vilniaus m. sav. Vilniaus m. Žalgirio g. 90",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "09303",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2017-10-10"
+  ]
+}

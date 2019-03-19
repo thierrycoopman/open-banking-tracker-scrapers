@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9561322272",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9561322272",
+  "ENT_NAM": "Firma Finansowa WEGA Jarosław Jasieniecki",
+  "ENT_ADD": "Wojska Polskiego 43/45, Toruń, 87-100, PL",
+  "ENT_TOW_CIT_RES": "Toruń",
+  "ENT_POS_COD": "87-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-25"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!116",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "116",
+  "ENT_NAM": "Biuro Usług Płatnicztch Monika Bajcer",
+  "ENT_ADD": "Wojska Polskiego 14, Strzelin, 57-100, PL",
+  "ENT_TOW_CIT_RES": "Strzelin",
+  "ENT_POS_COD": "57-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

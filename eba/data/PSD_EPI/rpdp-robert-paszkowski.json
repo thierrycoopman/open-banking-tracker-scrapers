@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!1182105129",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "1182105129",
+  "ENT_NAM": "RPDP Robert Paszkowski",
+  "ENT_ADD": "Żwirki i Wigury 3/10, Warszawa, 02-143, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-143",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-05-26"
+  ]
+}

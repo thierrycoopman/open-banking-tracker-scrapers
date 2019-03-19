@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!783150_AG6652",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG783150",
+  "ENT_NAM": "M D A Office Sas Di Danila Ada & C",
+  "ENT_ADD": "Via Fratelli Cairoli 12",
+  "ENT_TOW_CIT_RES": "Reggio Calabria",
+  "ENT_POS_COD": "89127",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

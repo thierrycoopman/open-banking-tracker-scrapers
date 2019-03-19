@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6792572903",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6792572903",
+  "ENT_NAM": "CITY spółka z ograniczoną odpowiedzialnością - spółka komandytowa ",
+  "ENT_ADD": "Jugowicka 6A, Kraków, 30-443, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "30-443",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-03-19"
+  ]
+}

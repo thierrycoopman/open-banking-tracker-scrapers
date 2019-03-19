@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!540469",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "540469",
+  "ENT_NAM": "Sajad Akhtar",
+  "ENT_NAM_COM": [
+    "Pak Money Transfer",
+    "Ace point travel",
+    "Acepoint Travel"
+  ],
+  "ENT_ADD": "33 Totteridge Road",
+  "ENT_TOW_CIT_RES": "High Wycombe",
+  "ENT_POS_COD": "HP13 6EB",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-04-20"
+  ]
+}

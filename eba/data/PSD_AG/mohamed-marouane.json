@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!546368_AG696",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG546368",
+  "ENT_NAM": "Mohamed Marouane",
+  "ENT_ADD": "Via Roma 8",
+  "ENT_TOW_CIT_RES": "Nerviano",
+  "ENT_POS_COD": "20014",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

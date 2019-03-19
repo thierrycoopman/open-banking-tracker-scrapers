@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76224",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "478099377",
+  "ENT_NAM": "LE RELAIS COTE OUEST",
+  "ENT_ADD": [
+    "RUE DE LA FLAMME OLYMPIQUE",
+    "Parc d'activités de Viais"
+  ],
+  "ENT_TOW_CIT_RES": "PONT ST MARTIN",
+  "ENT_POS_COD": "44860",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

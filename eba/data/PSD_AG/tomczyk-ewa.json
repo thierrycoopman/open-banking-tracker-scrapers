@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!9471296051!1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1",
+  "ENT_NAM": "Tomczyk Ewa",
+  "ENT_ADD": "Wiklinowa 4, Aleksandrów Łódzki, 95-070, PL",
+  "ENT_TOW_CIT_RES": "Aleksandrów Łódzki",
+  "ENT_POS_COD": "95-070",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!9471296051",
+  "DER_CHI_ENT_AUT": "Active"
+}

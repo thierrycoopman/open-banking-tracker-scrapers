@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5538",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5538",
+  "ENT_NAM": "Zakład Gospodarki Komunalnej i mieszkaniowej w Gąbinie",
+  "ENT_ADD": "Strażacka 4a, Gąbin, 09-530, PL",
+  "ENT_TOW_CIT_RES": "Gąbin",
+  "ENT_POS_COD": "09-530",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

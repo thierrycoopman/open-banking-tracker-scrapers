@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2576",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2576",
+  "ENT_NAM": "EWA WOJNAROWSKA FIRMA HANDLOWO-USŁUGOWA E&K",
+  "ENT_ADD": "Smętka 3, GIŻYCKO, 11-500, PL",
+  "ENT_TOW_CIT_RES": "GIŻYCKO",
+  "ENT_POS_COD": "11-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

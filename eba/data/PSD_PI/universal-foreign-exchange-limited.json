@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!600883",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "600883",
+  "ENT_NAM": "Universal Foreign Exchange Limited",
+  "ENT_ADD": [
+    "Fulbourne Road",
+    "Sterling House"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E17 4EE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2013-10-07",
+    "2018-04-10"
+  ]
+}

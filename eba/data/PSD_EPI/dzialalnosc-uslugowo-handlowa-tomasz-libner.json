@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5561105549",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5561105549",
+  "ENT_NAM": "Działalność Usługowo Handlowa Tomasz Libner",
+  "ENT_ADD": "Jankowska Pawilon,dz.nr.215/1, Pakość, 88-170, PL",
+  "ENT_TOW_CIT_RES": "Pakość",
+  "ENT_POS_COD": "88-170",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-01-16"
+  ]
+}

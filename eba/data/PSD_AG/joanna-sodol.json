@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3154",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3154",
+  "ENT_NAM": "Joanna Sodol",
+  "ENT_ADD": "Rogów-Wieś 43A, Rogów, 95-063, PL",
+  "ENT_TOW_CIT_RES": "Rogów",
+  "ENT_POS_COD": "95-063",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

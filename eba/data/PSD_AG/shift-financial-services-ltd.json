@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "PSD_LT_LT_BL_304726229_AG",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": " 304726229",
+  "ENT_NAM": "SHIFT Financial Services Ltd",
+  "ENT_ADD": "First Central 200, Lakeside Drive, Park Royal",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW10 7FQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "LT_LT_BL_304726229",
+  "DER_CHI_ENT_AUT": "Active"
+}

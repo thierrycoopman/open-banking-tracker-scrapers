@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7230000214",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7230000214",
+  "ENT_NAM": "AGRO-BUD Józef Kossakowski",
+  "ENT_ADD": "Tartak Stary 34, Rutki-Kossaki, 18-312, PL",
+  "ENT_TOW_CIT_RES": "Rutki-Kossaki",
+  "ENT_POS_COD": "18-312",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-09-10"
+  ]
+}

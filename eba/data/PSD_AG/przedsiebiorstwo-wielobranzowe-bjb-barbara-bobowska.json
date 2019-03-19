@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!863",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "863",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO WIELOBRANŻOWE \"BJB\" BARBARA BOBOWSKA",
+  "ENT_ADD": "KUKUŁCZA 40, Bydgoszcz, 85-431, PL",
+  "ENT_TOW_CIT_RES": "Bydgoszcz",
+  "ENT_POS_COD": "85-431",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

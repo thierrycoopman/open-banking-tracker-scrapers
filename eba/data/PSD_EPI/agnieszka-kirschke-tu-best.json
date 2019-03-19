@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7262202234",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7262202234",
+  "ENT_NAM": "Agnieszka Kirschke \"TU-BEST\"",
+  "ENT_ADD": "Brzezińska 81, Łódź, 92-111, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "92-111",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-25"
+  ]
+}

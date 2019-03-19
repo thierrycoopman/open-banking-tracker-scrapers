@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R111058",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R111058",
+  "ENT_NAM": "Sunway Shipping",
+  "ENT_ADD": "Rijswijkseweg 89",
+  "ENT_TOW_CIT_RES": "'S-GRAVENHAGE",
+  "ENT_POS_COD": "2516 HA",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

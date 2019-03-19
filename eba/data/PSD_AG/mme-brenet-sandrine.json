@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!78255",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "789581394",
+  "ENT_NAM": "Mme BRENET Sandrine",
+  "ENT_ADD": "38 rue Joseph Requeut Vassy",
+  "ENT_TOW_CIT_RES": "VALDALLIERE",
+  "ENT_POS_COD": "14410",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

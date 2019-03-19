@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!23",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "23",
+  "ENT_NAM": ",,EKO - SERVIS\" SP. Z O.O.",
+  "ENT_ADD": "3 Maja 37, Hajnówka, 17-200, PL",
+  "ENT_TOW_CIT_RES": "Hajnówka",
+  "ENT_POS_COD": "17-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}

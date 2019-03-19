@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!25",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "40003525960",
+  "ENT_NAM": "Kooperatīvā krājaizdevu sabiedrība \"ALLAŽU SAIME\"",
+  "ENT_NAM_COM": "ALLAŽU SAIME",
+  "ENT_ADD": "Birzes iela 4",
+  "ENT_TOW_CIT_RES": "Allaži, Siguldas nov.",
+  "ENT_POS_COD": "LV-2154",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2000-11-30"
+  ]
+}

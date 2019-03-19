@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2757",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2757",
+  "ENT_NAM": "JM- TRADE Patrycjusz Dymowski",
+  "ENT_ADD": "Mirkowska 40/A, Konstancin- Jeziorna, 05-520, PL",
+  "ENT_TOW_CIT_RES": "Konstancin- Jeziorna",
+  "ENT_POS_COD": "05-520",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6751496200!22",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "22",
+  "ENT_NAM": "Mikołajczyk 24 Grzegorz Mikołajczyk",
+  "ENT_ADD": "Mickiewicza 11, Krościenko nad Dunajcem, 34-450, PL",
+  "ENT_TOW_CIT_RES": "Krościenko nad Dunajcem",
+  "ENT_POS_COD": "34-450",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6751496200",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!725908_AG4650",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG725908",
+  "ENT_NAM": "Sayed Ahmed Mosavi",
+  "ENT_ADD": "Wallensteinstrasse 53/Top 1+2",
+  "ENT_TOW_CIT_RES": "Vienna, 1200",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

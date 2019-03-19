@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6065",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6065",
+  "ENT_NAM": "M&M NIERUCHOMOOCI Marzenna Subocz",
+  "ENT_ADD": "Traktorowa 50 lok. 27, Torun, 87-100, PL",
+  "ENT_TOW_CIT_RES": "Torun",
+  "ENT_POS_COD": "87-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

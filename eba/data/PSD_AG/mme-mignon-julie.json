@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72248",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "798701819",
+  "ENT_NAM": "Mme MIGNON Julie",
+  "ENT_ADD": [
+    "78 route d'Espagne",
+    "et 1 rue des Frênes"
+  ],
+  "ENT_TOW_CIT_RES": "PORTET SUR GARONNE",
+  "ENT_POS_COD": "31120",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

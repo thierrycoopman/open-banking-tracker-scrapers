@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8851566786",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8851566786",
+  "ENT_NAM": "Pośrednictwo Finansowo-Ubezpieczeniowe Mariusz Adamowicz",
+  "ENT_ADD": "Zdrojowa 16/XII, Kudowa Zdrój, 57-350, PL",
+  "ENT_TOW_CIT_RES": "Kudowa Zdrój",
+  "ENT_POS_COD": "57-350",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-05"
+  ]
+}

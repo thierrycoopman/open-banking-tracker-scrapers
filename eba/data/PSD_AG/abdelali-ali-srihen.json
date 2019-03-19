@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!624820_AG3325",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG624820",
+  "ENT_NAM": "Abdelali Ali Srihen",
+  "ENT_ADD": "15 Rue Franklin",
+  "ENT_TOW_CIT_RES": "Mulhouse",
+  "ENT_POS_COD": "68 200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

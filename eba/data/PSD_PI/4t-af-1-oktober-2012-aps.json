@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!22015",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "32348882",
+  "ENT_NAM": "4T AF 1. OKTOBER 2012 ApS",
+  "ENT_ADD": [
+    "c/oNordic Connect",
+    "Borgergade 111"
+  ],
+  "ENT_TOW_CIT_RES": "Copenhagen K",
+  "ENT_POS_COD": "1300",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2015-07-10"
+  ]
+}

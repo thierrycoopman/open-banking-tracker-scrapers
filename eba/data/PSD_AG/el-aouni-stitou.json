@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!598405_AG2528",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG598405",
+  "ENT_NAM": "El Aouni Stitou",
+  "ENT_ADD": "Agorahof 22 B",
+  "ENT_TOW_CIT_RES": "Lelystad",
+  "ENT_POS_COD": "8232 DX",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

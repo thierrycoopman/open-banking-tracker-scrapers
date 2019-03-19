@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6274",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6274",
+  "ENT_NAM": "SC KRAM B. WYRZYKOWSKA- BUK & W. NIDERAUS",
+  "ENT_ADD": "1 Maja 67A, Jedwabno, 12-122, PL",
+  "ENT_TOW_CIT_RES": "Jedwabno",
+  "ENT_POS_COD": "12-122",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

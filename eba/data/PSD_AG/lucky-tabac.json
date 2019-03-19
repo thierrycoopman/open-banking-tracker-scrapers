@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!78389",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "832494413",
+  "ENT_NAM": "LUCKY TABAC",
+  "ENT_ADD": [
+    "129-131 Rue du Faubourg ",
+    "du Temple"
+  ],
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75010",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

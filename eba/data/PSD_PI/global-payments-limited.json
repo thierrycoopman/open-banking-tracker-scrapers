@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!HMS",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "C54740",
+  "ENT_NAM": "GLOBAL PAYMENTS LIMITED",
+  "ENT_NAM_COM": "GLOBAL PAYMENTS LIMITED",
+  "ENT_ADD": "Operation Centre, 80 Mill Street",
+  "ENT_TOW_CIT_RES": "Qormi",
+  "ENT_POS_COD": "QRM 3101",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2012-05-22"
+  ]
+}

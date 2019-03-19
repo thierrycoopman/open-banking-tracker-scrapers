@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!505580",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "505580",
+  "ENT_NAM": "Umair Zafar",
+  "ENT_NAM_COM": "Global Electronics & Money Transfer",
+  "ENT_ADD": "109 Midland Road",
+  "ENT_TOW_CIT_RES": "Bedford",
+  "ENT_POS_COD": "MK40 1DA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-12-15",
+    "2018-05-02"
+  ]
+}

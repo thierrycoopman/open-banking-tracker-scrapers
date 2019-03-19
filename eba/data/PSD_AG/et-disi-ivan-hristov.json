@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!827229593",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "827229593",
+  "ENT_NAM": [
+    "ЕТ Диси - Иван Христов",
+    "ET Disi - Ivan Hristov "
+  ],
+  "ENT_ADD": "13 Petar Beron str., Ruse area",
+  "ENT_TOW_CIT_RES": "Gorno Ablanovo village",
+  "ENT_POS_COD": "7173",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

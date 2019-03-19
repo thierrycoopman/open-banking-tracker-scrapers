@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!544066_AG575",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG544066",
+  "ENT_NAM": "Eco Net Phone",
+  "ENT_ADD": "4 Cours De La Marne",
+  "ENT_TOW_CIT_RES": "Bordeaux",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

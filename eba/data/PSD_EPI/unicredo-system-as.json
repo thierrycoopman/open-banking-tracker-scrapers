@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!04464320",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "04464320",
+  "ENT_NAM": "UNICREDO SYSTEM a.s. ",
+  "ENT_ADD": "Sokolovská 366/84",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "18600",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2016-06-10"
+  ]
+}

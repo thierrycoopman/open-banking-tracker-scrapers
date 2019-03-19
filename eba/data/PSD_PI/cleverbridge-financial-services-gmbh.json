@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!148597",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "148597",
+  "ENT_NAM": "cleverbridge Financial Services GmbH",
+  "ENT_ADD": "Gereonstraße 43 - 65 | 50670 Köln",
+  "ENT_TOW_CIT_RES": "Köln",
+  "ENT_POS_COD": "50670",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2019-01-01"
+  ]
+}

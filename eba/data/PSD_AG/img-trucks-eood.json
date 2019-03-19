@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204502550",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204502550",
+  "ENT_NAM": [
+    "Ай Ем Джи Тръкс ЕООД",
+    "IMG Trucks EOOD"
+  ],
+  "ENT_ADD": "zh.k. Suhata reka, build. 96, entr. B, fl. 7, app. 20",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

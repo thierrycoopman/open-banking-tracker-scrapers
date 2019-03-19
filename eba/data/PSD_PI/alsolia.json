@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!10277",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "433130606",
+  "ENT_NAM": "Alsolia",
+  "ENT_NAM_COM": "PI Commercial Name (Not Specified)",
+  "ENT_ADD": [
+    "1 rue Victor Basch ",
+    "CS 70001"
+  ],
+  "ENT_TOW_CIT_RES": "MASSY",
+  "ENT_POS_COD": "91300",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2014-04-11"
+  ]
+}

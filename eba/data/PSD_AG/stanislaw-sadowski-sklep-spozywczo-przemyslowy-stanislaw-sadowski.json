@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!597",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "597",
+  "ENT_NAM": "Stanisław Sadowski Sklep Spożywczo - Przemysłowy Stanisław Sadowski",
+  "ENT_ADD": "Tomasza Rogali 2, Wielki Klincz, 83-423, PL",
+  "ENT_TOW_CIT_RES": "Wielki Klincz",
+  "ENT_POS_COD": "83-423",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

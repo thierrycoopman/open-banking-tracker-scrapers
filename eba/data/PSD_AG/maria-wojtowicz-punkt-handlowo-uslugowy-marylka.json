@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!565",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "565",
+  "ENT_NAM": "Maria Wójtowicz - Punkt Handlowo Usługowy \"Marylka\"",
+  "ENT_ADD": "Grodzka 8, Biecz, 38-340, PL",
+  "ENT_TOW_CIT_RES": "Biecz",
+  "ENT_POS_COD": "38-340",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

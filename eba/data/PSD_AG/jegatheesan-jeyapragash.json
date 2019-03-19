@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!631680_AG3537",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG631680",
+  "ENT_NAM": "Jegatheesan Jeyapragash",
+  "ENT_ADD": "3 Old Milton Green Parade",
+  "ENT_TOW_CIT_RES": "New Milton",
+  "ENT_POS_COD": "BH25 6QA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

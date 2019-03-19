@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1560",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1560",
+  "ENT_NAM": "WERMUZ Danuta Muzyczka",
+  "ENT_ADD": "Józefa Piłsudskiego 1, Werbkowice, 22-550, PL",
+  "ENT_TOW_CIT_RES": "Werbkowice",
+  "ENT_POS_COD": "22-550",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

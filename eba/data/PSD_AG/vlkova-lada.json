@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!25163680!64525121",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "64525121",
+  "ENT_NAM": "Vlková Lada",
+  "ENT_ADD": "Stará cesta 5223/17",
+  "ENT_TOW_CIT_RES": "Jihlava",
+  "ENT_POS_COD": "58601",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!25163680",
+  "DER_CHI_ENT_AUT": "Active"
+}

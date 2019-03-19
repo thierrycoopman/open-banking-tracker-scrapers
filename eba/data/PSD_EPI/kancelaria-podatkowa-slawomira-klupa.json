@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8540021808",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8540021808",
+  "ENT_NAM": "KANCELARIA PODATKOWA Sławomira Klupa",
+  "ENT_ADD": "Kościuszki 3, Łobez, 73-150, PL",
+  "ENT_TOW_CIT_RES": "Łobez",
+  "ENT_POS_COD": "73-150",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-10-09"
+  ]
+}

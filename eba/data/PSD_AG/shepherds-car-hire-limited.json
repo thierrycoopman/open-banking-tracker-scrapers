@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!780429_AG1749",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG780429",
+  "ENT_NAM": "Shepherds Car Hire Limited",
+  "ENT_ADD": [
+    "211 Kingsbury Road",
+    "Jubilee Business Centre"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW9 8AQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

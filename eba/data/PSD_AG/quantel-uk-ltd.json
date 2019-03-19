@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!512352_AG6",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG512352",
+  "ENT_NAM": "Quantel UK LTD",
+  "ENT_ADD": "8 Limerick Close",
+  "ENT_TOW_CIT_RES": "Bracknell",
+  "ENT_POS_COD": "RG42 1YA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}

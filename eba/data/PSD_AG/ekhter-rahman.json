@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!804372_AG2073",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG804372",
+  "ENT_NAM": "Ekhter Rahman",
+  "ENT_ADD": "Avenida General Roçadas, 95 A",
+  "ENT_TOW_CIT_RES": "Lisboa",
+  "ENT_POS_COD": "1170156",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

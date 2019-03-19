@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!530120",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "530120",
+  "ENT_NAM": "Noble Traders Limited",
+  "ENT_ADD": "105a Ealing Road",
+  "ENT_TOW_CIT_RES": "Wembley",
+  "ENT_POS_COD": "HA0 4BP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-01-12"
+  ]
+}

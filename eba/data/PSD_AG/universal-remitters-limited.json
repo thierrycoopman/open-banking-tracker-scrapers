@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!510536_AG100",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG510536",
+  "ENT_NAM": "Universal Remitters Limited",
+  "ENT_ADD": "1 Farrel Court Elephant Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE17 1LB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5851412521!116",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "116",
+  "ENT_NAM": "P.P.U.H AS-FIN Marta Kraska",
+  "ENT_ADD": "Dmowskiego 6, Tychy, 43-100, PL",
+  "ENT_TOW_CIT_RES": "Tychy",
+  "ENT_POS_COD": "43-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851412521",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+NT_AUT": "Inactive"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!650",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "650",
+  "ENT_NAM": "Sklep Ogólno Spożywczo Przemysłowy Dominika Miszczuk",
+  "ENT_ADD": "Kujanki 5 lok. 1, Człuchów, 77-300, PL",
+  "ENT_TOW_CIT_RES": "Człuchów",
+  "ENT_POS_COD": "77-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

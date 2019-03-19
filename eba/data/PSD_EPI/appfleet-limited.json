@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!789476",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "789476",
+  "ENT_NAM": "Appfleet Limited",
+  "ENT_NAM_COM": "Pomelo Pay",
+  "ENT_ADD": [
+    "1 Canada Square",
+    "Level 39"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E14 5AB",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-10-02"
+  ]
+}

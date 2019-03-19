@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!05422248",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "05422248",
+  "ENT_NAM": "ORANGETRUST s.r.o. ",
+  "ENT_ADD": "Štětkova 1001/5",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "14000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-07-17"
+  ]
+}

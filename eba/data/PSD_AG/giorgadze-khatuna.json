@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!998732293!135483395",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "135483395",
+  "ENT_NAM": "GIORGADZE KHATUNA",
+  "ENT_ADD": "50, TSAMADOU Str.",
+  "ENT_TOW_CIT_RES": "PIRAEUS",
+  "ENT_POS_COD": "18532",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!998732293",
+  "DER_CHI_ENT_AUT": "Active"
+}

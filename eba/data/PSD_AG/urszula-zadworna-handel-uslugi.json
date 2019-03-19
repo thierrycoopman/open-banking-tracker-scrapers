@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!737",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "737",
+  "ENT_NAM": "Urszula Zadworna Handel Usługi",
+  "ENT_ADD": "ul. Wojska Polskiego 73, Gryfice, 72-300, PL",
+  "ENT_TOW_CIT_RES": "Gryfice",
+  "ENT_POS_COD": "72-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+
+": "Active"
+}

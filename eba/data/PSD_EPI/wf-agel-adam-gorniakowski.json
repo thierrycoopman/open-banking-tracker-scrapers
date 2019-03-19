@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7281371937",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7281371937",
+  "ENT_NAM": "WF \"AGEL\" Adam Górniakowski",
+  "ENT_ADD": "Brzezińska 54, Łódź, 92-111, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "92-111",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-19"
+  ]
+}

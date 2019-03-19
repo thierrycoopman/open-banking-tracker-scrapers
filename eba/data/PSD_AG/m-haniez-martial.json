@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66968",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "804347953",
+  "ENT_NAM": "M. HANIEZ Martial",
+  "ENT_ADD": "57 Rue Bradfer",
+  "ENT_TOW_CIT_RES": "BAR LE DUC",
+  "ENT_POS_COD": "55000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

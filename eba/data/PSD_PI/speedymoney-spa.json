@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!7832331214",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "7832331214",
+  "ENT_NAM": "SPEEDYMONEY SPA",
+  "ENT_NAM_COM": "SPEEDYMONEY SPA",
+  "ENT_ADD": "VIA DEGLI ORTI, 48",
+  "ENT_TOW_CIT_RES": "SAVIANO",
+  "ENT_POS_COD": "80122",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14",
+    "2018-12-18"
+  ]
+}

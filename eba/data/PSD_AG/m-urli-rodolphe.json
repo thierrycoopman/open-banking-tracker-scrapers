@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77810",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "434380374",
+  "ENT_NAM": "M. URLI Rodolphe",
+  "ENT_ADD": "25 rue du Faubourg St Jacques",
+  "ENT_TOW_CIT_RES": "BEAUVAIS",
+  "ENT_POS_COD": "60000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

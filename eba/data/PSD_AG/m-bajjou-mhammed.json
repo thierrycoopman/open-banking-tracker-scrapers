@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!72093",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "493950372",
+  "ENT_NAM": "M. BAJJOU M'Hammed",
+  "ENT_ADD": [
+    "Centre commercial du Roc ",
+    "Avenue Maréchal Leclerc de ",
+    "Hautecloque"
+  ],
+  "ENT_TOW_CIT_RES": "PIERRELATTE",
+  "ENT_POS_COD": "26700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

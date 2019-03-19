@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R128924",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "R128924",
+  "ENT_NAM": "Worldpay B.V.",
+  "ENT_NAM_COM": "Worldpay B.V.",
+  "ENT_ADD": "Claude Debussylaan 16, 6e verdieping",
+  "ENT_TOW_CIT_RES": "AMSTERDAM",
+  "ENT_POS_COD": "1082 MD",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

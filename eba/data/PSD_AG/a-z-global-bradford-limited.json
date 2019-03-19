@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!514406!812371_AG70",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG812371",
+  "ENT_NAM": "A-Z GLOBAL BRADFORD LIMITED",
+  "ENT_ADD": "224 Toller Lane",
+  "ENT_TOW_CIT_RES": "Bradford",
+  "ENT_POS_COD": "BD9 5BU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!514406",
+  "DER_CHI_ENT_AUT": "Active"
+}

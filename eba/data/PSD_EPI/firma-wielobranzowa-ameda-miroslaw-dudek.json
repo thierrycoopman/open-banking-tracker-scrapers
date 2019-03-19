@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8520901104",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8520901104",
+  "ENT_NAM": "Firma Wielobranżowa \"AMEDA\" Mirosław Dudek ",
+  "ENT_ADD": "Św. Barbary 1A, Szczecin, 71-516, PL",
+  "ENT_TOW_CIT_RES": "Szczecin",
+  "ENT_POS_COD": "71-516",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-01-02"
+  ]
+}

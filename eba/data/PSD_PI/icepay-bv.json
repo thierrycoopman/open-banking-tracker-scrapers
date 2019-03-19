@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0042",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0042",
+  "ENT_NAM": "Icepay B.V.",
+  "ENT_NAM_COM": "Icepay B.V.",
+  "ENT_ADD": "Nachtwachtlaan 20",
+  "ENT_TOW_CIT_RES": "AMSTERDAM",
+  "ENT_POS_COD": "1058 EA",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

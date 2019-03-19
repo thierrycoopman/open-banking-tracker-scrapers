@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8421318583",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8421318583",
+  "ENT_NAM": "BIURO UBEZPIECZEŃ POŚREDNICTWO FINANSOWE TADEUSZ JARZEMBIŃSKI",
+  "ENT_ADD": "Ks. dr Bolesława Domańskiego  1, Bytów, 77-100, PL",
+  "ENT_TOW_CIT_RES": "Bytów",
+  "ENT_POS_COD": "77-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-10-29"
+  ]
+}

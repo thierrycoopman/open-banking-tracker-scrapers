@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!815639_AG595",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG815639",
+  "ENT_NAM": "Cape Point Services Ltd",
+  "ENT_ADD": "77 Cape Hill",
+  "ENT_TOW_CIT_RES": "Smethwick",
+  "ENT_POS_COD": "B66 4SG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

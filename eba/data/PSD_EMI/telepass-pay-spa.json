@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_EMI!IT_BI!14070851002",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "14070851002",
+  "ENT_NAM": "TELEPASS PAY S.P.A.",
+  "ENT_NAM_COM": "TELEPASS PAY S.P.A.",
+  "ENT_ADD": "VIA ALBERTO BERGAMINI 50",
+  "ENT_TOW_CIT_RES": "ROMA",
+  "ENT_POS_COD": "00159",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

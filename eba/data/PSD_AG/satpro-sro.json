@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!26455102",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "26455102",
+  "ENT_NAM": "SatPro, s.r.o.",
+  "ENT_ADD": "Na Pankráci 1600/82",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "14000",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

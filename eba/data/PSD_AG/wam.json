@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!806405_AG8021",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG806405",
+  "ENT_NAM": "Wam",
+  "ENT_ADD": "49 Boulevard Gambetta",
+  "ENT_TOW_CIT_RES": "Clermont L Herault",
+  "ENT_POS_COD": "34800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!509156_AG59",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG509156",
+  "ENT_NAM": "Eddy Duru",
+  "ENT_ADD": "Hedwigstrasse 10 - 12",
+  "ENT_TOW_CIT_RES": "Kassel",
+  "ENT_POS_COD": "34 117",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

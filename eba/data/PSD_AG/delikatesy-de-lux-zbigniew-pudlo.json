@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2932",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2932",
+  "ENT_NAM": "Delikatesy \"De-Lux\" Zbigniew Pudło",
+  "ENT_ADD": "Długa 33, Łojki, 42-290, PL",
+  "ENT_TOW_CIT_RES": "Łojki",
+  "ENT_POS_COD": "42-290",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

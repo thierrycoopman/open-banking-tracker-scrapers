@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!567797_AG83",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG567797",
+  "ENT_NAM": "Mansoor Khaliq",
+  "ENT_ADD": "35 Rowland Road",
+  "ENT_TOW_CIT_RES": "Leeds",
+  "ENT_POS_COD": "LS11 6EA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5192",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5192",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo - Usługowe \"J.B.S\" Józef Sopata, Bronisław Sopata Spółka Jawna",
+  "ENT_ADD": "Obidza 353, Jazowsko, 33-389, PL",
+  "ENT_TOW_CIT_RES": "Jazowsko",
+  "ENT_POS_COD": "33-389",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5621715755",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5621715755",
+  "ENT_NAM": "Agencja Bankowa Michalina Pogiel",
+  "ENT_ADD": "11 Stycznia 5, Łabiszyn, 89-210, PL",
+  "ENT_TOW_CIT_RES": "Łabiszyn",
+  "ENT_POS_COD": "89-210",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-05-25"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0010!R114034",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R114034",
+  "ENT_NAM": "V.O.F. Postkantoor Besselink",
+  "ENT_ADD": "Anjelierstraat 2",
+  "ENT_TOW_CIT_RES": "ALMELO",
+  "ENT_POS_COD": "7601 BL",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0010",
+  "DER_CHI_ENT_AUT": "Active"
+}

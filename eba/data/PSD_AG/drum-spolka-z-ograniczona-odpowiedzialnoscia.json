@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1639",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1639",
+  "ENT_NAM": "\"Drum\" Spółka z Ograniczoną Odpowiedzialnością",
+  "ENT_ADD": "gen. Broni Zygmunta Berlinga 44, Bielawa, 58-260, PL",
+  "ENT_TOW_CIT_RES": "Bielawa",
+  "ENT_POS_COD": "58-260",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

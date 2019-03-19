@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76263",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "820865418",
+  "ENT_NAM": "AXEL ROMAIN & CO",
+  "ENT_ADD": "10 RUE DE VERDUN",
+  "ENT_TOW_CIT_RES": "CHABANAIS",
+  "ENT_POS_COD": "16150",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

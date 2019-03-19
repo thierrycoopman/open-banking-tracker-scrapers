@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8661008161",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8661008161",
+  "ENT_NAM": "Biuro Usług \"Szczyt\" Urszula Cepil",
+  "ENT_ADD": "Armii Krajowej 8, Rytwiany, 28-236, PL",
+  "ENT_TOW_CIT_RES": "Rytwiany",
+  "ENT_POS_COD": "28-236",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-02-22"
+  ]
+}

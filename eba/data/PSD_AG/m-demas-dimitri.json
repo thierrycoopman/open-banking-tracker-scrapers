@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77260",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "828624353",
+  "ENT_NAM": "M. DEMAS Dimitri",
+  "ENT_ADD": "79 rue Chateaubriand",
+  "ENT_TOW_CIT_RES": "CLERMONT FERRAND",
+  "ENT_POS_COD": "63100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6191785445!7",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7",
+  "ENT_NAM": "F.H.U.",
+  "ENT_ADD": "Komorowska 48C, Syców, 56-500, PL",
+  "ENT_TOW_CIT_RES": "Syców",
+  "ENT_POS_COD": "56-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6191785445",
+  "DER_CHI_ENT_AUT": "Active"
+}

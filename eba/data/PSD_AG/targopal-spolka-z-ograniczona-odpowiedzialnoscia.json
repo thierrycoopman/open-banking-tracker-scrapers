@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5191",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5191",
+  "ENT_NAM": "TARGOPAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "ENT_ADD": "Zalesie 5 C, Miejsce Piastowe, 38-430, PL",
+  "ENT_TOW_CIT_RES": "Miejsce Piastowe",
+  "ENT_POS_COD": "38-430",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!750451_AG1380",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG750451",
+  "ENT_NAM": "BENEDUCE ANTONIO",
+  "ENT_ADD": [
+    "Castel di sangro (AQ)",
+    "via xx settembre 28"
+  ],
+  "ENT_TOW_CIT_RES": "Castel di sangro (AQ)",
+  "ENT_POS_COD": "67031",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

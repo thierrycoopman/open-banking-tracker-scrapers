@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R128061",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R128061",
+  "ENT_NAM": "Clubdiensten B.V.",
+  "ENT_NAM_COM": "Clubdiensten B.V.",
+  "ENT_ADD": "Bergstraat 2 A",
+  "ENT_TOW_CIT_RES": "EDE GLD",
+  "ENT_POS_COD": "6711 DD",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

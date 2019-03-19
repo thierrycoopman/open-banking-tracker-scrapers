@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!55065",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "481479939",
+  "ENT_NAM": "LM ALIMENTATION",
+  "ENT_ADD": "6/8 place du 8 Mai 1945",
+  "ENT_TOW_CIT_RES": "MANTES LA JOLIE",
+  "ENT_POS_COD": "78200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

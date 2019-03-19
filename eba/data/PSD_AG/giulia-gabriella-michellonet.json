@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!630630_AG3490",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG630630",
+  "ENT_NAM": "Giulia Gabriella Michellonet",
+  "ENT_ADD": "Viale Regina Margherita 253",
+  "ENT_TOW_CIT_RES": "Rimini",
+  "ENT_POS_COD": "47924",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

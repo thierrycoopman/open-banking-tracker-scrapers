@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "PSD_EPI_LT_LT_BL_300060819_AG4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "449841",
+  "ENT_NAM": "ARC Services",
+  "ENT_ADD": "UNIT C 7 A ILAC SHOPPING CENTRE",
+  "ENT_TOW_CIT_RES": "Dublin",
+  "ENT_POS_COD": "1",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "LT_LT_BL_300060819",
+  "DER_CHI_ENT_AUT": "Active"
+}

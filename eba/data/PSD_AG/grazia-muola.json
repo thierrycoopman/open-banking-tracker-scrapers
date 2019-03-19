@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!697487_AG1198",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG697487",
+  "ENT_NAM": "Grazia Muola",
+  "ENT_ADD": "Via Emilia Ovest 190",
+  "ENT_TOW_CIT_RES": "Modea (Modena)",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

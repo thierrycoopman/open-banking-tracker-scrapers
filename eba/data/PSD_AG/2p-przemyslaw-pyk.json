@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2201",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2201",
+  "ENT_NAM": "2P Przemysław Pyk",
+  "ENT_ADD": "Zgórsko 45, Nowiny, 26-052, PL",
+  "ENT_TOW_CIT_RES": "Nowiny",
+  "ENT_POS_COD": "26-052",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

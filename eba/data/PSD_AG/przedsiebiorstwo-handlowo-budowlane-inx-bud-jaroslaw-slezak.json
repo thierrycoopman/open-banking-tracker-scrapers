@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1248",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1248",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo-Budowlane \"INX-BUD\" Jarosław Ślęzak",
+  "ENT_ADD": "Bartkowicka 40 D, Kłomnice, 42-270, PL",
+  "ENT_TOW_CIT_RES": "Kłomnice",
+  "ENT_POS_COD": "42-270",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

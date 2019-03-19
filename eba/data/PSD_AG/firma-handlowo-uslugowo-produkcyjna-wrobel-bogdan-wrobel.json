@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!237",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "237",
+  "ENT_NAM": "Firma Handlowo Usługowo Produkcyjna \"Wróbel\" Bogdan Wróbel",
+  "ENT_ADD": "Zborowice 9, Ciężkowice, 33-190, PL",
+  "ENT_TOW_CIT_RES": "Ciężkowice",
+  "ENT_POS_COD": "33-190",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

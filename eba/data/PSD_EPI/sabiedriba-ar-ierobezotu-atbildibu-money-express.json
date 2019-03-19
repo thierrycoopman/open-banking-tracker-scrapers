@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!530",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "40103317582",
+  "ENT_NAM": "Sabiedrība ar ierobežotu atbildību \"Money Express\"",
+  "ENT_NAM_COM": "Money Express",
+  "ENT_ADD": "Lāčplēša iela 88",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1003",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2015-02-18"
+  ]
+}

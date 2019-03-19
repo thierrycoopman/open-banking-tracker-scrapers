@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!69349",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "822710349",
+  "ENT_NAM": "LE ZODIAC",
+  "ENT_ADD": "51 Grande rue de Ciers",
+  "ENT_TOW_CIT_RES": "LES AVENIERES VEYRINS THUELLIN",
+  "ENT_POS_COD": "38630",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

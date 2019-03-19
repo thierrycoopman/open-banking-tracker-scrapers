@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!604039_AG2736",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG604039",
+  "ENT_NAM": "Krystyna Wikoria Balus",
+  "ENT_ADD": "Ks Karola Wojtyly 5 a",
+  "ENT_TOW_CIT_RES": "Metkow",
+  "ENT_POS_COD": "3255 1",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

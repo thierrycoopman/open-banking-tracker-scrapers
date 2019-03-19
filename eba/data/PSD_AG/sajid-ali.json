@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!514406!540252_AG22",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG540252",
+  "ENT_NAM": "Sajid Ali",
+  "ENT_ADD": [
+    "Tunstall",
+    "233 High Street"
+  ],
+  "ENT_TOW_CIT_RES": "Stoke-on-Trent",
+  "ENT_POS_COD": "ST6 5EG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!514406",
+  "DER_CHI_ENT_AUT": "Active"
+}

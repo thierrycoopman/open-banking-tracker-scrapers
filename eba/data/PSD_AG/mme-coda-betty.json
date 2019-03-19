@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62811",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "414919118",
+  "ENT_NAM": "Mme CODA Betty",
+  "ENT_ADD": "163 Grand Rue",
+  "ENT_TOW_CIT_RES": "HAGUENAU",
+  "ENT_POS_COD": "67500",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

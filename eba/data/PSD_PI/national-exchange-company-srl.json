@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!7498121008",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "7498121008",
+  "ENT_NAM": "NATIONAL EXCHANGE COMPANY S.R.L.",
+  "ENT_NAM_COM": "NATIONAL EXCHANGE COMPANY S.R.L.",
+  "ENT_ADD": "VIA FERRUCCIO 30",
+  "ENT_TOW_CIT_RES": "ROMA",
+  "ENT_POS_COD": "00185",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

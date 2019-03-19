@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5672",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5672",
+  "ENT_NAM": "AG-RAF-KA Agnieszka Karkoszka",
+  "ENT_ADD": "Dworcowa 21E, Nieborowice, 44-144, PL",
+  "ENT_TOW_CIT_RES": "Nieborowice",
+  "ENT_POS_COD": "44-144",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

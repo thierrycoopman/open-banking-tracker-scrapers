@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7406",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7406",
+  "ENT_NAM": "Krzysztof Kukicz Wspólnik Spółki Cywilnej Emo Market",
+  "ENT_ADD": "Rynek 1, Niepołomice, 32-005, PL",
+  "ENT_TOW_CIT_RES": "Niepołomice",
+  "ENT_POS_COD": "32-005",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

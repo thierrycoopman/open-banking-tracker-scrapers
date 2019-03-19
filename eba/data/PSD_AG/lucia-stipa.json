@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!804528_AG7838",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG804528",
+  "ENT_NAM": "Lucia Stipa",
+  "ENT_ADD": [
+    "Strada Statale 4 Via Salaria 120",
+    "Villa San Giuseppe"
+  ],
+  "ENT_TOW_CIT_RES": "Colli Del Tronto",
+  "ENT_POS_COD": "63079",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

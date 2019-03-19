@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!583392_AG247",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG583392",
+  "ENT_NAM": "Grace International Ltd",
+  "ENT_ADD": "231 Whittington Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "N22 8YW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

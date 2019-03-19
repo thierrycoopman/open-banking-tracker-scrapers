@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2992",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2992",
+  "ENT_NAM": "Wielobranżowe Przedsiębiorstwo Handlowo-Usługowe \"Astom\" Joanna Kornaś",
+  "ENT_ADD": "Kościuszki 37, Rogoźno, 64-610, PL",
+  "ENT_TOW_CIT_RES": "Rogoźno",
+  "ENT_POS_COD": "64-610",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

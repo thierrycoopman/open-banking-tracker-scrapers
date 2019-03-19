@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!549767_AG142",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG549767",
+  "ENT_NAM": "Kawipay Ltd",
+  "ENT_ADD": [
+    "145-157 St. John Street",
+    "Crusader House"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC1V 4PY",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203474564",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203474564",
+  "ENT_NAM": [
+    "Инвесторс ИМ ЕООД",
+    "Investors IM EOOD"
+  ],
+  "ENT_ADD": "1-3 Pop Bogomil str., app. shop 3",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1202",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

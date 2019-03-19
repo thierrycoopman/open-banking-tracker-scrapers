@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!712341_AG1201",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG712341",
+  "ENT_NAM": "Md Mizanur Rahman",
+  "ENT_ADD": "Rua Benformoso 60-1D",
+  "ENT_TOW_CIT_RES": "Lisbon",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66107",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "327522173",
+  "ENT_NAM": "M. MARTINIERE Jean-François",
+  "ENT_ADD": "8 Place du 8 mai 1945",
+  "ENT_TOW_CIT_RES": "MESSIMY",
+  "ENT_POS_COD": "69510",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

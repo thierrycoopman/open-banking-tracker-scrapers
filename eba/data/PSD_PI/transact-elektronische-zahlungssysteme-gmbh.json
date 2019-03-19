@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!124138",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "124138",
+  "ENT_NAM": "transact Elektronische Zahlungssysteme GmbH",
+  "ENT_ADD": "Fraunhoferstraße 10 | 82152 Planegg",
+  "ENT_TOW_CIT_RES": "Planegg",
+  "ENT_POS_COD": "82152",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-07-13"
+  ]
+}

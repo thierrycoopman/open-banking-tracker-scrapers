@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4085",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4085",
+  "ENT_NAM": "Dom Handlowy \"Dwójka\" Wies3aw Wróbel",
+  "ENT_ADD": "Rzeczna 8B, Tuchów, 33-170, PL",
+  "ENT_TOW_CIT_RES": "Tuchów",
+  "ENT_POS_COD": "33-170",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

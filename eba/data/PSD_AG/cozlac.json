@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!709778_AG4312",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG709778",
+  "ENT_NAM": "Cozlac",
+  "ENT_ADD": "Le Turpin Sur L Aulnette RN7",
+  "ENT_TOW_CIT_RES": "Ris Orangis",
+  "ENT_POS_COD": "9113 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

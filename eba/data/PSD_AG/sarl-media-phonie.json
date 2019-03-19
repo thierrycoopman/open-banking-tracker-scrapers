@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!507001!663438_AG50",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG663438",
+  "ENT_NAM": "Sarl Media Phonie",
+  "ENT_ADD": "63 Rue De L Epeule",
+  "ENT_TOW_CIT_RES": "Roubaix",
+  "ENT_POS_COD": "5910 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!507001",
+  "DER_CHI_ENT_AUT": "Active"
+}

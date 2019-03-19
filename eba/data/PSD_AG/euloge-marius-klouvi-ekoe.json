@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!620956_AG46",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG620956",
+  "ENT_NAM": "Euloge Marius Klouvi Ekoe",
+  "ENT_ADD": "27 Anerley Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE19 2AS",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}

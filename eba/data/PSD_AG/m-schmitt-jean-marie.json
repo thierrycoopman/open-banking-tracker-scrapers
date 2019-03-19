@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63881",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "808962708",
+  "ENT_NAM": "M. SCHMITT Jean-Marie",
+  "ENT_ADD": "25 rue de la République",
+  "ENT_TOW_CIT_RES": "HOENHEIM",
+  "ENT_POS_COD": "67800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

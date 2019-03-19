@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9721259690",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9721259690",
+  "ENT_NAM": "1PAY Poland Sp. z o.o. (d. PBOT Poland Sp. z o.o.)",
+  "ENT_ADD": "Błażeja 30B, Poznań, 61-608, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-608",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-01-28"
+  ]
+}

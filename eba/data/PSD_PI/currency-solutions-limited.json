@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!512130",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "512130",
+  "ENT_NAM": "Currency Solutions Limited",
+  "ENT_NAM_COM": "ZooPay Ltd",
+  "ENT_ADD": [
+    "4th Floor Hobbs Court",
+    "2 Jacob Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE1 2BG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2010-01-18"
+  ]
+}

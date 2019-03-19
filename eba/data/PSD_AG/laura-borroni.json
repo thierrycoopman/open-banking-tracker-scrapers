@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!782764_AG6625",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG782764",
+  "ENT_NAM": "Laura Borroni",
+  "ENT_ADD": "VIA SANTA ELISABETTA 27",
+  "ENT_TOW_CIT_RES": "PARABIAGO",
+  "ENT_POS_COD": "20015",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537568",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "537568",
+  "ENT_NAM": "iRemit Global Remittance Ltd",
+  "ENT_ADD": "7B Kensington Church Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W8 4LF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-04-15"
+  ]
+}

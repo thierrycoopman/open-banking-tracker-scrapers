@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9251494949",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9251494949",
+  "ENT_NAM": "Ubezpieczenia Krzysztof Drogoś",
+  "ENT_ADD": "Szprotawska 1a, Kożuchów, 67-120, PL",
+  "ENT_TOW_CIT_RES": "Kożuchów",
+  "ENT_POS_COD": "67-120",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14"
+  ]
+}

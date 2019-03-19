@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77182",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "530251529",
+  "ENT_NAM": "Mme SEGUIN Nadège",
+  "ENT_ADD": "2 rue du Bas Ruet",
+  "ENT_TOW_CIT_RES": "ST PHILBERT DE BOUAINE",
+  "ENT_POS_COD": "85660",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

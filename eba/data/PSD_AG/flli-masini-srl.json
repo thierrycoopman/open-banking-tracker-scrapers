@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!631661_AG3534",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG631661",
+  "ENT_NAM": "Flli Masini SRL",
+  "ENT_ADD": [
+    "Viale Europa 83",
+    "Lucca"
+  ],
+  "ENT_TOW_CIT_RES": "Capannori",
+  "ENT_POS_COD": "5501 3",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

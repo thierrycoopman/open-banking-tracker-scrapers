@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5380002863",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5380002863",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO USŁUG KOMUNALNYCH SPÓŁKA Z O.O.",
+  "ENT_ADD": "Lubelska 5, Radzyń Podlaski, 21-300, PL",
+  "ENT_TOW_CIT_RES": "Radzyń Podlaski",
+  "ENT_POS_COD": "21-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-03-13"
+  ]
+}

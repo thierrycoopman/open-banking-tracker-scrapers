@@ -1,0 +1,21 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!570754",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "570754",
+  "ENT_NAM": "Flywire Payments Limited",
+  "ENT_NAM_COM": [
+    "Flywire",
+    "PeerTransfer"
+  ],
+  "ENT_ADD": [
+    "4th Floor",
+    "45 Folgate Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 6GL",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-12-04"
+  ]
+}

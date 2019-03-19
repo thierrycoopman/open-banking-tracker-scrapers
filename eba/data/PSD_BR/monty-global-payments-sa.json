@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "ES_BE",
+  "EntityCode": "ES_BE!6814!IT",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "MONTY GLOBAL PAYMENTS, S.A.",
+  "ENT_ADD": "VIA GAROFALO  19",
+  "ENT_TOW_CIT_RES": "MILANO",
+  "ENT_POS_COD": "20133",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "ES_BE!6814",
+  "DER_CHI_ENT_AUT": "Active"
+}

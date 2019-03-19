@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!789900",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "789900",
+  "ENT_NAM": "SafeCharge Financial Services Limited",
+  "ENT_NAM_COM": "SafeCharge",
+  "ENT_ADD": [
+    "8 Bloomsbury Street",
+    "SafeCharge",
+    "4th Floor",
+    "Bloomsbury"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "WC1B 3QD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-01-12"
+  ]
+}

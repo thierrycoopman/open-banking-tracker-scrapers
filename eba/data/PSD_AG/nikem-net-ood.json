@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!175229512",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "175229512",
+  "ENT_NAM": [
+    "Никем нет ООД",
+    "Nikem net OOD"
+  ],
+  "ENT_ADD": "1 A, Sofiiska str.",
+  "ENT_TOW_CIT_RES": "Svetovrachene village",
+  "ENT_POS_COD": "1252",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

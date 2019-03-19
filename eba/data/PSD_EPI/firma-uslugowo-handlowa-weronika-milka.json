@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6262417945",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6262417945",
+  "ENT_NAM": "Firma Usługowo-Handlowa Weronika Milka",
+  "ENT_ADD": "Kardynała Stefana Wyszyńskiego 139B, Tarnowskie Góry, 42-612, PL",
+  "ENT_TOW_CIT_RES": "Tarnowskie Góry",
+  "ENT_POS_COD": "42-612",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-12"
+  ]
+}

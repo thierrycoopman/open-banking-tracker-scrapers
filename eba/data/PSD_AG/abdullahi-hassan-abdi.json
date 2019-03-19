@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!505897_AG7",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG505897",
+  "ENT_NAM": "Abdullahi Hassan Abdi",
+  "ENT_ADD": "191 Queens Crescent",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW5 4DS",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

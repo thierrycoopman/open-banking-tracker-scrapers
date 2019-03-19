@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!2509150351",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "2509150351",
+  "ENT_NAM": "CCN SERVIZI DI PAGAMENTO S.P.A.",
+  "ENT_NAM_COM": "CCN SERVIZI DI PAGAMENTO S.P.A.",
+  "ENT_ADD": "VIA KENNEDY, 5",
+  "ENT_TOW_CIT_RES": "CAMPEGINE",
+  "ENT_POS_COD": "42040",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!773799_AG6157",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG773799",
+  "ENT_NAM": "Patience Esomon",
+  "ENT_ADD": "Conrad Von Hotzendorf Strasse 28",
+  "ENT_TOW_CIT_RES": "Graz",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

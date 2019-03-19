@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!531944!538094_AG2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG538094",
+  "ENT_NAM": "Samuel Nobabor Obaseki",
+  "ENT_ADD": [
+    "Gorton North",
+    "540 Hyde Road"
+  ],
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M18 7AA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!531944",
+  "DER_CHI_ENT_AUT": "Active"
+}

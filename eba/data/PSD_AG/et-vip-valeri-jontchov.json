@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!111518664",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "111518664",
+  "ENT_NAM": [
+    "ЕТ ВИП - Валери Йончов ",
+    "ET VIP - Valeri Jontchov"
+  ],
+  "ENT_ADD": "44 G. Dimitrov str., Montana area",
+  "ENT_TOW_CIT_RES": "Rasovo village",
+  "ENT_POS_COD": "3660",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

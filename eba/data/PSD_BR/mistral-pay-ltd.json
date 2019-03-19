@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "PSD_PI!MT_MFSA!MST!IT",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "MISTRAL PAY LTD",
+  "ENT_ADD": "Via Vincenzo Ciaffi, 26",
+  "ENT_TOW_CIT_RES": "Rome",
+  "ENT_POS_COD": "00142",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "MT_MFSA!MST",
+  "DER_CHI_ENT_AUT": "Active"
+}

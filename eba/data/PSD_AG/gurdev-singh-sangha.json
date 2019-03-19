@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!621957_AG3258",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG621957",
+  "ENT_NAM": "Gurdev Singh Sangha",
+  "ENT_ADD": "118 High Street",
+  "ENT_TOW_CIT_RES": "West Bromwich",
+  "ENT_POS_COD": "B70 6JW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

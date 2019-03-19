@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6373",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6373",
+  "ENT_NAM": "Sklep Spo?ywczo-Przemys3owy s.c. Pawe3 Nowak, Dorota Nowak",
+  "ENT_ADD": "Krakowska 39, Niepo3omice, 32-005, PL",
+  "ENT_TOW_CIT_RES": "Niepo3omice",
+  "ENT_POS_COD": "32-005",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

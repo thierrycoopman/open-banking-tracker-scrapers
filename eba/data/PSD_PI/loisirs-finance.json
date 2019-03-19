@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!8971",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "410909592",
+  "ENT_NAM": "Loisirs finance",
+  "ENT_NAM_COM": "PI Commercial Name (Not Specified)",
+  "ENT_ADD": "143 Rue Anatole France",
+  "ENT_TOW_CIT_RES": "LEVALLOIS PERRET",
+  "ENT_POS_COD": "92300",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2014-10-21"
+  ]
+}

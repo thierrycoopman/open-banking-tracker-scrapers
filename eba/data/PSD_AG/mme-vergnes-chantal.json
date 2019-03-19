@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77744",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "340468834",
+  "ENT_NAM": "Mme VERGNES Chantal",
+  "ENT_ADD": "Le Bourg",
+  "ENT_TOW_CIT_RES": "MONBAZILLAC",
+  "ENT_POS_COD": "24240",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

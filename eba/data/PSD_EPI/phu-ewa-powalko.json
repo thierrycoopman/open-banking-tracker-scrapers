@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6911042029",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6911042029",
+  "ENT_NAM": "PHU Ewa Powałko",
+  "ENT_ADD": "Neptuna 4, Legnica, 59-220, PL",
+  "ENT_TOW_CIT_RES": "Legnica",
+  "ENT_POS_COD": "59-220",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-02-07"
+  ]
+}

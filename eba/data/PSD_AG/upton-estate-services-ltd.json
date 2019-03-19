@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!754014_AG5326",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG754014",
+  "ENT_NAM": "Upton Estate Services Ltd",
+  "ENT_ADD": "89 A Upton Lane",
+  "ENT_TOW_CIT_RES": "Forest Gate",
+  "ENT_POS_COD": "E7 9PB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

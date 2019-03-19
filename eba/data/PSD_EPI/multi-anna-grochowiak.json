@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6671670469",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6671670469",
+  "ENT_NAM": "MULTI Anna Grochowiak",
+  "ENT_ADD": "ks. Nikodema Siega 5, Orchowo, 62-436, PL",
+  "ENT_TOW_CIT_RES": "Orchowo",
+  "ENT_POS_COD": "62-436",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-08-22"
+  ]
+}

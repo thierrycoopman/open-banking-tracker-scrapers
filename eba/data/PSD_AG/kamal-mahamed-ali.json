@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!525548!547434_AG3",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG547434",
+  "ENT_NAM": "Kamal Mahamed Ali",
+  "ENT_ADD": "Via Ponza Di San Martino 2",
+  "ENT_TOW_CIT_RES": "Cuneo",
+  "ENT_POS_COD": "121 00",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!525548",
+  "DER_CHI_ENT_AUT": "Active"
+}

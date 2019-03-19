@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!902028",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "902028",
+  "ENT_NAM": "UKForex Limited",
+  "ENT_NAM_COM": "OFX",
+  "ENT_ADD": [
+    "10 Whitechapel High Street",
+    "4th Floor",
+    "The White Chapel Building"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 8QS",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-07-12"
+  ]
+}

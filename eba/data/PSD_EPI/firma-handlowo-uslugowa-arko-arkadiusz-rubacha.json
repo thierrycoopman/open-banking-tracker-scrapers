@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9211633439",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9211633439",
+  "ENT_NAM": "Firma Handlowo-Usługowa Arko Arkadiusz Rubacha",
+  "ENT_ADD": "Partyzantów 12/12, Włodawa, 22-200, PL",
+  "ENT_TOW_CIT_RES": "Włodawa",
+  "ENT_POS_COD": "22-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-12"
+  ]
+}

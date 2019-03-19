@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!59306",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "493947378",
+  "ENT_NAM": "Mme SAMMARI Laadba",
+  "ENT_ADD": "6 rue des Minimes",
+  "ENT_TOW_CIT_RES": "VITRY LE FRANCOIS",
+  "ENT_POS_COD": "51300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

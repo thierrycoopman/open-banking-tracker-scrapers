@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3854",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3854",
+  "ENT_NAM": "SKLEP OGÓLNOSPOŻYWCZY IWONA DAWID - DAWID NOWAK",
+  "ENT_ADD": "os. Jana III Sobieskiego 21H, Poznań, 60-688, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "60-688",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

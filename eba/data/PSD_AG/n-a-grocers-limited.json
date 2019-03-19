@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!773717_AG6149",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG773717",
+  "ENT_NAM": "N A Grocers Limited",
+  "ENT_ADD": "642 Hyde Road",
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M18 7EE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65271",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "498119890",
+  "ENT_NAM": "L ABREUVOIR DE MOTS",
+  "ENT_ADD": "2 Rue de L'Abreuvoir",
+  "ENT_TOW_CIT_RES": "CHANTELOUP LES VIGNES",
+  "ENT_POS_COD": "78570",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

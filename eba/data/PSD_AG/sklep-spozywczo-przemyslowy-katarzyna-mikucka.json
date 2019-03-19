@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7038",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7038",
+  "ENT_NAM": "Sklep Spozywczo-Przemysłowy Katarzyna Mikucka",
+  "ENT_ADD": "Lipowa 20, Przytuły, 18-423, PL",
+  "ENT_TOW_CIT_RES": "Przytuły",
+  "ENT_POS_COD": "18-423",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

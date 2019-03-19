@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!138607",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "138607",
+  "ENT_NAM": [
+    "Г. С. Кешлайн",
+    "G. S. Cashline Ltd."
+  ],
+  "ENT_ADD": "17 Onasagorou Street",
+  "ENT_TOW_CIT_RES": "Nicosia",
+  "ENT_POS_COD": "1011",
+  "ENT_COU_RES": "CY",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

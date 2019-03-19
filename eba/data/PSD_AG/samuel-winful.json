@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!620100_AG45",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG620100",
+  "ENT_NAM": "Samuel Winful",
+  "ENT_ADD": [
+    "275-285 High Street",
+    "Queensway House",
+    "Suite J1 West"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E15 2TF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}

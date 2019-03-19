@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!120548247",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "120548247",
+  "ENT_NAM": [
+    "Стефани ООД",
+    "Stefani OOD"
+  ],
+  "ENT_ADD": "39 Bulgaria blvd.",
+  "ENT_TOW_CIT_RES": "Smolyan",
+  "ENT_POS_COD": "4700",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

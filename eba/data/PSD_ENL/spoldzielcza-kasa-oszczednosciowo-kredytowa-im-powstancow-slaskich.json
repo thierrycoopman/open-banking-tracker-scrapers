@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7491001508",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "7491001508",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Powstańców Śląskich",
+  "ENT_ADD": "ul. Chrobrego 1b, Zdzieszowice, 47-330, PL",
+  "ENT_TOW_CIT_RES": "Zdzieszowice",
+  "ENT_POS_COD": "47-330",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-07"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!830271_AG10373",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG830271",
+  "ENT_NAM": "Fadi Asma",
+  "ENT_ADD": "Berliner Strasse 50",
+  "ENT_TOW_CIT_RES": "Ludwigshafen Mitte",
+  "ENT_POS_COD": "67059",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

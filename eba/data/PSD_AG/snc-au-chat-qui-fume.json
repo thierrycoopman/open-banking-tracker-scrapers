@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76669",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "788583391",
+  "ENT_NAM": "S.N.C. AU CHAT QUI FUME",
+  "ENT_ADD": "PLACE AUX HERBES",
+  "ENT_TOW_CIT_RES": "GAP",
+  "ENT_POS_COD": "05000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

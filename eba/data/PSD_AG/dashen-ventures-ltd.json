@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!827080_AG735",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG827080",
+  "ENT_NAM": "Dashen Ventures Ltd",
+  "ENT_ADD": [
+    "Waltham Abbey",
+    "40 Arlingham Mews",
+    "Sun Street"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "EN9 1ED",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64595",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "514959006",
+  "ENT_NAM": "Mme GIRONIS Alisson",
+  "ENT_ADD": "13 B Avenue d'Andromède ",
+  "ENT_TOW_CIT_RES": "BLAGNAC",
+  "ENT_POS_COD": "31700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

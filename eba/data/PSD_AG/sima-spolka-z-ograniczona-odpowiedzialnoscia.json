@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3259",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3259",
+  "ENT_NAM": "\"Sima\" Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Szczecińska 19, Wrocław, 54-517, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "54-517",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

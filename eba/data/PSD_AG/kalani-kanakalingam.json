@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!686670_AG4056",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG686670",
+  "ENT_NAM": "Kalani Kanakalingam",
+  "ENT_ADD": "Out Westgate",
+  "ENT_TOW_CIT_RES": "Bury St. Edmunds",
+  "ENT_POS_COD": "IP33 3NT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

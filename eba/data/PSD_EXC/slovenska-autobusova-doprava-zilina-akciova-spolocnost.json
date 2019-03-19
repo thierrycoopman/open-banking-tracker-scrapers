@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "SK_NBS",
+  "EntityCode": "PSD_EXC!SK_NBS!36407771",
+  "EntityType": "PSD_EXC",
+  "ENT_NAT_REF_COD": "36407771",
+  "ENT_NAM": "Slovenská autobusová doprava Žilina, akciová spoločnosť",
+  "ENT_ADD": "Košická 2",
+  "ENT_TOW_CIT_RES": "Žilina",
+  "ENT_POS_COD": "01065",
+  "ENT_COU_RES": "SK",
+  "ENT_AUT": [
+    "2018-07-13"
+  ],
+  "ENT_EXC": "EXCL_102",
+  "ENT_DES_ACT_EXC_SCP": "Dopravca vydáva dopravné karty, ktorými zákazník platí cestovné v autobusoch rôznych dopravcov v rámci daného regiónu. Dopravné karty sú platobným prostriedkom, na ktorom sa uchováva majetková hodnota v podobe dopravnej peňaženky elektronicky. Platba dopravnou kartou je možná len v obmedzenej sieti - výlučne v autobusoch vybraných dopravných spoločností (spravidla SAD a dopravných podnikov). Dopravná karta sa môže použiť len na nákup služby (úhrada cestovného v doprave)."
+}

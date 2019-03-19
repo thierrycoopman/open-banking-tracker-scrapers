@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!825398_AG9844",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG825398",
+  "ENT_NAM": "Liliana Stanica Vasile",
+  "ENT_ADD": "Strada Statale 155 Per Fiuggi SNC",
+  "ENT_TOW_CIT_RES": "Alatri",
+  "ENT_POS_COD": "03011",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

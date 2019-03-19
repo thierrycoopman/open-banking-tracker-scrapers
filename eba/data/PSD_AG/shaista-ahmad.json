@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!600688_AG225",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG600688",
+  "ENT_NAM": "Shaista Ahmad",
+  "ENT_ADD": "Breite-Str. 87",
+  "ENT_TOW_CIT_RES": "Saarbrucken",
+  "ENT_POS_COD": "66 115",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

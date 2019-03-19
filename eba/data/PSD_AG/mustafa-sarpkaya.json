@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!707217_AG4252",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG707217",
+  "ENT_NAM": "Mustafa Sarpkaya",
+  "ENT_ADD": "Bahnhofstrasse 6",
+  "ENT_TOW_CIT_RES": "Heilbronn",
+  "ENT_POS_COD": "7407 2",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

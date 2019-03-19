@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!596",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "596",
+  "ENT_NAM": "Klaudia Labudda WIKI",
+  "ENT_ADD": "Okrężna 16, Orle, 84-252, PL",
+  "ENT_TOW_CIT_RES": "Orle",
+  "ENT_POS_COD": "84-252",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

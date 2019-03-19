@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6151177716",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6151177716",
+  "ENT_NAM": "Agencja Finansowa Małgorzata Miłecka ",
+  "ENT_ADD": "Górnicza 1, Legnica, 59-220, PL",
+  "ENT_TOW_CIT_RES": "Legnica",
+  "ENT_POS_COD": "59-220",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-04-16"
+  ]
+}

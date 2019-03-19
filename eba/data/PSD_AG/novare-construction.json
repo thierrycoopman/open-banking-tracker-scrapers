@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!72857",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "813776416",
+  "ENT_NAM": "NOVARE CONSTRUCTION",
+  "ENT_ADD": "176 avenue Charles de Gaulle",
+  "ENT_TOW_CIT_RES": "NEUILLY SUR SEINE",
+  "ENT_POS_COD": "92200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

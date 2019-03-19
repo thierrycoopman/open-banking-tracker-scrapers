@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!654552",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "654552",
+  "ENT_NAM": "BofA Merrill Lynch Merchant Services (Europe) Limited",
+  "ENT_NAM_COM": "BofA Merrill Lynch Merchant Services",
+  "ENT_ADD": "2 King Edward Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC1A 1HQ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-07-17"
+  ]
+}

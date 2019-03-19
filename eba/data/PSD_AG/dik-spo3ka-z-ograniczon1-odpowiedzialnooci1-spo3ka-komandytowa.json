@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4084",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4084",
+  "ENT_NAM": "DIK\" Spó3ka z Ograniczon1 Odpowiedzialnooci1 Spó3ka Komandytowa",
+  "ENT_ADD": "Sympatyczna 15 lok. 17, Rzeszów, 35-314, PL",
+  "ENT_TOW_CIT_RES": "Rzeszów",
+  "ENT_POS_COD": "35-314",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

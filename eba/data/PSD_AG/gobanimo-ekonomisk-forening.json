@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!764364_AG170",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG764364",
+  "ENT_NAM": "Gobanimo Ekonomisk Forening",
+  "ENT_ADD": [
+    "Utmarksvagen 1 E",
+    "c/o Feisal M Mohamed",
+    "311 36 Falkenberg",
+    "Vastra Gotalands Lan"
+  ],
+  "ENT_TOW_CIT_RES": "Goteborg Kommun",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

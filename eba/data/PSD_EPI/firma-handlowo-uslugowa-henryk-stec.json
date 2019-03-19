@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5371375777",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5371375777",
+  "ENT_NAM": "Firma Handlowo-Usługowa Henryk Stec",
+  "ENT_ADD": "Żymirskiego 5/8, Warszawa, 04-045, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "04-045",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14"
+  ]
+}

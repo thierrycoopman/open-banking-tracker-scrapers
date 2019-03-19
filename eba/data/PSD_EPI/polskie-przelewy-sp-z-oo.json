@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5862278121",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5862278121",
+  "ENT_NAM": "Polskie Przelewy sp. z o.o.",
+  "ENT_ADD": "Al. Zwycięstwa 96/98, Gdynia, 81-451, PL",
+  "ENT_TOW_CIT_RES": "Gdynia",
+  "ENT_POS_COD": "81-451",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-10-11",
+    "2018-12-10"
+  ]
+}

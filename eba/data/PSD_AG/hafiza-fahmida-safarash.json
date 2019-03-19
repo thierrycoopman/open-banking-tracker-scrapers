@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!616271_AG234",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG616271",
+  "ENT_NAM": "Hafiza Fahmida Safarash",
+  "ENT_ADD": [
+    "40 Malzeard Road",
+    "Flat 1 & 3"
+  ],
+  "ENT_TOW_CIT_RES": "Luton",
+  "ENT_POS_COD": "LU3 1BD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

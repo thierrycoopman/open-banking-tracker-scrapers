@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!788703",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "788703",
+  "ENT_NAM": "Unified Finance Ltd",
+  "ENT_NAM_COM": "Unified FX",
+  "ENT_ADD": [
+    "Bumpers Way",
+    "Suite 6",
+    "Lansdowne Business Centre"
+  ],
+  "ENT_TOW_CIT_RES": "Chippenham",
+  "ENT_POS_COD": "SN14 6RZ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-03-07"
+  ]
+}

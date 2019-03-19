@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!26978636!27127133",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "27127133",
+  "ENT_NAM": "Kika Nábytek s.r.o.",
+  "ENT_ADD": "Pražská 135",
+  "ENT_TOW_CIT_RES": "Čestlice",
+  "ENT_POS_COD": "25101",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!26978636",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1044",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1044",
+  "ENT_NAM": "Kaleta Paweł Firma Usługowo- Handlowa i Cateringowa",
+  "ENT_ADD": "Sportowa 2, Puńców, 43-400, PL",
+  "ENT_TOW_CIT_RES": "Puńców",
+  "ENT_POS_COD": "43-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

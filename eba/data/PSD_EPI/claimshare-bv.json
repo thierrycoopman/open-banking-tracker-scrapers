@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R134840",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R134840",
+  "ENT_NAM": "ClaimShare B.V.",
+  "ENT_NAM_COM": "ClaimShare B.V.",
+  "ENT_ADD": "De Lairessestraat 155 B",
+  "ENT_TOW_CIT_RES": "AMSTERDAM",
+  "ENT_POS_COD": "1075 HK",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

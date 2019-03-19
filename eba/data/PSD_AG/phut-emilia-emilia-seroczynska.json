@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!9491761930!275",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "275",
+  "ENT_NAM": "P.H.U.T. EMILIA, EMILIA SEROCZYŃSKA",
+  "ENT_ADD": "OS. RÓŻANE 9 I, DZIERŻONIÓW, 58-200, PL",
+  "ENT_TOW_CIT_RES": "DZIERŻONIÓW",
+  "ENT_POS_COD": "58-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!9491761930",
+  "DER_CHI_ENT_AUT": "Active"
+}

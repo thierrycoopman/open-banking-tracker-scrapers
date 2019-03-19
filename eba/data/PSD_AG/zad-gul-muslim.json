@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!566483_AG175",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG566483",
+  "ENT_NAM": "Zad Gul Muslim",
+  "ENT_ADD": "Via Sant'Eulalia 25",
+  "ENT_TOW_CIT_RES": "Cagliari",
+  "ENT_POS_COD": "09124",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

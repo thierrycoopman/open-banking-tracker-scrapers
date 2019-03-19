@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67680",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "817549033",
+  "ENT_NAM": "Mme SUN Linruo",
+  "ENT_ADD": "17-19 rue de la Pêcherie",
+  "ENT_TOW_CIT_RES": "COULOMMIERS",
+  "ENT_POS_COD": "77120",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

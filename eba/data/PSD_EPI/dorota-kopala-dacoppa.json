@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9120001076",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9120001076",
+  "ENT_NAM": "Dorota Kopała DACOPPA ",
+  "ENT_ADD": "pl. Karola Szymanowskiego 30, Oława, 55-200, PL",
+  "ENT_TOW_CIT_RES": "Oława",
+  "ENT_POS_COD": "55-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-06-17"
+  ]
+}

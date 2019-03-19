@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7841108426",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7841108426",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo Usługowe ZODAR Zofia Dąbrowska",
+  "ENT_ADD": "Osiedle Piastowskie 8, Gniezno, 62-200, PL",
+  "ENT_TOW_CIT_RES": "Gniezno",
+  "ENT_POS_COD": "62-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-19"
+  ]
+}

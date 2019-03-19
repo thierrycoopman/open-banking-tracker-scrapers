@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1051",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1051",
+  "ENT_NAM": "F.H.U. A. Pindel, R. Pindel Spółka Jawna",
+  "ENT_ADD": "Szpotawicka 141, Górki Wielkie, 43-436, PL",
+  "ENT_TOW_CIT_RES": "Górki Wielkie",
+  "ENT_POS_COD": "43-436",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

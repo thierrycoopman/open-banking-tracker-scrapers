@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77050",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "828288845",
+  "ENT_NAM": "MEGOTS 2 FILLES",
+  "ENT_ADD": "27 rue Grande",
+  "ENT_TOW_CIT_RES": "CHATILLON SUR INDRE",
+  "ENT_POS_COD": "36700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

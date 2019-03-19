@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!763426_AG640",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG763426",
+  "ENT_NAM": "Sarbjit Kaur Shikarpuri",
+  "ENT_ADD": "Heidelberger Str 26",
+  "ENT_TOW_CIT_RES": "Koln",
+  "ENT_POS_COD": "51065",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

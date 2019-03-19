@@ -1,0 +1,21 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900030",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900030",
+  "ENT_NAM": "Boku Account Services UK Ltd",
+  "ENT_NAM_COM": [
+    "Boku Accounts",
+    "Boku Account Services UK Ltd"
+  ],
+  "ENT_ADD": [
+    "2-6 Boundary Road",
+    "-"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE1 8HP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-05-24"
+  ]
+}

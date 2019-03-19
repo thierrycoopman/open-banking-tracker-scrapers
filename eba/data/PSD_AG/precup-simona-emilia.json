@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!25163680!38796147",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "38796147",
+  "ENT_NAM": "Precup Simona Emilia",
+  "ENT_ADD": "Strada PROGRESULUI nr. 3",
+  "ENT_TOW_CIT_RES": "Sat Vladimirescu, Comuna Vladimirescu",
+  "ENT_POS_COD": "317405",
+  "ENT_COU_RES": "RO",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!25163680",
+  "DER_CHI_ENT_AUT": "Active"
+}

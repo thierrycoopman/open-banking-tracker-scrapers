@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8761637488",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8761637488",
+  "ENT_NAM": "GRAFKOM Grzegorz Studański",
+  "ENT_ADD": "Kościuszki 36, Grudziądz, 86-300, PL",
+  "ENT_TOW_CIT_RES": "Grudziądz",
+  "ENT_POS_COD": "86-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-04-03"
+  ]
+}

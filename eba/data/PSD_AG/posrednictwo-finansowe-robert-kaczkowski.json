@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!319",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "319",
+  "ENT_NAM": "Pośrednictwo Finansowe Robert Kaczkowski",
+  "ENT_ADD": "Osiedle Piastów 10/lok. A, Niemodlin, 49-100, PL",
+  "ENT_TOW_CIT_RES": "Niemodlin",
+  "ENT_POS_COD": "49-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

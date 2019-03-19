@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!769338_AG173",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG769338",
+  "ENT_NAM": "SHAYBE LIMITED",
+  "ENT_ADD": "91-95 Coldharbour Lane",
+  "ENT_TOW_CIT_RES": "Hayes",
+  "ENT_POS_COD": "UB3 3EF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

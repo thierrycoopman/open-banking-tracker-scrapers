@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!41408331",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "41408331",
+  "ENT_NAM": "Židek Miroslav",
+  "ENT_ADD": "Hlavní 148",
+  "ENT_TOW_CIT_RES": "Žulová",
+  "ENT_POS_COD": "79065",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

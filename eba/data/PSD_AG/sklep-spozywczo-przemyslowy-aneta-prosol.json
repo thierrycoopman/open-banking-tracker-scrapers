@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2968",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2968",
+  "ENT_NAM": "SKLEP SPOŻYWCZO-PRZEMYSŁOWY ANETA PROSÓŁ",
+  "ENT_ADD": "Kraśnik Górny 82C, Kraśnik Górny, 59-700, PL",
+  "ENT_TOW_CIT_RES": "Kraśnik Górny",
+  "ENT_POS_COD": "59-700",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

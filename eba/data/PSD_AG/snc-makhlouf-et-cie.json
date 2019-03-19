@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77958",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "489441279",
+  "ENT_NAM": "SNC MAKHLOUF ET CIE",
+  "ENT_ADD": "404 Avenue Du Général Gouraud",
+  "ENT_TOW_CIT_RES": "TOULON",
+  "ENT_POS_COD": "83200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

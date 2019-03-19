@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7292503986",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7292503986",
+  "ENT_NAM": "NIKADA Dominik Klein",
+  "ENT_ADD": "Tuszyńska 103/105/40, Łódź, 93-376, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "93-376",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-03-21",
+    "2019-01-09"
+  ]
+}

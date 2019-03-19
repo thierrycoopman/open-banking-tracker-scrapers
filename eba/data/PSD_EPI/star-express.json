@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!21202",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "30930665 ",
+  "ENT_NAM": "Star Express",
+  "ENT_ADD": [
+    "Edwin Rahrs Vej 32 B",
+    "c/o Stald 21B"
+  ],
+  "ENT_TOW_CIT_RES": "8220",
+  "ENT_POS_COD": "Brabrand",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2015-07-14"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!02135078",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "02135078",
+  "ENT_NAM": "Currex SE ",
+  "ENT_ADD": "Kořenského 1055/1",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "15000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2013-12-23"
+  ]
+}

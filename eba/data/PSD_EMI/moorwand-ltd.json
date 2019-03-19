@@ -1,0 +1,22 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900709",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900709",
+  "ENT_NAM": "Moorwand Ltd",
+  "ENT_NAM_COM": [
+    "Paxept",
+    "UPayCard",
+    "Moorwand Ltd"
+  ],
+  "ENT_ADD": [
+    "Mortlake High Street",
+    "20"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW14 8JN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-04-13"
+  ]
+}

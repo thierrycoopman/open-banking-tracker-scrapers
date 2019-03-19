@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!671",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "671",
+  "ENT_NAM": "ARTITES ARTUR SZYSZCZYŃSKI",
+  "ENT_ADD": "Seweryna Sterlinga 9/10, Łódź, 91-425, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "91-425",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

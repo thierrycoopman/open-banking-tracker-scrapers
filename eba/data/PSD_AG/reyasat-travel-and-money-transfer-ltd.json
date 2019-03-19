@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!824462_AG603",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG824462",
+  "ENT_NAM": "Reyasat Travel and money transfer Ltd",
+  "ENT_ADD": "221 Slade Lane",
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M19 2EX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!130904250",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "130904250",
+  "ENT_NAM": "ILITZIDOU KLARA",
+  "ENT_ADD": "64, STRATOU Ave.",
+  "ENT_TOW_CIT_RES": "THESSALONIKI",
+  "ENT_POS_COD": "56429",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

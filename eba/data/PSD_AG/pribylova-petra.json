@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!62715097",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "62715097",
+  "ENT_NAM": "Přibylová Petra",
+  "ENT_ADD": "Antonína Kopeckého 142",
+  "ENT_TOW_CIT_RES": "Nový Hrádek",
+  "ENT_POS_COD": "54922",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

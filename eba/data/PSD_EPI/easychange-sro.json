@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!29044570",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "29044570",
+  "ENT_NAM": "EasyChange s.r.o. ",
+  "ENT_ADD": "Jungmannova 747/28",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "11000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2010-05-21"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!753079_AG5301",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG753079",
+  "ENT_NAM": "Hasan Yeniavci",
+  "ENT_ADD": "538 Avenue Raymond Pinchard",
+  "ENT_TOW_CIT_RES": "Nancy",
+  "ENT_POS_COD": "54000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

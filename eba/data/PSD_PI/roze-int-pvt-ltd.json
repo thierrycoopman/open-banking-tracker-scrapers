@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!670097",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "670097",
+  "ENT_NAM": "Roze Int (Pvt) Ltd",
+  "ENT_NAM_COM": [
+    "Roze Int (Pvt) Ltd 1",
+    "Roze International",
+    "Roze - E - Remit",
+    "Roze Int (Pvt) Ltd 2"
+  ],
+  "ENT_ADD": "58 Wood Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E17 3HT",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-07-08"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!599678!746786_AG101",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG746786",
+  "ENT_NAM": "Fen Ye",
+  "ENT_ADD": "Rua 5 de Outubro, N. 975-3",
+  "ENT_TOW_CIT_RES": "Vila Do Conde",
+  "ENT_POS_COD": "4480 666",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!599678",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!792090_AG7114",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG792090",
+  "ENT_NAM": "Shakir Rasheed Ghumman",
+  "ENT_ADD": "Zaraz 24",
+  "ENT_TOW_CIT_RES": "Conegliano",
+  "ENT_POS_COD": "31021",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

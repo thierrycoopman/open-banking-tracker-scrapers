@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!816763_AG9063",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG816763",
+  "ENT_NAM": "Giuseppa Catena Venuto",
+  "ENT_ADD": "Via Madonna Di Mezzo Piano 22",
+  "ENT_TOW_CIT_RES": "Gubbio",
+  "ENT_POS_COD": "06024",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

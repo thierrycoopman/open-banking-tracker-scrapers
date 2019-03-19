@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!647816_AG672",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG647816",
+  "ENT_NAM": "Zopito Di Michele",
+  "ENT_ADD": "Viale Duca Degli Abruzzi, 2/4/6",
+  "ENT_TOW_CIT_RES": "Cellino Attanasio",
+  "ENT_POS_COD": "64 036",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

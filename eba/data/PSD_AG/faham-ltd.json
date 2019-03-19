@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!815515_AG2248",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG815515",
+  "ENT_NAM": "FAHAM LTD",
+  "ENT_ADD": "170A Spotland Road",
+  "ENT_TOW_CIT_RES": "Rochdale",
+  "ENT_POS_COD": "OL12 7AA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

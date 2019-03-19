@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!776395_AG6279",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG776395",
+  "ENT_NAM": "Click2reach Ltd",
+  "ENT_ADD": [
+    "Unit 3",
+    "257  Northolt Road"
+  ],
+  "ENT_TOW_CIT_RES": "Harow",
+  "ENT_POS_COD": "HA2 8HS",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

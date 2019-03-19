@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!251",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "251",
+  "ENT_NAM": "Zakład Produkcyjno-Handlowo-Usługowy Krzysztof Cichoń",
+  "ENT_ADD": "Rokutów 11A, Pleszew, 63-300, PL",
+  "ENT_TOW_CIT_RES": "Pleszew",
+  "ENT_POS_COD": "63-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

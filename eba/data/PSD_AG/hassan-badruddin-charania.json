@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!753961_AG490",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG753961",
+  "ENT_NAM": "Hassan Badruddin Charania",
+  "ENT_ADD": [
+    "Tilehurst",
+    "74 School Road"
+  ],
+  "ENT_TOW_CIT_RES": "Reading",
+  "ENT_POS_COD": "RG31 5ST",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

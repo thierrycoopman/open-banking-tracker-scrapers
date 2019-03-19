@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!586622_AG1973",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG586622",
+  "ENT_NAM": "Fior Di Lotto SNC Di Carlo Fiorcapucci E C",
+  "ENT_ADD": "Via Grazia Deledda 10 A",
+  "ENT_TOW_CIT_RES": "Bologna",
+  "ENT_POS_COD": "4012 7",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

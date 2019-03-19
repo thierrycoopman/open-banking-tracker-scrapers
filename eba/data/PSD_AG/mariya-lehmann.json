@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!656676_AG3701",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG656676",
+  "ENT_NAM": "Mariya Lehmann",
+  "ENT_ADD": "Ailinger Strasse 49",
+  "ENT_TOW_CIT_RES": "Friedrichshafen",
+  "ENT_POS_COD": "88046",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!809799_AG8392",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG809799",
+  "ENT_NAM": "House Phone",
+  "ENT_ADD": "20 Grande Rue",
+  "ENT_TOW_CIT_RES": "Savigny Sur Orge",
+  "ENT_POS_COD": "91600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67169",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "820540599",
+  "ENT_NAM": "LE WALDES",
+  "ENT_ADD": "10 Boulevard Anatole France",
+  "ENT_TOW_CIT_RES": "PERPIGNAN",
+  "ENT_POS_COD": "66000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

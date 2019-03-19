@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!532981!510627_AG1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG510627",
+  "ENT_NAM": "Lilians UK Ltd",
+  "ENT_ADD": "272 Brixton Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW9 6AQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!532981",
+  "DER_CHI_ENT_AUT": "Active"
+}

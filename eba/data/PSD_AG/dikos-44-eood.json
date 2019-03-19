@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201478329",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201478329",
+  "ENT_NAM": [
+    "Дикос 44 ЕООД",
+    "Dikos 44 EOOD"
+  ],
+  "ENT_ADD": "zh.k. Obelya 2, build. 228, entr. V, app. 30",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1326",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

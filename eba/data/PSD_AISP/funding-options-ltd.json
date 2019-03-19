@@ -1,0 +1,21 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!791902",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "791902",
+  "ENT_NAM": "Funding Options Ltd",
+  "ENT_NAM_COM": [
+    "BusinessLending.co.uk",
+    "Compare Funding"
+  ],
+  "ENT_ADD": [
+    "Metal Box Factory",
+    "30 Great Guildford Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE1 0HS",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-02-23"
+  ]
+}

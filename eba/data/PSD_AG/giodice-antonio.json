@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!602652_AG2665",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG602652",
+  "ENT_NAM": "Giodice Antonio",
+  "ENT_ADD": "Via Latiano 137",
+  "ENT_TOW_CIT_RES": "Oria",
+  "ENT_POS_COD": "72024",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

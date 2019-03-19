@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!663292_AG922",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG663292",
+  "ENT_NAM": "Emanuela Colombo",
+  "ENT_ADD": "Via De Amicis, 19",
+  "ENT_TOW_CIT_RES": "Meda",
+  "ENT_POS_COD": "20 821",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

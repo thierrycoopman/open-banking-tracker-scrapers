@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!503929!594964_AG51",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG594964",
+  "ENT_NAM": "Yes Call Center S.R.L.",
+  "ENT_ADD": [
+    "41/A",
+    "Via Nino Bixio"
+  ],
+  "ENT_TOW_CIT_RES": "Roma RM",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!503929",
+  "DER_CHI_ENT_AUT": "Active"
+}

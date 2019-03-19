@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8981105061",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8981105061",
+  "ENT_NAM": "AGNIESZKA GRACKA-GÓRA",
+  "ENT_ADD": "Mikołaja Reja 16/12, Wrocław, 50-354, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "50-354",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-06"
+  ]
+}

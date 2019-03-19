@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6842570959",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6842570959",
+  "ENT_NAM": "Inkasent Luiza Zuzak",
+  "ENT_ADD": "Lwowska 2, Krosno, 38-400, PL",
+  "ENT_TOW_CIT_RES": "Krosno",
+  "ENT_POS_COD": "38-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-07-05"
+  ]
+}

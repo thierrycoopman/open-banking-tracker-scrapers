@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66489",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "412342909",
+  "ENT_NAM": "Mme GAIFFE Véronique",
+  "ENT_ADD": [
+    "12 Rue du Maréchal de",
+    "Lattre de Tassigny"
+  ],
+  "ENT_TOW_CIT_RES": "L ISLE SUR LE DOUBS",
+  "ENT_POS_COD": "25250",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

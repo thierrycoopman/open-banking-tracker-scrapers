@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!71943",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "818413213",
+  "ENT_NAM": "MY HORSE FAMILY",
+  "ENT_ADD": [
+    "Rond point Benjamin Franklin ",
+    "CS 39521 Cap Oméga",
+    "34960 Montpellier"
+  ],
+  "ENT_TOW_CIT_RES": "MONTPELLIER",
+  "ENT_POS_COD": "34000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

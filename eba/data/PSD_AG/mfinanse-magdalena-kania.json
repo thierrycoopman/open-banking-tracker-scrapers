@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!235",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "235",
+  "ENT_NAM": "mFINANSE Magdalena Kania",
+  "ENT_ADD": "ul. Wyzwolenia 2, Bystra, 43-360, PL",
+  "ENT_TOW_CIT_RES": "Bystra",
+  "ENT_POS_COD": "43-360",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

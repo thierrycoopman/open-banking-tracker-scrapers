@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!614630_AG301",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG614630",
+  "ENT_NAM": "Mustejab Ahmad",
+  "ENT_ADD": [
+    "Carrer del Roser 72",
+    "Bajo"
+  ],
+  "ENT_TOW_CIT_RES": "Reus",
+  "ENT_POS_COD": "43203",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

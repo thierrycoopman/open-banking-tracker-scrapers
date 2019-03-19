@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1012",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1012",
+  "ENT_NAM": "Firma Handlowo-Gastronomiczna Małgorzata Stach",
+  "ENT_ADD": "Rynek 10, Zduny, 63-760, PL",
+  "ENT_TOW_CIT_RES": "Zduny",
+  "ENT_POS_COD": "63-760",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

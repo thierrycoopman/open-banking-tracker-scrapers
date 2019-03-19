@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!9491761930!271",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "271",
+  "ENT_NAM": "GODBUD DARIA CZERNIAK",
+  "ENT_ADD": "LEŚNA 7, MYSŁOWICE, 41-400, PL",
+  "ENT_TOW_CIT_RES": "MYSŁOWICE",
+  "ENT_POS_COD": "41-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!9491761930",
+  "DER_CHI_ENT_AUT": "Active"
+}

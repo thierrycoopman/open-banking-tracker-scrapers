@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1283",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1283",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo-Usługowe \"HAZET\" Zbigniew Baran",
+  "ENT_ADD": "Krokusowa 3 lok.35, Poniatowa, 24-320, PL",
+  "ENT_TOW_CIT_RES": "Poniatowa",
+  "ENT_POS_COD": "24-320",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

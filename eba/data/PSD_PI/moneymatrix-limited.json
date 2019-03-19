@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!MTX",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "C64593",
+  "ENT_NAM": "MONEYMATRIX LIMITED",
+  "ENT_NAM_COM": "MONEYMATRIX LIMITED",
+  "ENT_ADD": "Suite 1B, Level 5, Portomaso Business Tower",
+  "ENT_TOW_CIT_RES": "St. Julians",
+  "ENT_POS_COD": "STJ 4011",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2017-02-21"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!730403_AG390",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG730403",
+  "ENT_NAM": "Mohammad Sheraz",
+  "ENT_ADD": [
+    "Carrer d'Alfons el Magnanim 103",
+    "Bajo"
+  ],
+  "ENT_TOW_CIT_RES": "Barcelona",
+  "ENT_POS_COD": "08019",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

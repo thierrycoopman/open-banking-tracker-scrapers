@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!169096139",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "169096139",
+  "ENT_NAM": "TARTUS ECATERINA",
+  "ENT_ADD": "8, IROON AGNOSTOU Sq.",
+  "ENT_TOW_CIT_RES": "RETHIMNO",
+  "ENT_POS_COD": "74100",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

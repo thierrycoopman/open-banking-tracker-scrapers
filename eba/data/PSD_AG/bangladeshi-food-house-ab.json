@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!779348_AG1728",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG779348",
+  "ENT_NAM": "Bangladeshi Food House AB",
+  "ENT_ADD": "Chalmersgatan 27",
+  "ENT_TOW_CIT_RES": "Göteborg",
+  "ENT_POS_COD": "41135",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

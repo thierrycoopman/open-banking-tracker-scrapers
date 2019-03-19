@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!548611_AG139",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG548611",
+  "ENT_NAM": "Abdullahi Mohamed Ali",
+  "ENT_ADD": "106 Golders Green Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW11 8HB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!679",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "679",
+  "ENT_NAM": "CoffeeBreak Konrad Palenga",
+  "ENT_ADD": "Warszawska 48 B, Katowice, 40-008, PL",
+  "ENT_TOW_CIT_RES": "Katowice",
+  "ENT_POS_COD": "40-008",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

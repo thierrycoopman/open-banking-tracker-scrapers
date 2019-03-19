@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8861939036",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8861939036",
+  "ENT_NAM": "POŚREDNICTWO FINANSOWE IRENA PRUSKA",
+  "ENT_ADD": "Hetmańska 82, Wałbrzych, 58-316, PL",
+  "ENT_TOW_CIT_RES": "Wałbrzych",
+  "ENT_POS_COD": "58-316",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-08-31"
+  ]
+}

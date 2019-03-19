@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!545095_AG587",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG545095",
+  "ENT_NAM": "Tanja Beford",
+  "ENT_ADD": "Herforder Strasse 46",
+  "ENT_TOW_CIT_RES": "Bielefeld",
+  "ENT_POS_COD": "33602",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

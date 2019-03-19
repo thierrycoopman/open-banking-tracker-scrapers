@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!850",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "850",
+  "ENT_NAM": "Małgorzata Szyduczyńska",
+  "ENT_ADD": "ul. Osmeckiego 14C, Rzeszów, 35-506, PL",
+  "ENT_TOW_CIT_RES": "Rzeszów",
+  "ENT_POS_COD": "35-506",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+
+}
+}

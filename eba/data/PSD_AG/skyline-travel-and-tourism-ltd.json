@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!526301!620815_AG20",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG620815",
+  "ENT_NAM": "Skyline Travel and Tourism Ltd",
+  "ENT_ADD": "48 High Street",
+  "ENT_TOW_CIT_RES": "Southall",
+  "ENT_POS_COD": "UB1 3DB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!526301",
+  "DER_CHI_ENT_AUT": "Active"
+}

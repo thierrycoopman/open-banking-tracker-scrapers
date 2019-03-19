@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!806670",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "806670",
+  "ENT_NAM": "CLEO AI LTD.",
+  "ENT_NAM_COM": "Cleo",
+  "ENT_ADD": [
+    "Top Floor",
+    "45 Mitchell Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC1V 3QD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2019-03-01"
+  ]
+}

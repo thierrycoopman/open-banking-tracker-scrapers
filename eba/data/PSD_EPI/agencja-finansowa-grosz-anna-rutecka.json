@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9590816947",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9590816947",
+  "ENT_NAM": "AGENCJA FINANSOWA \"GROSZ\" ANNA RUTECKA",
+  "ENT_ADD": "Karczówkowska 3, Kielce, 25-019, PL",
+  "ENT_TOW_CIT_RES": "Kielce",
+  "ENT_POS_COD": "25-019",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-23",
+    "2018-10-31"
+  ]
+}

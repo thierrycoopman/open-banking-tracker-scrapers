@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!809021_AG8312",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG809021",
+  "ENT_NAM": "Telecom Center",
+  "ENT_ADD": "36 Boulevard Marechal Joffre",
+  "ENT_TOW_CIT_RES": "Narbonne",
+  "ENT_POS_COD": "11100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

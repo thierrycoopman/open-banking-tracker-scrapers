@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!59820",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "530685924",
+  "ENT_NAM": "LE MONTAIGU SNC",
+  "ENT_ADD": "22 rue du Colonel Picot",
+  "ENT_TOW_CIT_RES": "MELUN",
+  "ENT_POS_COD": "77000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

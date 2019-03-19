@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72687",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "813077112",
+  "ENT_NAM": "LE CRYSTAL II",
+  "ENT_ADD": [
+    "21 Boulevard du Maréchal ",
+    "de Lattre de Tassigny"
+  ],
+  "ENT_TOW_CIT_RES": "AIX LES BAINS",
+  "ENT_POS_COD": "73100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

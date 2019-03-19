@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2813",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2813",
+  "ENT_NAM": "Przedsiębiorstwo Wielobranżowe \"Jamdex\" A. i J. Kowalczuk Spółka Jawna",
+  "ENT_ADD": "Zambrowska 20A, Kleosin, 16-001, PL",
+  "ENT_TOW_CIT_RES": "Kleosin",
+  "ENT_POS_COD": "16-001",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

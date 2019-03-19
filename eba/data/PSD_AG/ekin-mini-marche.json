@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!828148_AG10081",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG828148",
+  "ENT_NAM": "Ekin Mini Marche",
+  "ENT_ADD": "69 Bis Rue Edouard Vaillant",
+  "ENT_TOW_CIT_RES": "Bondy",
+  "ENT_POS_COD": "93140",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

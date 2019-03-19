@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!801811_AG7718",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG801811",
+  "ENT_NAM": "Sas Anouk Et Anais",
+  "ENT_ADD": "6  Boulevard De La Republique",
+  "ENT_TOW_CIT_RES": "Noisy Le Sec",
+  "ENT_POS_COD": "93130",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

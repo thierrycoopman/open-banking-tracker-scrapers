@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!689299_AG1144",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG689299",
+  "ENT_NAM": "Fausto Lovisolo",
+  "ENT_ADD": "Piazza Carlo Gancia 2",
+  "ENT_TOW_CIT_RES": "Canelli (Asti)",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

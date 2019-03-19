@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9720164013",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9720164013",
+  "ENT_NAM": "\"HANNA RUTOWSKA\"",
+  "ENT_ADD": "Nowogrodzka 13/15, Poznań, 61-048, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-048",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-26"
+  ]
+}

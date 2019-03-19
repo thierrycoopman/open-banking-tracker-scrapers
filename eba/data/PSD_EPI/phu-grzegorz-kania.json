@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7521081223",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7521081223",
+  "ENT_NAM": "P.H.U. Grzegorz Kania",
+  "ENT_ADD": "Władysława Stanisława Reymonta 4E/4, Namysłów, 46-100, PL",
+  "ENT_TOW_CIT_RES": "Namysłów",
+  "ENT_POS_COD": "46-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-02-05"
+  ]
+}

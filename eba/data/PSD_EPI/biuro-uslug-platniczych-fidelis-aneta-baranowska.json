@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7471178712",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7471178712",
+  "ENT_NAM": "BIURO USŁUG PŁATNICZYCH \"FIDELIS\" ANETA BARANOWSKA",
+  "ENT_ADD": "Rynek 17  , Brzeg, 49-306, PL",
+  "ENT_TOW_CIT_RES": "Brzeg",
+  "ENT_POS_COD": "49-306",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-06-01"
+  ]
+}

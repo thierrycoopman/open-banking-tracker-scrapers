@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3515",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3515",
+  "ENT_NAM": "ADAM KĘPA",
+  "ENT_ADD": "Piłsudskiego 4, Konstantynów Łódzki, 95-050, PL",
+  "ENT_TOW_CIT_RES": "Konstantynów Łódzki",
+  "ENT_POS_COD": "95-050",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

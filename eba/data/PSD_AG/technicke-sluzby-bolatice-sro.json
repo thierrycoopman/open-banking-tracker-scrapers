@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!26790173",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "26790173",
+  "ENT_NAM": "Technické služby Bolatice, s.r.o.",
+  "ENT_ADD": "Ratibořská 879/14a",
+  "ENT_TOW_CIT_RES": "Bolatice",
+  "ENT_POS_COD": "74723",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

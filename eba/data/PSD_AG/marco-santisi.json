@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!832682_AG10582",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG832682",
+  "ENT_NAM": "Marco Santisi",
+  "ENT_ADD": "Via Matrice 1",
+  "ENT_TOW_CIT_RES": "Maletto",
+  "ENT_POS_COD": "95035",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

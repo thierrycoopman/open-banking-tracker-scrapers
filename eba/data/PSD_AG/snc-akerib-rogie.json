@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72673",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "388206948",
+  "ENT_NAM": "SNC AKERIB-ROGIE",
+  "ENT_ADD": "3 place Foch",
+  "ENT_TOW_CIT_RES": "VERDUN",
+  "ENT_POS_COD": "55100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "BE_NBB",
+  "EntityCode": "BE_NBB!0849872824!FR",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "iBanFirst",
+  "ENT_ADD": "Rue D'Anjou 18Bis",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75008",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "BE_NBB!0849872824",
+  "DER_CHI_ENT_AUT": "Active"
+}

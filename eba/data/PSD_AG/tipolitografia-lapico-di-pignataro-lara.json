@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!650572_AG709",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG650572",
+  "ENT_NAM": "Tipolitografia Lapico DI Pignataro Lara",
+  "ENT_ADD": "C.SO DEL TIRRENO,",
+  "ENT_TOW_CIT_RES": "PRAIA A MARE,",
+  "ENT_POS_COD": "870 20",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

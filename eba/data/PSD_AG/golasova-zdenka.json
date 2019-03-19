@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!71993541",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "71993541",
+  "ENT_NAM": "Golasová Zdeňka",
+  "ENT_ADD": "U Hřiště 1078",
+  "ENT_TOW_CIT_RES": "Velké Bílovice",
+  "ENT_POS_COD": "69102",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

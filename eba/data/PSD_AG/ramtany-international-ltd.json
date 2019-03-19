@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!600097_AG308",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG600097",
+  "ENT_NAM": "Ramtany International Ltd",
+  "ENT_ADD": [
+    "Wolverton",
+    "16 Stratford Road"
+  ],
+  "ENT_TOW_CIT_RES": "Milton Keynes",
+  "ENT_POS_COD": "MK12 5LJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

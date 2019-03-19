@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_EPI!CZ_CNB!24803316!25762427",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "25762427",
+  "ENT_NAM": "REGA & R spol. s r.o.",
+  "ENT_ADD": "Husitská 73/37",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "13000",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!24803316",
+  "DER_CHI_ENT_AUT": "Active"
+}

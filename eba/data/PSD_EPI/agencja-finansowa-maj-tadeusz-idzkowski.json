@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7221077884",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7221077884",
+  "ENT_NAM": "Agencja Finansowa MAJ Tadeusz Idźkowski",
+  "ENT_ADD": "Rynek Mickiewicza 8, Sokoły, 18-218, PL",
+  "ENT_TOW_CIT_RES": "Sokoły",
+  "ENT_POS_COD": "18-218",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-12-09"
+  ]
+}

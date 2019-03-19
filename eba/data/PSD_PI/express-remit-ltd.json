@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!781786",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "781786",
+  "ENT_NAM": "EXPRESS REMIT LTD",
+  "ENT_NAM_COM": "Express Remit",
+  "ENT_ADD": "17 High Street North",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E6 1HS",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-03-09"
+  ]
+}

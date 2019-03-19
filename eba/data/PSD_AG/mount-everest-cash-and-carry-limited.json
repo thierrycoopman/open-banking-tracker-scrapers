@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!511547_AG41",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG511547",
+  "ENT_NAM": "Mount Everest Cash and Carry Limited",
+  "ENT_ADD": [
+    "9-10 Hippodrome House",
+    "Birchett Road"
+  ],
+  "ENT_TOW_CIT_RES": "Aldershot",
+  "ENT_POS_COD": "GU11 1LT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

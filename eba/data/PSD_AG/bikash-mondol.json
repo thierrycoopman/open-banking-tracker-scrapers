@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!782021_AG6598",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG782021",
+  "ENT_NAM": "Bikash Mondol",
+  "ENT_ADD": "Via Antonello Da Messina 22",
+  "ENT_TOW_CIT_RES": "Milano",
+  "ENT_POS_COD": "20146",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

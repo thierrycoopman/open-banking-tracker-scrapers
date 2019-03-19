@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!561809_AG1157",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG561809",
+  "ENT_NAM": "Amarjit Singh",
+  "ENT_ADD": "Via Torino 158/160",
+  "ENT_TOW_CIT_RES": "Savigliano",
+  "ENT_POS_COD": "12 038",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

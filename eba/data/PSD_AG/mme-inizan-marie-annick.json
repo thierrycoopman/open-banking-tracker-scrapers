@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67967",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "419567060",
+  "ENT_NAM": "Mme INIZAN Marie-Annick",
+  "ENT_ADD": "19 rue du Général de Gaulle ",
+  "ENT_TOW_CIT_RES": "LE FAOU",
+  "ENT_POS_COD": "29590",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

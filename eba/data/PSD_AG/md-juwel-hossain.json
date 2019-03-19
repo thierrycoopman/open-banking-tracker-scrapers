@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!628629_AG242",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG628629",
+  "ENT_NAM": "Md Juwel Hossain",
+  "ENT_ADD": "Via Beati Paoli 66",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "9013 4",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

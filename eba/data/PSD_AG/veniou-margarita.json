@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!669539_AG1086",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG669539",
+  "ENT_NAM": "Veniou Margarita",
+  "ENT_ADD": "Folegandros Cyclades",
+  "ENT_TOW_CIT_RES": "Greece",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

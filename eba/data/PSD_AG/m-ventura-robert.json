@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68875",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "484294079",
+  "ENT_NAM": "M. VENTURA Robert",
+  "ENT_ADD": "25 rue du Général Huerne",
+  "ENT_TOW_CIT_RES": "POMMEUSE",
+  "ENT_POS_COD": "77515",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

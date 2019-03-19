@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2624",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2624",
+  "ENT_NAM": "Green Point Service Jolanta Pietrzak Piotr Pietrzak Spółka Jawna",
+  "ENT_ADD": "Kurczaki 122, Łódź, 93-331, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "93-331",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

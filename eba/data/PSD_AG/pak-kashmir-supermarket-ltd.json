@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!762784_AG5650",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG762784",
+  "ENT_NAM": "Pak Kashmir Supermarket Ltd",
+  "ENT_ADD": [
+    "190 Stoney Lane",
+    "Balsall Heath"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B12 8AN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

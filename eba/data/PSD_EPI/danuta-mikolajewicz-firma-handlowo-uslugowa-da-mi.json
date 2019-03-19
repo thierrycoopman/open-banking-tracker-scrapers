@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6431181535",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6431181535",
+  "ENT_NAM": "Danuta Mikołajewicz Firma Handlowo-Usługowa DA-MI",
+  "ENT_ADD": "Wojciecha Korfantego 2A/22, Siemianowice Ślaskie, 41-100, PL",
+  "ENT_TOW_CIT_RES": "Siemianowice Ślaskie",
+  "ENT_POS_COD": "41-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-02-08"
+  ]
+}

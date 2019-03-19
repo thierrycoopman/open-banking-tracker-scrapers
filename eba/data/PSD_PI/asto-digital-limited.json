@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!798763",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "798763",
+  "ENT_NAM": "Asto Digital Limited",
+  "ENT_ADD": [
+    "2-3 Triton Square",
+    "Regent's Place"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW1 3AN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-08-24"
+  ]
+}

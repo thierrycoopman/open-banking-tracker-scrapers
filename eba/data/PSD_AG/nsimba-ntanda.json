@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!813253_AG8711",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG813253",
+  "ENT_NAM": "Nsimba Ntanda",
+  "ENT_ADD": "9 Rue Denis Papin",
+  "ENT_TOW_CIT_RES": "Saint Michel Sur Orge",
+  "ENT_POS_COD": "91240",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

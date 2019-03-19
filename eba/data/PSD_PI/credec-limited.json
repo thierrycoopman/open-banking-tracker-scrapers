@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!815633",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "815633",
+  "ENT_NAM": "CREDEC LIMITED",
+  "ENT_NAM_COM": "CreDec",
+  "ENT_ADD": "21 Young Street",
+  "ENT_TOW_CIT_RES": "Edinburgh",
+  "ENT_POS_COD": "EH2 4HU",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-09-05"
+  ]
+}

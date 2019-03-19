@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63777",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "324059971",
+  "ENT_NAM": "M. BEAUMONT Patrick",
+  "ENT_ADD": "1589 rue Lucien Moreau",
+  "ENT_TOW_CIT_RES": "WAZIERS",
+  "ENT_POS_COD": "59119",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

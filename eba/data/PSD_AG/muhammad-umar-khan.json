@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!503929!607964_AG60",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG607964",
+  "ENT_NAM": "Muhammad Umar Khan",
+  "ENT_ADD": [
+    "Bajos Local 08041",
+    "Calle Trobador 51"
+  ],
+  "ENT_TOW_CIT_RES": "Barcelona",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!503929",
+  "DER_CHI_ENT_AUT": "Active"
+}

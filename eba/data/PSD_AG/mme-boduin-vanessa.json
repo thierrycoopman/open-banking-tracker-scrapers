@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73561",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "753002203",
+  "ENT_NAM": "Mme BODUIN Vanessa",
+  "ENT_ADD": "53 GRANDE RUE",
+  "ENT_TOW_CIT_RES": "NAILLY",
+  "ENT_POS_COD": "89100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

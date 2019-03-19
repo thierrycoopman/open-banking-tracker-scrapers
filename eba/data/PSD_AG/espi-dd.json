@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56579",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "501451801",
+  "ENT_NAM": "ESPI DD",
+  "ENT_ADD": "1 route des Bruyères ",
+  "ENT_TOW_CIT_RES": "ST PRIEST DE GIMEL",
+  "ENT_POS_COD": "19800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!778546_AG1719",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG778546",
+  "ENT_NAM": "Hammad Rashid",
+  "ENT_ADD": "345 East Park Road",
+  "ENT_TOW_CIT_RES": "Leicester",
+  "ENT_POS_COD": "LE5 5HL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

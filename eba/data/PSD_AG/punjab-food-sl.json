@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!820666_AG986",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG820666",
+  "ENT_NAM": "Punjab Food S.L",
+  "ENT_ADD": "C/ Igualdad, No. 53",
+  "ENT_TOW_CIT_RES": "L'Hospitalet De Llobregat",
+  "ENT_POS_COD": "08902",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

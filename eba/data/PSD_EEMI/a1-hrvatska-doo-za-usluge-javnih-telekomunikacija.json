@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "HR_HNB",
+  "EntityCode": "HR_HNB!IENM211",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "IENM211",
+  "ENT_NAM": "A1 Hrvatska d.o.o. za usluge javnih telekomunikacija",
+  "ENT_NAM_COM": "A1 Hrvatska Ltd. for public telecommunication services",
+  "ENT_ADD": "Vrtni put 1",
+  "ENT_TOW_CIT_RES": "ZAGREB",
+  "ENT_POS_COD": "10000",
+  "ENT_COU_RES": "HR",
+  "ENT_AUT": [
+    "2019-01-24"
+  ]
+}

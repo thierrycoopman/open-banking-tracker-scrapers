@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!794548_AG402",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG794548",
+  "ENT_NAM": "Ashok Kumar Talredja",
+  "ENT_ADD": "Mauritiussteinweg 94",
+  "ENT_TOW_CIT_RES": "Cologne",
+  "ENT_POS_COD": "50676",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4834",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4834",
+  "ENT_NAM": "Przedsiębiorstwo Handlowe TOTO Krzysztof Bandurski",
+  "ENT_ADD": "Edwarda Mroza 20A lok. 4, Olsztyn, 10-692, PL",
+  "ENT_TOW_CIT_RES": "Olsztyn",
+  "ENT_POS_COD": "10-692",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900412",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900412",
+  "ENT_NAM": "First Rate Exchange Services Ltd",
+  "ENT_NAM_COM": "First Rate Exchange Services Ltd",
+  "ENT_ADD": [
+    "Great West Road",
+    "Brentford",
+    "Great West House"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "TW8 9DF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-04-04"
+  ]
+}

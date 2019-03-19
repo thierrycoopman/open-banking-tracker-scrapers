@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R129097",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R129097",
+  "ENT_NAM": "Certo Escrow B.V.",
+  "ENT_NAM_COM": "Certo Escrow B.V.",
+  "ENT_ADD": "Berkt 13",
+  "ENT_TOW_CIT_RES": "VELDHOVEN",
+  "ENT_POS_COD": "5507 LK",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

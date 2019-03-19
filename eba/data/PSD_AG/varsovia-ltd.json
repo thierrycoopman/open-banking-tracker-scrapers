@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!719380_AG4557",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG719380",
+  "ENT_NAM": "Varsovia Ltd",
+  "ENT_ADD": [
+    "Thornliebank",
+    "9 Kilmaluag Terrace"
+  ],
+  "ENT_TOW_CIT_RES": "Glasgow",
+  "ENT_POS_COD": "G46 8DG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

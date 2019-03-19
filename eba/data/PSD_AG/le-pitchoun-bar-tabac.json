@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76258",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "817949290",
+  "ENT_NAM": "LE PITCHOUN BAR-TABAC",
+  "ENT_ADD": "9 RUE DU MARECHAL FOCH",
+  "ENT_TOW_CIT_RES": "CARCES",
+  "ENT_POS_COD": "83570",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

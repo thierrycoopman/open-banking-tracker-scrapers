@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!FEX",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "C18400",
+  "ENT_NAM": "Fexserv Financial Services Ltd",
+  "ENT_NAM_COM": "Fexserv Financial Services Ltd",
+  "ENT_ADD": "Suite 2 International House, Naxxar House",
+  "ENT_TOW_CIT_RES": "San Gwann",
+  "ENT_POS_COD": "SGN 9032",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2011-04-27"
+  ]
+}

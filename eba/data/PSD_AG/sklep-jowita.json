@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!8842744337!4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4",
+  "ENT_NAM": "Sklep Jowita",
+  "ENT_ADD": "Dąbrowskiego 11, Strzegom, 58-120, PL",
+  "ENT_TOW_CIT_RES": "Strzegom",
+  "ENT_POS_COD": "58-120",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8842744337",
+  "DER_CHI_ENT_AUT": "Active"
+}

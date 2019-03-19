@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!626",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "626",
+  "ENT_NAM": "Tomasz Bielski „TOM”",
+  "ENT_ADD": "ul. Ignacego Krasickiego 2, Gdynia, 81-385, PL",
+  "ENT_TOW_CIT_RES": "Gdynia",
+  "ENT_POS_COD": "81-385",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

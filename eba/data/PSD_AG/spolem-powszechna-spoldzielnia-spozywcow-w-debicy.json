@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2143",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2143",
+  "ENT_NAM": "\"Społem\" Powszechna Spółdzielnia Spożywców w Dębicy",
+  "ENT_ADD": "Rynek 10 A, Dębica, 39-200, PL",
+  "ENT_TOW_CIT_RES": "Dębica",
+  "ENT_POS_COD": "39-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

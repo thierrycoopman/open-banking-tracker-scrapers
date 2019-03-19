@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!24141666",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "24141666",
+  "ENT_NAM": "SKAROT CZ s.r.o.",
+  "ENT_ADD": "Hvězdova 1716/2b",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "14000",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

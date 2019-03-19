@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!599903_AG2581",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG599903",
+  "ENT_NAM": "Gujjar 449 Scri",
+  "ENT_ADD": "Rue De La Conciliation 2",
+  "ENT_TOW_CIT_RES": "Bruxelles",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

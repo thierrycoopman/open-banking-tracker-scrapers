@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!728638",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "728638",
+  "ENT_NAM": "Global Transmit Ltd",
+  "ENT_ADD": "29 Freeley Road",
+  "ENT_TOW_CIT_RES": "Havant",
+  "ENT_POS_COD": "PO9 4AQ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-03-14"
+  ]
+}

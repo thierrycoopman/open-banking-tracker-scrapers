@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76994",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "387693948",
+  "ENT_NAM": "Mme THOUVENIN Martine",
+  "ENT_ADD": [
+    "8 Rue Championnet et ",
+    "2 Place des Clercs"
+  ],
+  "ENT_TOW_CIT_RES": "VALENCE",
+  "ENT_POS_COD": "26000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

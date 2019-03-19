@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13046!66673",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "PSD_PI!FR_ACPR!13046!66673",
+  "ENT_NAM": "M. MIA Mohammed",
+  "ENT_ADD": "Machabäestr. 7-9",
+  "ENT_TOW_CIT_RES": "50668 KÖLN",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13046",
+  "DER_CHI_ENT_AUT": "Active"
+}

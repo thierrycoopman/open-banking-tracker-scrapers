@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6793083313",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "6793083313",
+  "ENT_NAM": "Planet Pay Sp. z o.o. (d. Smoopay Technologies Sp. z o.o.)",
+  "ENT_ADD": "Jutrzenki 139, Warszawa, 02-231, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-231",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-05-27"
+  ]
+}

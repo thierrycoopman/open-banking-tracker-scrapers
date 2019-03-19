@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0023",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0023",
+  "ENT_NAM": "TargetMedia B.V.",
+  "ENT_NAM_COM": "DigiWallet/TargetPay/TargetMedia B.V./Targetmedia.nl/TargetSMS/Targetmedia",
+  "ENT_ADD": "Zwaardklamp 3",
+  "ENT_TOW_CIT_RES": "HUIZEN",
+  "ENT_POS_COD": "1271 GK",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

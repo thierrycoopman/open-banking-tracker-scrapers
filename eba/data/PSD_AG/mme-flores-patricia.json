@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76971",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "537706731",
+  "ENT_NAM": "Mme FLORES Patricia",
+  "ENT_ADD": "le Bourg",
+  "ENT_TOW_CIT_RES": "SEGONZAC",
+  "ENT_POS_COD": "24600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

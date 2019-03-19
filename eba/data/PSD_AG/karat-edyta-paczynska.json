@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!9491761930!136",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "136",
+  "ENT_NAM": "KARAT EDYTA PACZYŃSKA",
+  "ENT_ADD": "JAŹWINY 7, MSTÓW, 42-244, PL",
+  "ENT_TOW_CIT_RES": "MSTÓW",
+  "ENT_POS_COD": "42-244",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!9491761930",
+  "DER_CHI_ENT_AUT": "Active"
+}

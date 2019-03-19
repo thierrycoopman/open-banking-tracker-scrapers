@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!717474_AG4473",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG717474",
+  "ENT_NAM": "Norma Scotton",
+  "ENT_ADD": "Via Ferralini 17 B",
+  "ENT_TOW_CIT_RES": "Ormelle",
+  "ENT_POS_COD": "3102 4",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

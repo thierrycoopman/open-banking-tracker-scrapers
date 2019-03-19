@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6832092352",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6832092352",
+  "ENT_NAM": "Firma Handlowa Modam A.Dziadur spółka jawna",
+  "ENT_ADD": "Brzezie 382, Brzezie, 32-014, PL",
+  "ENT_TOW_CIT_RES": "Brzezie",
+  "ENT_POS_COD": "32-014",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-12-22"
+  ]
+}

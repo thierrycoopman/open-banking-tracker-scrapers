@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!564935_AG99",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG564935",
+  "ENT_NAM": "Munawar Ahmad Shah",
+  "ENT_ADD": "366 Great Western Road",
+  "ENT_TOW_CIT_RES": "Glasgow",
+  "ENT_POS_COD": "G4 9HT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

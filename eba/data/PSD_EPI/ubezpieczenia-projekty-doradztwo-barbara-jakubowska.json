@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5851267705",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5851267705",
+  "ENT_NAM": "Ubezpieczenia-Projekty-Doradztwo Barbara Jakubowska",
+  "ENT_ADD": "Aleja Wojska Polskiego 11, Sulęczyno, 83-320, PL",
+  "ENT_TOW_CIT_RES": "Sulęczyno",
+  "ENT_POS_COD": "83-320",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-11"
+  ]
+}

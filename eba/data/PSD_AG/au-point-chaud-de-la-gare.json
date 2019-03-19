@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!750047_AG5213",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG750047",
+  "ENT_NAM": "Au point Chaud De La Gare",
+  "ENT_ADD": [
+    "Centre Commercial De La Gare Boutique 19",
+    "Avenue Jean Laugere"
+  ],
+  "ENT_TOW_CIT_RES": "Arnouville Les Gonesse",
+  "ENT_POS_COD": "95400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

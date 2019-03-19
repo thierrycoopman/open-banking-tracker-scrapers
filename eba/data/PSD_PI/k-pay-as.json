@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "SK_NBS",
+  "EntityCode": "PSD_PI!SK_NBS!51032317",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "51032317",
+  "ENT_NAM": "K-PAY a.s.",
+  "ENT_ADD": "Kaštieľ 5",
+  "ENT_TOW_CIT_RES": "Bernolákovo",
+  "ENT_POS_COD": "90027",
+  "ENT_COU_RES": "SK",
+  "ENT_AUT": [
+    "2018-12-21"
+  ]
+}

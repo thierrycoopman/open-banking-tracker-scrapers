@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!535949",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "535949",
+  "ENT_NAM": "Real Transfer Limited",
+  "ENT_ADD": [
+    "Office 8",
+    "58 Howard Street"
+  ],
+  "ENT_TOW_CIT_RES": "Belfast",
+  "ENT_POS_COD": "BT1 6PJ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-04-27"
+  ]
+}

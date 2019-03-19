@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5740007059",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5740007059",
+  "ENT_NAM": "Przedsiębiorstwo Produkcyjno- Usługowo- Handlowe \"OLKO\" Sp. z o.o.",
+  "ENT_ADD": "Mickiewicza  106A, Pajęczno, 98-330, PL",
+  "ENT_TOW_CIT_RES": "Pajęczno",
+  "ENT_POS_COD": "98-330",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-02-15"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76006",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "493898134",
+  "ENT_NAM": "M. LAURENT Jean-Claude",
+  "ENT_ADD": "12 PL DU COLONEL DENIS",
+  "ENT_TOW_CIT_RES": "BAN DE LAVELINE",
+  "ENT_POS_COD": "88520",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

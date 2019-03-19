@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66124",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "592980148",
+  "ENT_NAM": "SNC ROUX ET VIAL",
+  "ENT_ADD": "16 Place de la liberation ",
+  "ENT_TOW_CIT_RES": "NYONS",
+  "ENT_POS_COD": "26110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

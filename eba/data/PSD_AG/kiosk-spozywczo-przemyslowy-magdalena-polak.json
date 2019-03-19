@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4789",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4789",
+  "ENT_NAM": "Kiosk Spożywczo - Przemysłowy Magdalena Polak",
+  "ENT_ADD": "  12, Morzyce, 88-231, PL",
+  "ENT_TOW_CIT_RES": "Morzyce",
+  "ENT_POS_COD": "88-231",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

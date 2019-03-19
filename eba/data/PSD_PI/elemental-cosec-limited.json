@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!806870",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "806870",
+  "ENT_NAM": "Elemental CoSec Limited",
+  "ENT_NAM_COM": [
+    "Elemental Escrow",
+    "Elemental"
+  ],
+  "ENT_ADD": "1 Empire Mews",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW16 2BF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-10-02"
+  ]
+}

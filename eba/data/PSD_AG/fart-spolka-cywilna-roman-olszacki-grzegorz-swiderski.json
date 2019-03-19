@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!580979_AG1611",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG580979",
+  "ENT_NAM": "Fart Spolka Cywilna Roman Olszacki Grzegorz Swiderski",
+  "ENT_ADD": "Kolejowa 6",
+  "ENT_TOW_CIT_RES": "Zgierz",
+  "ENT_POS_COD": "9510 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

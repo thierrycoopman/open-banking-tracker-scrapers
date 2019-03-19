@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67693",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "797809464",
+  "ENT_NAM": "M. GELARD Gaëtan",
+  "ENT_ADD": "1 rue Mathurin Monier",
+  "ENT_TOW_CIT_RES": "YVIGNAC LA TOUR",
+  "ENT_POS_COD": "22350",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

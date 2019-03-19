@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "HR_HNB",
+  "EntityCode": "HR_HNB!IEN110",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "IEN110",
+  "ENT_NAM": "Hrvatski Telekom d.d.",
+  "ENT_NAM_COM": "CROATIAN TELECOM INC.",
+  "ENT_ADD": "Roberta Frangeša Mihanovića 9",
+  "ENT_TOW_CIT_RES": "ZAGREB",
+  "ENT_POS_COD": "10000",
+  "ENT_COU_RES": "HR",
+  "ENT_AUT": [
+    "2011-09-12"
+  ]
+}

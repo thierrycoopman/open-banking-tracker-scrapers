@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!812745_AG2198",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG812745",
+  "ENT_NAM": "Bahar Exchange Ltd",
+  "ENT_ADD": [
+    "Harrow Weald",
+    "221-227 High Road",
+    "Bewise Point",
+    "Room-6"
+  ],
+  "ENT_TOW_CIT_RES": "Harrow",
+  "ENT_POS_COD": "HA3 5EE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

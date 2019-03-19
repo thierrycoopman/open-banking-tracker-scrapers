@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!618293_AG3187",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG618293",
+  "ENT_NAM": "Oltrax Limited",
+  "ENT_ADD": "836 Manchester Road",
+  "ENT_TOW_CIT_RES": "Bradford",
+  "ENT_POS_COD": "BD5 8DJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

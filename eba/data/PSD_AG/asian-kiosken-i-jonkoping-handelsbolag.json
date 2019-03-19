@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!754894_AG5368",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG754894",
+  "ENT_NAM": "Asian Kiosken I Jonkoping Handelsbolag",
+  "ENT_ADD": "Lovisagatan 22",
+  "ENT_TOW_CIT_RES": "Jonkoping",
+  "ENT_POS_COD": "55472",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2380",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2380",
+  "ENT_NAM": "Handel - Usługi Dariusz Lampkowski",
+  "ENT_ADD": "Kunki 5/2, Olsztynek, 11-015, PL",
+  "ENT_TOW_CIT_RES": "Olsztynek",
+  "ENT_POS_COD": "11-015",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

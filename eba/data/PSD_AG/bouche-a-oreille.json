@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77806",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "793630781",
+  "ENT_NAM": "BOUCHE A OREILLE",
+  "ENT_ADD": [
+    "8 Route de Port-en-Bessin",
+    "Le Bourg"
+  ],
+  "ENT_TOW_CIT_RES": "LONGUES SUR MER",
+  "ENT_POS_COD": "14400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!603420_AG2696",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG603420",
+  "ENT_NAM": "Nejib Ben Ahmed Hassine",
+  "ENT_ADD": "Gartnergasse 26",
+  "ENT_TOW_CIT_RES": "Mainz",
+  "ENT_POS_COD": "5511 6",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!447",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "447",
+  "ENT_NAM": "\"ADELLO\" ADAM ZAWADZKI",
+  "ENT_ADD": "Stare Budy 186, Miedzyborów, 96-316, PL",
+  "ENT_TOW_CIT_RES": "Miedzyborów",
+  "ENT_POS_COD": "96-316",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+"
+}

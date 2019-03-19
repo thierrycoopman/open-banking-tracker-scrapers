@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!542076",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "542076",
+  "ENT_NAM": "Khyber Exchange & Travel Ltd",
+  "ENT_NAM_COM": "Khyber FX",
+  "ENT_ADD": "59 Station Road",
+  "ENT_TOW_CIT_RES": "Harrow",
+  "ENT_POS_COD": "HA1 2TY",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-07-18"
+  ]
+}

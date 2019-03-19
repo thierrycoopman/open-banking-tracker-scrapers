@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66265",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "539442376",
+  "ENT_NAM": "M. DADU Frédéric",
+  "ENT_ADD": "49 Rue Saint-Jean",
+  "ENT_TOW_CIT_RES": "SAUMUR",
+  "ENT_POS_COD": "49400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63643",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "532571361",
+  "ENT_NAM": "LA PRESSE DU CARRE",
+  "ENT_ADD": "9 Place du Jeu de Ballon",
+  "ENT_TOW_CIT_RES": "ASPIRAN",
+  "ENT_POS_COD": "34800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

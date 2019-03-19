@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!115540658",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "115540658",
+  "ENT_NAM": [
+    "Интерком стар ЕООД",
+    "Interkom star EOOD"
+  ],
+  "ENT_ADD": "6 Prespa str., Iztochen dist.",
+  "ENT_TOW_CIT_RES": "Plovdiv",
+  "ENT_POS_COD": "4377",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

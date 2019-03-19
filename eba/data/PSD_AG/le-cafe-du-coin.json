@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!816061_AG8985",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG816061",
+  "ENT_NAM": "Le Cafe Du Coin",
+  "ENT_ADD": [
+    "Neuilly Sur Marne",
+    "122 Avenue Du Marechal Leclerc"
+  ],
+  "ENT_TOW_CIT_RES": "Ile De France",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

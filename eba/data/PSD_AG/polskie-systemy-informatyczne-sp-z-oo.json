@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5272606618!532",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "532",
+  "ENT_NAM": "Polskie Systemy Informatyczne Sp. z o.o.",
+  "ENT_ADD": "Bora Komorowskiego 37, Kraków, 31-876, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "31-876",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5272606618",
+  "DER_CHI_ENT_AUT": "Active"
+}

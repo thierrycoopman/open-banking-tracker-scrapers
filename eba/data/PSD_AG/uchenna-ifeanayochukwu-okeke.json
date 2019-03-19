@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!769533_AG5936",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG769533",
+  "ENT_NAM": "Uchenna Ifeanayochukwu Okeke",
+  "ENT_ADD": "30 Regent Street",
+  "ENT_TOW_CIT_RES": "Great Yarmouth",
+  "ENT_POS_COD": "NR30 1RR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

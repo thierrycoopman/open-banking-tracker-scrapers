@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!102940086",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "102940086",
+  "ENT_NAM": [
+    "ЕТ Креми дизайн - Кремена Краева",
+    "ET Kremy Design - Kremena Kraeva"
+  ],
+  "ENT_ADD": "39A Sunny beach str.",
+  "ENT_TOW_CIT_RES": "Aheloi village",
+  "ENT_POS_COD": "8217",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

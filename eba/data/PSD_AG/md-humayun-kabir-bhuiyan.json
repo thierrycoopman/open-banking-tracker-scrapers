@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!805535_AG7937",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG805535",
+  "ENT_NAM": "MD Humayun Kabir Bhuiyan",
+  "ENT_ADD": "Neumärker Straße 5",
+  "ENT_TOW_CIT_RES": "Helmstedt",
+  "ENT_POS_COD": "38350",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

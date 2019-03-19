@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "AGN566",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "40003523495",
+  "ENT_NAM": "Sabiedrība ar ierobežotu atbildību \"TIRDZNIECĪBAS CENTRS PLESKODĀLE\"",
+  "ENT_ADD": "Lielirbes iela 29",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1046",
+  "ENT_COU_RES": "LV",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "LV_FCMC!416",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

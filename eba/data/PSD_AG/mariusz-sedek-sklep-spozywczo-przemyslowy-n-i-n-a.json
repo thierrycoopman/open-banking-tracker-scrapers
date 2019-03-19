@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4895",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4895",
+  "ENT_NAM": "MARIUSZ SĘDEK SKLEP SPOŻYWCZO - PRZEMYSŁOWY N I N A",
+  "ENT_ADD": "Szosa Jadowska 14 B, Wołomin, 05-200, PL",
+  "ENT_TOW_CIT_RES": "Wołomin",
+  "ENT_POS_COD": "05-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

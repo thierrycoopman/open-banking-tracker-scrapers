@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74931",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "434017257",
+  "ENT_NAM": "M. COLIN Pierre-Yves",
+  "ENT_ADD": "102 ALLEE DES CEDRES",
+  "ENT_TOW_CIT_RES": "MOUANS SARTOUX",
+  "ENT_POS_COD": "06370",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

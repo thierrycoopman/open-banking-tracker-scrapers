@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!827365_AG608",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG827365",
+  "ENT_NAM": "Adam Travel & Tours LTD",
+  "ENT_ADD": "94 Wimberley Street",
+  "ENT_TOW_CIT_RES": "Blackburn",
+  "ENT_POS_COD": "BB1 8HX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

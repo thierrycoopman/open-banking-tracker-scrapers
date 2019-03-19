@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!719766_AG4569",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG719766",
+  "ENT_NAM": "Mehmet Soeyler",
+  "ENT_ADD": "Lindenstrasse 33",
+  "ENT_TOW_CIT_RES": "Lohne",
+  "ENT_POS_COD": "4939 3",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

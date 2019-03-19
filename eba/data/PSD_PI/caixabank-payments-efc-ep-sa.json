@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "ES_BE",
+  "EntityCode": "ES_BE!8788",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "8788",
+  "ENT_NAM": "CAIXABANK PAYMENTS, E.F.C. E.P., S.A.",
+  "ENT_ADD": "CL CALERUEGA 102 ",
+  "ENT_TOW_CIT_RES": "MADRID",
+  "ENT_POS_COD": "28033",
+  "ENT_COU_RES": "ES",
+  "ENT_AUT": [
+    "2019-03-15"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6180009269",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6180009269",
+  "ENT_NAM": "Biuro Usług Finansowych i Handlowych Marek Krzywda",
+  "ENT_ADD": "Babina 1, Kalisz, 62-800, PL",
+  "ENT_TOW_CIT_RES": "Kalisz",
+  "ENT_POS_COD": "62-800",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-18"
+  ]
+}

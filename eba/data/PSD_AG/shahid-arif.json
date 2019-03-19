@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!820427_AG599",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG820427",
+  "ENT_NAM": "Shahid Arif",
+  "ENT_ADD": [
+    "TND 2",
+    "Calle Dega Bahi 28-32"
+  ],
+  "ENT_TOW_CIT_RES": "barcelona",
+  "ENT_POS_COD": "08026",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

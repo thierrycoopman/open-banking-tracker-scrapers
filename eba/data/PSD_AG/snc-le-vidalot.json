@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74343",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "492661350",
+  "ENT_NAM": "SNC LE VIDALOT",
+  "ENT_ADD": [
+    "Route DE BESSIERES",
+    "\"PRAT DU VIDALOT\""
+  ],
+  "ENT_TOW_CIT_RES": "MONTJOIRE",
+  "ENT_POS_COD": "31380",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

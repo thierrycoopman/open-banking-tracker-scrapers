@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73191",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "809015563",
+  "ENT_NAM": "M. ORTIZ Manuel",
+  "ENT_ADD": "4 avenue de la République",
+  "ENT_TOW_CIT_RES": "BANYULS SUR MER",
+  "ENT_POS_COD": "66650",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

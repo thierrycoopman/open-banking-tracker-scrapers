@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5586",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5586",
+  "ENT_NAM": "\"GROSZEK\" WIESLAW PIELAK",
+  "ENT_ADD": "Przewozinska 1, Maciejowice, 08-480, PL",
+  "ENT_TOW_CIT_RES": "Maciejowice",
+  "ENT_POS_COD": "08-480",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5371060878",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5371060878",
+  "ENT_NAM": "Zakład Przerobu i Handel Drewnem Halina Maksymiuk",
+  "ENT_ADD": "Cicibór Mały 10, Biała Podlaska, 21-500, PL",
+  "ENT_TOW_CIT_RES": "Biała Podlaska",
+  "ENT_POS_COD": "21-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-22"
+  ]
+}

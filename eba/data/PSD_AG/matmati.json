@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!56441",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "532468220",
+  "ENT_NAM": "MATMATI",
+  "ENT_ADD": "65-69 Allée de Bellefontaine",
+  "ENT_TOW_CIT_RES": "TOULOUSE",
+  "ENT_POS_COD": "31100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

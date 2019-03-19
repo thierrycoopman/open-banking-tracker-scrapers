@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!514766!764948_AG7",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG764948",
+  "ENT_NAM": "Ladan Ahmed Khaire",
+  "ENT_ADD": [
+    "Small Heath",
+    "363-365 Coventry Road"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B10 0SW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!514766",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

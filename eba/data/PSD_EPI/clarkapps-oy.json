@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!27618",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "27618",
+  "ENT_NAM": "ClarkApps Oy",
+  "ENT_ADD": "Linnankatu 13 A 2",
+  "ENT_TOW_CIT_RES": "TURKU",
+  "ENT_POS_COD": "20100",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2010-04-01"
+  ]
+}

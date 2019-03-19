@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!582177!616945_AG9",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG616945",
+  "ENT_NAM": "Yasin Mohamed Siyad",
+  "ENT_ADD": "9 Modbury Avenue",
+  "ENT_TOW_CIT_RES": "Leicester",
+  "ENT_POS_COD": "LE4 2PY",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!582177",
+  "DER_CHI_ENT_AUT": "Active"
+}

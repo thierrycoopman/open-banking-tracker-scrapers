@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!540672_AG484",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG540672",
+  "ENT_NAM": "Salvka Mincheva Slavova",
+  "ENT_ADD": "8 Petraki Yiallourou",
+  "ENT_TOW_CIT_RES": "Paphos",
+  "ENT_POS_COD": "8010",
+  "ENT_COU_RES": "CY",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

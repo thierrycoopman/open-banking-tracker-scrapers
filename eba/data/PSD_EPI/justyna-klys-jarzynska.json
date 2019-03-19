@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7262284812",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7262284812",
+  "ENT_NAM": "Justyna Kłys-Jarzyńska",
+  "ENT_ADD": "Pomorska 17/3, Jastrzębie-Zdrój, 44-335, PL",
+  "ENT_TOW_CIT_RES": "Jastrzębie-Zdrój",
+  "ENT_POS_COD": "44-335",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-01-23",
+    "2018-07-27"
+  ]
+}

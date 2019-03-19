@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!7543004879!6",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6",
+  "ENT_NAM": "NNL Justyna Dukowska",
+  "ENT_ADD": "Sienkiewicza  15, Piotrków Trybunalski, 97-300, PL",
+  "ENT_TOW_CIT_RES": "Piotrków Trybunalski",
+  "ENT_POS_COD": "97-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7543004879",
+  "DER_CHI_ENT_AUT": "Active"
+}

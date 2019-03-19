@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5742063665",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5742063665",
+  "ENT_NAM": "Firma Handlowa \"DROWAL\" spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Przemysłowa  2, Przystajń, 42-141, PL",
+  "ENT_TOW_CIT_RES": "Przystajń",
+  "ENT_POS_COD": "42-141",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-01-09"
+  ]
+}

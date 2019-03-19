@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!822557_AG2356",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG822557",
+  "ENT_NAM": "AJ Travel",
+  "ENT_ADD": "Sokratous 46",
+  "ENT_TOW_CIT_RES": "Athens",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!778414_AG6418",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG778414",
+  "ENT_NAM": "Kutsal Kurklu",
+  "ENT_ADD": "Spitalstrasse 3",
+  "ENT_TOW_CIT_RES": "Oberpullendorf",
+  "ENT_POS_COD": "7350",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

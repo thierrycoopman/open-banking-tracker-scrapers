@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!821946_AG9438",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG821946",
+  "ENT_NAM": "Abdurrahman Yeniekinci",
+  "ENT_ADD": "Laat 196",
+  "ENT_TOW_CIT_RES": "Alkmaar",
+  "ENT_POS_COD": "1811 EN",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

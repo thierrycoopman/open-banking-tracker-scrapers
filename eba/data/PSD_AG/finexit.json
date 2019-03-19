@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!71815",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "813159290",
+  "ENT_NAM": "FINEXIT",
+  "ENT_ADD": [
+    "272 allée Coignet",
+    "Batiment A1 301"
+  ],
+  "ENT_TOW_CIT_RES": "LILLE",
+  "ENT_POS_COD": "59000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

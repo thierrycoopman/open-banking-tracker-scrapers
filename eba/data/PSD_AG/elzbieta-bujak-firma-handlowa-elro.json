@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6501",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6501",
+  "ENT_NAM": "Elżbieta Bujak Firma Handlowa \"ELRO\"",
+  "ENT_ADD": "Rezedowa 2/49, Kraków, 31-409, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "31-409",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

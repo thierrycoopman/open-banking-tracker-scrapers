@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!72482",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "05192540879",
+  "ENT_NAM": "SELECTBIZ S.R.L SEMPLIFICATA",
+  "ENT_ADD": "Via Giacinta Pezzana 25 ",
+  "ENT_TOW_CIT_RES": "95021 ACI Castello (CT) ",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6181664237",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6181664237",
+  "ENT_NAM": "Przedsiębiorstwo Wielobranżowe  \"KALPOL 2000\" Hubert Pietrasik",
+  "ENT_ADD": "Serbinowska  1A, Kalisz, 62-800, PL",
+  "ENT_TOW_CIT_RES": "Kalisz",
+  "ENT_POS_COD": "62-800",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-02-28"
+  ]
+}

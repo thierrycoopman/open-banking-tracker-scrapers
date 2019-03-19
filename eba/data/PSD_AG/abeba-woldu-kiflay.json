@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!650062_AG399",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG650062",
+  "ENT_NAM": "Abeba Woldu Kiflay",
+  "ENT_ADD": "Via Barcellona 64/66",
+  "ENT_TOW_CIT_RES": "Citta Cagliari",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

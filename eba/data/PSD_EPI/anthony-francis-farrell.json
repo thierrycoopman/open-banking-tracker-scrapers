@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!754574",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "754574",
+  "ENT_NAM": "Anthony Francis Farrell",
+  "ENT_NAM_COM": "Bureau de Change",
+  "ENT_ADD": "61 Moore Street",
+  "ENT_TOW_CIT_RES": "Aughnacloy",
+  "ENT_POS_COD": "BT69 6AR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-09-26"
+  ]
+}

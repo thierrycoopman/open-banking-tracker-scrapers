@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "LU_CSSF!W00000005",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "W00000005",
+  "ENT_NAM": "MANGOPAY S.A. ",
+  "ENT_ADD": "2 Avenue Amélie",
+  "ENT_TOW_CIT_RES": "Luxembourg",
+  "ENT_POS_COD": "1125",
+  "ENT_COU_RES": "LU",
+  "ENT_AUT": [
+    "2012-12-31"
+  ]
+}

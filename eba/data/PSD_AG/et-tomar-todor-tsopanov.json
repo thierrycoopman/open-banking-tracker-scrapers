@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!112609469",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "112609469",
+  "ENT_NAM": [
+    "ЕТ Томар – Тодор Цопанов",
+    "ET Tomar - Todor Tsopanov"
+  ],
+  "ENT_ADD": "8 Lenishta str.",
+  "ENT_TOW_CIT_RES": "Velingrad",
+  "ENT_POS_COD": "4600",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

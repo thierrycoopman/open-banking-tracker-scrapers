@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!807493_AG2118",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG807493",
+  "ENT_NAM": "TALKTEL GmbH",
+  "ENT_ADD": "Münchner Str.48",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "60329",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

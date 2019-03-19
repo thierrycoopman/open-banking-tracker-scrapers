@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56817",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "404293557",
+  "ENT_NAM": "M. MARTINEZ-FUENTES Juan",
+  "ENT_ADD": [
+    "1 place de l'Etale",
+    "Centre commercial du Jourdil"
+  ],
+  "ENT_TOW_CIT_RES": "ANNECY",
+  "ENT_POS_COD": "74960",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

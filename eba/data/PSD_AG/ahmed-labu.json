@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!753540_AG329",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG753540",
+  "ENT_NAM": "Ahmed Labu",
+  "ENT_ADD": "Via G. Ammendola, 7",
+  "ENT_TOW_CIT_RES": "San Giuseppe Vesuviano",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

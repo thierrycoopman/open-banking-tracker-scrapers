@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!04863020",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "04863020",
+  "ENT_NAM": "CENTIZU Systems SE ",
+  "ENT_ADD": "Ostrovského 253/3",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "15000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-01-26"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581934_AG1813",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581934",
+  "ENT_NAM": "Vdb",
+  "ENT_ADD": "13 Rue De Haute Borne",
+  "ENT_TOW_CIT_RES": "Drancy",
+  "ENT_POS_COD": "93 700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

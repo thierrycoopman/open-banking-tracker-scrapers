@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!505967_AG20",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG505967",
+  "ENT_NAM": "Laki Jama Guleed",
+  "ENT_ADD": "1085 Garratt Lane",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW17 0LN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

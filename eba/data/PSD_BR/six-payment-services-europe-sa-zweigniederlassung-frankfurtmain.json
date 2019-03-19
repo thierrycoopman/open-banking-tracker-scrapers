@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "PSD_PI!LU_CSSF!Z00000001!DE",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "SIX Payment Services (Europe) S.A., Zweigniederlassung Frankfurt/Main",
+  "ENT_ADD": "Franklinstraße 61-63",
+  "ENT_TOW_CIT_RES": "Frankfurt am Main",
+  "ENT_POS_COD": "60486",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "LU_CSSF!Z00000001",
+  "DER_CHI_ENT_AUT": "Active"
+}

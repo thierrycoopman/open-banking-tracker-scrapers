@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!498",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "498",
+  "ENT_NAM": "AGENT UBEZPIECZENIOWY MARCIN KOŁODZIEJCZYK",
+  "ENT_ADD": "ul. Mińska 17, Siennica, 05-332, PL",
+  "ENT_TOW_CIT_RES": "Siennica",
+  "ENT_POS_COD": "05-332",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+_CHI_ENT_AUT": "Active"
+}

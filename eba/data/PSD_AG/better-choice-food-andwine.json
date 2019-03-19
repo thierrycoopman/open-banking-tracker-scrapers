@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!608277!510782_AG36",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG510782",
+  "ENT_NAM": "Better Choice Food &Wine",
+  "ENT_ADD": "256a Lavender Hill",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW11 1LJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!608277",
+  "DER_CHI_ENT_AUT": "Active"
+}

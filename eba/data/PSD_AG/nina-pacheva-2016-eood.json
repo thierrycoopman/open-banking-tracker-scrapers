@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204268492",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204268492",
+  "ENT_NAM": [
+    "Нина Пачева - 2016 ЕООД",
+    "Nina Pacheva - 2016 EOOD"
+  ],
+  "ENT_ADD": "5 Kiril I Metodii str.",
+  "ENT_TOW_CIT_RES": "Septemvri",
+  "ENT_POS_COD": "4490",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

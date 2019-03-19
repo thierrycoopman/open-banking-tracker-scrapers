@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7491587454",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7491587454",
+  "ENT_NAM": "Piotr Marcinków Usługi Bankowe",
+  "ENT_ADD": "Wyzwolenia 47, Pawłowiczki, 47-280, PL",
+  "ENT_TOW_CIT_RES": "Pawłowiczki",
+  "ENT_POS_COD": "47-280",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-08"
+  ]
+}

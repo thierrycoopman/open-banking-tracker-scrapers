@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7585",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7585",
+  "ENT_NAM": "ANDRZEJ DRĘŻEK SKLEP SPOŻYWCZO-PRZEMYSŁOWY",
+  "ENT_ADD": "Łączki 100A, Zalas, 07-438, PL",
+  "ENT_TOW_CIT_RES": "Zalas",
+  "ENT_POS_COD": "07-438",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

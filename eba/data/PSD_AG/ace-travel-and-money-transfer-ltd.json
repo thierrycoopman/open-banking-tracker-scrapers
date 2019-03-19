@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!833197_AG2540",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG833197",
+  "ENT_NAM": "Ace Travel & Money Transfer Ltd",
+  "ENT_ADD": "29 Tividale Road",
+  "ENT_TOW_CIT_RES": "Typton",
+  "ENT_POS_COD": "DY4 7TF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

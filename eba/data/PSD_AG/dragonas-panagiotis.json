@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!027770100",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "027770100",
+  "ENT_NAM": "DRAGONAS PANAGIOTIS",
+  "ENT_ADD": "99, TAXIARCHON Str.",
+  "ENT_TOW_CIT_RES": "PIRAEUS",
+  "ENT_POS_COD": "18121",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

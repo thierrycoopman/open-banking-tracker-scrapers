@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "EE_FI",
+  "EntityCode": "12013427",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "12013427",
+  "ENT_NAM": "Meieni OÜ",
+  "ENT_ADD": "A. Weizenbergi 20",
+  "ENT_TOW_CIT_RES": "Tallinn",
+  "ENT_POS_COD": "10150",
+  "ENT_COU_RES": "EE",
+  "ENT_AUT": [
+    "2016-10-24",
+    "2018-12-20"
+  ]
+}

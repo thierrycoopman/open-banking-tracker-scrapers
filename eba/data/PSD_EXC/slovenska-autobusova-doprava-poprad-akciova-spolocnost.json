@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "SK_NBS",
+  "EntityCode": "PSD_EXC!SK_NBS!36479560",
+  "EntityType": "PSD_EXC",
+  "ENT_NAT_REF_COD": "36479560",
+  "ENT_NAM": "Slovenská autobusová doprava Poprad, akciová spoločnosť",
+  "ENT_ADD": "Wolkerova 466",
+  "ENT_TOW_CIT_RES": "Poprad",
+  "ENT_POS_COD": "05849",
+  "ENT_COU_RES": "SK",
+  "ENT_AUT": [
+    "2018-07-13"
+  ],
+  "ENT_EXC": "EXCL_102",
+  "ENT_DES_ACT_EXC_SCP": "Spoločnosť vydáva dopravé karty, na ktorých je uchovávaná majetková hodnota elektronicky (peniaze). Tieto peňažné prostriedky slúžia na úhradu cestovného v prímestskej doprave v Prešovskom samosprávnom kraji a v mestskej hromadnej doprave v Poprade, Kežmarku, Levoči a Svit."
+}

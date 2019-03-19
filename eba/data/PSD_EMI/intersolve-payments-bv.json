@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0027",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "F0027",
+  "ENT_NAM": "Intersolve Payments B.V.",
+  "ENT_NAM_COM": "Intersolve EGI B.V./Intersolve E-Money Services/FEET EGI",
+  "ENT_ADD": "Fonteinkruid 4",
+  "ENT_TOW_CIT_RES": "WOUDENBERG",
+  "ENT_POS_COD": "3931 WX",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

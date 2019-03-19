@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "BE_NBB",
+  "EntityCode": "BE_NBB!0502697352",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "0502697352",
+  "ENT_NAM": "eDebex",
+  "ENT_ADD": "Jules Cockxstraat 8-10/Rue Jules Cockx 8-10",
+  "ENT_TOW_CIT_RES": "Brussel/Bruxelles",
+  "ENT_POS_COD": "1160",
+  "ENT_COU_RES": "BE",
+  "ENT_AUT": [
+    "2016-02-02"
+  ]
+}

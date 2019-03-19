@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581425_AG1664",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581425",
+  "ENT_NAM": "Zdzislaw Krolik",
+  "ENT_ADD": "Piekary 168",
+  "ENT_TOW_CIT_RES": "Liszki",
+  "ENT_POS_COD": "3206 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64858",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "752170225",
+  "ENT_NAM": "KM",
+  "ENT_ADD": "236-238 Cours Maréchal Gallieni",
+  "ENT_TOW_CIT_RES": "TALENCE",
+  "ENT_POS_COD": "33400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

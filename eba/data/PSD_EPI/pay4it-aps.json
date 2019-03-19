@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!21224",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "31615712 ",
+  "ENT_NAM": "PAY4IT ApS",
+  "ENT_ADD": "Saxovej 18",
+  "ENT_TOW_CIT_RES": "Kolding",
+  "ENT_POS_COD": "6000",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2019-02-22"
+  ]
+}

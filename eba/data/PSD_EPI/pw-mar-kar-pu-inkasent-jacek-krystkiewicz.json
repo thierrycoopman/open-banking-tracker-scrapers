@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8291162466",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8291162466",
+  "ENT_NAM": "P.W. \"MAR - KAR\" P.U. \"INKASENT\" JACEK KRYSTKIEWICZ",
+  "ENT_ADD": "Wł. Jagiełły 31, Zduńska Wola, 98-220 , PL",
+  "ENT_TOW_CIT_RES": "Zduńska Wola",
+  "ENT_POS_COD": "98-220 ",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-26"
+  ]
+}

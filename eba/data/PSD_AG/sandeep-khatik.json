@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!629125_AG3444",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG629125",
+  "ENT_NAM": "Sandeep Khatik",
+  "ENT_ADD": "Piazza Beltrame 8",
+  "ENT_TOW_CIT_RES": "Arzignano",
+  "ENT_POS_COD": "3607 1",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

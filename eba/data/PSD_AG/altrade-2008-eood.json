@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!200405538",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200405538",
+  "ENT_NAM": [
+    "Алтрейд 2008 ЕООД",
+    "Altrade 2008 EOOD"
+  ],
+  "ENT_ADD": "27 VETS Pasarel str.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1165",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

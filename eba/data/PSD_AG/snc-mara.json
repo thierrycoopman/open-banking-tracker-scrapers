@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!59698",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "801300567",
+  "ENT_NAM": "SNC MARA",
+  "ENT_ADD": [
+    "Centre commercial des Grands ",
+    "Champs 21-41 av du Général de ",
+    "Gaulle"
+  ],
+  "ENT_TOW_CIT_RES": "ST AVERTIN",
+  "ENT_POS_COD": "37550",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

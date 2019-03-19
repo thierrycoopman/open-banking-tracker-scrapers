@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!720",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "720",
+  "ENT_NAM": "COFFEE-TECH Anna Kaźmierczak",
+  "ENT_ADD": "Osiedle 23, Leźnica Wielka, 95-043, PL",
+  "ENT_TOW_CIT_RES": "Leźnica Wielka",
+  "ENT_POS_COD": "95-043",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!03838846",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "03838846",
+  "ENT_NAM": "BE-SMART TRADE s.r.o. ",
+  "ENT_ADD": "Dělnická 213/12",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "17000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2016-05-18"
+  ]
+}

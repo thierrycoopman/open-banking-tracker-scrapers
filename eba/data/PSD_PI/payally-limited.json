@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!774327",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "774327",
+  "ENT_NAM": "PayAlly Limited",
+  "ENT_NAM_COM": "PayAlly",
+  "ENT_ADD": "80 Coleman Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2R 5BJ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-07-03"
+  ]
+}

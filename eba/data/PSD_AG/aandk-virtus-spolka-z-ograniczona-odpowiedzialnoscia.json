@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!547",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "547",
+  "ENT_NAM": "A&K VIRTUS Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "ul. Boguckiego 1, Warszawa, 01-508, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "01-508",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

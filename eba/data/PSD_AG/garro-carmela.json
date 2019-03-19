@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!647817_AG673",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG647817",
+  "ENT_NAM": "Garro Carmela",
+  "ENT_ADD": [
+    "Cassibile",
+    "Via Dell'anemine, 9/11 Fraz."
+  ],
+  "ENT_TOW_CIT_RES": "Siracusa",
+  "ENT_POS_COD": "96 100",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

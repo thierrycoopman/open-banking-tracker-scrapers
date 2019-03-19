@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!5820790961",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "5820790961",
+  "ENT_NAM": "VALUTRANS SPA",
+  "ENT_NAM_COM": "VALUTRANS SPA",
+  "ENT_ADD": "VIA MELCHIORRE GIOIA, 168",
+  "ENT_TOW_CIT_RES": "MILANO",
+  "ENT_POS_COD": "20125",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

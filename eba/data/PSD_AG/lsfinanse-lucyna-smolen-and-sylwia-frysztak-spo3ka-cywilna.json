@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4345",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4345",
+  "ENT_NAM": "LSFinanse Lucyna Smolen & Sylwia Frysztak spó3ka cywilna",
+  "ENT_ADD": "Jaros3awa D1browskiego 31, Rzeszów, 35-036, PL",
+  "ENT_TOW_CIT_RES": "Rzeszów",
+  "ENT_POS_COD": "35-036",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

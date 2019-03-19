@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!25594486",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "25594486",
+  "ENT_NAM": "MZ plus s.r.o.",
+  "ENT_ADD": "Komenského 146",
+  "ENT_TOW_CIT_RES": "Pohořelice",
+  "ENT_POS_COD": "69123",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

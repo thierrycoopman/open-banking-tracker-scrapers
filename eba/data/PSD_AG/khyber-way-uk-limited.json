@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!793216_AG7181",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG793216",
+  "ENT_NAM": "Khyber Way UK Limited",
+  "ENT_ADD": "2 Bannockburn Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE18 1ES",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

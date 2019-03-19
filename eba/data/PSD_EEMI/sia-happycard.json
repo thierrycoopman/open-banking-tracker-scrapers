@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!453",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "53603046151",
+  "ENT_NAM": "SIA \"Happycard\"",
+  "ENT_NAM_COM": "FromMe",
+  "ENT_ADD": "Brīvības gatve 236 - 71",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1039",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2011-09-30"
+  ]
+}

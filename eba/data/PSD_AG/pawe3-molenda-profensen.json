@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3917",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3917",
+  "ENT_NAM": "Pawe3 Molenda PROFENSEN",
+  "ENT_ADD": "Juliusza S3owackiego 14/-, Z3otoryja, 59-500, PL",
+  "ENT_TOW_CIT_RES": "Z3otoryja",
+  "ENT_POS_COD": "59-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}
+"
+}
+}

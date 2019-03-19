@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!799141_AG7617",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG799141",
+  "ENT_NAM": "Anil Parekh",
+  "ENT_ADD": [
+    "West Bridgford",
+    "18 Musters Road"
+  ],
+  "ENT_TOW_CIT_RES": "Nottingham",
+  "ENT_POS_COD": "NG2 7PL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

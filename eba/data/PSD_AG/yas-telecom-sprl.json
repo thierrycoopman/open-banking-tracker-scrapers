@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!753743_AG5321",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG753743",
+  "ENT_NAM": "Yas Telecom Sprl",
+  "ENT_ADD": "Rue De L Harmonie 62",
+  "ENT_TOW_CIT_RES": "Verviers",
+  "ENT_POS_COD": "4800",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

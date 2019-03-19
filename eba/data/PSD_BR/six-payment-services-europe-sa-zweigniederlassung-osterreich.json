@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "PSD_PI!LU_CSSF!Z00000001!AT",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "SIX Payment Services (Europe) S.A., Zweigniederlassung Österreich",
+  "ENT_ADD": "Marxergasse 1B",
+  "ENT_TOW_CIT_RES": "Vienna",
+  "ENT_POS_COD": "1030",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "LU_CSSF!Z00000001",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66587",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "494145683",
+  "ENT_NAM": "JIANI & JIANA",
+  "ENT_ADD": [
+    "15 Chemin d'Aubervilliers et ",
+    "Angle du 44 à 48 rue Francis De ",
+    "Pressence"
+  ],
+  "ENT_TOW_CIT_RES": "ST DENIS",
+  "ENT_POS_COD": "93200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

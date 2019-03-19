@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!798120_AG1997",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG798120",
+  "ENT_NAM": "Baig Food bvba",
+  "ENT_ADD": "Place Communale 20",
+  "ENT_TOW_CIT_RES": "Bruxelles",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

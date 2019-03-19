@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1983",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1983",
+  "ENT_NAM": "Fabryka Urlopów Nadzwyczajnych Katarzyna Wadowska",
+  "ENT_ADD": "Paderewskiego 76, Wojkowice, 42-580, PL",
+  "ENT_TOW_CIT_RES": "Wojkowice",
+  "ENT_POS_COD": "42-580",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

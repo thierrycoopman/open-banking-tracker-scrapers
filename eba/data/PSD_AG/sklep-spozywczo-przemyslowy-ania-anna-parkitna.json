@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3798",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3798",
+  "ENT_NAM": "Sklep Spożywczo Przemysłowy \"ANIA\" Anna Parkitna",
+  "ENT_ADD": "ul.Szkolna 14, Wędzina, 42-793, PL",
+  "ENT_TOW_CIT_RES": "Wędzina",
+  "ENT_POS_COD": "42-793",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

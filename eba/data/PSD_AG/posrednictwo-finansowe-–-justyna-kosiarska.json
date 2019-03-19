@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!342",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "342",
+  "ENT_NAM": "Pośrednictwo Finansowe – Justyna Kosiarska",
+  "ENT_ADD": "ul. Żeromskiego 5, Starachowice, 27-200, PL",
+  "ENT_TOW_CIT_RES": "Starachowice",
+  "ENT_POS_COD": "27-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

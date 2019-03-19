@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5156",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5156",
+  "ENT_NAM": "FIRMA HANDLOWA RZOŃCA SPÓŁKA JAWNA",
+  "ENT_ADD": "Cieklin 374, Cieklin, 38-222, PL",
+  "ENT_TOW_CIT_RES": "Cieklin",
+  "ENT_POS_COD": "38-222",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

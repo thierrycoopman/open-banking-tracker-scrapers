@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200200298",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200200298",
+  "ENT_NAM": [
+    "Делта Ком 80 ЕООД",
+    "Delta Com 80 EOOD"
+  ],
+  "ENT_ADD": "110 Oton Ivanov str.",
+  "ENT_TOW_CIT_RES": "Asenovgrad",
+  "ENT_POS_COD": "4230",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

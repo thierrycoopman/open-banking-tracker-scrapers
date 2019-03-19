@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!699323_AG4180",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG699323",
+  "ENT_NAM": "Al-Madina Foods Ltd",
+  "ENT_ADD": "8 Haughburn Road",
+  "ENT_TOW_CIT_RES": "GLASGOW",
+  "ENT_POS_COD": "G53 6AB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

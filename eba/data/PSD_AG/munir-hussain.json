@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!514406!530026_AG11",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG530026",
+  "ENT_NAM": "Munir Hussain",
+  "ENT_ADD": "64 Oak Lane",
+  "ENT_TOW_CIT_RES": "Bradford",
+  "ENT_POS_COD": "BD9 4QX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!514406",
+  "DER_CHI_ENT_AUT": "Active"
+}

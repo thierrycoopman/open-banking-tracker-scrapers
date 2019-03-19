@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73206",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "519472823",
+  "ENT_NAM": "M. MERZOUK Hakim",
+  "ENT_ADD": "114 rue de Crimée",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75019",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

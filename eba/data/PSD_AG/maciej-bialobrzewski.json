@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!541",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "541",
+  "ENT_NAM": "Maciej Białobrzewski",
+  "ENT_ADD": "1 Maja 37, Kołbiel, 05-340, PL",
+  "ENT_TOW_CIT_RES": "Kołbiel",
+  "ENT_POS_COD": "05-340",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!61386",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "409129657",
+  "ENT_NAM": "S.A.G.A.",
+  "ENT_ADD": "6 rue du Lieutenant Audras",
+  "ENT_TOW_CIT_RES": "TASSIN LA DEMI LUNE",
+  "ENT_POS_COD": "69160",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

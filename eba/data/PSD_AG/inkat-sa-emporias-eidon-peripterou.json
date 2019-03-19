@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!997671771!099938644",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "099938644",
+  "ENT_NAM": "ΙΝΚΑΤ S.A. EMPORIAS EIDON PERIPTEROU",
+  "ENT_ADD": "26, AGIAS MARINAS Str.",
+  "ENT_TOW_CIT_RES": "KOROPI",
+  "ENT_POS_COD": "19400",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!997671771",
+  "DER_CHI_ENT_AUT": "Active"
+}

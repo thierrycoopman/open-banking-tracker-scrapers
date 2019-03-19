@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!809570_AG8369",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG809570",
+  "ENT_NAM": "Centre De Controle Technique De Vehicules Legers",
+  "ENT_ADD": "15 Rue Des Freres Amadeo",
+  "ENT_TOW_CIT_RES": "Venissieux",
+  "ENT_POS_COD": "69200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

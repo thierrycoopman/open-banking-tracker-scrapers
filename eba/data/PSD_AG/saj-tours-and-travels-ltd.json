@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!779573_AG753",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG779573",
+  "ENT_NAM": "Saj Tours And Travels Ltd",
+  "ENT_ADD": "377 Victoria Road",
+  "ENT_TOW_CIT_RES": "Glasgow",
+  "ENT_POS_COD": "G42 8RZ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

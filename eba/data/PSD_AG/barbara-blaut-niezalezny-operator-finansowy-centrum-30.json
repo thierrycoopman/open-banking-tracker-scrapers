@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!476",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "476",
+  "ENT_NAM": "BARBARA BLAUT NIEZALEŻNY OPERATOR FINANSOWY CENTRUM 30",
+  "ENT_ADD": "ul. Plebiscytowa 1, Katowice, 40-035, PL",
+  "ENT_TOW_CIT_RES": "Katowice",
+  "ENT_POS_COD": "40-035",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

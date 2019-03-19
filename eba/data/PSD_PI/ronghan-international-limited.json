@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!798375",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "798375",
+  "ENT_NAM": "RONGHAN INTERNATIONAL LIMITED",
+  "ENT_NAM_COM": "RHL",
+  "ENT_ADD": [
+    "Maritime House",
+    "Golf 1",
+    "Basin Road North",
+    "Portslade"
+  ],
+  "ENT_TOW_CIT_RES": "Brighton",
+  "ENT_POS_COD": "BN41 1WR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-09-26"
+  ]
+}

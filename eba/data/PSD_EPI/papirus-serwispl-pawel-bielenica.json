@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5422677934",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5422677934",
+  "ENT_NAM": "PAPIRUS-SERWIS.PL Paweł Bielenica",
+  "ENT_ADD": "Zagórna  10, Białystok, 15-820, PL",
+  "ENT_TOW_CIT_RES": "Białystok",
+  "ENT_POS_COD": "15-820",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-10-24"
+  ]
+}

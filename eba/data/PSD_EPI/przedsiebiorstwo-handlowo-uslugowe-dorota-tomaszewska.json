@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5581058089",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5581058089",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo-Usługowe Dorota Tomaszewska",
+  "ENT_ADD": "Strzelecka 44, Więcbork, 89-410, PL",
+  "ENT_TOW_CIT_RES": "Więcbork",
+  "ENT_POS_COD": "89-410",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-20"
+  ]
+}

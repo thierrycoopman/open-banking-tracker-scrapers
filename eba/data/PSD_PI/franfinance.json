@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!13396",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "719807406",
+  "ENT_NAM": "Franfinance",
+  "ENT_NAM_COM": "SG EQUIPMENT FINANCE (SGEF)",
+  "ENT_ADD": "59 avenue de Chatou",
+  "ENT_TOW_CIT_RES": "RUEIL MALMAISON",
+  "ENT_POS_COD": "92500",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2014-10-06"
+  ]
+}

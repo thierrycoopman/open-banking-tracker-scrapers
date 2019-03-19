@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!90",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "90",
+  "ENT_NAM": "Pośrednictwo Finansowe Julita Ferens",
+  "ENT_ADD": "ul. Wojewódzka 2, Kielce, 25-536, PL",
+  "ENT_TOW_CIT_RES": "Kielce",
+  "ENT_POS_COD": "25-536",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

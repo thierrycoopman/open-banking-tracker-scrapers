@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74702",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "822029906",
+  "ENT_NAM": "SNC PONCIN DUVAL",
+  "ENT_ADD": "14 RUE DU GENERAL DE GAULLE",
+  "ENT_TOW_CIT_RES": "ST RIQUIER",
+  "ENT_POS_COD": "80135",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

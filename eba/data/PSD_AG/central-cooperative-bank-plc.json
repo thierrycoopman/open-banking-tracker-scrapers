@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!831447150",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "831447150",
+  "ENT_NAM": [
+    "Централна кооперативна банка АД",
+    "Central Cooperative Bank Plc"
+  ],
+  "ENT_ADD": "103 G. S. Rakovski str., Oborishte dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1086",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

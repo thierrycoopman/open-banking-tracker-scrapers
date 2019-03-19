@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!629717_AG264",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG629717",
+  "ENT_NAM": "Sadiq Ali",
+  "ENT_ADD": "109 Midland Road",
+  "ENT_TOW_CIT_RES": "Bedford",
+  "ENT_POS_COD": "MK40 1DA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

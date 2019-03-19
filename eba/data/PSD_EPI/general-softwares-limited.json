@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!824476",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "824476",
+  "ENT_NAM": "General Softwares Limited",
+  "ENT_NAM_COM": "General Softwares",
+  "ENT_ADD": [
+    "104-106 Cranbrook Road",
+    "Orion House"
+  ],
+  "ENT_TOW_CIT_RES": "Ilford",
+  "ENT_POS_COD": "IG1 4LZ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2019-02-05"
+  ]
+}

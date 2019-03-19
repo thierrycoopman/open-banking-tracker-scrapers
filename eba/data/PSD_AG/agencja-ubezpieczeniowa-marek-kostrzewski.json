@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6961002983!10",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "10",
+  "ENT_NAM": "Agencja Ubezpieczeniowa Marek Kostrzewski",
+  "ENT_ADD": "Księdza Dadaczyńskiego 7, Rakoniewice, 62-067, PL",
+  "ENT_TOW_CIT_RES": "Rakoniewice",
+  "ENT_POS_COD": "62-067",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6961002983",
+  "DER_CHI_ENT_AUT": "Active"
+}

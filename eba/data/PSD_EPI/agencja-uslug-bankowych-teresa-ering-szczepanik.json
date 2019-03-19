@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6261237313",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6261237313",
+  "ENT_NAM": "Agencja Usług Bankowych Teresa Ering - Szczepanik",
+  "ENT_ADD": "Alojzego Felińskiego 45, Bytom, 41-908, PL",
+  "ENT_TOW_CIT_RES": "Bytom",
+  "ENT_POS_COD": "41-908",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-15"
+  ]
+}

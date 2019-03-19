@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4517",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4517",
+  "ENT_NAM": "F.H.U. \"21\" KATARZYNA ZNAJMIECKA",
+  "ENT_ADD": "NIEŻYWIĘĆ 64, NIEŻYWIĘĆ, 87-326, PL",
+  "ENT_TOW_CIT_RES": "NIEŻYWIĘĆ",
+  "ENT_POS_COD": "87-326",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

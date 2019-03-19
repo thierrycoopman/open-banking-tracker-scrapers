@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!798769",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "798769",
+  "ENT_NAM": "SAGE (UK) LTD",
+  "ENT_ADD": "North Park Avenue",
+  "ENT_TOW_CIT_RES": "Newcastle upon Tyne",
+  "ENT_POS_COD": "NE13 9AA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-06-11"
+  ]
+}

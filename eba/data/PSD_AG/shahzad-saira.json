@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!578824!673361_AG44",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG673361",
+  "ENT_NAM": "SHAHZAD SAIRA",
+  "ENT_ADD": "AV. MERIDIAN 325",
+  "ENT_TOW_CIT_RES": "BARCELONA",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!578824",
+  "DER_CHI_ENT_AUT": "Active"
+}

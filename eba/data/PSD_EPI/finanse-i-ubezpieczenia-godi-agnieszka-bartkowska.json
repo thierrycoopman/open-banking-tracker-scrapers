@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5512434000",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5512434000",
+  "ENT_NAM": "Finanse i Ubezpieczenia GODI Agnieszka Bartkowska",
+  "ENT_ADD": "Stryszów 129, Stryszów, 34-146, PL",
+  "ENT_TOW_CIT_RES": "Stryszów",
+  "ENT_POS_COD": "34-146",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-12-19",
+    "2019-01-08"
+  ]
+}

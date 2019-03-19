@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!04718046",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "04718046",
+  "ENT_NAM": "MOB Bašť s.r.o.",
+  "ENT_ADD": "Okružní 676",
+  "ENT_TOW_CIT_RES": "Bašť",
+  "ENT_POS_COD": "25065",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

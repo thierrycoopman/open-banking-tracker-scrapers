@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75051",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "800542524",
+  "ENT_NAM": "M. EDDARRAZ Ahmed",
+  "ENT_ADD": "PL MARTYRS LA RESISTANCE",
+  "ENT_TOW_CIT_RES": "MILLAU",
+  "ENT_POS_COD": "12100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

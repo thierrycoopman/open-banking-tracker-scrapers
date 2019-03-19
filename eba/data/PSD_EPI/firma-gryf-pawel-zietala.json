@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6611511069",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6611511069",
+  "ENT_NAM": "Firma \"GRYF\" Paweł Ziętala",
+  "ENT_ADD": "Osiedle Słoneczne 30/29, Ostrowiec Świętokrzyski, 27-400, PL",
+  "ENT_TOW_CIT_RES": "Ostrowiec Świętokrzyski",
+  "ENT_POS_COD": "27-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-20"
+  ]
+}

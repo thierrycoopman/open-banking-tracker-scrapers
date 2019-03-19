@@ -1,0 +1,22 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!591774",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "591774",
+  "ENT_NAM": "Sat Worldwide Limited",
+  "ENT_NAM_COM": [
+    "John Mason FX",
+    "SATFX",
+    "FX Assist"
+  ],
+  "ENT_ADD": [
+    "The Henley Building",
+    "Newtown Road"
+  ],
+  "ENT_TOW_CIT_RES": "Henley on Thames",
+  "ENT_POS_COD": "RG9 1HG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2013-05-14"
+  ]
+}

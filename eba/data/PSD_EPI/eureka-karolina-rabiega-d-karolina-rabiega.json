@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6981092363",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6981092363",
+  "ENT_NAM": "EUREKA KAROLINA RABIEGA (d. Karolina Rabiega)",
+  "ENT_ADD": "Stawna 2A, Przemęt, 64-234, PL",
+  "ENT_TOW_CIT_RES": "Przemęt",
+  "ENT_POS_COD": "64-234",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-10-14",
+    "2018-11-13"
+  ]
+}

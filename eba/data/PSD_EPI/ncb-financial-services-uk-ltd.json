@@ -1,0 +1,23 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!508903",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "508903",
+  "ENT_NAM": "NCB Financial Services UK Ltd",
+  "ENT_NAM_COM": [
+    "Senvia Money Services (UK) Limited",
+    "Chamberglade Limited",
+    "NCB Financial Services UK"
+  ],
+  "ENT_ADD": [
+    "209 Ferndale Road",
+    "Brixton"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW9 8BJ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-01",
+    "2018-08-17"
+  ]
+}

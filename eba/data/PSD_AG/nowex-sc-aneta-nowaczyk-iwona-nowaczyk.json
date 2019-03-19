@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6123",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6123",
+  "ENT_NAM": "NOWEX S.C. Aneta Nowaczyk, Iwona Nowaczyk",
+  "ENT_ADD": "Aleksandra Zawadzkiego 6, Awiklice, 43-229, PL",
+  "ENT_TOW_CIT_RES": "Awiklice",
+  "ENT_POS_COD": "43-229",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+"
+}

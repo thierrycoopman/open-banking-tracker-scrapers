@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!747423",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "747423",
+  "ENT_NAM": "Tranglo Europe Ltd",
+  "ENT_ADD": [
+    "35 New Broad Street",
+    "New Broad Street House"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2M 1NH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-01-06"
+  ]
+}

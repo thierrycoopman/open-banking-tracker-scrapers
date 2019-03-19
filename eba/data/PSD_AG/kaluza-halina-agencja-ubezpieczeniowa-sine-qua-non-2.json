@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!392",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "392",
+  "ENT_NAM": "KAŁUŻA HALINA AGENCJA UBEZPIECZENIOWA \"SINE QUA NON 2\"",
+  "ENT_ADD": "ul. Węglowa 4, Jastrzębie-Zdrój, 44-268, PL",
+  "ENT_TOW_CIT_RES": "Jastrzębie-Zdrój",
+  "ENT_POS_COD": "44-268",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

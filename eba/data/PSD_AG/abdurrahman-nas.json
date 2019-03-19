@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!809282_AG8341",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG809282",
+  "ENT_NAM": "Abdurrahman Nas",
+  "ENT_ADD": "Telegrafenstrasse 4",
+  "ENT_TOW_CIT_RES": "Wermelskirchen",
+  "ENT_POS_COD": "42929",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

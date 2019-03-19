@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7391140529",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7391140529",
+  "ENT_NAM": "Przedsiębiorstwo Usługowo-Handlowe \"Paweł\" Mirosław Hawran",
+  "ENT_ADD": "Michała Kajki 5, Olsztyn, 10-546, PL",
+  "ENT_TOW_CIT_RES": "Olsztyn",
+  "ENT_POS_COD": "10-546",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-07-02"
+  ]
+}

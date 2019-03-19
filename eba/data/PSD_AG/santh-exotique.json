@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!796892_AG7423",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG796892",
+  "ENT_NAM": "Santh Exotique",
+  "ENT_ADD": "73 Bis Rue De Merlan",
+  "ENT_TOW_CIT_RES": "Noisy Le Sec",
+  "ENT_POS_COD": "93130",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6171295040",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6171295040",
+  "ENT_NAM": "FIRMA USŁUGOWA LUBOMIRA BANASZAK",
+  "ENT_ADD": "Al. Niepodległości 9/10, Jarocin, 63-200, PL",
+  "ENT_TOW_CIT_RES": "Jarocin",
+  "ENT_POS_COD": "63-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-07-18"
+  ]
+}

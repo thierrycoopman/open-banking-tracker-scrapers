@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!27264",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "27264",
+  "ENT_NAM": "Blocktech Oy",
+  "ENT_ADD": "c/o Mika Pihlava",
+  "ENT_TOW_CIT_RES": "TURKU",
+  "ENT_POS_COD": "20250",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2012-01-01"
+  ]
+}

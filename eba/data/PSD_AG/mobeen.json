@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!675652_AG3912",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG675652",
+  "ENT_NAM": "Mobeen",
+  "ENT_ADD": "204 Boulevard Voltaire",
+  "ENT_TOW_CIT_RES": "Asniere Sur Seine",
+  "ENT_POS_COD": "9260 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

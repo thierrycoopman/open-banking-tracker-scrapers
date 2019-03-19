@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!591467_AG2239",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG591467",
+  "ENT_NAM": "Firma Handlowa Dzimek Andrzej Dziemitko",
+  "ENT_ADD": "Glinice 2 Trepcza",
+  "ENT_TOW_CIT_RES": "Sanok",
+  "ENT_POS_COD": "3850 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

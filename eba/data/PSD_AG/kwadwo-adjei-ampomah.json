@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!623696_AG48",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG623696",
+  "ENT_NAM": "Kwadwo Adjei Ampomah",
+  "ENT_ADD": "55 Anerley Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE19 2AS",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}

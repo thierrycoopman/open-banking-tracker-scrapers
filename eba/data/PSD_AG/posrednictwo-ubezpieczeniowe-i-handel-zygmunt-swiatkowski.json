@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3748",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3748",
+  "ENT_NAM": "Pośrednictwo Ubezpieczeniowe i Handel Zygmunt Świątkowski",
+  "ENT_ADD": "Kujawska 23, Osięciny, 88-220, PL",
+  "ENT_TOW_CIT_RES": "Osięciny",
+  "ENT_POS_COD": "88-220",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

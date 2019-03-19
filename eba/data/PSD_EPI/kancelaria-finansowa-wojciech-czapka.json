@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5631804176",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5631804176",
+  "ENT_NAM": "Kancelaria  Finansowa - Wojciech Czapka",
+  "ENT_ADD": "Piłsudskiego 106/Józefów, Józefów, 05-420, PL",
+  "ENT_TOW_CIT_RES": "Józefów",
+  "ENT_POS_COD": "05-420",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-01-23"
+  ]
+}

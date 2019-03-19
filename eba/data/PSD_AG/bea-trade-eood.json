@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200788200",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200788200",
+  "ENT_NAM": [
+    "БЕА Трейд ЕООД",
+    " BEA Trade EOOD"
+  ],
+  "ENT_ADD": "20 Viktor Grigorovich str., fl. 4, app. 20",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1606",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

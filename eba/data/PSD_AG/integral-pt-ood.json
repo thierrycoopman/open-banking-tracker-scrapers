@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!104606473",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "104606473",
+  "ENT_NAM": [
+    "Интеграл ПТ ООД",
+    "Integral PT OOD"
+  ],
+  "ENT_ADD": "66 Targovska str.",
+  "ENT_TOW_CIT_RES": "Polski Trambesh",
+  "ENT_POS_COD": "5180",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

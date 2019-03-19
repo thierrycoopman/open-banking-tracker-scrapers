@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201353845",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201353845",
+  "ENT_NAM": [
+    "Анели-Надя ЕООД",
+    "Aneli-Nadia EOOD"
+  ],
+  "ENT_ADD": "18 Republika str.",
+  "ENT_TOW_CIT_RES": "Mramor village",
+  "ENT_POS_COD": "1261",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

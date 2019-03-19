@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PT_BP",
+  "EntityCode": "PSD_PI!PT_BP!812",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "812",
+  "ENT_NAM": "NovaCâmbios - Instituição de Pagamento, S.A.",
+  "ENT_ADD": "Calçada do Carmo, n.º 6 - 1º drt",
+  "ENT_TOW_CIT_RES": "LISBOA",
+  "ENT_POS_COD": "1200-091",
+  "ENT_COU_RES": "PT",
+  "ENT_AUT": [
+    "2013-01-29"
+  ]
+}

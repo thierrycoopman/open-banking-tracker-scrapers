@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!599193_AG2568",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG599193",
+  "ENT_NAM": "Peacock Travel And Tours UK Ltd",
+  "ENT_ADD": [
+    "Unit 5",
+    "13 Ramsgate Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E8 2FD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

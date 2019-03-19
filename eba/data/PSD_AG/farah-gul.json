@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!807462_AG8142",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG807462",
+  "ENT_NAM": "Farah Gul",
+  "ENT_ADD": "Stiftsplatz 2",
+  "ENT_TOW_CIT_RES": "Bonn",
+  "ENT_POS_COD": "53111",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

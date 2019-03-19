@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74866",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "409520962",
+  "ENT_NAM": "M. THIBON Alain",
+  "ENT_ADD": "18 RUE MAURICE LONG",
+  "ENT_TOW_CIT_RES": "CREST",
+  "ENT_POS_COD": "26400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

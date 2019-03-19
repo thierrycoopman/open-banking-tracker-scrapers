@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1206",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1206",
+  "ENT_NAM": "WK PARTNER Wojciech Kuleta",
+  "ENT_ADD": "Wadowicka 10, Warszawa, 03-093, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "03-093",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

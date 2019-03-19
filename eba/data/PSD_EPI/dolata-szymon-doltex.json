@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6971102870",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6971102870",
+  "ENT_NAM": "Dolata Szymon \"DOLTEX\"",
+  "ENT_ADD": "Bohaterów Westerplatte 4-6, Leszno, 64-100, PL",
+  "ENT_TOW_CIT_RES": "Leszno",
+  "ENT_POS_COD": "64-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-16"
+  ]
+}

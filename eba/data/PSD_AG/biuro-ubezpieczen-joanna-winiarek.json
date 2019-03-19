@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5831623901!1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1",
+  "ENT_NAM": "Biuro Ubezpieczeń Joanna Winiarek",
+  "ENT_ADD": "Nałkowskiej 5B/3, Gdańsk, 80-286, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-286",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5831623901",
+  "DER_CHI_ENT_AUT": "Active"
+}

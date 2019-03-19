@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5986",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5986",
+  "ENT_NAM": "Hurt-Detal Artyku3ami Spo?ywczymi i Przemys3owymi Halina Majchrzak, Marian KuYma, Danuta KuYma Sp.c.",
+  "ENT_ADD": "Nochowo, Oremska 10, Orem, 63-100, PL",
+  "ENT_TOW_CIT_RES": "Orem",
+  "ENT_POS_COD": "63-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

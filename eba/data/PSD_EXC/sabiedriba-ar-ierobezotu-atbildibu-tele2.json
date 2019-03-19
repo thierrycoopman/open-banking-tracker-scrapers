@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!593",
+  "EntityType": "PSD_EXC",
+  "ENT_NAT_REF_COD": "40003272854",
+  "ENT_NAM": "Sabiedrība ar ierobežotu atbildību \"Tele2\"",
+  "ENT_NAM_COM": "Tele2",
+  "ENT_ADD": "Dēļu iela 5",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1004",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2019-01-13"
+  ],
+  "ENT_EXC": [
+    "EXCL_201",
+    "EXCL_202"
+  ],
+  "ENT_DES_ACT_EXC_SCP": "Telecommunication service provider"
+}

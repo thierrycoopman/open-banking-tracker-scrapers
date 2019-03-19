@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!795632_AG7324",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG795632",
+  "ENT_NAM": "Lusala Jariah Lenga",
+  "ENT_ADD": "Marktplein 13 bte 1",
+  "ENT_TOW_CIT_RES": "Neerpelt",
+  "ENT_POS_COD": "3910",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

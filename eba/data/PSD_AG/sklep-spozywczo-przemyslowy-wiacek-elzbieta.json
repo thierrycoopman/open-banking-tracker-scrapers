@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3636",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3636",
+  "ENT_NAM": "SKLEP SPOŻYWCZO-PRZEMYSŁOWY WIĄCEK ELŻBIETA",
+  "ENT_ADD": "ks. Twardego 26, Marzenin, 62-301, PL",
+  "ENT_TOW_CIT_RES": "Marzenin",
+  "ENT_POS_COD": "62-301",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

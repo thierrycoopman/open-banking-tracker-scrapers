@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!734945_AG4803",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG734945",
+  "ENT_NAM": "Supermarkt Arda Import en Export",
+  "ENT_ADD": "De Wittenhagen 57 59",
+  "ENT_TOW_CIT_RES": "Harderwijk",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

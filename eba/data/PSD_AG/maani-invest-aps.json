@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!809555_AG8357",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG809555",
+  "ENT_NAM": "Maani Invest Aps",
+  "ENT_ADD": "Amagerbrogade 166",
+  "ENT_TOW_CIT_RES": "Copenhagen",
+  "ENT_POS_COD": "2300",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

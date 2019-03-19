@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7113",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7113",
+  "ENT_NAM": "\"ADMA\"Firma Handlowo-Usługowa MAŁOTA ADAM",
+  "ENT_ADD": "Warszawska 66, Dąbrowa Górnicza, 42-530, PL",
+  "ENT_TOW_CIT_RES": "Dąbrowa Górnicza",
+  "ENT_POS_COD": "42-530",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

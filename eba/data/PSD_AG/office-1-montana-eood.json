@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204134276",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204134276",
+  "ENT_NAM": [
+    "Офис 1 Монтана ЕООД",
+    "Office 1 Montana EOOD"
+  ],
+  "ENT_ADD": "57-59 Vranya str., fl. 1, app. 1, zh.k. Banishora, Serdika dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

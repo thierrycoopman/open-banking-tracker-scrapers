@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!528711",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "528711",
+  "ENT_NAM": "Oceanlink UK Ltd",
+  "ENT_ADD": "550 Harrow Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W9 3QG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-08-26"
+  ]
+}

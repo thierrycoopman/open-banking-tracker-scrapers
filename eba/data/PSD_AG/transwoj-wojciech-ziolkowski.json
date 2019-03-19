@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!29",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "29",
+  "ENT_NAM": "TRANSWOJ Wojciech Ziółkowski",
+  "ENT_ADD": "Orzycka 4/41, Warszawa, 02-695, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-695",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

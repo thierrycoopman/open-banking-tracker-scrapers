@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3196",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3196",
+  "ENT_NAM": "Sklep Wielobran?owy Spó3ka Cywilna Andrzej Potempa - Andrzej Janawa",
+  "ENT_ADD": "Górnicza 30, Tarnowskie Góry, 42-600, PL",
+  "ENT_TOW_CIT_RES": "Tarnowskie Góry",
+  "ENT_POS_COD": "42-600",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

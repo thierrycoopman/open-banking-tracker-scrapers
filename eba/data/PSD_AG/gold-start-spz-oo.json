@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!599678!621858_AG50",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG621858",
+  "ENT_NAM": "Gold Start Sp.z o.o.",
+  "ENT_ADD": "Lokal G7, ul. Nadrzeczna 5F",
+  "ENT_TOW_CIT_RES": "Wolka Kosowska",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!599678",
+  "DER_CHI_ENT_AUT": "Active"
+}

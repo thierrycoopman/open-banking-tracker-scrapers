@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!786484_AG1824",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG786484",
+  "ENT_NAM": "Worthing FX Services Ltd",
+  "ENT_ADD": "35 Chapel Road",
+  "ENT_TOW_CIT_RES": "Worthing",
+  "ENT_POS_COD": "BN11 1EG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

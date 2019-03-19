@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8161097196",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8161097196",
+  "ENT_NAM": "Firma Usługowa INKASO- PLUS Paweł Szydełko",
+  "ENT_ADD": "Kopernika 5a, Leżajsk, 37-300, PL",
+  "ENT_TOW_CIT_RES": "Leżajsk",
+  "ENT_POS_COD": "37-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-11-02"
+  ]
+}

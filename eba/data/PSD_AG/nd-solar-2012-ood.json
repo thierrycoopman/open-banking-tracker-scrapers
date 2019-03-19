@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202108731",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202108731",
+  "ENT_NAM": [
+    "НД Солар - 2012 ООД",
+    "ND Solar - 2012 OOD"
+  ],
+  "ENT_ADD": "12 Atanas Dalchev str.",
+  "ENT_TOW_CIT_RES": "Svilengrad",
+  "ENT_POS_COD": "6550",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

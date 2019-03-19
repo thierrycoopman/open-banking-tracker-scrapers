@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R102146",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R102146",
+  "ENT_NAM": "Primera Den Haag",
+  "ENT_ADD": "Theresiastraat 53",
+  "ENT_TOW_CIT_RES": "'S-GRAVENHAGE",
+  "ENT_POS_COD": "2593 AA",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

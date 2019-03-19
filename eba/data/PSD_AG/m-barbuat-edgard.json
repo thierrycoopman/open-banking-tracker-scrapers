@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74186",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "445160930",
+  "ENT_NAM": "M. BARBUAT Edgard",
+  "ENT_ADD": "3 boulevard des Grands Fosses",
+  "ENT_TOW_CIT_RES": "ERVY LE CHATEL",
+  "ENT_POS_COD": "10130",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

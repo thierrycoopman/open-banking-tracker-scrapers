@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6751496192!2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2",
+  "ENT_NAM": "Karolina Okroy Pośrednictwo Usług Finansowych",
+  "ENT_ADD": "Gdańska 16C, Bytów, 77-100, PL",
+  "ENT_TOW_CIT_RES": "Bytów",
+  "ENT_POS_COD": "77-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6751496192",
+  "DER_CHI_ENT_AUT": "Active"
+}

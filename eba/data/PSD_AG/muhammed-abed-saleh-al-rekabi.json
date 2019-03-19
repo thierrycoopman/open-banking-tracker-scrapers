@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!573001_AG1339",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG573001",
+  "ENT_NAM": "Muhammed Abed Saleh AL- Rekabi",
+  "ENT_ADD": "Nordre Fasanvej 216",
+  "ENT_TOW_CIT_RES": "Copenhagen",
+  "ENT_POS_COD": "Copenhagen",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

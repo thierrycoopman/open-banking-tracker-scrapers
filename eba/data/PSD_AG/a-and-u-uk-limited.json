@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!831293_AG2514",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG831293",
+  "ENT_NAM": "A & U UK LIMITED",
+  "ENT_ADD": "355 Green Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E13 9AR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

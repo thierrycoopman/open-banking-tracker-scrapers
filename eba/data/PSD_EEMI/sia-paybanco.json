@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!456",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "40003242671",
+  "ENT_NAM": "SIA \"Paybanco\"",
+  "ENT_NAM_COM": "Paybanco",
+  "ENT_ADD": "Bultu iela 8 - 69",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1057",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2011-10-28"
+  ]
+}

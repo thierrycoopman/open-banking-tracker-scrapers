@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R104963",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R104963",
+  "ENT_NAM": "Libaan Telecom",
+  "ENT_ADD": "Zwart Janstraat 126",
+  "ENT_TOW_CIT_RES": "ROTTERDAM",
+  "ENT_POS_COD": "3035 AX",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

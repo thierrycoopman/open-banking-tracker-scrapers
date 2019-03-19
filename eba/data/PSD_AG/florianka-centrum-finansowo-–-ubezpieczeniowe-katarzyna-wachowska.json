@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!25",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "25",
+  "ENT_NAM": "FLORIANKA Centrum Finansowo – Ubezpieczeniowe Katarzyna Wachowska",
+  "ENT_ADD": "ul. Kościelna 1D, Błaszki, 98-235, PL",
+  "ENT_TOW_CIT_RES": "Błaszki",
+  "ENT_POS_COD": "98-235",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

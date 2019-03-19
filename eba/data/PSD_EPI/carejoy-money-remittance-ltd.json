@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!758087",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "758087",
+  "ENT_NAM": "Carejoy Money Remittance Ltd",
+  "ENT_ADD": [
+    "Unit 6",
+    "Centrium, Station Approach"
+  ],
+  "ENT_TOW_CIT_RES": "Woking",
+  "ENT_POS_COD": "GU22 7PA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-10-04",
+    "2018-11-15"
+  ]
+}

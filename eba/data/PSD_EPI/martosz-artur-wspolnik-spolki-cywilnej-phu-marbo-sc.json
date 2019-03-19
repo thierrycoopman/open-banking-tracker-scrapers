@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5530015058",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5530015058",
+  "ENT_NAM": "MARTOSZ ARTUR WSPÓLNIK SPÓŁKI CYWILNEJ P.H.U. \"MARBO\" S.C. ",
+  "ENT_ADD": "Dworcowa 24, Żywiec, 34-300, PL",
+  "ENT_TOW_CIT_RES": "Żywiec",
+  "ENT_POS_COD": "34-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-04-10"
+  ]
+}

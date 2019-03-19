@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7272",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7272",
+  "ENT_NAM": "SKLEP SPOŻYWCZO-PRZEMYSŁOWY HURT-DETAL WIESŁAW PERZYNA",
+  "ENT_ADD": "Wyzwolenia 6/1, Olsztyn, 10-106, PL",
+  "ENT_TOW_CIT_RES": "Olsztyn",
+  "ENT_POS_COD": "10-106",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68489",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "822148037",
+  "ENT_NAM": "VONETMICH",
+  "ENT_ADD": "6 avenue Philippe Durand Dassier",
+  "ENT_TOW_CIT_RES": "PAREMPUYRE",
+  "ENT_POS_COD": "33290",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

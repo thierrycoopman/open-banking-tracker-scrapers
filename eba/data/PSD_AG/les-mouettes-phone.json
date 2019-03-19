@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!773151_AG6098",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG773151",
+  "ENT_NAM": "Les Mouettes Phone",
+  "ENT_ADD": "Centre Commercial Des Mouettes Rue Honore De Balzac",
+  "ENT_TOW_CIT_RES": "Garges Les Gonesse",
+  "ENT_POS_COD": "95140",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

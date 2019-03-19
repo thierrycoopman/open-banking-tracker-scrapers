@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!628037_AG451",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG628037",
+  "ENT_NAM": "PC Vesuvio Di Volpicelli Carlo",
+  "ENT_ADD": "VIA COSTANTINOPOLI, 184,",
+  "ENT_TOW_CIT_RES": "SOMMA VESUVIANA,",
+  "ENT_POS_COD": "800 49",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

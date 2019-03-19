@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R131172",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R131172",
+  "ENT_NAM": "Primera Raalte",
+  "ENT_ADD": "Marktstraat 10",
+  "ENT_TOW_CIT_RES": "RAALTE",
+  "ENT_POS_COD": "8102 CK",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

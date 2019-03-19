@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!755937_AG5406",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG755937",
+  "ENT_NAM": "Issam Sakka Amini",
+  "ENT_ADD": "Kongevejen 327",
+  "ENT_TOW_CIT_RES": "Holte",
+  "ENT_POS_COD": "2840",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

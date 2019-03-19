@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9581668542",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9581668542",
+  "ENT_NAM": "BANKIERIA FINANSE Sp. z o.o.",
+  "ENT_ADD": "Morska 122A, Gdynia, 81-225, PL",
+  "ENT_TOW_CIT_RES": "Gdynia",
+  "ENT_POS_COD": "81-225",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-04-29"
+  ]
+}

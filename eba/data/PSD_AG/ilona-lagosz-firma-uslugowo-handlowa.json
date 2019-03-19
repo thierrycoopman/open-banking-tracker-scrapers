@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3796",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3796",
+  "ENT_NAM": "Ilona Lagosz FIRMA USLUGOWO HANDLOWA",
+  "ENT_ADD": "Prusinowo -, Prusinowo, 72-300, PL",
+  "ENT_TOW_CIT_RES": "Prusinowo",
+  "ENT_POS_COD": "72-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

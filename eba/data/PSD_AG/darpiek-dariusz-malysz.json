@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!122",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "122",
+  "ENT_NAM": "\"Darpiek\" Dariusz Małysz",
+  "ENT_ADD": "Abramowice Prywatne 56 A, Abramowice Prywatne, 20-388, PL",
+  "ENT_TOW_CIT_RES": "Abramowice Prywatne",
+  "ENT_POS_COD": "20-388",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

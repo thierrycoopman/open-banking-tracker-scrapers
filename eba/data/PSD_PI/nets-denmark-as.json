@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!22002",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "20016175 ",
+  "ENT_NAM": "NETS Denmark A/S",
+  "ENT_ADD": "Lautrupbjerg 10",
+  "ENT_TOW_CIT_RES": "Ballerup",
+  "ENT_POS_COD": "2750",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2011-04-29"
+  ]
+}

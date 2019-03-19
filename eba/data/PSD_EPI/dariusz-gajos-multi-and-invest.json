@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7141173930",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7141173930",
+  "ENT_NAM": "Dariusz Gajos MULTI & INVEST",
+  "ENT_ADD": "Berka Joselewicza 2, Kock, 21-150, PL",
+  "ENT_TOW_CIT_RES": "Kock",
+  "ENT_POS_COD": "21-150",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-12",
+    "2018-08-29"
+  ]
+}

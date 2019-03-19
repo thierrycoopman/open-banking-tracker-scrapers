@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!825968_AG9880",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG825968",
+  "ENT_NAM": "FH Ward End Money Transfer Limited",
+  "ENT_ADD": "30 Woodwells Road",
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B8 2TQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

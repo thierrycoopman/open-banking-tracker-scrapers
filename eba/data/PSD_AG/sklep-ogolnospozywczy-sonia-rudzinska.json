@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!8284",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8284",
+  "ENT_NAM": "Sklep Ogólnospożywczy Sonia Rudzińska",
+  "ENT_ADD": "Rycerska 14, Piekary Śląskie, 41-948, PL",
+  "ENT_TOW_CIT_RES": "Piekary Śląskie",
+  "ENT_POS_COD": "41-948",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

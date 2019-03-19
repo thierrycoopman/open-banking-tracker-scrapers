@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2898",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2898",
+  "ENT_NAM": "Sklep Spożywczo-Przemysłowy Patrycja Tyc",
+  "ENT_ADD": "Strzelce 18, Mogilno, 88-300, PL",
+  "ENT_TOW_CIT_RES": "Mogilno",
+  "ENT_POS_COD": "88-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

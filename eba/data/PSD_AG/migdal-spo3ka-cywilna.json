@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4378",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4378",
+  "ENT_NAM": "MIGDAL Spó3ka Cywilna",
+  "ENT_ADD": "Sternicza 96 lok U9, Warszawa, 01-350, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "01-350",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

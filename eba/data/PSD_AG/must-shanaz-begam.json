@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!545333_AG613",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG545333",
+  "ENT_NAM": "Must Shanaz Begam",
+  "ENT_ADD": "Via Immacolata di Lourdes 10",
+  "ENT_TOW_CIT_RES": "Conegliano",
+  "ENT_POS_COD": "31015",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

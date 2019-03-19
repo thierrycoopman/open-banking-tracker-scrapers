@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63835",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "812021145",
+  "ENT_NAM": "M. PERRAUD Gwénaël",
+  "ENT_ADD": "113 avenue du Maréchal Juin",
+  "ENT_TOW_CIT_RES": "VANNES",
+  "ENT_POS_COD": "56000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

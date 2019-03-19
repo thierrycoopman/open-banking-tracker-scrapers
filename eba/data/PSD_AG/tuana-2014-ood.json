@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202818012",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202818012",
+  "ENT_NAM": [
+    "Туана 2014 ООД",
+    "Tuana 2014 OOD"
+  ],
+  "ENT_ADD": "12 Vrah Bogdan str.",
+  "ENT_TOW_CIT_RES": "Haskovo",
+  "ENT_POS_COD": "6300",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

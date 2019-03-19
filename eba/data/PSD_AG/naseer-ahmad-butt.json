@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!746665_AG5116",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG746665",
+  "ENT_NAM": "Naseer Ahmad Butt",
+  "ENT_ADD": "Fronackerstr 12",
+  "ENT_TOW_CIT_RES": "Waiblingen",
+  "ENT_POS_COD": "71332",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!795850_AG7336",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG795850",
+  "ENT_NAM": "Aenne S.R.L.S. Societa' A Responsabilita' Limitata Semplificata",
+  "ENT_ADD": "Piazza Carlo Poerio 40",
+  "ENT_TOW_CIT_RES": "Montesarchio",
+  "ENT_POS_COD": "82016",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

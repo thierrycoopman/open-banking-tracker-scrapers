@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!594",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "594",
+  "ENT_NAM": "Przedsiębiorstwo Produkcyjno- Handlowo- Usługowe Anna Perz",
+  "ENT_ADD": "Przedborska 34B, Łopuszno, 26-070, PL",
+  "ENT_TOW_CIT_RES": "Łopuszno",
+  "ENT_POS_COD": "26-070",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

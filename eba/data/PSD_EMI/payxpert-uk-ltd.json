@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900133",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900133",
+  "ENT_NAM": "Payxpert UK Ltd",
+  "ENT_NAM_COM": "Payxpert UK Ltd",
+  "ENT_ADD": [
+    "Milton Hall",
+    "-"
+  ],
+  "ENT_TOW_CIT_RES": "Cambridge",
+  "ENT_POS_COD": "CB24 6WZ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-05-01"
+  ]
+}

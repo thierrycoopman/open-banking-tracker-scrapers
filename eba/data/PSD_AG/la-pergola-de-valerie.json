@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66446",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "802163675",
+  "ENT_NAM": "LA PERGOLA DE VALERIE",
+  "ENT_ADD": "Centre Commercial le Plan RN 96",
+  "ENT_TOW_CIT_RES": "LA BRILLANNE",
+  "ENT_POS_COD": "04700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

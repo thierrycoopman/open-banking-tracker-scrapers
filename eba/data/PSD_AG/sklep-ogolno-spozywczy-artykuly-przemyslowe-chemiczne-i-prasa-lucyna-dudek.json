@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7060",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7060",
+  "ENT_NAM": "Sklep Ogólno Spożywczy Artykuły Przemysłowe Chemiczne i Prasa Lucyna Dudek",
+  "ENT_ADD": "Grojec, Bartosza Głowackiego 61, Alwernia, 32-566, PL",
+  "ENT_TOW_CIT_RES": "Alwernia",
+  "ENT_POS_COD": "32-566",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

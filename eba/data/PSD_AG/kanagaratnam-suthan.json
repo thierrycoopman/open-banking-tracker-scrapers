@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!608277!510780_AG35",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG510780",
+  "ENT_NAM": "Kanagaratnam Suthan",
+  "ENT_ADD": "246 kennington park road",
+  "ENT_TOW_CIT_RES": "london",
+  "ENT_POS_COD": "se11 4da",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!608277",
+  "DER_CHI_ENT_AUT": "Active"
+}

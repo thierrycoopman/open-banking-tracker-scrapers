@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "LT_LT_BL_304782929",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "304782929",
+  "ENT_NAM": "Valyuz, UAB",
+  "ENT_ADD": "Vilniaus m. sav. Vilniaus m. Vilniaus g. 31",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "01402",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2018-03-29"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!588081_AG2062",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG588081",
+  "ENT_NAM": "Zaccaro Giancarla Patrizia",
+  "ENT_ADD": "Via D Martinelli 23",
+  "ENT_TOW_CIT_RES": "Rutigliano",
+  "ENT_POS_COD": "7001 8",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!565842",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "565842",
+  "ENT_NAM": "Amir Alam Alhouda",
+  "ENT_NAM_COM": "Omdoom General Trading",
+  "ENT_ADD": "175 Queensway",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W2 5HL",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-02-15"
+  ]
+}

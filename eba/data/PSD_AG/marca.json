@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66651",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "531305076",
+  "ENT_NAM": "MARCA",
+  "ENT_ADD": "6 Rue du Docteur Laporte",
+  "ENT_TOW_CIT_RES": "PLAILLY",
+  "ENT_POS_COD": "60128",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

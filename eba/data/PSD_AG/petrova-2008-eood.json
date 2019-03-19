@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203782099",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203782099",
+  "ENT_NAM": [
+    "Петрова - 2008 ЕООД",
+    "Petrova - 2008 EOOD"
+  ],
+  "ENT_ADD": "13 Slavovo str., fl. 2",
+  "ENT_TOW_CIT_RES": "Blagoevgrad",
+  "ENT_POS_COD": "2700",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!640",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "640",
+  "ENT_NAM": "KORCZYK INFO Izabela Korczyk",
+  "ENT_ADD": "Leśna 21, Bestwina, 43-512, PL",
+  "ENT_TOW_CIT_RES": "Bestwina",
+  "ENT_POS_COD": "43-512",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

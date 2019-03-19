@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R128874",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R128874",
+  "ENT_NAM": "Primera Roermond",
+  "ENT_ADD": "Hamstraat 4 4",
+  "ENT_TOW_CIT_RES": "ROERMOND",
+  "ENT_POS_COD": "6041 HB",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!40483657",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "40483657",
+  "ENT_NAM": "Pichrt Martin",
+  "ENT_ADD": "Lidická 1252",
+  "ENT_TOW_CIT_RES": "Ostrov",
+  "ENT_POS_COD": "36301",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

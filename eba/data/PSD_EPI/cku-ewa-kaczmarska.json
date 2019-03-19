@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8711666275",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8711666275",
+  "ENT_NAM": "CKU Ewa Kaczmarska",
+  "ENT_ADD": "Kościuszki 3, Dąbrowa Tarnowska, 33-200, PL",
+  "ENT_TOW_CIT_RES": "Dąbrowa Tarnowska",
+  "ENT_POS_COD": "33-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-12-29"
+  ]
+}

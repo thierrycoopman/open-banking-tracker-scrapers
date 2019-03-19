@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!543412!519748_AG5",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG519748",
+  "ENT_NAM": "Tariq Mahmood",
+  "ENT_ADD": "Lauten Schlager  4/1",
+  "ENT_TOW_CIT_RES": "Stuttgart",
+  "ENT_POS_COD": "70173",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!543412",
+  "DER_CHI_ENT_AUT": "Active"
+}

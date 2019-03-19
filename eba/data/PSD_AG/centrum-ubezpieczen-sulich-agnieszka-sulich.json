@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!963",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "963",
+  "ENT_NAM": "Centrum Ubezpieczeń Sulich - Agnieszka Sulich",
+  "ENT_ADD": "  22, Jakubowizna, 05-650, PL",
+  "ENT_TOW_CIT_RES": "Jakubowizna",
+  "ENT_POS_COD": "05-650",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

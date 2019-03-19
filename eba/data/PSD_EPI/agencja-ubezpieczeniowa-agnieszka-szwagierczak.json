@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6371787434",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6371787434",
+  "ENT_NAM": "AGENCJA UBEZPIECZENIOWA AGNIESZKA SZWAGIERCZAK",
+  "ENT_ADD": "Armii Krajowej 14c, Olkusz, 32-300, PL",
+  "ENT_TOW_CIT_RES": "Olkusz",
+  "ENT_POS_COD": "32-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-09-22"
+  ]
+}

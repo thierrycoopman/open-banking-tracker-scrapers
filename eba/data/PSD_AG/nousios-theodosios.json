@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!100762464",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "100762464",
+  "ENT_NAM": "NOUSIOS THEODOSIOS",
+  "ENT_ADD": "1, TRIPOLEOS Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "17237",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

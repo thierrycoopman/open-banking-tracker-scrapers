@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!650536_AG694",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG650536",
+  "ENT_NAM": "Geiosta Di Longhi Rita",
+  "ENT_ADD": "VIA UGO FOSCOLO 10,",
+  "ENT_TOW_CIT_RES": "NORCIA",
+  "ENT_POS_COD": "0604 6",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

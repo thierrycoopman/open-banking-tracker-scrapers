@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5242128723",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5242128723",
+  "ENT_NAM": "PUNKT USŁUGOWY \"TRUST\" AGATA KOZARZEWSKA",
+  "ENT_ADD": "Żorska 1A, Racibórz, 47-400, PL",
+  "ENT_TOW_CIT_RES": "Racibórz",
+  "ENT_POS_COD": "47-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-08-27"
+  ]
+}

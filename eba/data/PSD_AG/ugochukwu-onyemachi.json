@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!533250_AG166",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG533250",
+  "ENT_NAM": "Ugochukwu Onyemachi",
+  "ENT_ADD": "102 Feltham High Street",
+  "ENT_TOW_CIT_RES": "Feltham",
+  "ENT_POS_COD": "TW13 4EX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

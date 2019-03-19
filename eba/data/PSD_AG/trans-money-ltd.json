@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!620398_AG374",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG620398",
+  "ENT_NAM": "Trans-Money Ltd",
+  "ENT_ADD": [
+    "Triq II - Mazzola",
+    "Bugibba",
+    "Corner Shop 1"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "2760",
+  "ENT_COU_RES": "MT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

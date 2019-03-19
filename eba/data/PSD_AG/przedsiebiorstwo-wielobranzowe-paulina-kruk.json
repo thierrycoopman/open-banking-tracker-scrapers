@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3377",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3377",
+  "ENT_NAM": "Przedsiębiorstwo Wielobranżowe Paulina Kruk",
+  "ENT_ADD": "Skrzelczyce nr 105, Pierzchnica, 26-015, PL",
+  "ENT_TOW_CIT_RES": "Pierzchnica",
+  "ENT_POS_COD": "26-015",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PT_BP",
+  "EntityCode": "PSD_PI!PT_BP!8707",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "8707",
+  "ENT_NAM": "IFTHENPAY LDA",
+  "ENT_NAM_COM": "IFTHENPAY",
+  "ENT_ADD": "Rua S. Jose, 771",
+  "ENT_TOW_CIT_RES": "Santa Maria de Lamas",
+  "ENT_POS_COD": "4535-404",
+  "ENT_COU_RES": "PT",
+  "ENT_AUT": [
+    "2014-04-01"
+  ]
+}

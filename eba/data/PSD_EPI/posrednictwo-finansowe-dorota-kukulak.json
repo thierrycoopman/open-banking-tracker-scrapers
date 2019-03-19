@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7271140142",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7271140142",
+  "ENT_NAM": "POŚREDNICTWO FINANSOWE DOROTA KUKULAK",
+  "ENT_ADD": "Piłsudskiego 32, Konstantynów Łódzki, 95-050, PL",
+  "ENT_TOW_CIT_RES": "Konstantynów Łódzki",
+  "ENT_POS_COD": "95-050",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-06-19"
+  ]
+}

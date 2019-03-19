@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!572855",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "572855",
+  "ENT_NAM": "Best Remittance Ltd",
+  "ENT_NAM_COM": "Best Remit Ltd",
+  "ENT_ADD": [
+    "Aldershot",
+    "104 Victoria Road"
+  ],
+  "ENT_TOW_CIT_RES": "Hampshire",
+  "ENT_POS_COD": "GU11 1NY",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-04-12"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72080",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "750630360",
+  "ENT_NAM": "SNC DES CORRUES",
+  "ENT_ADD": "19 avenue de Serbie",
+  "ENT_TOW_CIT_RES": "UGINE",
+  "ENT_POS_COD": "73400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

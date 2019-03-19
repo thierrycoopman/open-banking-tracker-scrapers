@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68046",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "810389429",
+  "ENT_NAM": "M. CORRAND Serge",
+  "ENT_ADD": "16 Place du 14 Juillet",
+  "ENT_TOW_CIT_RES": "VIAS",
+  "ENT_POS_COD": "34450",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

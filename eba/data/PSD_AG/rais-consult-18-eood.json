@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!205180369",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "205180369",
+  "ENT_NAM": [
+    "Райс Консулт-18 ЕООД",
+    "Rais Consult - 18 EOOD"
+  ],
+  "ENT_ADD": "40 Karamfil str., fl. 3, app. 9",
+  "ENT_TOW_CIT_RES": "Varna",
+  "ENT_POS_COD": "9010",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

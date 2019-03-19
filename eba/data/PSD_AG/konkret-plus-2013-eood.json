@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202389851",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202389851",
+  "ENT_NAM": [
+    "Конкрет Плюс - 2013 ЕООД",
+    "Konkret Plus - 2013 EOOD"
+  ],
+  "ENT_ADD": "70 Georgi Kirkov str., fl. 7, app. 18, Yuzhen dist.",
+  "ENT_TOW_CIT_RES": "Plovdiv",
+  "ENT_POS_COD": "4004",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

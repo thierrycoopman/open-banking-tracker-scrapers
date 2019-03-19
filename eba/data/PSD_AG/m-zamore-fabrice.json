@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!61407",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "518509138",
+  "ENT_NAM": "M. ZAMORE Fabrice",
+  "ENT_ADD": "Rue Jean Jaurès",
+  "ENT_TOW_CIT_RES": "LAMENTIN",
+  "ENT_POS_COD": "97129",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

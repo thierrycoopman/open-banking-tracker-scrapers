@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!756836_AG1482",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG756836",
+  "ENT_NAM": "Haro D'Acuna Diana",
+  "ENT_ADD": "Via Gerla 8",
+  "ENT_TOW_CIT_RES": "Desenzano Del Garda",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!816006_AG8973",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG816006",
+  "ENT_NAM": "Psn",
+  "ENT_ADD": "22 Boulevard Gouvion Saint Cyr",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75017",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

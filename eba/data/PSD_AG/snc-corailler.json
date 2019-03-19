@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72806",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "827878638",
+  "ENT_NAM": "SNC CORAILLER",
+  "ENT_ADD": "36 rue de Billy",
+  "ENT_TOW_CIT_RES": "MONTIGNY EN GOHELLE",
+  "ENT_POS_COD": "62640",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

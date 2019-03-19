@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4926",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4926",
+  "ENT_NAM": "\"U Aleksa\" Aleksander Żelazny",
+  "ENT_ADD": "Stefana Okrzei 1-5A lok. 38, Gdynia, 81-245, PL",
+  "ENT_TOW_CIT_RES": "Gdynia",
+  "ENT_POS_COD": "81-245",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

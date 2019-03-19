@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!626107_AG3349",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG626107",
+  "ENT_NAM": "Sun Market",
+  "ENT_ADD": "14 Rue Arthur Chevallier",
+  "ENT_TOW_CIT_RES": "Aulnay Sous Bois",
+  "ENT_POS_COD": "9360 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

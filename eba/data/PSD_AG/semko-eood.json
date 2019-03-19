@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!175223388",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "175223388",
+  "ENT_NAM": [
+    "Семко ЕООД",
+    "Semko EOOD"
+  ],
+  "ENT_ADD": "3 Tsiolkovskiy str.",
+  "ENT_TOW_CIT_RES": "Svoge",
+  "ENT_POS_COD": "2260",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

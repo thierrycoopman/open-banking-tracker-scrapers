@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5262105174",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5262105174",
+  "ENT_NAM": "CAR - STAL KRZYSZTOF WIERZBICKI",
+  "ENT_ADD": "św. Bonifacego 14, Warszawa, 02-914, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-914",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-28"
+  ]
+}

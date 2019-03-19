@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!61712973",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "61712973",
+  "ENT_NAM": "Havlová Marcela",
+  "ENT_ADD": "č.p. 263",
+  "ENT_TOW_CIT_RES": "Boršice",
+  "ENT_POS_COD": "68709",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

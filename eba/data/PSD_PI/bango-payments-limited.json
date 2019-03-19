@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!746033",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "746033",
+  "ENT_NAM": "Bango Payments Limited",
+  "ENT_ADD": [
+    "5 Westbrook Centre",
+    "Milton Road"
+  ],
+  "ENT_TOW_CIT_RES": "Cambridge",
+  "ENT_POS_COD": "CB4 1YG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-09-12",
+    "2018-11-29"
+  ]
+}

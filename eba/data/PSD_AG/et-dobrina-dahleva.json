@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!106617707",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "106617707",
+  "ENT_NAM": [
+    "ЕТ Мими - Добрина Дахлева",
+    "ET Dobrina Dahleva"
+  ],
+  "ENT_ADD": "10 9-ti septemvri str.",
+  "ENT_TOW_CIT_RES": "Miziya",
+  "ENT_POS_COD": "3330",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

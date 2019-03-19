@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73996",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "493996714",
+  "ENT_NAM": "M. ROQUAIN Eric",
+  "ENT_ADD": "43 avenue de Verdun",
+  "ENT_TOW_CIT_RES": "ST MAGNE DE CASTILLON",
+  "ENT_POS_COD": "33350",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

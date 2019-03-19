@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8971781665",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "8971781665",
+  "ENT_NAM": "Profeskasa S.A.",
+  "ENT_ADD": "Świętego Mikołaja 8-11, Wrocław, 50-125, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "50-125",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-07-08"
+  ]
+}

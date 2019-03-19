@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!824997_AG9776",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG824997",
+  "ENT_NAM": "Ac Multi Services",
+  "ENT_ADD": "27 Place Du Marechal Leclerc",
+  "ENT_TOW_CIT_RES": "Villers Bocage",
+  "ENT_POS_COD": "14310",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

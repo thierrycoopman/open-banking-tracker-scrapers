@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!69770",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "799071477",
+  "ENT_NAM": "SNC TABAC NANSOUTY",
+  "ENT_ADD": "252 Cours de l'Yser",
+  "ENT_TOW_CIT_RES": "BORDEAUX",
+  "ENT_POS_COD": "33800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

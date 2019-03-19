@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!121554961!SK",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": [
+    "Транзакт Юръп ЕАД (предишно наименование Ти Би Ай Кредит ЕАД)",
+    "Transact Europe EAD (formerly known as Ti Bi Ai Credit EAD)"
+  ],
+  "ENT_ADD": "BR Address (Not Specified)",
+  "ENT_TOW_CIT_RES": "BR City (Not Specified)",
+  "ENT_POS_COD": "BR Postcode (Not Specified)",
+  "ENT_COU_RES": "SK",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!121554961",
+  "DER_CHI_ENT_AUT": "Active"
+}

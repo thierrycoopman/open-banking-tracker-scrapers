@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5131",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5131",
+  "ENT_NAM": "Max Finance Anna Zając",
+  "ENT_ADD": "Wodna 4 lok. 3, Rokiciny-Kolonia, 97-221, PL",
+  "ENT_TOW_CIT_RES": "Rokiciny-Kolonia",
+  "ENT_POS_COD": "97-221",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

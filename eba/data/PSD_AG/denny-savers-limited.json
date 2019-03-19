@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!586040_AG116",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG586040",
+  "ENT_NAM": "Denny Savers Limited",
+  "ENT_ADD": "18 Nisbet Drive",
+  "ENT_TOW_CIT_RES": "Denny",
+  "ENT_POS_COD": "FK6 6AQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

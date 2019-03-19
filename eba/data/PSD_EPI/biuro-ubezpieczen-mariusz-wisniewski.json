@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5792102284",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5792102284",
+  "ENT_NAM": "Biuro Ubezpieczeń Mariusz Wiśniewski ",
+  "ENT_ADD": "Plac Słowiański 17, Malbork, 82-200, PL",
+  "ENT_TOW_CIT_RES": "Malbork",
+  "ENT_POS_COD": "82-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-02-07"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!770210",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "770210",
+  "ENT_NAM": "ShieldPay Ltd",
+  "ENT_ADD": "10 Lower Thames Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC3R 6AF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-06-02"
+  ]
+}

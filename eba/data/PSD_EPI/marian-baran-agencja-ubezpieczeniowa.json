@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6781084608",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6781084608",
+  "ENT_NAM": "Marian Baran Agencja Ubezpieczeniowa",
+  "ENT_ADD": "Graniczna 18, Michałowice, 32-091, PL",
+  "ENT_TOW_CIT_RES": "Michałowice",
+  "ENT_POS_COD": "32-091",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-08-05"
+  ]
+}

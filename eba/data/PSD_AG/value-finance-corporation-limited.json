@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!514465_AG170",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG514465",
+  "ENT_NAM": "Value Finance Corporation Limited",
+  "ENT_ADD": "208 Uxbridge Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W12 7JD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

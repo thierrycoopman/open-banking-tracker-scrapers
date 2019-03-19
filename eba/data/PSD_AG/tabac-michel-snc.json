@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74842",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "531421212",
+  "ENT_NAM": "TABAC MICHEL SNC",
+  "ENT_ADD": "52 RUE DE LA 1ERE ARMEE",
+  "ENT_TOW_CIT_RES": "THANN",
+  "ENT_POS_COD": "68800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

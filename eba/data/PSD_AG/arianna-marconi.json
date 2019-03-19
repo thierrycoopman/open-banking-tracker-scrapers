@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!546899_AG85",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG546899",
+  "ENT_NAM": "Arianna Marconi",
+  "ENT_ADD": "Via De Filippi 47",
+  "ENT_TOW_CIT_RES": "Olbia",
+  "ENT_POS_COD": "07026",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

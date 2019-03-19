@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!809869_AG2150",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG809869",
+  "ENT_NAM": "Cheema International Limited",
+  "ENT_ADD": "345 Derby Street",
+  "ENT_TOW_CIT_RES": "Bolton",
+  "ENT_POS_COD": "BL3 6LR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

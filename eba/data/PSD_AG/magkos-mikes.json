@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!020402563",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "020402563",
+  "ENT_NAM": "MAGKOS MIKES",
+  "ENT_ADD": "AGIOS NIKOLAOS",
+  "ENT_TOW_CIT_RES": "KALYMNOS",
+  "ENT_POS_COD": "85200",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

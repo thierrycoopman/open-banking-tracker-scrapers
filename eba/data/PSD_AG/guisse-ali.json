@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!807156_AG2107",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG807156",
+  "ENT_NAM": "Guissé Ali",
+  "ENT_ADD": "CHAUSSEE DE WAVRE 75",
+  "ENT_TOW_CIT_RES": "IXELLES",
+  "ENT_POS_COD": "1050",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

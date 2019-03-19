@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!201405085",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201405085",
+  "ENT_NAM": [
+    "Вени - Г ЕООД",
+    "Veni - G EOOD"
+  ],
+  "ENT_ADD": "Ovcha kupel 2 dist., build. 2, entr. E, fl. 1, app. 56",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1632",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

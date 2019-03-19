@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75225",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "799065529",
+  "ENT_NAM": "Mme PAVON Nathalie",
+  "ENT_ADD": "20 AV DE SOULAC",
+  "ENT_TOW_CIT_RES": "LISTRAC MEDOC",
+  "ENT_POS_COD": "33480",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5448",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5448",
+  "ENT_NAM": "Gminna Spółdzielnia \"SAMOPOMOC CHŁOPSKA\" w Sianowie",
+  "ENT_ADD": "Armii Polskiej 20, Sianów, 76-004, PL",
+  "ENT_TOW_CIT_RES": "Sianów",
+  "ENT_POS_COD": "76-004",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

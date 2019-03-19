@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!966",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "966",
+  "ENT_NAM": "Firma Handlowa Andrzej Walas",
+  "ENT_ADD": "Pogodna 27, Tarnowskie Góry, 42-606, PL",
+  "ENT_TOW_CIT_RES": "Tarnowskie Góry",
+  "ENT_POS_COD": "42-606",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

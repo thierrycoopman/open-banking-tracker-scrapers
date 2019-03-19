@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!724951_AG1271",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG724951",
+  "ENT_NAM": "PEACE UCHECHI BERGIN",
+  "ENT_ADD": "158 Parnell Street",
+  "ENT_TOW_CIT_RES": "DUBLIN",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

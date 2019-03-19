@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!763489_AG5671",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG763489",
+  "ENT_NAM": "Ionut Andrei Anton",
+  "ENT_ADD": "Corso San Francesco d'Assisi 22",
+  "ENT_TOW_CIT_RES": "Comiso",
+  "ENT_POS_COD": "97013",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

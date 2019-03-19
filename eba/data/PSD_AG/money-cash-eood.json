@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204420562",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204420562",
+  "ENT_NAM": [
+    "Моней Кеш ЕООД",
+    "Money Cash EOOD"
+  ],
+  "ENT_ADD": "11 Vihren str.",
+  "ENT_TOW_CIT_RES": "Zavet",
+  "ENT_POS_COD": "7330",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!810252_AG8432",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG810252",
+  "ENT_NAM": "Juliette Lea Goman",
+  "ENT_ADD": "Za Baillif",
+  "ENT_TOW_CIT_RES": "Baillif",
+  "ENT_POS_COD": "97123",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

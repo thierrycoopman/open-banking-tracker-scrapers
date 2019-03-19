@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7352872292",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7352872292",
+  "ENT_NAM": "PAY AUTO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "ENT_ADD": "Rynek  10, Nowy Targ, 34-400, PL",
+  "ENT_TOW_CIT_RES": "Nowy Targ",
+  "ENT_POS_COD": "34-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-08-23"
+  ]
+}

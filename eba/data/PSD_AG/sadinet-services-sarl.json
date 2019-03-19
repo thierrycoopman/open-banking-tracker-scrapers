@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!808431_AG8224",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808431",
+  "ENT_NAM": "Sadinet Services Sarl",
+  "ENT_ADD": "163 Avenue De La Republique",
+  "ENT_TOW_CIT_RES": "Epinay Sur Seine",
+  "ENT_POS_COD": "93800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

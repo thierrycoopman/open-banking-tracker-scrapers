@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7811117194",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7811117194",
+  "ENT_NAM": "PHU Katarzyna Preuss",
+  "ENT_ADD": "Szpitalna  4, Poznań, 60-584, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "60-584",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-15"
+  ]
+}

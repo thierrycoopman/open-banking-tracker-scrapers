@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!817042_AG9095",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG817042",
+  "ENT_NAM": "Abdulrahman Nached",
+  "ENT_ADD": "326 Boulevard Des Belles Portes",
+  "ENT_TOW_CIT_RES": "Herouville Saint Clair",
+  "ENT_POS_COD": "14200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

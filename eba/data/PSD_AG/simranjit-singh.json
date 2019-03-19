@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!702672_AG4196",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG702672",
+  "ENT_NAM": "Simranjit Singh",
+  "ENT_ADD": "Via Bacchini 9 11",
+  "ENT_TOW_CIT_RES": "Modena",
+  "ENT_POS_COD": "4112 1",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

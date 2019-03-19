@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76052",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "504140328",
+  "ENT_NAM": "SNC GUILBAUD",
+  "ENT_ADD": "4 RUE DU CENTRE",
+  "ENT_TOW_CIT_RES": "DAMVIX",
+  "ENT_POS_COD": "85420",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

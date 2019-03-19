@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!16821076",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "16821076",
+  "ENT_NAM": "Milisterfer Jiří",
+  "ENT_ADD": "Volyňská 97",
+  "ENT_TOW_CIT_RES": "Strakonice",
+  "ENT_POS_COD": "38601",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

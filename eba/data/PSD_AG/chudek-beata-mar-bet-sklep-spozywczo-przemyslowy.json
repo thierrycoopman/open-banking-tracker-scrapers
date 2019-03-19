@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4541",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4541",
+  "ENT_NAM": "Chudek Beata MAR-BET Sklep Spożywczo Przemysłowy",
+  "ENT_ADD": "Tchórzew Kolonia 196/A, Tchórzew Kolonia, 21-345, PL",
+  "ENT_TOW_CIT_RES": "Tchórzew Kolonia",
+  "ENT_POS_COD": "21-345",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!818762_AG710",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG818762",
+  "ENT_NAM": "Haris Private Ltd",
+  "ENT_ADD": [
+    "Chadderton",
+    "76 Burnley Lane"
+  ],
+  "ENT_TOW_CIT_RES": "Oldham",
+  "ENT_POS_COD": "OL1 2PW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

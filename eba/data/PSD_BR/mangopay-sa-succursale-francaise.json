@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "PSD_EMI!LU_CSSF!W00000005!FR",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "MANGOPAY S.A., succursale française",
+  "ENT_ADD": "4, rue de la Tour des Dames",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75009",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "LU_CSSF!W00000005",
+  "DER_CHI_ENT_AUT": "Active"
+}

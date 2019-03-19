@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!813498_AG8769",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG813498",
+  "ENT_NAM": "Sumon Bhuiyan",
+  "ENT_ADD": "Hellwagstrasse 10",
+  "ENT_TOW_CIT_RES": "Wien",
+  "ENT_POS_COD": "1200",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!60950",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "520113515",
+  "ENT_NAM": "M. HUGUENIN Julien",
+  "ENT_ADD": "326 Boulevard des Belles Portes",
+  "ENT_TOW_CIT_RES": "HEROUVILLE ST CLAIR",
+  "ENT_POS_COD": "14200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

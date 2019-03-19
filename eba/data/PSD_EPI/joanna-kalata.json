@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7621840556",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7621840556",
+  "ENT_NAM": "JOANNA KALATA",
+  "ENT_ADD": "Okopowa  29A, Warszawa, 01-059, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "01-059",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-07-16"
+  ]
+}

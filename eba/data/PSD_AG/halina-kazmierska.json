@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!374",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "374",
+  "ENT_NAM": "Halina Kaźmierska",
+  "ENT_ADD": "ul. Władysława Cieszyńskiego 38/34D, Gdańsk, 80-809, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-809",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0009",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0009",
+  "ENT_NAM": "Travelex N.V.",
+  "ENT_NAM_COM": "Crediet- en Depositokas/Valuta Services/GWK/Change Express/GWK Travelex/Travelex N.V.",
+  "ENT_ADD": "De entree 47-49",
+  "ENT_TOW_CIT_RES": "AMSTERDAM",
+  "ENT_POS_COD": "1101 BH",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

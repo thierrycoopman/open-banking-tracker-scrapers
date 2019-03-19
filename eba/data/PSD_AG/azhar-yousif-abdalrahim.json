@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!828661_AG10143",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG828661",
+  "ENT_NAM": "Azhar Yousif Abdalrahim",
+  "ENT_ADD": "Djaknegatan 1",
+  "ENT_TOW_CIT_RES": "Malmo",
+  "ENT_POS_COD": "21135",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9521081543",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9521081543",
+  "ENT_NAM": "MARKETER POLSKA Sp. z o.o.",
+  "ENT_ADD": "11 Listopada  93, Sulejówek, 05-070, PL",
+  "ENT_TOW_CIT_RES": "Sulejówek",
+  "ENT_POS_COD": "05-070",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-04-12",
+    "2019-02-06"
+  ]
+}

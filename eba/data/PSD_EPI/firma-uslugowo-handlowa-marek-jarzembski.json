@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8741006164",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8741006164",
+  "ENT_NAM": "FIRMA USŁUGOWO-HANDLOWA MAREK JARZEMBSKI",
+  "ENT_ADD": "Główna 29, Jabłonowo Pomorskie, 87-330, PL",
+  "ENT_TOW_CIT_RES": "Jabłonowo Pomorskie",
+  "ENT_POS_COD": "87-330",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-19"
+  ]
+}

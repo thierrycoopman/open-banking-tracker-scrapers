@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!76459",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "413857475",
+  "ENT_NAM": "Mme TAGLIAMENTO Marie-Chantale",
+  "ENT_ADD": "Rue HEGESIPPE LEGITIMUS",
+  "ENT_TOW_CIT_RES": "ST LOUIS",
+  "ENT_POS_COD": "97134",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

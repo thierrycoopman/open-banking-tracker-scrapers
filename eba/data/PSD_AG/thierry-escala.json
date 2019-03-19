@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!539478_AG463",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG539478",
+  "ENT_NAM": "Thierry Escala",
+  "ENT_ADD": [
+    "L'agriculture",
+    "33 Avenue De L'ecole De"
+  ],
+  "ENT_TOW_CIT_RES": "Montpellier",
+  "ENT_POS_COD": "340 00",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

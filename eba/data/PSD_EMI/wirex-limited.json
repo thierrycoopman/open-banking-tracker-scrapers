@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!902025",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "902025",
+  "ENT_NAM": "Wirex Limited",
+  "ENT_NAM_COM": "Wirex",
+  "ENT_ADD": [
+    "25 Old Broad Street",
+    "-"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2N 1HN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-08-17"
+  ]
+}

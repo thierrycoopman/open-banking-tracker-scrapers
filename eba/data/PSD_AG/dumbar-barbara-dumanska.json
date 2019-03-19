@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3429",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3429",
+  "ENT_NAM": "Dumbar Barbara Dumańska",
+  "ENT_ADD": "Poznańska 2 lok.34, Rumia, 84-230, PL",
+  "ENT_TOW_CIT_RES": "Rumia",
+  "ENT_POS_COD": "84-230",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

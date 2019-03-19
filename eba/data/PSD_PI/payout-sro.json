@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "SK_NBS",
+  "EntityCode": "PSD_PI!SK_NBS!50487787",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "50487787",
+  "ENT_NAM": "Payout, s.r.o.",
+  "ENT_ADD": "Juraja Slottu 2718/4",
+  "ENT_TOW_CIT_RES": "Žilina",
+  "ENT_POS_COD": "01001",
+  "ENT_COU_RES": "SK",
+  "ENT_AUT": [
+    "2019-02-22"
+  ]
+}

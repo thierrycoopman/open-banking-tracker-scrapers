@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57204",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "495316515",
+  "ENT_NAM": "SNC HERANDE",
+  "ENT_ADD": [
+    "6 Place Frédéric Bombail",
+    "Bât D01",
+    "Carré Bastide"
+  ],
+  "ENT_TOW_CIT_RES": "PLAISANCE DU TOUCH",
+  "ENT_POS_COD": "31830",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

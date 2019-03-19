@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!714926_AG350",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG714926",
+  "ENT_NAM": "Tahir Zaman",
+  "ENT_ADD": "91-93 Manchester Road",
+  "ENT_TOW_CIT_RES": "Nelson",
+  "ENT_POS_COD": "BB9 7HB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

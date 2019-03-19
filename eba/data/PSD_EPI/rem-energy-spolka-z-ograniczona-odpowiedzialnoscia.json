@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6793161668",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6793161668",
+  "ENT_NAM": "Rem Energy spółka z ograniczoną odpowiedzialnością ",
+  "ENT_ADD": "Modrzejowska 12/7, Sosnowiec, 42-400, PL",
+  "ENT_TOW_CIT_RES": "Sosnowiec",
+  "ENT_POS_COD": "42-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-03-09",
+    "2018-08-01"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7059",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7059",
+  "ENT_NAM": "Chrobok Zbigniew \"Agnieszka\" F.H.",
+  "ENT_ADD": "1 Maja 29a, Wodzisław Śląski, 44-304, PL",
+  "ENT_TOW_CIT_RES": "Wodzisław Śląski",
+  "ENT_POS_COD": "44-304",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

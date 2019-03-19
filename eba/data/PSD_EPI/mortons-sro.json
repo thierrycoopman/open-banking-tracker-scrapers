@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!04588649",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "04588649",
+  "ENT_NAM": "Mortons s.r.o. ",
+  "ENT_ADD": "tř. T. G. Masaryka 1108",
+  "ENT_TOW_CIT_RES": "Frýdek-Místek",
+  "ENT_POS_COD": "73801",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2015-10-01"
+  ]
+}

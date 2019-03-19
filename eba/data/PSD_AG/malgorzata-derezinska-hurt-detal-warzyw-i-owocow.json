@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7986",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7986",
+  "ENT_NAM": "Małgorzata Derezińska HURT - DETAL WARZYW I OWOCÓW",
+  "ENT_ADD": "Czermin 24, Czermin, 63-304, PL",
+  "ENT_TOW_CIT_RES": "Czermin",
+  "ENT_POS_COD": "63-304",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

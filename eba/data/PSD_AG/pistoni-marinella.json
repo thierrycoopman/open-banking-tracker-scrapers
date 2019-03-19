@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!580312_AG211",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG580312",
+  "ENT_NAM": "Pistoni Marinella",
+  "ENT_ADD": "Via Zanardelli, 4",
+  "ENT_TOW_CIT_RES": "Lonato (BS)",
+  "ENT_POS_COD": "2501 7",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

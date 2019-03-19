@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6191785445!6",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6",
+  "ENT_NAM": "Przedsiębiorstwo Handlowe B&D",
+  "ENT_ADD": "Kościelna 6/4, Bralin, 63-640, PL",
+  "ENT_TOW_CIT_RES": "Bralin",
+  "ENT_POS_COD": "63-640",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6191785445",
+  "DER_CHI_ENT_AUT": "Active"
+}

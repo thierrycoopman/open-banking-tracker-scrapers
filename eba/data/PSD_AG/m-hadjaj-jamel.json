@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!55814",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "450391495",
+  "ENT_NAM": "M. HADJAJ Jamel",
+  "ENT_ADD": [
+    "Rue Rodin Centre Commercial ",
+    "du Bois de l'Abbé"
+  ],
+  "ENT_TOW_CIT_RES": "CHAMPIGNY SUR MARNE",
+  "ENT_POS_COD": "94500",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

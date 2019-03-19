@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9532164942",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9532164942",
+  "ENT_NAM": "AVEL FINANSE Ewa Bandyszewska",
+  "ENT_ADD": "Adama Grzymały Siedleckiego 30, Bydgoszcz, 85-868, PL",
+  "ENT_TOW_CIT_RES": "Bydgoszcz",
+  "ENT_POS_COD": "85-868",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-11-20"
+  ]
+}

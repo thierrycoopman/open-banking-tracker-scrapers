@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2196",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2196",
+  "ENT_NAM": "Zakład Produkcyjno-Handlowy \"METMARK\" M. Armański, D. Armańska - Spółka Jawna",
+  "ENT_ADD": "Kolejowa 30, Szczawno-Zdrój, 58-310, PL",
+  "ENT_TOW_CIT_RES": "Szczawno-Zdrój",
+  "ENT_POS_COD": "58-310",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

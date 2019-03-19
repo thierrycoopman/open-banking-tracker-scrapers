@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!69346",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "501026702",
+  "ENT_NAM": "Mme YE Xiao",
+  "ENT_ADD": "7 place Henri Barbusse",
+  "ENT_TOW_CIT_RES": "PARAY VIEILLE POSTE",
+  "ENT_POS_COD": "91550",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

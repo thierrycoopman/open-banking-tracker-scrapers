@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!603464_AG2702",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG603464",
+  "ENT_NAM": "Lorenzo Costagli",
+  "ENT_ADD": "Via Borsi 20",
+  "ENT_TOW_CIT_RES": "Cecina",
+  "ENT_POS_COD": "5702 3",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

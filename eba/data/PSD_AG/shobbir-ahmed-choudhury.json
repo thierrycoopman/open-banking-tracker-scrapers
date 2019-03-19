@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!740563_AG302",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG740563",
+  "ENT_NAM": "Shobbir Ahmed Choudhury",
+  "ENT_ADD": "2 Sparrow Hill",
+  "ENT_TOW_CIT_RES": "Loughborough",
+  "ENT_POS_COD": "LE11 1BT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

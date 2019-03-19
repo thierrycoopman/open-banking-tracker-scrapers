@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68096",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "383456712",
+  "ENT_NAM": "Mme VERDONCK Chantal",
+  "ENT_ADD": "1 place de la Patrie",
+  "ENT_TOW_CIT_RES": "ROUBAIX",
+  "ENT_POS_COD": "59100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

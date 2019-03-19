@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131574695!B98805120",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "B98805120",
+  "ENT_NAM": [
+    "ВФЕ Кредибул С.Л.",
+    "VFE Credibul S.L"
+  ],
+  "ENT_ADD": "Gran Viya del Mares del Turiya",
+  "ENT_TOW_CIT_RES": "Valencia",
+  "ENT_POS_COD": " 57-46005",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131574695",
+  "DER_CHI_ENT_AUT": "Active"
+}

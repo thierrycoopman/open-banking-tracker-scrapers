@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!538",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "40103794693",
+  "ENT_NAM": "SIA \"Dukascopy Payments\"",
+  "ENT_NAM_COM": "Dukascopy Payments",
+  "ENT_ADD": "Lāčplēša iela 20A - 1",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1011",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2015-07-29"
+  ]
+}

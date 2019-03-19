@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!54167",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "753886092",
+  "ENT_NAM": "Financière des paiements électroniques",
+  "ENT_NAM_COM": "FPE",
+  "ENT_ADD": "18 avenue Winston Churchill",
+  "ENT_TOW_CIT_RES": "CHARENTON LE PONT",
+  "ENT_POS_COD": "94220",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2013-06-10"
+  ]
+}

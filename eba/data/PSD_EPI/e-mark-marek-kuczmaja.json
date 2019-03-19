@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8881101922",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8881101922",
+  "ENT_NAM": "e-Mark Marek Kuczmaja",
+  "ENT_ADD": "Plac Kościuszki 4, Chodecz, 87-860, PL",
+  "ENT_TOW_CIT_RES": "Chodecz",
+  "ENT_POS_COD": "87-860",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5603",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5603",
+  "ENT_NAM": "\"Kana\" Robert Tyran, Agata Tyran S.C.",
+  "ENT_ADD": "D3uga 77, Polanka Wielka, 32-607, PL",
+  "ENT_TOW_CIT_RES": "Polanka Wielka",
+  "ENT_POS_COD": "32-607",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+
+}

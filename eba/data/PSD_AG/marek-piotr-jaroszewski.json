@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!580949_AG1589",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG580949",
+  "ENT_NAM": "Marek Piotr Jaroszewski",
+  "ENT_ADD": "Fabryczna 11",
+  "ENT_TOW_CIT_RES": "Lochow",
+  "ENT_POS_COD": "0713 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

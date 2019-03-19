@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8321948468",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8321948468",
+  "ENT_NAM": "Ewa Ślusarska",
+  "ENT_ADD": "Staromiejska 2-4/lok. kl. 1/4, Opole, 45-025, PL",
+  "ENT_TOW_CIT_RES": "Opole",
+  "ENT_POS_COD": "45-025",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-12-14"
+  ]
+}

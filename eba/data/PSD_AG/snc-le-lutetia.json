@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!55319",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "418317483",
+  "ENT_NAM": "SNC LE LUTETIA",
+  "ENT_ADD": "7 rue du Barry d'en Haut",
+  "ENT_TOW_CIT_RES": "BOULOGNE SUR GESSE",
+  "ENT_POS_COD": "31350",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

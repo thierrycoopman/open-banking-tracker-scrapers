@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62162",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "529563280",
+  "ENT_NAM": "LE CARRE D'AS",
+  "ENT_ADD": "30 Rue du Commerce",
+  "ENT_TOW_CIT_RES": "RIOM",
+  "ENT_POS_COD": "63200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}
+R_CHI_ENT_AUT": "Active"
+}

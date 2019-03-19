@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "533647",
+  "ENT_NAM": "NF MONEY LTD",
+  "ENT_NAM_COM": "Ipagoo",
+  "ENT_ADD": [
+    "One Aldgate",
+    "3rd Floor"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC3N 1RE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-10-03"
+  ]
+}

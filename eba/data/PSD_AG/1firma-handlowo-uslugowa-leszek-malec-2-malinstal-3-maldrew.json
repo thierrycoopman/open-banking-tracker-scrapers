@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5092",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5092",
+  "ENT_NAM": "1.Firma Handlowo - Usługowa Leszek Malec 2. Malinstal 3. Maldrew",
+  "ENT_ADD": "Bytkowska 34, Urbanowice, 47-270, PL",
+  "ENT_TOW_CIT_RES": "Urbanowice",
+  "ENT_POS_COD": "47-270",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

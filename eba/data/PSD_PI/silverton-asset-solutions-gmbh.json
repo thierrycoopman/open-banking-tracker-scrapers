@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!147168",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "147168",
+  "ENT_NAM": "Silverton Asset Solutions GmbH",
+  "ENT_ADD": "Neue Mainzer Straße 20 | 60311 Frankfurt am Main",
+  "ENT_TOW_CIT_RES": "Frankfurt am Main",
+  "ENT_POS_COD": "60311",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-06-20"
+  ]
+}

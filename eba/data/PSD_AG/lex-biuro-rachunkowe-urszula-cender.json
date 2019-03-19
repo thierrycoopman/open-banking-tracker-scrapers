@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6059",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6059",
+  "ENT_NAM": "Lex Biuro Rachunkowe Urszula Cender",
+  "ENT_ADD": "Radomska 36, Szyd3owiec, 26-500, PL",
+  "ENT_TOW_CIT_RES": "Szyd3owiec",
+  "ENT_POS_COD": "26-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

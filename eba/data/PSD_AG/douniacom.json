@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!811079_AG8500",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG811079",
+  "ENT_NAM": "Douniacom",
+  "ENT_ADD": "76 Rue Du Landy",
+  "ENT_TOW_CIT_RES": "Aubervilliers",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

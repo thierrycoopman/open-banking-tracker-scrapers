@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6631676365",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6631676365",
+  "ENT_NAM": "Firma Handlowo-Usługowa Kozdroń Katarzyna",
+  "ENT_ADD": "Apteczna 12A, Skarżysko-Kamienna, 26-110, PL",
+  "ENT_TOW_CIT_RES": "Skarżysko-Kamienna",
+  "ENT_POS_COD": "26-110",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-01-25"
+  ]
+}

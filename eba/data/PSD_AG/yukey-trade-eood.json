@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!201275250",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201275250",
+  "ENT_NAM": [
+    "Юкей Трейд ЕООД",
+    "Yukey Trade EOOD"
+  ],
+  "ENT_ADD": "10 Srednogorsko shose str.",
+  "ENT_TOW_CIT_RES": "Stara Zagora",
+  "ENT_POS_COD": "6000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

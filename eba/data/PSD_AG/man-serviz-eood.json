@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!121546929",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "121546929",
+  "ENT_NAM": [
+    "Ман Сервиз ЕООД",
+    "Man Serviz EOOD"
+  ],
+  "ENT_ADD": "9 5-ta str., zh.k. Vrazhdebna, Kremikovtsi dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1839",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

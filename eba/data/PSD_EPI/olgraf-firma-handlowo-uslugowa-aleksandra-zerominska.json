@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7321354231",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7321354231",
+  "ENT_NAM": "OLGRAF Firma Handlowo-Usługowa Aleksandra Żeromińska",
+  "ENT_ADD": "T. Boya - Żeleńskiego 23B, Zgierz, 95-100, PL",
+  "ENT_TOW_CIT_RES": "Zgierz",
+  "ENT_POS_COD": "95-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-16",
+    "2018-12-31"
+  ]
+}

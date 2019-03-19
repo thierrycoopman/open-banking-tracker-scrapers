@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!750771_AG5239",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG750771",
+  "ENT_NAM": "Luay Atta Alani",
+  "ENT_ADD": "Gosta Berlings Gatan 32",
+  "ENT_TOW_CIT_RES": "Hisings Backa",
+  "ENT_POS_COD": "42248",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

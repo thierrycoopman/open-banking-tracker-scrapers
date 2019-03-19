@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!608539_AG2890",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG608539",
+  "ENT_NAM": "Caminiti Gaetano",
+  "ENT_ADD": "Via Nazionale trav. H36",
+  "ENT_TOW_CIT_RES": "Pellaro",
+  "ENT_POS_COD": "89100",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

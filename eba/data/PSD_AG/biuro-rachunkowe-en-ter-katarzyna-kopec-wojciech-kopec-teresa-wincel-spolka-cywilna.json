@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!8397",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8397",
+  "ENT_NAM": "Biuro Rachunkowe EN-TER Katarzyna Kopeć, Wojciech Kopeć, Teresa Wincel spółka cywilna",
+  "ENT_ADD": "Pułtuska 64, Serock, 05-140, PL",
+  "ENT_TOW_CIT_RES": "Serock",
+  "ENT_POS_COD": "05-140",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

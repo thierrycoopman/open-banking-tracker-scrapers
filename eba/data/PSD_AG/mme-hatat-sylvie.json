@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56439",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "509847737",
+  "ENT_NAM": "Mme HATAT Sylvie",
+  "ENT_ADD": [
+    "20 av Charles de Gaulle",
+    "Centre commercial de la forêt"
+  ],
+  "ENT_TOW_CIT_RES": "MONTGERON",
+  "ENT_POS_COD": "91230",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

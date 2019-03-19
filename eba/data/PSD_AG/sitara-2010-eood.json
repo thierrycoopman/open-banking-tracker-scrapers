@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201316081",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201316081",
+  "ENT_NAM": [
+    "Ситара - 2010 ЕООД",
+    "Sitara - 2010 EOOD"
+  ],
+  "ENT_ADD": "5 Zdravets str.",
+  "ENT_TOW_CIT_RES": "Elhovo",
+  "ENT_POS_COD": "8700",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

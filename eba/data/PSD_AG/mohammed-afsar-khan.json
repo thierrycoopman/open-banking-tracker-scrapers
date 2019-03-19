@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581042_AG1638",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581042",
+  "ENT_NAM": "Mohammed Afsar Khan",
+  "ENT_ADD": [
+    "Flat",
+    "53-57 Raven Row"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 2EG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

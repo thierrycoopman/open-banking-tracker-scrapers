@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8131623467",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8131623467",
+  "ENT_NAM": "Kantor Wymiany Walut \"WE-BA\" Barbara Werelusz",
+  "ENT_ADD": "-  , Krasne 20 A, 36--007, PL",
+  "ENT_TOW_CIT_RES": "Krasne 20 A",
+  "ENT_POS_COD": "36--007",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-04-18"
+  ]
+}

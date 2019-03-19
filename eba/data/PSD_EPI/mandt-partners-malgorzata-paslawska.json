@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6262684706",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6262684706",
+  "ENT_NAM": "M&T Partners Małgorzata Pasławska",
+  "ENT_ADD": "Stanisława Żółkiewskiego 7, Bytom, 41-902, PL",
+  "ENT_TOW_CIT_RES": "Bytom",
+  "ENT_POS_COD": "41-902",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-07-30",
+    "2018-08-13"
+  ]
+}

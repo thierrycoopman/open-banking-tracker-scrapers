@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!506109_AG3",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG506109",
+  "ENT_NAM": "Nyame Bekyere",
+  "ENT_ADD": "17 Electric Lane",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW9 8LA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}

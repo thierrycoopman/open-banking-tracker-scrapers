@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!768958_AG1608",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG768958",
+  "ENT_NAM": "Leicester Unique Services Limited",
+  "ENT_ADD": "4 Dronfield Street",
+  "ENT_TOW_CIT_RES": "Leicester",
+  "ENT_POS_COD": "LE5 5AS",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

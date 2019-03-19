@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!801500_AG2038",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG801500",
+  "ENT_NAM": "Napoleon Ansha Djan",
+  "ENT_ADD": "340 St. Albans Road",
+  "ENT_TOW_CIT_RES": "Watford",
+  "ENT_POS_COD": "WD24 6PQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

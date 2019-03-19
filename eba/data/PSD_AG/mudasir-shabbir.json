@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!663370_AG408",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG663370",
+  "ENT_NAM": "Mudasir Shabbir",
+  "ENT_ADD": "Via Dei Mille 3",
+  "ENT_TOW_CIT_RES": "Brescia",
+  "ENT_POS_COD": "2512 1",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7145",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7145",
+  "ENT_NAM": "Maria Kuczaj Sklep Ogólnospożywczy M.W. Kuczaj S.C.",
+  "ENT_ADD": "Poręba Wielka 273, Niedźwiedź, 34-735, PL",
+  "ENT_TOW_CIT_RES": "Niedźwiedź",
+  "ENT_POS_COD": "34-735",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

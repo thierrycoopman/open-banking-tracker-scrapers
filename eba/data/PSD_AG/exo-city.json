@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!529829_AG343",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG529829",
+  "ENT_NAM": "EXO CITY",
+  "ENT_ADD": "15 Rue Jean Jaures",
+  "ENT_TOW_CIT_RES": "Cannes",
+  "ENT_POS_COD": "06 400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

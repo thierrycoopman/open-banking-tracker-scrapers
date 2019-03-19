@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!782011_AG1763",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG782011",
+  "ENT_NAM": "Cool SRL",
+  "ENT_ADD": "Via Achille Zezon 10",
+  "ENT_TOW_CIT_RES": "Milano",
+  "ENT_POS_COD": "20124",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!69800",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "510456940",
+  "ENT_NAM": "M. XIAO Jinfeng",
+  "ENT_ADD": [
+    "4 Avenue Laurent Cély angle",
+    "Avenue des Grésillons"
+  ],
+  "ENT_TOW_CIT_RES": "ASNIERES SUR SEINE",
+  "ENT_POS_COD": "92600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

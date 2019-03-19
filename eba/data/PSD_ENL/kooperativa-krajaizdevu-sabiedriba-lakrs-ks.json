@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!213",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "50003611111",
+  "ENT_NAM": "Kooperatīvā krājaizdevu sabiedrība \"LAKRS KS\"",
+  "ENT_NAM_COM": "LAKRS KS",
+  "ENT_ADD": "Bruņinieku iela 29/31-503",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1001",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2012-12-04"
+  ]
+}

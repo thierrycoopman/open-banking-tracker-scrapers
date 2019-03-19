@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6421040313",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6421040313",
+  "ENT_NAM": "Rzeszut Franciszek",
+  "ENT_ADD": "Hallera 6, Rybnik, 44-200, PL",
+  "ENT_TOW_CIT_RES": "Rybnik",
+  "ENT_POS_COD": "44-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-16"
+  ]
+}

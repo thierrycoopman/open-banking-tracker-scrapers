@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!509149_AG7",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG509149",
+  "ENT_NAM": "Ingrid Rothemund",
+  "ENT_ADD": "Orleansplatz 11",
+  "ENT_TOW_CIT_RES": "Muenchen",
+  "ENT_POS_COD": "81 667",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

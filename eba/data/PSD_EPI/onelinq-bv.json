@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R132888",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R132888",
+  "ENT_NAM": "Onelinq B.V.",
+  "ENT_NAM_COM": "Onelinq B.V.",
+  "ENT_ADD": "Euclideslaan 1",
+  "ENT_TOW_CIT_RES": "UTRECHT",
+  "ENT_POS_COD": "3584 BL",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

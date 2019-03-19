@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8860022614",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8860022614",
+  "ENT_NAM": "Filipowski Zbigniew Przedsiębiorstwo Produkcyjno-Handlowo-Usługowe \"SATTOM\"",
+  "ENT_ADD": "pl. Niepodległości 24, Mieroszów, 58-350, PL",
+  "ENT_TOW_CIT_RES": "Mieroszów",
+  "ENT_POS_COD": "58-350",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-04-16"
+  ]
+}

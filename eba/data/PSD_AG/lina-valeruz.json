@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!554906_AG129",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG554906",
+  "ENT_NAM": "Lina Valeruz",
+  "ENT_ADD": "Via Zanardelli 96",
+  "ENT_TOW_CIT_RES": "Carpenedolo",
+  "ENT_POS_COD": "250 13",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

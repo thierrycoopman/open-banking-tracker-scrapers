@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!829618_AG10261",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829618",
+  "ENT_NAM": "David Etienne Francillonne",
+  "ENT_ADD": "9 Lotissement Yarde Chemin De La Levee",
+  "ENT_TOW_CIT_RES": "Matoury",
+  "ENT_POS_COD": "97351",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

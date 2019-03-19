@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6471007996",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6471007996",
+  "ENT_NAM": "PIKO Zakład Usługowo-Handlowy Elektroniki mgr Piotr Koterba",
+  "ENT_ADD": "Osiedle Orłowiec 20, Rydułtowy, 44-280, PL",
+  "ENT_TOW_CIT_RES": "Rydułtowy",
+  "ENT_POS_COD": "44-280",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14"
+  ]
+}

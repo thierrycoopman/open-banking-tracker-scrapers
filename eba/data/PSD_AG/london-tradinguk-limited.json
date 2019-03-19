@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!801483_AG2037",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG801483",
+  "ENT_NAM": "LONDON TRADING(UK) LIMITED",
+  "ENT_ADD": "259 Bethnal Green Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E2 6AH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

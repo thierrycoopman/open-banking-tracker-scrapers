@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!196",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "196",
+  "ENT_NAM": "MKLUX Marta Kozłowska",
+  "ENT_ADD": "os. Osiedle Książąt Mazowieckich 4/20, Mława, 06-500, PL",
+  "ENT_TOW_CIT_RES": "Mława",
+  "ENT_POS_COD": "06-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

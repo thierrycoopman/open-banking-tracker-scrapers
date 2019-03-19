@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!674728_AG429",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG674728",
+  "ENT_NAM": "Mudassar Sultan S.l",
+  "ENT_ADD": [
+    "ZAPATERIA, L'HOSPITALET DE LLOBREGAT",
+    "LOCAL 1",
+    "CARRER DE LA PRIMAVERA 43"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

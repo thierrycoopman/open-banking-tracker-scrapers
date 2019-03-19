@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!776198_AG6266",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG776198",
+  "ENT_NAM": "Mm and Cv Cosmetiques",
+  "ENT_ADD": "23 Avenue De L Urss",
+  "ENT_TOW_CIT_RES": "Toulouse",
+  "ENT_POS_COD": "31400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

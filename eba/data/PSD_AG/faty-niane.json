@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!823584_AG1000",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG823584",
+  "ENT_NAM": "Faty Niane",
+  "ENT_ADD": "Calle Mayor 8 Bajo",
+  "ENT_TOW_CIT_RES": "Montblanc",
+  "ENT_POS_COD": "43400",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

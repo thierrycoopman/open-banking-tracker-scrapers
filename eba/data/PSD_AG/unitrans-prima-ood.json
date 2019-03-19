@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!130065364",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "130065364",
+  "ENT_NAM": [
+    "Унитранс Прима ООД",
+    "Unitrans Prima OOD"
+  ],
+  "ENT_ADD": "3A 165-ta str., fl. 6, Izgrev dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1172",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

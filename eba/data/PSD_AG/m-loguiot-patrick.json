@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73797",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "398839480",
+  "ENT_NAM": "M. LOGUIOT Patrick",
+  "ENT_ADD": "3 Chemin de Bordeneuve",
+  "ENT_TOW_CIT_RES": "TOURNEFEUILLE",
+  "ENT_POS_COD": "31170",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

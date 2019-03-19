@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62586",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "794318121",
+  "ENT_NAM": "LE PHOENIX",
+  "ENT_ADD": "79 Rue Edouard Manet Bât B",
+  "ENT_TOW_CIT_RES": "BEZIERS",
+  "ENT_POS_COD": "34500",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

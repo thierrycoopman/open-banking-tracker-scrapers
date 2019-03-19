@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64867",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "751567025",
+  "ENT_NAM": "M. DELMAS Boris",
+  "ENT_ADD": "5 Place de l'Esplanade",
+  "ENT_TOW_CIT_RES": "MONTGISCARD",
+  "ENT_POS_COD": "31450",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

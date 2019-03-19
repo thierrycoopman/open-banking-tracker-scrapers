@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!519872_AG228",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG519872",
+  "ENT_NAM": "NAIMA KASSABI EPOUSE MAHTI",
+  "ENT_ADD": [
+    "LE PELE MELE LOT 12",
+    "451BD DE L EUROPE"
+  ],
+  "ENT_TOW_CIT_RES": "LA SEYNE SUR MER",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

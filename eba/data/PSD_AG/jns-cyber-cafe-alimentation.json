@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!791654_AG7099",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG791654",
+  "ENT_NAM": "Jns Cyber Cafe Alimentation",
+  "ENT_ADD": "4 Passage Montgallet",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75012",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!798201",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "798201",
+  "ENT_NAM": "Currenxie UK Limited",
+  "ENT_ADD": "3 Beeston Place",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW1W 0JJ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-06-14"
+  ]
+}

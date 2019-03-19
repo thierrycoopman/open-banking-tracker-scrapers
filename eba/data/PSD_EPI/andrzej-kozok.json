@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6261755841",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6261755841",
+  "ENT_NAM": "Andrzej Kozok",
+  "ENT_ADD": "Kużaja 57, Radzionków, 41-922, PL",
+  "ENT_TOW_CIT_RES": "Radzionków",
+  "ENT_POS_COD": "41-922",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-25"
+  ]
+}

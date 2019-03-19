@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204079495",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204079495",
+  "ENT_NAM": [
+    "Ди енд Би 2016 ЕООД",
+    "DI & BI 2016 EOOD"
+  ],
+  "ENT_ADD": "26 Pirin str.",
+  "ENT_TOW_CIT_RES": "Kornitsa village",
+  "ENT_POS_COD": "2970",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

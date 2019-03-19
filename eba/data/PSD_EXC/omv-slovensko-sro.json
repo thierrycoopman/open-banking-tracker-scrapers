@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "SK_NBS",
+  "EntityCode": "PSD_EXC!SK_NBS!00604381",
+  "EntityType": "PSD_EXC",
+  "ENT_NAT_REF_COD": "00604381",
+  "ENT_NAM": "OMV Slovensko, s.r.o.",
+  "ENT_ADD": "Einsteinova 25",
+  "ENT_TOW_CIT_RES": "Bratislava",
+  "ENT_POS_COD": "85101",
+  "ENT_COU_RES": "SK",
+  "ENT_AUT": [
+    "2018-07-13"
+  ],
+  "ENT_EXC": "EXCL_102",
+  "ENT_DES_ACT_EXC_SCP": "OMV je vydavateľom OMV karty s funkciou ROUTEX k produktom/tovarom a službám vzťahujúcim sa výlučne k \"prevádzke motorového vozidla\". "
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5832859681!62",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "62",
+  "ENT_NAM": "„JOKER” L. WILCZEK SPÓŁKA JAWNA",
+  "ENT_ADD": "Rydla 50I/U1 50I/U1, Szczecin, 70-783, PL",
+  "ENT_TOW_CIT_RES": "Szczecin",
+  "ENT_POS_COD": "70-783",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5832859681",
+  "DER_CHI_ENT_AUT": "Active"
+}

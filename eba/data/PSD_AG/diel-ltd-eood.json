@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!823077024",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "823077024",
+  "ENT_NAM": [
+    "Диел ЕООД",
+    "Diel Ltd EOOD"
+  ],
+  "ENT_ADD": "Krakra str., build 65, entr. A, app. 11",
+  "ENT_TOW_CIT_RES": "Pernik",
+  "ENT_POS_COD": "2300",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

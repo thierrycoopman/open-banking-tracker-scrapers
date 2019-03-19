@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1348",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1348",
+  "ENT_NAM": "FIRMA HANDLOWO-USŁUGOWA ,,PAT-MAR\" KATARZYNA SZEWCZYK",
+  "ENT_ADD": "Długa 2A, Korzybie, 77-230, PL",
+  "ENT_TOW_CIT_RES": "Korzybie",
+  "ENT_POS_COD": "77-230",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

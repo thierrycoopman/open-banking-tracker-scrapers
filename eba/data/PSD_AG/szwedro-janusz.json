@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3649",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3649",
+  "ENT_NAM": "SZWEDRO JANUSZ",
+  "ENT_ADD": "Powstańców Śląskich 74, Jastrzębie-zdrój, 44-268, PL",
+  "ENT_TOW_CIT_RES": "Jastrzębie-zdrój",
+  "ENT_POS_COD": "44-268",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!776267_AG6272",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG776267",
+  "ENT_NAM": "Ealing Hair And Beauty Limited",
+  "ENT_ADD": [
+    "West Ealing",
+    "60 Broadway"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W13 0SU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

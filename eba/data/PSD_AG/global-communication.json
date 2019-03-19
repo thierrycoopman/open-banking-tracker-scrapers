@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!801421_AG7700",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG801421",
+  "ENT_NAM": "Global Communication",
+  "ENT_ADD": "36 Rue Auguste Blanqui",
+  "ENT_TOW_CIT_RES": "Choisy Le Roi",
+  "ENT_POS_COD": "Ile de France",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

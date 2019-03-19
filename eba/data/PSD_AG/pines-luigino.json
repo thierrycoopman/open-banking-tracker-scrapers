@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!674466_AG1015",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG674466",
+  "ENT_NAM": "Pines Luigino",
+  "ENT_ADD": [
+    "Via Roma 34",
+    "San Giorgio Di Nogaro"
+  ],
+  "ENT_TOW_CIT_RES": "Udine",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

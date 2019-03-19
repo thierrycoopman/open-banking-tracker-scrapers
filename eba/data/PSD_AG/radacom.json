@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!663215_AG3777",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG663215",
+  "ENT_NAM": "Rada.Com",
+  "ENT_ADD": "2 Place Nelson Mandela",
+  "ENT_TOW_CIT_RES": "Sevran",
+  "ENT_POS_COD": "93 270",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!16950",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "341891653",
+  "ENT_NAM": "Crédit moderne Antilles Guyane",
+  "ENT_NAM_COM": "PI Commercial Name (Not Specified)",
+  "ENT_ADD": [
+    "Z.I. Jarry",
+    "Rue René Rabat"
+  ],
+  "ENT_TOW_CIT_RES": "BAIE MAHAULT",
+  "ENT_POS_COD": "97122",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2014-07-03"
+  ]
+}

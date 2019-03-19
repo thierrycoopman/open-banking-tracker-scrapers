@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "PSD_PI!LU_CSSF!Z00000006!FR",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "Olky Payment Service Provider S.A., succursale de France",
+  "ENT_ADD": "19, rue Lesdiguières",
+  "ENT_TOW_CIT_RES": "Grenoble",
+  "ENT_POS_COD": "38000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "LU_CSSF!Z00000006",
+  "DER_CHI_ENT_AUT": "Active"
+}

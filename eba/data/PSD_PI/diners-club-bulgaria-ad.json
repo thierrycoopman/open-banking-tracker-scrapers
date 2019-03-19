@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "BG_BNB!121230735",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "121230735",
+  "ENT_NAM": [
+    "Дайнърс клуб България АД",
+    "Diners Club Bulgaria AD"
+  ],
+  "ENT_ADD": "81G Bulgaria blvd., Triaditsa dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1404",
+  "ENT_COU_RES": "BG",
+  "ENT_AUT": [
+    "2010-06-03"
+  ]
+}

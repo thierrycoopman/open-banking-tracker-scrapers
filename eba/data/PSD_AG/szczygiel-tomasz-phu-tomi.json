@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1040",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1040",
+  "ENT_NAM": "SZCZYGIEŁ Tomasz - P.H.U. TOMI",
+  "ENT_ADD": "Strażacka 7, Zalesie Śląskie, 47-150, PL",
+  "ENT_TOW_CIT_RES": "Zalesie Śląskie",
+  "ENT_POS_COD": "47-150",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

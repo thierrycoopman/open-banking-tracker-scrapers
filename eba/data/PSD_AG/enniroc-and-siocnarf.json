@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76973",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "813197282",
+  "ENT_NAM": "ENNIROC & SIOCNARF",
+  "ENT_ADD": "2 place de la Cohue Collinée",
+  "ENT_TOW_CIT_RES": "LE MENE",
+  "ENT_POS_COD": "22330",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

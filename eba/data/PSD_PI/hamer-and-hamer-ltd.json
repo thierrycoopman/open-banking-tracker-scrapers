@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!790754",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "790754",
+  "ENT_NAM": "Hamer and Hamer Ltd",
+  "ENT_ADD": [
+    "Mayfair",
+    "17 Hanover Square"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W1S 1BN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-03-05"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!755799_AG428",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG755799",
+  "ENT_NAM": "the travel centre limited",
+  "ENT_ADD": "128 North Street",
+  "ENT_TOW_CIT_RES": "Keighley",
+  "ENT_POS_COD": "BD21 3AL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

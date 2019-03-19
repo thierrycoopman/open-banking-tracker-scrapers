@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!625981_AG3344",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG625981",
+  "ENT_NAM": "Swaran Kapoor",
+  "ENT_ADD": "Schanzstrasse 16",
+  "ENT_TOW_CIT_RES": "Friedrichshafen",
+  "ENT_POS_COD": "8804 5",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

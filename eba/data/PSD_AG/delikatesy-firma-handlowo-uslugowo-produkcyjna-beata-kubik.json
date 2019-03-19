@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2393",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2393",
+  "ENT_NAM": "\"DELIKATESY\" Firma Handlowo - Usługowo - Produkcyjna Beata Kubik",
+  "ENT_ADD": "gen. Grota - Roweckiego 7/5, Bytom, 41-907, PL",
+  "ENT_TOW_CIT_RES": "Bytom",
+  "ENT_POS_COD": "41-907",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

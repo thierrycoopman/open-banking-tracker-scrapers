@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5263",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5263",
+  "ENT_NAM": "ATA Krzysztof Walicki",
+  "ENT_ADD": "Witolińska 5/91, Warszawa, 04-186, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "04-186",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!547189_AG832",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG547189",
+  "ENT_NAM": "Ahmed-Hassan-El-Mhamadi Elkassabi",
+  "ENT_ADD": "Corso San Pietro 18",
+  "ENT_TOW_CIT_RES": "Abbiategrasso (MI)",
+  "ENT_POS_COD": "200 81",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

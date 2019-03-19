@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!10571060",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "10571060",
+  "ENT_NAM": "Kráčalík Richard",
+  "ENT_ADD": "Zahradní čtvrť 920",
+  "ENT_TOW_CIT_RES": "Luhačovice",
+  "ENT_POS_COD": "76326",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

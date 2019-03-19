@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!346",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "346",
+  "ENT_NAM": "Firma Handlowa \"Bodex\" Kotermański Bogdan",
+  "ENT_ADD": "Józefa Piłsudskiego 26/1, Police, 72-010, PL",
+  "ENT_TOW_CIT_RES": "Police",
+  "ENT_POS_COD": "72-010",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

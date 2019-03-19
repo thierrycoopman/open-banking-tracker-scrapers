@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!697069_AG4157",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG697069",
+  "ENT_NAM": "Arnold Kavichandran Duraisingham",
+  "ENT_ADD": "Ground floor 17 High Street",
+  "ENT_TOW_CIT_RES": "Margate",
+  "ENT_POS_COD": "CT9 1DL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

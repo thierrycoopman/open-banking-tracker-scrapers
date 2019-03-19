@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!718978_AG4521",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG718978",
+  "ENT_NAM": "Heiam Simsek",
+  "ENT_ADD": "Muensterstrasse 62",
+  "ENT_TOW_CIT_RES": "Luenen",
+  "ENT_POS_COD": "4453 4",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!604379_AG777",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG604379",
+  "ENT_NAM": "Mohammed Delwar Hossain",
+  "ENT_ADD": "23 Iddesleigh Road",
+  "ENT_TOW_CIT_RES": "Bedford",
+  "ENT_POS_COD": "MK40 4LN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

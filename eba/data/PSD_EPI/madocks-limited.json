@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!631398",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "631398",
+  "ENT_NAM": "Madocks Limited",
+  "ENT_ADD": "24 North Audley Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W1K 6WD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2014-12-22"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3120",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3120",
+  "ENT_NAM": "Sklep Ogólnospo?ywczy Szymon Str1k,Damaris Str1k Spó3ka Cywlina",
+  "ENT_ADD": "Wyzwolenia 157, Dzia3oszyn, 98-355, PL",
+  "ENT_TOW_CIT_RES": "Dzia3oszyn",
+  "ENT_POS_COD": "98-355",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

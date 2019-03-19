@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "SK_NBS",
+  "EntityCode": "PSD_EXC!SK_NBS!36054259",
+  "EntityType": "PSD_EXC",
+  "ENT_NAT_REF_COD": "36054259",
+  "ENT_NAM": "Slovenská autobusová doprava Lučenec, akciová spoločnosť",
+  "ENT_ADD": "Mikušovská cesta 17",
+  "ENT_TOW_CIT_RES": "Lučenec",
+  "ENT_POS_COD": "98401",
+  "ENT_COU_RES": "SK",
+  "ENT_AUT": [
+    "2018-07-13"
+  ],
+  "ENT_EXC": "EXCL_102",
+  "ENT_DES_ACT_EXC_SCP": "Spoločnosť vydáva dopravné karty, ktorými zákazník platí cestovné v autobusoch spoločnosti. Dopravné karty sú platobným prostriedkom, na ktorých je uchovávaná majetková hodnota v podobe dopravnej peňaženky elektronicky (peniaze ). Platba dopravnou kartou je možná len v obmedzenej sieti (výlučne v informačných kanceláriách a autobusoch dopravcu - Slovenská autobusová doprava Lučenec, a.s.). Dopravná karta sa môže použiť len na nákup služby (doprava)."
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!809440",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "809440",
+  "ENT_NAM": "Quick File Ltd",
+  "ENT_ADD": "219 Kensington High Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W8 6BD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-09-04"
+  ]
+}

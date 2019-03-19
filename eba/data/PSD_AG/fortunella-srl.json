@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!577037_AG127",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG577037",
+  "ENT_NAM": "Fortunella SRL",
+  "ENT_ADD": "Via Bernardo Matterella 169",
+  "ENT_TOW_CIT_RES": "Baheria",
+  "ENT_POS_COD": "90 011",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

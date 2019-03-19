@@ -1,0 +1,21 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!574477",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "574477",
+  "ENT_NAM": "Minas Center Limited",
+  "ENT_NAM_COM": [
+    "Minas Transfer",
+    "Minas International Payment Institution (MIPI)"
+  ],
+  "ENT_ADD": [
+    "Unit 4",
+    "Station Offices, Station Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW10 4XA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-06-01"
+  ]
+}

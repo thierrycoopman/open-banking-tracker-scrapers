@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64556",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "420501066",
+  "ENT_NAM": "M. FONTAINE Jean-Luc",
+  "ENT_ADD": "17 rue Jean jaurès",
+  "ENT_TOW_CIT_RES": "ROOST WARENDIN",
+  "ENT_POS_COD": "59286",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

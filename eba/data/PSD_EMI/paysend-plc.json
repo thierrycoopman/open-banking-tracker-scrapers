@@ -1,0 +1,22 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900004",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900004",
+  "ENT_NAM": "PaySend PLC",
+  "ENT_NAM_COM": [
+    "Paywizard",
+    "PaySend PLC",
+    "PaySend"
+  ],
+  "ENT_ADD": [
+    "John Smith Business Park",
+    "Cluny Court"
+  ],
+  "ENT_TOW_CIT_RES": "Kirkcaldy",
+  "ENT_POS_COD": "KY26QJ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-02-02"
+  ]
+}

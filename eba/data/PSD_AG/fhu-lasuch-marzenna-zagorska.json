@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1944",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1944",
+  "ENT_NAM": "FHU Łasuch Marzenna Zagórska",
+  "ENT_ADD": "Ks.Sychty 1, Puck, 84-100, PL",
+  "ENT_TOW_CIT_RES": "Puck",
+  "ENT_POS_COD": "84-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

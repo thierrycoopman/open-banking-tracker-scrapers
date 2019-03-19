@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0038",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0038",
+  "ENT_NAM": "Mollie B.V.",
+  "ENT_NAM_COM": "Mollie B.V./PAYTOR",
+  "ENT_ADD": "Keizersgracht 313",
+  "ENT_TOW_CIT_RES": "AMSTERDAM",
+  "ENT_POS_COD": "1016EE",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

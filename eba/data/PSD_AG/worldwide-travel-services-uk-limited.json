@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!688784_AG458",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG688784",
+  "ENT_NAM": "Worldwide Travel Services UK Limited",
+  "ENT_ADD": "166 Totteridge Road",
+  "ENT_TOW_CIT_RES": "High Wycombe",
+  "ENT_POS_COD": "HP13 7LB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

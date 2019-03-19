@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75956",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "479000374",
+  "ENT_NAM": "E-CENTER",
+  "ENT_ADD": [
+    "16 rue Victore Maurasse - ",
+    "Marigot"
+  ],
+  "ENT_TOW_CIT_RES": "ST MARTIN",
+  "ENT_POS_COD": "97150",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

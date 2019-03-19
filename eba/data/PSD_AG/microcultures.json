@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!73705",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "530733708",
+  "ENT_NAM": "MICROCULTURES",
+  "ENT_ADD": "1 Rue Pierre Blanchet",
+  "ENT_TOW_CIT_RES": "POITIERS",
+  "ENT_POS_COD": "86000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

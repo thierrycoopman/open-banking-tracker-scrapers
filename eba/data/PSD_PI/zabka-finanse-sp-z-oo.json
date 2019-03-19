@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7831688238",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "7831688238",
+  "ENT_NAM": "Żabka Finanse Sp. z o.o.",
+  "ENT_ADD": "Plac Andersa 7, Poznań, 61-894, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-894",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-05-27",
+    "2018-08-29"
+  ]
+}

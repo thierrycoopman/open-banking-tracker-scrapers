@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201687346",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201687346",
+  "ENT_NAM": [
+    "Синема Сървисиз ООД",
+    "Cinema Services OOD"
+  ],
+  "ENT_ADD": "24 Tsarigradsko shose blvd., office 4 (next to entr. V), build. 22, Izgrev dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1113",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

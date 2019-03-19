@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6311653322",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6311653322",
+  "ENT_NAM": "\"Human\" Magdalena Toruń",
+  "ENT_ADD": "Dolnej Wsi 129, Gliwice, 44-100, PL",
+  "ENT_TOW_CIT_RES": "Gliwice",
+  "ENT_POS_COD": "44-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-09-28",
+    "2019-02-19"
+  ]
+}

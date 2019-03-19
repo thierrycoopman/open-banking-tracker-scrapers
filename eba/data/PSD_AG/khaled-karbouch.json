@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!813502_AG8771",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG813502",
+  "ENT_NAM": "Khaled Karbouch",
+  "ENT_ADD": "Poesigatan 20 B",
+  "ENT_TOW_CIT_RES": "Orebro",
+  "ENT_POS_COD": "70371",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

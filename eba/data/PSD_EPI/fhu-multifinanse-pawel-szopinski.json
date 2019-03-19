@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6112399878",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6112399878",
+  "ENT_NAM": "FHU MULTIFINANSE Paweł Szopiński",
+  "ENT_ADD": "Muzealna 9B/15, Jelenia Góra, 58-500 , PL",
+  "ENT_TOW_CIT_RES": "Jelenia Góra",
+  "ENT_POS_COD": "58-500 ",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-08-01"
+  ]
+}

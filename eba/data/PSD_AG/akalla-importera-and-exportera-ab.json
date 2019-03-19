@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!808909_AG8283",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808909",
+  "ENT_NAM": "Akalla Importera and Exportera AB",
+  "ENT_ADD": "Sibeliusgangen 22 D",
+  "ENT_TOW_CIT_RES": "Kista",
+  "ENT_POS_COD": "16477",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

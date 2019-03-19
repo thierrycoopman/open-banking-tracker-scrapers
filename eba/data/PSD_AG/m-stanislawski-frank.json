@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64580",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "393223466",
+  "ENT_NAM": "M. STANISLAWSKI Frank",
+  "ENT_ADD": "12 Avenue Emile Zola",
+  "ENT_TOW_CIT_RES": "GREASQUE",
+  "ENT_POS_COD": "13850",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

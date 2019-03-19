@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!11824",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "489581769",
+  "ENT_NAM": "Prioris",
+  "ENT_NAM_COM": "AUTOSPHERE",
+  "ENT_ADD": "69 avenue de Flandre",
+  "ENT_TOW_CIT_RES": "MARCQ EN BAROEUL",
+  "ENT_POS_COD": "59700",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2014-09-08"
+  ]
+}

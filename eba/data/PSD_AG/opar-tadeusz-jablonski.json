@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3909",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3909",
+  "ENT_NAM": "OPAR TADEUSZ JABLONSKI",
+  "ENT_ADD": "Miszewko 19a, Chwaszczyno, 80-209, PL",
+  "ENT_TOW_CIT_RES": "Chwaszczyno",
+  "ENT_POS_COD": "80-209",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

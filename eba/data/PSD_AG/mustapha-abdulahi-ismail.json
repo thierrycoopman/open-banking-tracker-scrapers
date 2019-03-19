@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!506011_AG26",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG506011",
+  "ENT_NAM": "Mustapha Abdulahi Ismail",
+  "ENT_ADD": "151 Deptford High Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE8 3NU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

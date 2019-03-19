@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!661106_AG820",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG661106",
+  "ENT_NAM": "Mondo Idee di Dragoni Giovanna",
+  "ENT_ADD": "Via tiziano Vecellio, 10",
+  "ENT_TOW_CIT_RES": "Casaletto",
+  "ENT_POS_COD": "26 852",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

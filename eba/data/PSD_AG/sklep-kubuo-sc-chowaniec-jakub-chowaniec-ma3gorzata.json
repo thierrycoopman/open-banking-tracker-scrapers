@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6281",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6281",
+  "ENT_NAM": "Sklep \"Kubuo\" S.C., Chowaniec Jakub, Chowaniec Ma3gorzata",
+  "ENT_ADD": "Waksmundzka 80, Nowy Targ, 34-400, PL",
+  "ENT_TOW_CIT_RES": "Nowy Targ",
+  "ENT_POS_COD": "34-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

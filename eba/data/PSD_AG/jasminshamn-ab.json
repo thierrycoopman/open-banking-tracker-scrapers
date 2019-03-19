@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!808904_AG8281",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808904",
+  "ENT_NAM": "Jasminshamn AB",
+  "ENT_ADD": "Slottsgatan 11 B",
+  "ENT_TOW_CIT_RES": "Oskarshamn",
+  "ENT_POS_COD": "57242",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

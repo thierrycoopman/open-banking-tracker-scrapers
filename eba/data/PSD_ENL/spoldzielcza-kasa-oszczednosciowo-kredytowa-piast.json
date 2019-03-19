@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6461030947",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "6461030947",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa Piast",
+  "ENT_ADD": "ul. Nowokościelna 35, Tychy, 43-100, PL",
+  "ENT_TOW_CIT_RES": "Tychy",
+  "ENT_POS_COD": "43-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-07",
+    "2019-01-08"
+  ]
+}

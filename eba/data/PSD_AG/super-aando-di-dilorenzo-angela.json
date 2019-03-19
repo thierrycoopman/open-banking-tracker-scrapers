@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!629395_AG516",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG629395",
+  "ENT_NAM": "Super a&o di dilorenzo angela",
+  "ENT_ADD": "VIA BARBERINI 207,",
+  "ENT_TOW_CIT_RES": "BARLETTA (BA),",
+  "ENT_POS_COD": "761 21",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65395",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "493899678",
+  "ENT_NAM": "SNC DOSSAT",
+  "ENT_ADD": "rue Corps Franc Pommies",
+  "ENT_TOW_CIT_RES": "CASTELNAU MAGNOAC",
+  "ENT_POS_COD": "65230",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

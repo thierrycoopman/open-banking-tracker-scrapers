@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7292325763",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "7292325763",
+  "ENT_NAM": "Monetia sp. z o.o.",
+  "ENT_ADD": "Grójecka 5, Warszawa, 02-019, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-019",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-04-29"
+  ]
+}

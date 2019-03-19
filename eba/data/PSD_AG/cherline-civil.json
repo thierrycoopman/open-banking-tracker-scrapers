@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!808427_AG8220",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808427",
+  "ENT_NAM": "Cherline Civil",
+  "ENT_ADD": "1 Rue Tiburce Claudeo Boisvin",
+  "ENT_TOW_CIT_RES": "Les Abymes",
+  "ENT_POS_COD": "97139",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

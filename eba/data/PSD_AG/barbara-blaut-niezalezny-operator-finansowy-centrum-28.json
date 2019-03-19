@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!589",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "589",
+  "ENT_NAM": "BARBARA BLAUT NIEZALEŻNY OPERATOR FINANSOWY CENTRUM 28",
+  "ENT_ADD": "ul. 1 Maja 3-5., Opole, 45-068, PL",
+  "ENT_TOW_CIT_RES": "Opole",
+  "ENT_POS_COD": "45-068",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

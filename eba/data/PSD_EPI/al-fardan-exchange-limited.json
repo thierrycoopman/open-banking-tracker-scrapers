@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!727354",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "727354",
+  "ENT_NAM": "Al Fardan Exchange Limited",
+  "ENT_NAM_COM": "AFEXREMIT",
+  "ENT_ADD": [
+    "Office 200A",
+    "Falcon Drive",
+    "Regus House"
+  ],
+  "ENT_TOW_CIT_RES": "Cardiff",
+  "ENT_POS_COD": "CF10 4RU",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-03-18"
+  ]
+}

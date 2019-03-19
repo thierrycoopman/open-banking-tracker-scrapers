@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!814178_AG8853",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG814178",
+  "ENT_NAM": "Tamara Tahsin Mawlud",
+  "ENT_ADD": "Krefelder Str 19",
+  "ENT_TOW_CIT_RES": "Koeln",
+  "ENT_POS_COD": "50670",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

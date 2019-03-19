@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "LT_LT_BL_304881005",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "304881005",
+  "ENT_NAM": "ValorPay, UAB",
+  "ENT_ADD": "Lvovo str. 25-104",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "09320",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2019-02-14"
+  ]
+}

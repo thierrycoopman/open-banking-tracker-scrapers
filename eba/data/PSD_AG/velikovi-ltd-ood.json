@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!148065681",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "148065681",
+  "ENT_NAM": [
+    "Великови ООД",
+    "Velikovi  Ltd OOD"
+  ],
+  "ENT_ADD": "5V Pobeda str., fl. 3, app. 39, Beloslav municipality",
+  "ENT_TOW_CIT_RES": "Ezerovo village",
+  "ENT_POS_COD": "9168",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

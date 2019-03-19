@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5990102391",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5990102391",
+  "ENT_NAM": "EMMAR Henryka Dobrowolska Buszkiewicz",
+  "ENT_ADD": "Obotrycka 8, Gorzów Wielkopolski, 66-400, PL",
+  "ENT_TOW_CIT_RES": "Gorzów Wielkopolski",
+  "ENT_POS_COD": "66-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-06-14"
+  ]
+}

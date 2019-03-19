@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!810997_AG494",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG810997",
+  "ENT_NAM": "Juber Miah",
+  "ENT_ADD": "2 Selby Road",
+  "ENT_TOW_CIT_RES": "Maidstone",
+  "ENT_POS_COD": "ME15 9PT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

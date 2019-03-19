@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!617953_AG220",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG617953",
+  "ENT_NAM": "Wadim Schenkel",
+  "ENT_ADD": "Johann-Georg-Halske-Strasse 20",
+  "ENT_TOW_CIT_RES": "Augsburg",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

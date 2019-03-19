@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6171251226",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6171251226",
+  "ENT_NAM": "P.U. Agencja Celna \"EWA\" Nowacka Kubzdela Ewa",
+  "ENT_ADD": "Obozowa 66, Kalisz, 62-800, PL",
+  "ENT_TOW_CIT_RES": "Kalisz",
+  "ENT_POS_COD": "62-800",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14"
+  ]
+}

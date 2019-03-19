@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5541514115",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5541514115",
+  "ENT_NAM": "AGENCJA HANDLOWO - USŁUGOWA ALDONA WASIK - DICZEK",
+  "ENT_ADD": "Waryńskiego 51, Bydgoszcz, 85-320, PL",
+  "ENT_TOW_CIT_RES": "Bydgoszcz",
+  "ENT_POS_COD": "85-320",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-04-12"
+  ]
+}

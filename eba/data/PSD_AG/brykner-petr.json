@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!72044802",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "72044802",
+  "ENT_NAM": "Brykner Petr",
+  "ENT_ADD": "Hradecká 39",
+  "ENT_TOW_CIT_RES": "Přelouč",
+  "ENT_POS_COD": "53501",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

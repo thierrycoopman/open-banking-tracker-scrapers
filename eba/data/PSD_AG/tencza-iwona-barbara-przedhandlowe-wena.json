@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2436",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2436",
+  "ENT_NAM": "TENCZA IWONA BARBARA Przed.Handlowe \"Wena\"",
+  "ENT_ADD": "Wierzbowa 129/-, Gromadka, 59-706, PL",
+  "ENT_TOW_CIT_RES": "Gromadka",
+  "ENT_POS_COD": "59-706",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62337",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "478356843",
+  "ENT_NAM": "LES 2 SOKS",
+  "ENT_ADD": "126 Avenue du Général Leclerc",
+  "ENT_TOW_CIT_RES": "OZOIR LA FERRIERE",
+  "ENT_POS_COD": "77330",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

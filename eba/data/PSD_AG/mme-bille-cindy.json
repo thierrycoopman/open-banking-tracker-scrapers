@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!78541",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "511827693",
+  "ENT_NAM": "Mme BILLE Cindy",
+  "ENT_ADD": "7-9 rue des Ecoles ",
+  "ENT_TOW_CIT_RES": "LE CROISTY",
+  "ENT_POS_COD": "56540",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

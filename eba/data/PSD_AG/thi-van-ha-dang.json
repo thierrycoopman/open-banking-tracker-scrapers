@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!654058_AG3664",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG654058",
+  "ENT_NAM": "Thi Van Ha Dang",
+  "ENT_ADD": "Bahnhofsplatz 8",
+  "ENT_TOW_CIT_RES": "Oldenburg",
+  "ENT_POS_COD": "2612 2",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

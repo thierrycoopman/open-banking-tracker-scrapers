@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5621118901",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5621118901",
+  "ENT_NAM": "Biuro Usług Płatniczych. Agencja Pośrednictwa Kredytowo-Ubezpieczeniowego. Dariusz Kośmider",
+  "ENT_ADD": "Tadeusza Kościuszki 1, Trzemeszno , 62-240, PL",
+  "ENT_TOW_CIT_RES": "Trzemeszno ",
+  "ENT_POS_COD": "62-240",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-12-21",
+    "2018-10-01"
+  ]
+}

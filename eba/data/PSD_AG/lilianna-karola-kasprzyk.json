@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581457_AG1688",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581457",
+  "ENT_NAM": "Lilianna Karola Kasprzyk",
+  "ENT_ADD": "Stanislawa Malachowskiego 13",
+  "ENT_TOW_CIT_RES": "Poznan",
+  "ENT_POS_COD": "6112 9",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

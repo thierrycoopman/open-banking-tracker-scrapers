@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!55057",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "794108605",
+  "ENT_NAM": "BELKA NET",
+  "ENT_ADD": "65 RUE myrha",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75018",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}
+: "Active"
+}

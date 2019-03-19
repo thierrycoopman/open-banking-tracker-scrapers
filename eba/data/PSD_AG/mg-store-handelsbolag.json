@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!648052_AG3587",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG648052",
+  "ENT_NAM": "Mg Store Handelsbolag",
+  "ENT_ADD": "Vastra Kvarngatan 12",
+  "ENT_TOW_CIT_RES": "Nykoping",
+  "ENT_POS_COD": "6113 1",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

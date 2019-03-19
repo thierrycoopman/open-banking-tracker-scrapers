@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!587651",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "587651",
+  "ENT_NAM": "Al-Iraqia Ltd",
+  "ENT_ADD": "326 Edgware Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W2 1DY",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2013-07-04"
+  ]
+}

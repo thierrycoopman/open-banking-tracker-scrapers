@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!175258559",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "175258559",
+  "ENT_NAM": [
+    "Гранд Казино - 1 ООД",
+    "Grand Casino - 1 OOD"
+  ],
+  "ENT_ADD": "6 Mihail Tenev str., fl. 2",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1784",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

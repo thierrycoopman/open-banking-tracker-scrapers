@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9281115891",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9281115891",
+  "ENT_NAM": "Katarzyna Buś Kantor Wymiany Walut",
+  "ENT_ADD": "Plac Wolności 10, Lubsko, 68-300, PL",
+  "ENT_TOW_CIT_RES": "Lubsko",
+  "ENT_POS_COD": "68-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56710",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "390120012",
+  "ENT_NAM": "Mme CHOLLET Jacqueline",
+  "ENT_ADD": "16 avenue Gambetta",
+  "ENT_TOW_CIT_RES": "ST MAIXENT L ECOLE",
+  "ENT_POS_COD": "79400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

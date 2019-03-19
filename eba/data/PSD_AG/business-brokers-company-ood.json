@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202410135",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202410135",
+  "ENT_NAM": [
+    "Бизнес Брокърс Къмпани ООД",
+    "Business Brokers Company OOD"
+  ],
+  "ENT_ADD": "zh.k. Klutsohor 3, build. 3, entr. D, fl. 1, app. 2",
+  "ENT_TOW_CIT_RES": "Sliven",
+  "ENT_POS_COD": "8800",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!631411",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "631411",
+  "ENT_NAM": "Invapay Payment Solutions Limited",
+  "ENT_ADD": "17 Moorgate",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2R 6AR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-06-12"
+  ]
+}

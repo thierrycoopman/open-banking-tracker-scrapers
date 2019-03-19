@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6651807681",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6651807681",
+  "ENT_NAM": "Anna Bieńkowska Biuro Rachunkowości",
+  "ENT_ADD": "Margaretkowa 1/90, Konin, 62-510, PL",
+  "ENT_TOW_CIT_RES": "Konin",
+  "ENT_POS_COD": "62-510",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-06-20"
+  ]
+}

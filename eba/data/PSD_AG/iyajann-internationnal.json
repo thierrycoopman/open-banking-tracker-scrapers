@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!555220_AG1044",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG555220",
+  "ENT_NAM": "Iyajann Internationnal",
+  "ENT_ADD": [
+    "54-54 Bis Avenue",
+    "Paul Vaillant",
+    "Couturier"
+  ],
+  "ENT_TOW_CIT_RES": "La Courneuve",
+  "ENT_POS_COD": "93120",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

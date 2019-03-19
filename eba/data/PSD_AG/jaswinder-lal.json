@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!811694_AG943",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG811694",
+  "ENT_NAM": "Jaswinder Lal",
+  "ENT_ADD": [
+    "11 Bajo",
+    "Avinguda de Pius XII"
+  ],
+  "ENT_TOW_CIT_RES": "Vic",
+  "ENT_POS_COD": "08500",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

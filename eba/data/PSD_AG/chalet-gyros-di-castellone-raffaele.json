@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!631224_AG528",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG631224",
+  "ENT_NAM": "Chalet Gyros Di Castellone Raffaele",
+  "ENT_ADD": "Via Pgna Pigna Prolungame NTO VIA Epitaffio, SNC.",
+  "ENT_TOW_CIT_RES": "Campania",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

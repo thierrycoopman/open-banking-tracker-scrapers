@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581436_AG1671",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581436",
+  "ENT_NAM": "Ewelina Anna Jarnut",
+  "ENT_ADD": "Pionierow Lubuskich 13",
+  "ENT_TOW_CIT_RES": "Stary Kisielin",
+  "ENT_POS_COD": "6600 2",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

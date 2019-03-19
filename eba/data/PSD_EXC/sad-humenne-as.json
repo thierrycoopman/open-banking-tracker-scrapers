@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "SK_NBS",
+  "EntityCode": "PSD_EXC!SK_NBS!36477508",
+  "EntityType": "PSD_EXC",
+  "ENT_NAT_REF_COD": "36477508",
+  "ENT_NAM": "SAD Humenné, a.s.",
+  "ENT_ADD": "Fidlikova 1",
+  "ENT_TOW_CIT_RES": "Humenné",
+  "ENT_POS_COD": "06643",
+  "ENT_COU_RES": "SK",
+  "ENT_AUT": [
+    "2018-07-31"
+  ],
+  "ENT_EXC": "EXCL_102",
+  "ENT_DES_ACT_EXC_SCP": "Spoločnosť vydáva dopravné karty, ktorými zákazník platí cestovné v autobusoch SAD a v rámci zúčtovania v SR. Dopravné karty sú elektronickou peňaženkou.  Platba dopravnou kartou je možná len v obmedzenej sieti - autobusy dopravcov SAD a dopravné podniky. Dopravná karta sa môže použiť len na nákup služby (doprava)."
+}

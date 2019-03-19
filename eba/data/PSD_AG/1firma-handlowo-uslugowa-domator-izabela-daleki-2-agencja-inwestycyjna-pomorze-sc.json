@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1921",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1921",
+  "ENT_NAM": "1.FIRMA HANDLOWO-USŁUGOWA \"DOMATOR\" IZABELA DALEKI, 2. AGENCJA INWESTYCYJNA \"POMORZE\" S.C.",
+  "ENT_ADD": "Krzemowa 9, Gdańsk, 80-041, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-041",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

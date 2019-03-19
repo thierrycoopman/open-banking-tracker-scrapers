@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "ES_BE",
+  "EntityCode": "ES_BE!8832",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "8832",
+  "ENT_NAM": "BANKINTER CONSUMER FINANCE, E.F.C., S.A.",
+  "ENT_ADD": "AV DE BRUSELAS 12 ARROYO DE LA VEGA",
+  "ENT_TOW_CIT_RES": "ALCOBENDAS",
+  "ENT_POS_COD": "28108",
+  "ENT_COU_RES": "ES",
+  "ENT_AUT": [
+    "2019-03-15"
+  ]
+}

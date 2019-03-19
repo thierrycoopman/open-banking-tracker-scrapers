@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!110554305",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "110554305",
+  "ENT_NAM": [
+    "Карис Груп ЕООД",
+    "Karis Grup EOOD"
+  ],
+  "ENT_ADD": "81A Bulgaria blvd., app. 6",
+  "ENT_TOW_CIT_RES": "Lovech",
+  "ENT_POS_COD": "5500",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

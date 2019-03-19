@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "BE_NBB",
+  "EntityCode": "BE_NBB!0461328436",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "0461328436",
+  "ENT_NAM": "Imagor",
+  "ENT_ADD": "Pleinlaan 15/Boulevard de la Plaine 15",
+  "ENT_TOW_CIT_RES": "Brussel/Bruxelles",
+  "ENT_POS_COD": "1050",
+  "ENT_COU_RES": "BE",
+  "ENT_AUT": [
+    "2013-06-18"
+  ]
+}

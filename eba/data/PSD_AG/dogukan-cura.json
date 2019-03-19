@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!829772_AG10287",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829772",
+  "ENT_NAM": "Dogukan Cura",
+  "ENT_ADD": "Hansastr 9",
+  "ENT_TOW_CIT_RES": "Ahlen",
+  "ENT_POS_COD": "59229",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

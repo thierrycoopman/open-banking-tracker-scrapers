@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2387",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2387",
+  "ENT_NAM": "GABRIELA MARIA ROZWADOWSKA FIRMA HANDLOWO - USŁUGOWA \"U MARII\"",
+  "ENT_ADD": "Szczupliny 53, Rybno, 13-220, PL",
+  "ENT_TOW_CIT_RES": "Rybno",
+  "ENT_POS_COD": "13-220",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8541497306",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8541497306",
+  "ENT_NAM": "Pośrednictwo Finansowe Emilia Milewska",
+  "ENT_ADD": "Piłsudskiego 86B, Stargard Szczeciński, 73-110, PL",
+  "ENT_TOW_CIT_RES": "Stargard Szczeciński",
+  "ENT_POS_COD": "73-110",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-05-30"
+  ]
+}

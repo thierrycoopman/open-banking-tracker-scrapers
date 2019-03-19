@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8691120224",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8691120224",
+  "ENT_NAM": "PROMIS Machowski  Krzysztof",
+  "ENT_ADD": "Sobieskiego 9, Brzesko, 32-800, PL",
+  "ENT_TOW_CIT_RES": "Brzesko",
+  "ENT_POS_COD": "32-800",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-13"
+  ]
+}

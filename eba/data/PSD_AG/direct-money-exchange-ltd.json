@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!592249_AG286",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG592249",
+  "ENT_NAM": "Direct Money Exchange Ltd",
+  "ENT_ADD": [
+    "85 Caldmore Road",
+    "Unit 8"
+  ],
+  "ENT_TOW_CIT_RES": "Walsall",
+  "ENT_POS_COD": "WS1 3NR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

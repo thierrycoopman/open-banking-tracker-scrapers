@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1088",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1088",
+  "ENT_NAM": "P&P Majewski Paweł Majewski",
+  "ENT_ADD": "Marii Curie-Skłodowskiej 5 lok.37, Białystok, 15-096, PL",
+  "ENT_TOW_CIT_RES": "Białystok",
+  "ENT_POS_COD": "15-096",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

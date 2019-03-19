@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!60904",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "808925358",
+  "ENT_NAM": "EXPRESS SERVICES",
+  "ENT_ADD": "198 bld du Général Delambre",
+  "ENT_TOW_CIT_RES": "ARGENTEUIL",
+  "ENT_POS_COD": "95100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}
+_AUT": "Active"
+}

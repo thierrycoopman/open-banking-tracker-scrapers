@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!835037_AG1490",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG835037",
+  "ENT_NAM": "Lico Rosalba",
+  "ENT_ADD": "Via Ruggiero Grieco 9",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "89831",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

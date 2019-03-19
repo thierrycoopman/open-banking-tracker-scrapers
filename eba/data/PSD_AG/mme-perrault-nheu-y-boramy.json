@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72256",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "813214954",
+  "ENT_NAM": "Mme PERRAULT Nheu Y Boramy",
+  "ENT_ADD": "2 Rue Jean Mermoz",
+  "ENT_TOW_CIT_RES": "ST LOUIS",
+  "ENT_POS_COD": "68300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

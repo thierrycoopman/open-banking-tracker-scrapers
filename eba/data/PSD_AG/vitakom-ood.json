@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!110520267",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "110520267",
+  "ENT_NAM": [
+    "Витаком ООД",
+    "Vitakom OOD"
+  ],
+  "ENT_ADD": "2 Ivan Vazov str., fl. 4",
+  "ENT_TOW_CIT_RES": "Teteven",
+  "ENT_POS_COD": "5700",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

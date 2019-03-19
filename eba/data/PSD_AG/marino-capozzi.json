@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!808783_AG8267",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808783",
+  "ENT_NAM": "Marino Capozzi",
+  "ENT_ADD": "Piazza Aldo Moro 27",
+  "ENT_TOW_CIT_RES": "Sammichele Di Bari",
+  "ENT_POS_COD": "70010",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

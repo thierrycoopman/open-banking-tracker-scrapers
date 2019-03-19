@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4498",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4498",
+  "ENT_NAM": "JAKUB-BIS KRZYSZTOF JAKUBOWSKI",
+  "ENT_ADD": "Brzeska 3b, Lubsza, 49-313, PL",
+  "ENT_TOW_CIT_RES": "Lubsza",
+  "ENT_POS_COD": "49-313",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!68142820",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "68142820",
+  "ENT_NAM": "Geprt Martin",
+  "ENT_ADD": "Havlíčkova 632/14",
+  "ENT_TOW_CIT_RES": "Litovel",
+  "ENT_POS_COD": "78401",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

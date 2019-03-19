@@ -1,0 +1,23 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!530005",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "530005",
+  "ENT_NAM": "RFX Financial Services Limited",
+  "ENT_NAM_COM": [
+    "Currencywire",
+    "RacingFX",
+    "Racing FX Supercapital",
+    "Currency Wire Supercapital"
+  ],
+  "ENT_ADD": [
+    "Bewley House",
+    "Park Road"
+  ],
+  "ENT_TOW_CIT_RES": "Esher",
+  "ENT_POS_COD": "KT10 8NP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-04-20"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!663487_AG3793",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG663487",
+  "ENT_NAM": "Sritharan Piragalathan",
+  "ENT_ADD": "Belgielaan 21",
+  "ENT_TOW_CIT_RES": "Herentals",
+  "ENT_POS_COD": "22 0",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

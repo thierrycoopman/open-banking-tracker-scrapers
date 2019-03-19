@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7390105198",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7390105198",
+  "ENT_NAM": "Janusz Kondratowicz A B C",
+  "ENT_ADD": "Mazurskie Przedmieście 10, Biskupiec, 11-300, PL",
+  "ENT_TOW_CIT_RES": "Biskupiec",
+  "ENT_POS_COD": "11-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-24"
+  ]
+}

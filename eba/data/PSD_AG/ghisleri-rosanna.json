@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!627869_AG3406",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG627869",
+  "ENT_NAM": "Ghisleri Rosanna",
+  "ENT_ADD": "Piazza Europa 18",
+  "ENT_TOW_CIT_RES": "Carpenedolo",
+  "ENT_POS_COD": "25 013",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

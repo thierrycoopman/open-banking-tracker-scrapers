@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5260210429",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "5260210429",
+  "ENT_NAM": "First Data Polska S.A.",
+  "ENT_ADD": "Al. Jerozolimskie 100, Warszawa, 00-807, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-807",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-03-26"
+  ]
+}

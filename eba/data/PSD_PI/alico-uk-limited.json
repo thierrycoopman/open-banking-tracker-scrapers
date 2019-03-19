@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!535954",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "535954",
+  "ENT_NAM": "Alico (UK) Limited",
+  "ENT_NAM_COM": [
+    "Alico UK Limited 4",
+    "Alico UK Limited 1"
+  ],
+  "ENT_ADD": "383a Green Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E13 9AU",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-05-18"
+  ]
+}

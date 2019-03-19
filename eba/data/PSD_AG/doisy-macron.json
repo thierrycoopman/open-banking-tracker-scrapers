@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74371",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "445167026",
+  "ENT_NAM": "DOISY-MACRON",
+  "ENT_ADD": "2 RUE DE DOUAI",
+  "ENT_TOW_CIT_RES": "VITRY EN ARTOIS",
+  "ENT_POS_COD": "62490",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5861392530",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5861392530",
+  "ENT_NAM": "Usługi Agencyjne Usługi Biurowe Jolanta Wisłowska",
+  "ENT_ADD": "Dyrekcyjna 2/4, Gdańsk, 80-852, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-852",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-04"
+  ]
+}

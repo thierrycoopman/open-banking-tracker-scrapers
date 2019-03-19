@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76009",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "752043174",
+  "ENT_NAM": "Mme LORIN Agnès",
+  "ENT_ADD": "8 RUE DE L ARQUEBUSE",
+  "ENT_TOW_CIT_RES": "AUTUN",
+  "ENT_POS_COD": "71400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

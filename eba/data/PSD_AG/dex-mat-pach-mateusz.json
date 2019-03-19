@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5776",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5776",
+  "ENT_NAM": "Dex-Mat Pach Mateusz",
+  "ENT_ADD": "Kielecka 3, Morawica, 26-026, PL",
+  "ENT_TOW_CIT_RES": "Morawica",
+  "ENT_POS_COD": "26-026",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

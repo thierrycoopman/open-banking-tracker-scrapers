@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3816",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3816",
+  "ENT_NAM": "DAWIDOWSKI STANISŁAW SKLEP SPOŻYWCZY",
+  "ENT_ADD": "SADOWA 3, EŁK, 19-300, PL",
+  "ENT_TOW_CIT_RES": "EŁK",
+  "ENT_POS_COD": "19-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

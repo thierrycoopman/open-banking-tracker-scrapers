@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!855",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "855",
+  "ENT_NAM": "Polski Transport Ciężarowy Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Powsińska 106, Warszawa, 02-903, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-903",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

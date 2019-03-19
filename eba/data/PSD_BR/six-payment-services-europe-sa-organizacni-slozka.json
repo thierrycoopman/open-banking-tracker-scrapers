@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "PSD_PI!LU_CSSF!Z00000001!CZ",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "SIX Payment Services (Europe) S.A., organizační složka",
+  "ENT_ADD": "Rybná 682/14",
+  "ENT_TOW_CIT_RES": "Prague 1",
+  "ENT_POS_COD": "110 05",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "LU_CSSF!Z00000001",
+  "DER_CHI_ENT_AUT": "Active"
+}

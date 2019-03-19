@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!725944_AG4653",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG725944",
+  "ENT_NAM": "Balwinder Singh",
+  "ENT_ADD": "Wellesweilerstrasse 12a",
+  "ENT_TOW_CIT_RES": "Neunkirchen",
+  "ENT_POS_COD": "6653 8",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

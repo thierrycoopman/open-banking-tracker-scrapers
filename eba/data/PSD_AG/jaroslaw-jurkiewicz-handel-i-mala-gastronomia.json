@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7686",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7686",
+  "ENT_NAM": "Jarosław Jurkiewicz HANDEL I MAŁA GASTRONOMIA",
+  "ENT_ADD": "Bohaterów Warszawy 13, Ińsko, 73-140, PL",
+  "ENT_TOW_CIT_RES": "Ińsko",
+  "ENT_POS_COD": "73-140",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

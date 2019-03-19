@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203787687",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203787687",
+  "ENT_NAM": [
+    "Ви Джи Ай Ти ЕООД",
+    "V G I T EOOD"
+  ],
+  "ENT_ADD": "36 Grenaderska str., bild Yuli, entr. A, fl. 6, app. 18",
+  "ENT_TOW_CIT_RES": "Pleven",
+  "ENT_POS_COD": "5800",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

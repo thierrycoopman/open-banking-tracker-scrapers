@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!131130637",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "131130637",
+  "ENT_NAM": [
+    "КОНИ-2003 ЕООД",
+    "KONI-2003 EOOD"
+  ],
+  "ENT_ADD": "zh.k. Tolstoi 1, build. 1A, app. 12",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1220",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

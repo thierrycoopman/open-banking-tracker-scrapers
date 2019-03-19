@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!71644",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "812690162",
+  "ENT_NAM": "SNC GARCIA",
+  "ENT_ADD": "67 cours Napoléon",
+  "ENT_TOW_CIT_RES": "AJACCIO",
+  "ENT_POS_COD": "20000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

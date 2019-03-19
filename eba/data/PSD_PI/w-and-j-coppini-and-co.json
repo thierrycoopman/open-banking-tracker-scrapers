@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!COP",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "P51",
+  "ENT_NAM": "W. & J. COPPINI & CO.",
+  "ENT_NAM_COM": "W. & J. COPPINI & CO.",
+  "ENT_ADD": "144, Tower Road",
+  "ENT_TOW_CIT_RES": "Sliema",
+  "ENT_POS_COD": "SLM 1604",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2011-04-29"
+  ]
+}

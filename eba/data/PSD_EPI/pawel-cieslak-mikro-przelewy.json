@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8341816190",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8341816190",
+  "ENT_NAM": "Paweł Cieślak Mikro Przelewy",
+  "ENT_ADD": "Bitwy nad Bzurą 24, Bednary, Nieborów, 99-416, PL",
+  "ENT_TOW_CIT_RES": "Bednary, Nieborów",
+  "ENT_POS_COD": "99-416",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-06-21"
+  ]
+}

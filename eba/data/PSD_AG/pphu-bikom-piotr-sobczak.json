@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2668",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2668",
+  "ENT_NAM": "P.P.H.U. BiKom Piotr Sobczak",
+  "ENT_ADD": "Wojska Polskiego 1d/5, Kietrz, 48-130, PL",
+  "ENT_TOW_CIT_RES": "Kietrz",
+  "ENT_POS_COD": "48-130",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

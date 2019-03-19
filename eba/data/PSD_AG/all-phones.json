@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!787003_AG6851",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG787003",
+  "ENT_NAM": "All Phones",
+  "ENT_ADD": "20 Rue Marechal Foch",
+  "ENT_TOW_CIT_RES": "Thorigny Sur Marne",
+  "ENT_POS_COD": "77400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

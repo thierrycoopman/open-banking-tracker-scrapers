@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!813790_AG691",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG813790",
+  "ENT_NAM": "Noor Travel & Money Transfer Limited",
+  "ENT_ADD": [
+    "Hall Green",
+    "1333A Stratford Road"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B28 9HW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

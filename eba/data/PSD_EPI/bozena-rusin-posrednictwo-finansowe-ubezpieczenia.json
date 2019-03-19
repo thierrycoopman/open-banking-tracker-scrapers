@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5950007580",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5950007580",
+  "ENT_NAM": "Bożena Rusin Pośrednictwo Finansowe, Ubezpieczenia",
+  "ENT_ADD": "17 Stycznia 119, Międzychód, 64-400, PL",
+  "ENT_TOW_CIT_RES": "Międzychód",
+  "ENT_POS_COD": "64-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-06-24",
+    "2018-09-28"
+  ]
+}

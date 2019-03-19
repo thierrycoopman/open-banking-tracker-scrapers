@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!579306!511917_AG4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG511917",
+  "ENT_NAM": "Mohammed Arif Khan and Mohammed Rafiq Khan",
+  "ENT_ADD": "16 Page Hall Road",
+  "ENT_TOW_CIT_RES": "Sheffield",
+  "ENT_POS_COD": "S4 8GT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!579306",
+  "DER_CHI_ENT_AUT": "Active"
+}

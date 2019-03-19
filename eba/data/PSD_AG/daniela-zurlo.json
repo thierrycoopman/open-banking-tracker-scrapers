@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!588510_AG2101",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG588510",
+  "ENT_NAM": "Daniela Zurlo",
+  "ENT_ADD": [
+    "Fermata M1 De Angeli",
+    "Piazza Ernesto De Angeli SNC"
+  ],
+  "ENT_TOW_CIT_RES": "Milano",
+  "ENT_POS_COD": "20146",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

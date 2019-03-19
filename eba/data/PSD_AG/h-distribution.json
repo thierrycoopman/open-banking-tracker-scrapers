@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!759328_AG5520",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG759328",
+  "ENT_NAM": "H Distribution",
+  "ENT_ADD": "42 44 Avenue Cesar Collaveri",
+  "ENT_TOW_CIT_RES": "Livry Gargan",
+  "ENT_POS_COD": "93190",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

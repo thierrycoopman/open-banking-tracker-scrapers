@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!628221_AG467",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG628221",
+  "ENT_NAM": "Promoterbet SAS Di Parenti Marco EC",
+  "ENT_ADD": [
+    "ASPARETTO 25,",
+    "S.S. ISOLELLA FRAZ"
+  ],
+  "ENT_TOW_CIT_RES": "CEREA,",
+  "ENT_POS_COD": "370 53",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

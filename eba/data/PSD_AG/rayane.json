@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!507001!775490_AG81",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG775490",
+  "ENT_NAM": "Rayane",
+  "ENT_ADD": "1 Allee De L Eau Vive",
+  "ENT_TOW_CIT_RES": "Savigny Le Temple",
+  "ENT_POS_COD": "77176",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!507001",
+  "DER_CHI_ENT_AUT": "Active"
+}

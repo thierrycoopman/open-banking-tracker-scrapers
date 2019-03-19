@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!680641_AG4002",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG680641",
+  "ENT_NAM": "Ahmed El Torky",
+  "ENT_ADD": "Dorpsweg 28 C",
+  "ENT_TOW_CIT_RES": "Rotterdam",
+  "ENT_POS_COD": "3083 LB",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

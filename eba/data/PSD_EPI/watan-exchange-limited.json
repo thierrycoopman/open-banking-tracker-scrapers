@@ -1,0 +1,22 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!828061",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "828061",
+  "ENT_NAM": "Watan Exchange Limited",
+  "ENT_NAM_COM": [
+    "Watan Money Transfer and Travel",
+    "Watan Exchange and Travel"
+  ],
+  "ENT_ADD": [
+    "North Finchley",
+    "Barnet",
+    "5 Grand Arcade"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "N12 0EH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2019-01-31"
+  ]
+}

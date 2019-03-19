@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!16221",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "16221",
+  "ENT_NAM": "Checkout Finland Oy",
+  "ENT_ADD": "Eteläpuisto 2 C",
+  "ENT_TOW_CIT_RES": "TAMPERE",
+  "ENT_POS_COD": "33200",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2012-01-01"
+  ]
+}

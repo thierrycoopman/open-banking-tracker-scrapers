@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!902022",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "902022",
+  "ENT_NAM": "Foreign Currency Direct Plc",
+  "ENT_NAM_COM": "Pure FX",
+  "ENT_ADD": [
+    "Currencies Mews",
+    "Buckinghamshire",
+    "2b Badminton Court"
+  ],
+  "ENT_TOW_CIT_RES": "Old Amersham",
+  "ENT_POS_COD": "HP7 0DD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-07-12"
+  ]
+}

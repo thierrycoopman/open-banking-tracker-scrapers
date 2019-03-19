@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!41898796",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "41898796",
+  "ENT_NAM": "Drábek Tomáš",
+  "ENT_ADD": "č.p. 161",
+  "ENT_TOW_CIT_RES": "Lužnice",
+  "ENT_POS_COD": "37901",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

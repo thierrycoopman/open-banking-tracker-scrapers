@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!758165_AG5475",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG758165",
+  "ENT_NAM": "Phone And Ordi",
+  "ENT_ADD": "23 Boulevard Garibaldi",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75015",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

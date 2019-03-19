@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R127821",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R127821",
+  "ENT_NAM": "Stichting Nationaal Waarborgfonds Aanbetalingen (Stichting NWA)",
+  "ENT_NAM_COM": "Stichting Nationaal Waarborgfonds Aanbetalingen/Stichting NWA",
+  "ENT_ADD": "Rensumapark 19",
+  "ENT_TOW_CIT_RES": "UITHUIZERMEEDEN",
+  "ENT_POS_COD": "9982 AV",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

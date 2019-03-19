@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4785",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4785",
+  "ENT_NAM": "ELŻBIETA TIBERIUSZ",
+  "ENT_ADD": "Łęgowa 7/4, Skoczów, 43-430, PL",
+  "ENT_TOW_CIT_RES": "Skoczów",
+  "ENT_POS_COD": "43-430",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3219",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3219",
+  "ENT_NAM": "Tom-Kor s.c. Anna Tomczyk, Krzysztof Tomczyk",
+  "ENT_ADD": "G3ówna 45, Buczek, 98-113, PL",
+  "ENT_TOW_CIT_RES": "Buczek",
+  "ENT_POS_COD": "98-113",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+

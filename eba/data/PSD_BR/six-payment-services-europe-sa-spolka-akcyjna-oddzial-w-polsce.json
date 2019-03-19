@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "PSD_PI!LU_CSSF!Z00000001!PL",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "SIX Payment Services (Europe) S.A., spolka akcyjna, oddzial w Polsce",
+  "ENT_ADD": "ul. Prosta 32",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "838",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "LU_CSSF!Z00000001",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!9121055447!1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1",
+  "ENT_NAM": "Urząd Miejski",
+  "ENT_ADD": "Plac Zamkowy 15, Oława, 55-200, PL",
+  "ENT_TOW_CIT_RES": "Oława",
+  "ENT_POS_COD": "55-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!9121055447",
+  "DER_CHI_ENT_AUT": "Active"
+}

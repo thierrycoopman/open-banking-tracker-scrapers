@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!76894",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "789401262",
+  "ENT_NAM": "M. NDJIKI Steve",
+  "ENT_ADD": "56 Avenue Jean Moulin",
+  "ENT_TOW_CIT_RES": "ALBERTVILLE",
+  "ENT_POS_COD": "73200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

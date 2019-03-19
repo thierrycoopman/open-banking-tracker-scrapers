@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!618145_AG3184",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG618145",
+  "ENT_NAM": "Mubark Adriss",
+  "ENT_ADD": "63 Phibsborough Road",
+  "ENT_TOW_CIT_RES": "Dublin",
+  "ENT_POS_COD": "D 7",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

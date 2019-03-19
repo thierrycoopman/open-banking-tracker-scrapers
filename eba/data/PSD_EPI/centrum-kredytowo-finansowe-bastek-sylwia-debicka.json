@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7532038136",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7532038136",
+  "ENT_NAM": "Centrum Kredytowo-Finansowe \"BASTEK\" Sylwia Dębicka",
+  "ENT_ADD": "Szopena 10A, Nysa, 48-300, PL",
+  "ENT_TOW_CIT_RES": "Nysa",
+  "ENT_POS_COD": "48-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-25"
+  ]
+}

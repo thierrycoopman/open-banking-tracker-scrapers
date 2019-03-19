@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!758916_AG5501",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG758916",
+  "ENT_NAM": "Ute Saadia Malik",
+  "ENT_ADD": "Moerser Strasse 234",
+  "ENT_TOW_CIT_RES": "Duisburg",
+  "ENT_POS_COD": "47198",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

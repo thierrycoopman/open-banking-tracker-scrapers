@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70158",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "449119544",
+  "ENT_NAM": "M. DROUET David",
+  "ENT_ADD": "3 place du Port",
+  "ENT_TOW_CIT_RES": "LUCON",
+  "ENT_POS_COD": "85400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

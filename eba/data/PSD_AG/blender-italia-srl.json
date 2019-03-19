@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "PSD_EPI_LT_LT_BL_304230261_AG",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "  09530340968",
+  "ENT_NAM": "Blender Italia S.R.L",
+  "ENT_ADD": "Corso di Porta Vittoria 9",
+  "ENT_TOW_CIT_RES": "Milano",
+  "ENT_POS_COD": "20122",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "LT_LT_BL_304230261",
+  "DER_CHI_ENT_AUT": "Active"
+}

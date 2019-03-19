@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537811",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "537811",
+  "ENT_NAM": "Moneyto Limited",
+  "ENT_NAM_COM": [
+    "Unistream Money Transfer",
+    "MoneyTo"
+  ],
+  "ENT_ADD": "3 West Ham Lane",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E15 4PH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-06-17"
+  ]
+}

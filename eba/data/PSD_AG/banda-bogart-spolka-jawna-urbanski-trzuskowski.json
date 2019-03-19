@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5832859681!28",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "28",
+  "ENT_NAM": "B&A BOGART SPÓŁKA JAWNA URBAŃSKI TRZUSKOWSKI",
+  "ENT_ADD": "6 Sierpnia 5, Łódź, 90-606, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "90-606",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5832859681",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

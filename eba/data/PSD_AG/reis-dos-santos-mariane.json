@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!694909_AG1187",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG694909",
+  "ENT_NAM": "Reis Dos Santos Mariane",
+  "ENT_ADD": "Via Gasparri 78/80",
+  "ENT_TOW_CIT_RES": "Caserta",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

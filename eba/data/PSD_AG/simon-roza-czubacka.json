@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4825",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4825",
+  "ENT_NAM": "Simon Róża Czubacka",
+  "ENT_ADD": "  101A, Rozkopaczew, 21-110, PL",
+  "ENT_TOW_CIT_RES": "Rozkopaczew",
+  "ENT_POS_COD": "21-110",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

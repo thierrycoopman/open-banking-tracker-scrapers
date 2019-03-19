@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!58971",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "494213044",
+  "ENT_NAM": "PERALTA",
+  "ENT_ADD": "17 rue de la Poste",
+  "ENT_TOW_CIT_RES": "BRAM",
+  "ENT_POS_COD": "11150",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

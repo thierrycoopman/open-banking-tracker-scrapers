@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4960",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4960",
+  "ENT_NAM": "PHU \"LIGOR\" Liliana Górczewska",
+  "ENT_ADD": "1 Maja 2/27, Konin, 62-510, PL",
+  "ENT_TOW_CIT_RES": "Konin",
+  "ENT_POS_COD": "62-510",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

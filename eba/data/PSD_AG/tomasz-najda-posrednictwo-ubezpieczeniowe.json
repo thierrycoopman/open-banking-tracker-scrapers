@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6751496192!20",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "20",
+  "ENT_NAM": "Tomasz Najda Pośrednictwo Ubezpieczeniowe",
+  "ENT_ADD": "Niedźwiedź  45, Niedźwiedź, 34-735, PL",
+  "ENT_TOW_CIT_RES": "Niedźwiedź",
+  "ENT_POS_COD": "34-735",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6751496192",
+  "DER_CHI_ENT_AUT": "Active"
+}

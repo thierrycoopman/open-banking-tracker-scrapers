@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!70258015",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "70258015",
+  "ENT_NAM": "Nešetřil René",
+  "ENT_ADD": "Malý Koloredov 811",
+  "ENT_TOW_CIT_RES": "Frýdek-Místek",
+  "ENT_POS_COD": "73801",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

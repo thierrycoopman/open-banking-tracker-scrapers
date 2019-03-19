@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!13554000",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "13554000",
+  "ENT_NAM": "Bartoň Josef",
+  "ENT_ADD": "č.p. 63",
+  "ENT_TOW_CIT_RES": "Sázava",
+  "ENT_POS_COD": "56301",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

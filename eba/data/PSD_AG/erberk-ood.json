@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200438068",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200438068",
+  "ENT_NAM": [
+    "Ерберк ООД",
+    "Erberk OOD"
+  ],
+  "ENT_ADD": "50 Vitosha str., entr. 3, fl. 2, app. 40",
+  "ENT_TOW_CIT_RES": "Shumen",
+  "ENT_POS_COD": "9700",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

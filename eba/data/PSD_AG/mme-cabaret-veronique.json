@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57164",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "440467181",
+  "ENT_NAM": "Mme CABARET Véronique",
+  "ENT_ADD": [
+    "10 avenue du Président Kennedy",
+    "centre commercial de ",
+    "l'Hippodrome"
+  ],
+  "ENT_TOW_CIT_RES": "REIMS",
+  "ENT_POS_COD": "51100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

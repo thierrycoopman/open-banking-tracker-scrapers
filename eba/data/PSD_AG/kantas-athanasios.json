@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!800316936!069963261",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "069963261",
+  "ENT_NAM": "KANTAS ATHANASIOS",
+  "ENT_ADD": "23, VELISSARIOU Str.",
+  "ENT_TOW_CIT_RES": "CORFU",
+  "ENT_POS_COD": "49100",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800316936",
+  "DER_CHI_ENT_AUT": "Active"
+}

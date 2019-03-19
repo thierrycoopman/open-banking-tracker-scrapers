@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!596608_AG2453",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG596608",
+  "ENT_NAM": "Akter Mahamuda",
+  "ENT_ADD": "Viale Tunisia 11",
+  "ENT_TOW_CIT_RES": "Milano",
+  "ENT_POS_COD": "20 124",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

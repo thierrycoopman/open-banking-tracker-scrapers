@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!587368",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "587368",
+  "ENT_NAM": "DT & T Corporation Limited",
+  "ENT_ADD": "3 Harbour Exchange Square",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E14 9GE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-12-21"
+  ]
+}

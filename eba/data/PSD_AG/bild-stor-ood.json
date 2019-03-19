@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!125574185",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "125574185",
+  "ENT_NAM": [
+    "Билд Стор ООД",
+    "Bild Stor OOD"
+  ],
+  "ENT_ADD": "31 Dunav str., entr. B, fl. 2, app. 6",
+  "ENT_TOW_CIT_RES": "Omurtag",
+  "ENT_POS_COD": "7900",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

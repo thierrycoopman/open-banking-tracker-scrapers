@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!792842",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "792842",
+  "ENT_NAM": "E-vest Adviser Services Ltd",
+  "ENT_NAM_COM": "Evestor",
+  "ENT_ADD": [
+    "9-13 Manchester Road",
+    "Hensmill House"
+  ],
+  "ENT_TOW_CIT_RES": "Wilmslow",
+  "ENT_POS_COD": "SK9 1BQ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-01-26"
+  ]
+}

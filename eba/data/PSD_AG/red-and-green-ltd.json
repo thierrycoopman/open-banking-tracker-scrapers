@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!790916_AG7080",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG790916",
+  "ENT_NAM": "Red and Green Ltd.",
+  "ENT_ADD": "10 Luton Road",
+  "ENT_TOW_CIT_RES": "Chatham",
+  "ENT_POS_COD": "ME4 5AA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5271728928",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "5271728928",
+  "ENT_NAM": "Diners Club Polska Sp. z o.o.",
+  "ENT_ADD": "Senatorska  12, Warszawa, 00-082, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-082",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-09-17"
+  ]
+}

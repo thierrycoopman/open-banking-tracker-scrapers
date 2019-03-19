@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7831688238!2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2",
+  "ENT_NAM": "Magdalena  Konieczna MAKO (Sklep Żabka Z3226)",
+  "ENT_ADD": "Ogrodowa 13 L1, Poznań, 61-821, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-821",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7831688238",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

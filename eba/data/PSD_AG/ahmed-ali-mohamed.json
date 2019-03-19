@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!524141!537873_AG3",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG537873",
+  "ENT_NAM": "Ahmed Ali Mohamed",
+  "ENT_ADD": "13-15 Stockwell Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW8 9AU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!524141",
+  "DER_CHI_ENT_AUT": "Active"
+}

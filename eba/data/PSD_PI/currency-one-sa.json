@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7831684097",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "7831684097",
+  "ENT_NAM": "Currency One S.A.",
+  "ENT_ADD": "Szyperska 14, Poznań, 61-754, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-754",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-07-21"
+  ]
+}

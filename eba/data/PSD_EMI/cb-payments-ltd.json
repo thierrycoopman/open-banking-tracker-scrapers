@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900635",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900635",
+  "ENT_NAM": "CB Payments Ltd",
+  "ENT_NAM_COM": "CB Payments Ltd",
+  "ENT_ADD": [
+    "9th Floor",
+    "107 Cheapside"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2V 6DN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-07-12"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!48686336",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "48686336",
+  "ENT_NAM": "Dizdarevićová Hana",
+  "ENT_ADD": "Jelínkova 588/10",
+  "ENT_TOW_CIT_RES": "Kosmonosy",
+  "ENT_POS_COD": "29306",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

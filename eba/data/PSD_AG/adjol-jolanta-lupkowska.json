@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1107",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1107",
+  "ENT_NAM": "ADJOL Jolanta Łupkowska",
+  "ENT_ADD": "Główna 18, Jeszkowice, 55-003, PL",
+  "ENT_TOW_CIT_RES": "Jeszkowice",
+  "ENT_POS_COD": "55-003",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

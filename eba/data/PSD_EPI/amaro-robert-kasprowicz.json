@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9531435652",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9531435652",
+  "ENT_NAM": "AMARO ROBERT KASPROWICZ",
+  "ENT_ADD": "Dworcowa  47, Bydgoszcz, 85-009, PL",
+  "ENT_TOW_CIT_RES": "Bydgoszcz",
+  "ENT_POS_COD": "85-009",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-08-25"
+  ]
+}

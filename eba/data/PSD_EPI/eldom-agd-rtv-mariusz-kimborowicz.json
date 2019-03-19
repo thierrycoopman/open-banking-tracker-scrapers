@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5451002481",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5451002481",
+  "ENT_NAM": "ELDOM AGD RTV Mariusz Kimborowicz",
+  "ENT_ADD": "Solidarności 3, Dąbrowa Białostocka, 16-200, PL",
+  "ENT_TOW_CIT_RES": "Dąbrowa Białostocka",
+  "ENT_POS_COD": "16-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-07-04"
+  ]
+}

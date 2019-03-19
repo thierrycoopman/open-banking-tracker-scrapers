@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!79559",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "10740862",
+  "ENT_NAM": "BLACK MOUNTAIN GROUP LTD",
+  "ENT_ADD": "30 City Road",
+  "ENT_TOW_CIT_RES": "LONDON EC1Y 2AB",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

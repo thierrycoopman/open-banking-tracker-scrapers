@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5311596032",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5311596032",
+  "ENT_NAM": "AIO Finanse Paweł Rasiński",
+  "ENT_ADD": "Polna 3, Nasielsk, 05-190, PL",
+  "ENT_TOW_CIT_RES": "Nasielsk",
+  "ENT_POS_COD": "05-190",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-02-25"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4465",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4465",
+  "ENT_NAM": "Protection Ubezpieczenia Spó3ka z ograniczon1 odpowiedzialnooci1",
+  "ENT_ADD": "Przemys3awa 7D lok. 7, Wodzis3aw Ol1ski, 44-300, PL",
+  "ENT_TOW_CIT_RES": "Wodzis3aw Ol1ski",
+  "ENT_POS_COD": "44-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

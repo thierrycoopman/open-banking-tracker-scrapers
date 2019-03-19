@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8862537179",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8862537179",
+  "ENT_NAM": "BARBARA WOJNICKA AGENCJA OPŁAT I PRZELEWÓW",
+  "ENT_ADD": "Słowackiego 7, Wałbrzych, 58-300, PL",
+  "ENT_TOW_CIT_RES": "Wałbrzych",
+  "ENT_POS_COD": "58-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-11"
+  ]
+}

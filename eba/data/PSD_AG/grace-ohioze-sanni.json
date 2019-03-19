@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!806292_AG8006",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG806292",
+  "ENT_NAM": "Grace Ohioze Sanni",
+  "ENT_ADD": "8 avenue J F Kennedy",
+  "ENT_TOW_CIT_RES": "Alencon",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

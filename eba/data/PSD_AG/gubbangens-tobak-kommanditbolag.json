@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!774946_AG6198",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG774946",
+  "ENT_NAM": "Gubbangens Tobak Kommanditbolag",
+  "ENT_ADD": "Gubbangstorget 114",
+  "ENT_TOW_CIT_RES": "Enskede",
+  "ENT_POS_COD": "12245",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

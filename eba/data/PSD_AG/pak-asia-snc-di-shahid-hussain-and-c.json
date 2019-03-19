@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!694865_AG461",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG694865",
+  "ENT_NAM": "Pak Asia S.N.C Di Shahid Hussain & C",
+  "ENT_ADD": "Via Enrico Mattei 50/N",
+  "ENT_TOW_CIT_RES": "Bologna",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

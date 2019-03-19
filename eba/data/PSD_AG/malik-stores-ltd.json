@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!831536_AG2516",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG831536",
+  "ENT_NAM": "Malik Stores Ltd",
+  "ENT_ADD": [
+    "Newmains",
+    "111A Westwood Road"
+  ],
+  "ENT_TOW_CIT_RES": "Wishaw",
+  "ENT_POS_COD": "ML2 9EJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

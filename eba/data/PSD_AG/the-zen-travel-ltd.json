@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!769910_AG1618",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG769910",
+  "ENT_NAM": "The Zen Travel Ltd",
+  "ENT_ADD": "Unit 11 The Arcade",
+  "ENT_TOW_CIT_RES": "Aldershot",
+  "ENT_POS_COD": "GU11 1EE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

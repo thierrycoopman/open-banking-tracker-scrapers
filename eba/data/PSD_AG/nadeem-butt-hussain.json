@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!579306!651820_AG42",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG651820",
+  "ENT_NAM": "Nadeem Butt Hussain",
+  "ENT_ADD": "233 Queens Road",
+  "ENT_TOW_CIT_RES": "Halifax",
+  "ENT_POS_COD": "HX1 4NJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!579306",
+  "DER_CHI_ENT_AUT": "Active"
+}

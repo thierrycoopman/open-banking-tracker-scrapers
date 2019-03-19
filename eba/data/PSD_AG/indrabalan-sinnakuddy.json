@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!789611_AG806",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG789611",
+  "ENT_NAM": "Indrabalan Sinnakuddy",
+  "ENT_ADD": "Kerpener Strasse 80",
+  "ENT_TOW_CIT_RES": "Kerpen",
+  "ENT_POS_COD": "50170",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!R131387!R105256",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R105256",
+  "ENT_NAM": "CCV Belgium",
+  "ENT_ADD": "Ter Waarde 50",
+  "ENT_TOW_CIT_RES": "IEPER",
+  "ENT_POS_COD": "8900",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!R131387",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!78532",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "811243161",
+  "ENT_NAM": "Mme HATHIER Laurece",
+  "ENT_ADD": [
+    "70 rue du faubourg de France",
+    "Bourmont"
+  ],
+  "ENT_TOW_CIT_RES": "BOURMONT ENTRE MEUSE ET MOUZON",
+  "ENT_POS_COD": "52150",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!121554961!HE262317",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "HE262317",
+  "ENT_NAM": [
+    "Маримюн ООД",
+    "Marimune OOD"
+  ],
+  "ENT_ADD": "12 Ayias Christinis St. Germasoyia",
+  "ENT_TOW_CIT_RES": "Limassol",
+  "ENT_POS_COD": "4044",
+  "ENT_COU_RES": "CY",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!121554961",
+  "DER_CHI_ENT_AUT": "Active"
+}

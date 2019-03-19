@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8820006046",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8820006046",
+  "ENT_NAM": "JAN PEZOWICZ Z.H.U. \"RADIANA\"",
+  "ENT_ADD": "Ignacego Krasickiego  61, Dzierżoniów, 58-200, PL",
+  "ENT_TOW_CIT_RES": "Dzierżoniów",
+  "ENT_POS_COD": "58-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-07-15"
+  ]
+}

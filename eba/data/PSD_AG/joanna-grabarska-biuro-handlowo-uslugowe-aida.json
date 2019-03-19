@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2375",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2375",
+  "ENT_NAM": "Joanna Grabarska - Biuro Handlowo - Usługowe - \"Aida\"",
+  "ENT_ADD": "Mieszka I 2 lok.7, Kamień Pomorski, 72-400, PL",
+  "ENT_TOW_CIT_RES": "Kamień Pomorski",
+  "ENT_POS_COD": "72-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!626401_AG957",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG626401",
+  "ENT_NAM": "Muyiwa Babarinde",
+  "ENT_ADD": [
+    "Unit 7",
+    "Orchard Road",
+    "Watery Lane"
+  ],
+  "ENT_TOW_CIT_RES": "Clondalkin",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

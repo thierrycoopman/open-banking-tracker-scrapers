@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!728640",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "728640",
+  "ENT_NAM": "Avas Union (UK) Ltd",
+  "ENT_ADD": "Unit 3037, Level-30",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E14 5NR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-02-22"
+  ]
+}

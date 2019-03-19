@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68179",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "430376442",
+  "ENT_NAM": "LES DEUX MARIE",
+  "ENT_ADD": "6 place Anatole France",
+  "ENT_TOW_CIT_RES": "VIGNEUX SUR SEINE",
+  "ENT_POS_COD": "91270",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

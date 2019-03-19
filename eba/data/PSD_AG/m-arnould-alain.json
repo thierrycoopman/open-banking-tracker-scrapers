@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68464",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "387895923",
+  "ENT_NAM": "M. ARNOULD Alain",
+  "ENT_ADD": "27 place Jean Moulin",
+  "ENT_TOW_CIT_RES": "MOULINS",
+  "ENT_POS_COD": "03000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!16246",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "16246",
+  "ENT_NAM": "Maksuturva Group Oy",
+  "ENT_ADD": "Mechelininkatu 1 a",
+  "ENT_TOW_CIT_RES": "HELSINKI",
+  "ENT_POS_COD": "00180",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2012-01-01"
+  ]
+}

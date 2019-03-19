@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62585",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "349201731",
+  "ENT_NAM": "Mme PETIT Martine",
+  "ENT_ADD": "Boulevard Auguste Comte",
+  "ENT_TOW_CIT_RES": "BERGERAC",
+  "ENT_POS_COD": "24100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

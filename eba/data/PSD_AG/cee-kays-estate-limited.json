@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!593149_AG142",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG593149",
+  "ENT_NAM": "Cee Kays Estate Limited",
+  "ENT_ADD": "190 Biscot Road",
+  "ENT_TOW_CIT_RES": "Luton",
+  "ENT_POS_COD": "LU3 1AX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

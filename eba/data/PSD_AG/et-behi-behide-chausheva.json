@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!108019701",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "108019701",
+  "ENT_NAM": [
+    "ЕТ Бехи - Бехиде Чаушева",
+    "ET Behi - Behide Chausheva"
+  ],
+  "ENT_ADD": "37 Bulgaria blvd., build 51, entr. Ground floor",
+  "ENT_TOW_CIT_RES": "Kardzhali",
+  "ENT_POS_COD": "6600",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

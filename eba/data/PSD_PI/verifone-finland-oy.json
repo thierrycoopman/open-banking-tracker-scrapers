@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!7926",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "7926",
+  "ENT_NAM": "Verifone Finland Oy",
+  "ENT_ADD": "Vantaankoskentie 14 C",
+  "ENT_TOW_CIT_RES": "VANTAA",
+  "ENT_POS_COD": "01670",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2012-01-01"
+  ]
+}

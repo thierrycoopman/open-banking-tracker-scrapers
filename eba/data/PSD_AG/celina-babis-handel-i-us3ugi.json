@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!225",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "225",
+  "ENT_NAM": "Celina Babis Handel i Us3ugi",
+  "ENT_ADD": "Kobiórska 1/c, Kobiór, 43-210, PL",
+  "ENT_TOW_CIT_RES": "Kobiór",
+  "ENT_POS_COD": "43-210",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+}

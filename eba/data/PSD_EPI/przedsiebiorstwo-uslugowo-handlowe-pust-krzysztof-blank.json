@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7441013308",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7441013308",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO USŁUGOWO-HANDLOWE \"PUST\" KRZYSZTOF BLANK",
+  "ENT_ADD": "gen. Władysława Andersa 11, Iława, 14-200, PL",
+  "ENT_TOW_CIT_RES": "Iława",
+  "ENT_POS_COD": "14-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-23",
+    "2018-07-31"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!1070030544",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "1070030544",
+  "ENT_NAM": "BNP Paribas Solutions spółka z ograniczoną odpowiedzialnością (d. Raiffeisen Solutions spółka z ograniczoną odpowiedzialnością)",
+  "ENT_ADD": "Grzybowska 78, Warszawa, 00-844, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-844",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-09-22"
+  ]
+}

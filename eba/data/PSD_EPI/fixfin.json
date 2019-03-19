@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R100341",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R100341",
+  "ENT_NAM": "Fixfin",
+  "ENT_NAM_COM": "Fixfin/hiepoteeq.nl/relatieviewer/Fixed Financials",
+  "ENT_ADD": "Heerengracht 19",
+  "ENT_TOW_CIT_RES": "HASSELT",
+  "ENT_POS_COD": "8061 HW",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

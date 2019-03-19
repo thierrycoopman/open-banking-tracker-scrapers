@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2728",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2728",
+  "ENT_NAM": "Gminna Spółdzielnia \"Samopomoc Chłopska\" w Rychtalu",
+  "ENT_ADD": "Okólna 3, Rychtal, 63-630, PL",
+  "ENT_TOW_CIT_RES": "Rychtal",
+  "ENT_POS_COD": "63-630",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

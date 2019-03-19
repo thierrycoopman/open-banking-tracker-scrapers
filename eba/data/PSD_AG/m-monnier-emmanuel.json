@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76325",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "539622290",
+  "ENT_NAM": "M. MONNIER Emmanuel",
+  "ENT_ADD": "2 RUE DE TORCE",
+  "ENT_TOW_CIT_RES": "LOMBRON",
+  "ENT_POS_COD": "72450",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7048",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7048",
+  "ENT_NAM": "MAX BAX 3 Marta Głowacka",
+  "ENT_ADD": "Naruszewo 18b, Naruszewo, 09-152, PL",
+  "ENT_TOW_CIT_RES": "Naruszewo",
+  "ENT_POS_COD": "09-152",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

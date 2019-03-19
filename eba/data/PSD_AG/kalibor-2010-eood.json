@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201174970",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201174970",
+  "ENT_NAM": [
+    "Калибор - 2010 ЕООД",
+    "Kalibor - 2010 EOOD"
+  ],
+  "ENT_ADD": "Rasho Dimitrov str., build. 70, entr. D, fl. 7, app. 112",
+  "ENT_TOW_CIT_RES": "Pernik",
+  "ENT_POS_COD": "2303",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

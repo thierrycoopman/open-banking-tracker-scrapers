@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!119024379",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "119024379",
+  "ENT_NAM": [
+    "ЕТ Христо Христов – Стела ЕМ",
+    "ET Hristo Hristov - Stela EM"
+  ],
+  "ENT_ADD": "zh.k. Rechitsa, 22-A Izvorite str.",
+  "ENT_TOW_CIT_RES": "Sliven",
+  "ENT_POS_COD": "8800",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

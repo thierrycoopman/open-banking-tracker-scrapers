@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!783668_AG577",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG783668",
+  "ENT_NAM": "MRD Travel And Cargo Ltd",
+  "ENT_ADD": [
+    "Dagenham",
+    "744 Green Lane"
+  ],
+  "ENT_TOW_CIT_RES": "Dagenham",
+  "ENT_POS_COD": "RM8 1YX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1360",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1360",
+  "ENT_NAM": "Finanse i Szkolenia Dariusz Barmuta",
+  "ENT_ADD": "Janusza Korczaka 1 lok. 49, Suwałki, 16-400, PL",
+  "ENT_TOW_CIT_RES": "Suwałki",
+  "ENT_POS_COD": "16-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

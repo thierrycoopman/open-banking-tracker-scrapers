@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!560812!567840_AG25",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG567840",
+  "ENT_NAM": "K F Enterprises Limited",
+  "ENT_ADD": "3 Osborn Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 6TD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!560812",
+  "DER_CHI_ENT_AUT": "Active"
+}

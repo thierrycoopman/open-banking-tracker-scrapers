@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5361",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5361",
+  "ENT_NAM": "Firma Handlowo-Usługowa \"Raz-Dwa\" Krystian Nowakowski",
+  "ENT_ADD": "ppłk. pil. Bolesława Stachonia 14, Grudziądz, 86-300, PL",
+  "ENT_TOW_CIT_RES": "Grudziądz",
+  "ENT_POS_COD": "86-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

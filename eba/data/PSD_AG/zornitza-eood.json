@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!127630946",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "127630946",
+  "ENT_NAM": [
+    "Зорница ЕООД",
+    "Zornitza EOOD"
+  ],
+  "ENT_ADD": "9 Georgi Kirkov str., fl. 4, app. 10",
+  "ENT_TOW_CIT_RES": "Shumen",
+  "ENT_POS_COD": "9700",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8861089075",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8861089075",
+  "ENT_NAM": "PPHU \"ELIZA\" ELIZA NIWIŃSKA",
+  "ENT_ADD": "Romualda Traugutta 10, Boguszów-Gorce, 58-371, PL",
+  "ENT_TOW_CIT_RES": "Boguszów-Gorce",
+  "ENT_POS_COD": "58-371",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-07-23"
+  ]
+}

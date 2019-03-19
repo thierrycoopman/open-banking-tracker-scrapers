@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!201911595",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201911595",
+  "ENT_NAM": [
+    "Ивис Петролиум ЕООД",
+    "Ivis Petrolium EOOD"
+  ],
+  "ENT_ADD": "38 Sarnena gora str., fl. 6, app. 33, zh.k. Zheleznik",
+  "ENT_TOW_CIT_RES": "Stara Zagora",
+  "ENT_POS_COD": "6000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

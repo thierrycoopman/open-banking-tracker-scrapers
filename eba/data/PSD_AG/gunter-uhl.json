@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!808417_AG8213",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808417",
+  "ENT_NAM": "Gunter Uhl",
+  "ENT_ADD": "Grazerstrasse 22 a",
+  "ENT_TOW_CIT_RES": "Fuerstenfeld",
+  "ENT_POS_COD": "8280",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56928",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "513655571",
+  "ENT_NAM": "Mme GILLARDIN Murielle",
+  "ENT_ADD": "6 rue de Malvoviers",
+  "ENT_TOW_CIT_RES": "GIDY",
+  "ENT_POS_COD": "45520",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

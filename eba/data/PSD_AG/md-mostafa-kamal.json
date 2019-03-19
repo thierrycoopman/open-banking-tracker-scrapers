@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!547047_AG325",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG547047",
+  "ENT_NAM": "Md-Mostafa Kamal",
+  "ENT_ADD": "Via Bellavista 23",
+  "ENT_TOW_CIT_RES": "Viterbo",
+  "ENT_POS_COD": "011 00",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

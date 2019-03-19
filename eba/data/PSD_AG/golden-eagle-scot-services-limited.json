@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!593364!692777_AG21",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG692777",
+  "ENT_NAM": "Golden Eagle Scot Services Limited",
+  "ENT_ADD": [
+    "Flat 13",
+    "261 George Street"
+  ],
+  "ENT_TOW_CIT_RES": "Aberdeen",
+  "ENT_POS_COD": "AB25 1ED",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!593364",
+  "DER_CHI_ENT_AUT": "Active"
+}

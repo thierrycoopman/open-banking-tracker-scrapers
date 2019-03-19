@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3829",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3829",
+  "ENT_NAM": "RYBACZÓWKA TOMASZ LUCZKA",
+  "ENT_ADD": "pl. Wolnooci 4, Grodzisk Mazowiecki, 05-825, PL",
+  "ENT_TOW_CIT_RES": "Grodzisk Mazowiecki",
+  "ENT_POS_COD": "05-825",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

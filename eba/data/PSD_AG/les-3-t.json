@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75017",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "805004967",
+  "ENT_NAM": "LES 3 T",
+  "ENT_ADD": "5 PLACE DU 8 MAI 1945",
+  "ENT_TOW_CIT_RES": "MONTFAUCON",
+  "ENT_POS_COD": "30150",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

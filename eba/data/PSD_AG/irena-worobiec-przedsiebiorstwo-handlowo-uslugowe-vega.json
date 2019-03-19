@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!763",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "763",
+  "ENT_NAM": "Irena Worobiec Przedsiębiorstwo Handlowo Usługowe \"VEGA\"",
+  "ENT_ADD": "Sopałowicza 1, Pleszew, 63-300, PL",
+  "ENT_TOW_CIT_RES": "Pleszew",
+  "ENT_POS_COD": "63-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

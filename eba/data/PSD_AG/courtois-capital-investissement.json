@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57457",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "482734936",
+  "ENT_NAM": "COURTOIS CAPITAL INVESTISSEMENT",
+  "ENT_ADD": "88 rue Gustave Couturier",
+  "ENT_TOW_CIT_RES": "FECAMP",
+  "ENT_POS_COD": "76400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

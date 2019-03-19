@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!743226_AG5006",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG743226",
+  "ENT_NAM": "K S M",
+  "ENT_ADD": [
+    "31 Rue Vernier Angle",
+    "Nice",
+    "16 Avenue Des Combattants En Afn"
+  ],
+  "ENT_TOW_CIT_RES": "Provence Alpes Cote Dazur",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

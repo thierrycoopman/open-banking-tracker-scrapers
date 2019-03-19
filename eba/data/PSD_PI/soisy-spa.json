@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!8946260968",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "8946260968",
+  "ENT_NAM": "SOISY SPA",
+  "ENT_NAM_COM": "SOISY SPA",
+  "ENT_ADD": "PIAZZALE LIBIA, 1",
+  "ENT_TOW_CIT_RES": "MILANO",
+  "ENT_POS_COD": "20135",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

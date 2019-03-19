@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77253",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "491150843",
+  "ENT_NAM": "CARRARA-RASPAIL",
+  "ENT_ADD": "2 Boulevard de la Plaine",
+  "ENT_TOW_CIT_RES": "MANOSQUE",
+  "ENT_POS_COD": "04100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

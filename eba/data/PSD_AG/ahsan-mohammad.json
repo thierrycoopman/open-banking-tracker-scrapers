@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!815552_AG701",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG815552",
+  "ENT_NAM": "Ahsan Mohammad",
+  "ENT_ADD": [
+    "Greece",
+    "Tinou 53",
+    "Athens",
+    "Kypseli"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "11361",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75742",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "752632828",
+  "ENT_NAM": "Mme ROCH Dominique",
+  "ENT_ADD": "83 RUE MAL DE LATTRE DE TASSIGNY",
+  "ENT_TOW_CIT_RES": "PONT DE VAUX",
+  "ENT_POS_COD": "01190",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581536_AG1736",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581536",
+  "ENT_NAM": "Teresa Maria Czepizak",
+  "ENT_ADD": "Drozkow 92",
+  "ENT_TOW_CIT_RES": "Zary",
+  "ENT_POS_COD": "6820 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

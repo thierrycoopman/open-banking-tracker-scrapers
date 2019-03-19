@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!524141!583290_AG11",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG583290",
+  "ENT_NAM": "Mohamed Said Farah",
+  "ENT_ADD": [
+    "First Floor Flat",
+    "42A Northam Road"
+  ],
+  "ENT_TOW_CIT_RES": "Southampton",
+  "ENT_POS_COD": "SO14 0PA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!524141",
+  "DER_CHI_ENT_AUT": "Active"
+}

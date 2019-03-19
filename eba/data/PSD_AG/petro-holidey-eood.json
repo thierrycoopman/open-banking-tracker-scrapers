@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!116530243",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "116530243",
+  "ENT_NAM": [
+    "ПЕТРО-ХОЛИДЕЙ ЕООД",
+    "PETRO-HOLIDEY EOOD"
+  ],
+  "ENT_ADD": "13G Maritsa str., fl. 2, app. 27",
+  "ENT_TOW_CIT_RES": "Razgrad",
+  "ENT_POS_COD": "7200",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

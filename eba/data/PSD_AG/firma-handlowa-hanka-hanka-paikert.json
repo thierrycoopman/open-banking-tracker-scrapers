@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5425",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5425",
+  "ENT_NAM": "Firma Handlowa \"HANKA\" Hanka Paikert",
+  "ENT_ADD": "Bukowska 116, Poznań, 60-397, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "60-397",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

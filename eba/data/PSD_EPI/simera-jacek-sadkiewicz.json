@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7821213373",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7821213373",
+  "ENT_NAM": "Simera Jacek Sądkiewicz",
+  "ENT_ADD": "os. Lecha  15/48, Poznań, 61-293, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-293",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-01-29"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!820144902",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "820144902",
+  "ENT_NAM": [
+    "ЕТ Йоника - Йонка Георгиева",
+    "ET Yonika - Yonka Georgieva"
+  ],
+  "ENT_ADD": "40 Lyuben Karavelov str.",
+  "ENT_TOW_CIT_RES": "Dermantsi village",
+  "ENT_POS_COD": "5780",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!65327",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "524957230",
+  "ENT_NAM": "M. CHEIK AHAMED Ahamadi",
+  "ENT_ADD": "Quartier Koutrouzatsini Face Bfc",
+  "ENT_TOW_CIT_RES": "SADA",
+  "ENT_POS_COD": "97640",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

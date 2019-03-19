@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204493133",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204493133",
+  "ENT_NAM": [
+    "Джейси Трейд ЕООД",
+    "JC Trade EOOD"
+  ],
+  "ENT_ADD": "16 Han Asparuh str., Triaditsa dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1463",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

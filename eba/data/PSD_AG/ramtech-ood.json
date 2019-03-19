@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202979663",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202979663",
+  "ENT_NAM": [
+    "Рамтех ООД",
+    "Ramtech OOD"
+  ],
+  "ENT_ADD": "1 5004 str., Iskar dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1528",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57029",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "418284493",
+  "ENT_NAM": "M. NICOL Gildas",
+  "ENT_ADD": "12 rue des plages",
+  "ENT_TOW_CIT_RES": "TREBEURDEN",
+  "ENT_POS_COD": "22560",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

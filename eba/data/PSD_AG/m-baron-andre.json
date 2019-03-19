@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76294",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "752359265",
+  "ENT_NAM": "M. BARON André",
+  "ENT_ADD": "4 RUE DU GENERAL LECLERC",
+  "ENT_TOW_CIT_RES": "PLOUESCAT",
+  "ENT_POS_COD": "29430",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

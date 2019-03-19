@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62648",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "813032653",
+  "ENT_NAM": "M. FROMONT Fabrice",
+  "ENT_ADD": "64 rue du Moulin à Vent",
+  "ENT_TOW_CIT_RES": "ABEILHAN",
+  "ENT_POS_COD": "34290",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

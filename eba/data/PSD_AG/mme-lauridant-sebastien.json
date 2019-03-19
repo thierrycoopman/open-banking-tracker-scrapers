@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74844",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "819599952",
+  "ENT_NAM": "Mme LAURIDANT Sebastien",
+  "ENT_ADD": "4 AVENUE HUGUES IV DE CARDAILLAC",
+  "ENT_TOW_CIT_RES": "BIOULE",
+  "ENT_POS_COD": "82800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

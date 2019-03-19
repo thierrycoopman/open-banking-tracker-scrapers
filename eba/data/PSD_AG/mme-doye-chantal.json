@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72383",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "381258185",
+  "ENT_NAM": "Mme DOYE Chantal",
+  "ENT_ADD": "7 Rue De Doullens",
+  "ENT_TOW_CIT_RES": "CANDAS",
+  "ENT_POS_COD": "80750",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

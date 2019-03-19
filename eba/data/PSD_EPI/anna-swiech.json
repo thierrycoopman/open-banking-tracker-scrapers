@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5261475207",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5261475207",
+  "ENT_NAM": "Anna Święch",
+  "ENT_ADD": "Sportowa 3, Otwock, 05-400, PL",
+  "ENT_TOW_CIT_RES": "Otwock",
+  "ENT_POS_COD": "05-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-05-14"
+  ]
+}

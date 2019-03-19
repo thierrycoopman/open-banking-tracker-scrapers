@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65692",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "524827342",
+  "ENT_NAM": "BPOR",
+  "ENT_ADD": "3 avenue du Général Patton",
+  "ENT_TOW_CIT_RES": "ANGERS",
+  "ENT_POS_COD": "49000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

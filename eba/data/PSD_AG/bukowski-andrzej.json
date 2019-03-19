@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971683744!241",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "241",
+  "ENT_NAM": "BUKOWSKI ANDRZEJ",
+  "ENT_ADD": "ŚREDZKA KOL. 4/229, WROCŁAW, 54-111, PL",
+  "ENT_TOW_CIT_RES": "WROCŁAW",
+  "ENT_POS_COD": "54-111",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971683744",
+  "DER_CHI_ENT_AUT": "Active"
+}

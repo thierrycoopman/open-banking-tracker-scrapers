@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!72649",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "529196313",
+  "ENT_NAM": "PERSPECTEEV",
+  "ENT_NAM_COM": "BANKIN',BRIDGE",
+  "ENT_ADD": "4 rue de la Pierre Levée",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75011",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2018-01-13"
+  ]
+}

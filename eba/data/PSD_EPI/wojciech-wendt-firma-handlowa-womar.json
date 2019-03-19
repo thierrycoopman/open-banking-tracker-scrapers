@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5870004697",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5870004697",
+  "ENT_NAM": "Wojciech Wendt Firma Handlowa \"Womar\"",
+  "ENT_ADD": "Wejherowska 45, Puck, 84-100, PL",
+  "ENT_TOW_CIT_RES": "Puck",
+  "ENT_POS_COD": "84-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-04-27",
+    "2018-12-21"
+  ]
+}

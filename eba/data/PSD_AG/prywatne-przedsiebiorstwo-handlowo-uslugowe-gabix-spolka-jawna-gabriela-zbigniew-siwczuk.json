@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1459",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1459",
+  "ENT_NAM": "Prywatne Przedsiębiorstwo Handlowo-Usługowe Gabix Spółka Jawna Gabriela Zbigniew Siwczuk",
+  "ENT_ADD": "Letniskowa 48, Gdańsk, 80-299, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-299",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

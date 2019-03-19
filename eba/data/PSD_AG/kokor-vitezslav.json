@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!15738949",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "15738949",
+  "ENT_NAM": "Kokoř Vítězslav",
+  "ENT_ADD": "Zahradní 2745/6",
+  "ENT_TOW_CIT_RES": "Aš",
+  "ENT_POS_COD": "35201",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

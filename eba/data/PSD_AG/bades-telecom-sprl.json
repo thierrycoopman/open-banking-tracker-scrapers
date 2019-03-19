@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!540388_AG477",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG540388",
+  "ENT_NAM": "Bades Telecom sprl",
+  "ENT_ADD": "rue de la brasserie 104",
+  "ENT_TOW_CIT_RES": "Ixelles",
+  "ENT_POS_COD": "1050",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

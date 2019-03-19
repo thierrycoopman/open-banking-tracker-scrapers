@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4507",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4507",
+  "ENT_NAM": "\"TULON\" Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Grażyny Bacewiczówny 8, Warszawa, 02-786, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-786",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

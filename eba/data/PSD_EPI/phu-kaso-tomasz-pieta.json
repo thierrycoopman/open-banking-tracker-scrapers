@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!4990201046",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "4990201046",
+  "ENT_NAM": "PHU KASO Tomasz Pięta",
+  "ENT_ADD": "Nowy Rynek 5, Płock, 09-400, PL",
+  "ENT_TOW_CIT_RES": "Płock",
+  "ENT_POS_COD": "09-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14"
+  ]
+}

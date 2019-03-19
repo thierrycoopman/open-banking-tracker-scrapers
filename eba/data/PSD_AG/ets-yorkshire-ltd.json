@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!803160_AG664",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG803160",
+  "ENT_NAM": "ETS YORKSHIRE LTD",
+  "ENT_ADD": "124 Spencer Place",
+  "ENT_TOW_CIT_RES": "Leeds",
+  "ENT_POS_COD": "LS7 4DX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

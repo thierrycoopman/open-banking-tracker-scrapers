@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5372133177",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5372133177",
+  "ENT_NAM": "Monika Rafałko Przedsiębiorstwo Handlowo Usługowe ",
+  "ENT_ADD": "Czerwonego Krzyża 4, Terespol, 21-550, PL",
+  "ENT_TOW_CIT_RES": "Terespol",
+  "ENT_POS_COD": "21-550",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-09-17",
+    "2018-10-19"
+  ]
+}

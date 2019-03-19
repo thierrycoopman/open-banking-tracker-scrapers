@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72733",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "830727889",
+  "ENT_NAM": "FNDH",
+  "ENT_ADD": "88 avenue de la plaine de france",
+  "ENT_TOW_CIT_RES": "TREMBLAY EN FRANCE",
+  "ENT_POS_COD": "93290",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

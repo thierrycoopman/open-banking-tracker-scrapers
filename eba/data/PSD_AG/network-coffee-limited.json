@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!806727_AG8067",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG806727",
+  "ENT_NAM": "Network Coffee Limited",
+  "ENT_ADD": "10 St Pauls Square",
+  "ENT_TOW_CIT_RES": "Bedford",
+  "ENT_POS_COD": "MK40 1SL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

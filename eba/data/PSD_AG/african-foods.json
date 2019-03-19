@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13046!70901",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "818459695",
+  "ENT_NAM": "AFRICAN FOODS",
+  "ENT_ADD": "44 rue Elie Gintrac",
+  "ENT_TOW_CIT_RES": "BORDEAUX",
+  "ENT_POS_COD": "33000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13046",
+  "DER_CHI_ENT_AUT": "Active"
+}
+: "Active"
+}

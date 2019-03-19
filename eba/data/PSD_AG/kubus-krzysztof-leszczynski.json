@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5178",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5178",
+  "ENT_NAM": "\"KUBUŚ\" KRZYSZTOF LESZCZYŃSKI",
+  "ENT_ADD": "Żelazna 4, Żelazna, 96-116, PL",
+  "ENT_TOW_CIT_RES": "Żelazna",
+  "ENT_POS_COD": "96-116",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

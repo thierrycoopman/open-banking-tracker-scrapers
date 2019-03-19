@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!INS",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "C54426",
+  "ENT_NAM": "INSIGNIA CARDS LIMITED",
+  "ENT_NAM_COM": "INSIGNIA CARDS LIMITED",
+  "ENT_ADD": "Level 3, Valletta Buildings, South Street",
+  "ENT_TOW_CIT_RES": "Valletta",
+  "ENT_POS_COD": "VLT  1103",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2012-09-13"
+  ]
+}

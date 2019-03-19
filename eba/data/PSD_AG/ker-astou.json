@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!816121_AG8996",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG816121",
+  "ENT_NAM": "Ker Astou",
+  "ENT_ADD": "25 Rue Du Maine",
+  "ENT_TOW_CIT_RES": "Saint Nazaire",
+  "ENT_POS_COD": "44600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

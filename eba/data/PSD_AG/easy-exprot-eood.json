@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203623524",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203623524",
+  "ENT_NAM": [
+    "Изи Експрот ЕООД",
+    "Easy Exprot EOOD"
+  ],
+  "ENT_ADD": "1 Borba str., fl. 8, app. 39",
+  "ENT_TOW_CIT_RES": "Plovdiv",
+  "ENT_POS_COD": "4003",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

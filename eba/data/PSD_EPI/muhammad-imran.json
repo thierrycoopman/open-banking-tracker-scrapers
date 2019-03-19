@@ -1,0 +1,22 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!508263",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "508263",
+  "ENT_NAM": "Muhammad Imran",
+  "ENT_NAM_COM": [
+    "Vital Home Essentials",
+    "Imran International Services"
+  ],
+  "ENT_ADD": [
+    "269a Leith Walk",
+    "EH6 8PD"
+  ],
+  "ENT_TOW_CIT_RES": "EDINBURGH",
+  "ENT_POS_COD": "EH6 8PD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-01",
+    "2018-04-23"
+  ]
+}

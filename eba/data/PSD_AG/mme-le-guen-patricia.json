@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74172",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "397551896",
+  "ENT_NAM": "Mme LE GUEN Patricia",
+  "ENT_ADD": "13 ROUTE DE BREST",
+  "ENT_TOW_CIT_RES": "ST MARTIN DES CHAMPS",
+  "ENT_POS_COD": "29600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

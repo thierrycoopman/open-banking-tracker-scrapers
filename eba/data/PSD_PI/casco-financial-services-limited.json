@@ -1,0 +1,21 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!671508",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "671508",
+  "ENT_NAM": "Casco Financial Services Limited",
+  "ENT_NAM_COM": [
+    "Gogo Remit",
+    "Casco FX"
+  ],
+  "ENT_ADD": [
+    "55-63",
+    "Goswell Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC1V 7EN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-05-13"
+  ]
+}

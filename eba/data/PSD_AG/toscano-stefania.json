@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!835888_AG1528",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG835888",
+  "ENT_NAM": "TOSCANO STEFANIA",
+  "ENT_ADD": "VIA AMERIGO VESPUCCI 11",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "98027",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!792703",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "792703",
+  "ENT_NAM": "Digital Moneybox Limited",
+  "ENT_ADD": [
+    "Suite 1.07",
+    "1-2 Hatfields"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE1 9PG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-01-13"
+  ]
+}

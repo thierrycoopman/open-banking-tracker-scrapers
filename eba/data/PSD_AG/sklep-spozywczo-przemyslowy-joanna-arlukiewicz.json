@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!28",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "28",
+  "ENT_NAM": "Sklep Spożywczo-Przemysłowy Joanna Arlukiewicz",
+  "ENT_ADD": "Więckowy 34A, Więckowy, 83-250, PL",
+  "ENT_TOW_CIT_RES": "Więckowy",
+  "ENT_POS_COD": "83-250",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

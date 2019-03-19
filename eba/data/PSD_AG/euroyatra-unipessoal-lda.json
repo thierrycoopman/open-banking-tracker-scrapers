@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!834441_AG2567",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG834441",
+  "ENT_NAM": "Euroyatra, Unipessoal Lda",
+  "ENT_ADD": [
+    "Rua Coronel Ferreira do Amaral, 9",
+    "C/V Esq"
+  ],
+  "ENT_TOW_CIT_RES": "Lisboa",
+  "ENT_POS_COD": "1900165",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

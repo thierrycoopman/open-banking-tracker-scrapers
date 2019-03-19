@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!488396",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "488396",
+  "ENT_NAM": "FairFX PLC",
+  "ENT_ADD": [
+    "Vintners Place",
+    "Third Floor, Thames House",
+    "68 Upper Thames Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC4V 3BJ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2010-02-01"
+  ]
+}

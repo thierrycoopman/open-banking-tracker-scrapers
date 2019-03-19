@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2097",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2097",
+  "ENT_NAM": "P.H.U. \"EXPANDER\" HURT DETAL USŁUGI",
+  "ENT_ADD": "ADAMA GRZYMAŁY SIEDLECKIEGO 23b, Bydgoszcz, 85-868, PL",
+  "ENT_TOW_CIT_RES": "Bydgoszcz",
+  "ENT_POS_COD": "85-868",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

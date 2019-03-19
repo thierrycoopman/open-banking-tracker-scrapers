@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67747",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "382580538",
+  "ENT_NAM": "Mme JIMENEZ Marie-Agnès",
+  "ENT_ADD": "1 place Aubin Fabre",
+  "ENT_TOW_CIT_RES": "PEYRIAC DE MER",
+  "ENT_POS_COD": "11440",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

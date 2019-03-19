@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!7219",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7219",
+  "ENT_NAM": "Telia Communication Oy",
+  "ENT_ADD": "PL 94",
+  "ENT_TOW_CIT_RES": "HÄMEENLINNA",
+  "ENT_POS_COD": "13131",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2010-04-01"
+  ]
+}

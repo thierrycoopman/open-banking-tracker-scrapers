@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!545678_AG660",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG545678",
+  "ENT_NAM": "Nabila Phone Center & Alimentari di Siddiqur Rahman",
+  "ENT_ADD": "Via Nicolo` Daste 104/R",
+  "ENT_TOW_CIT_RES": "Genova",
+  "ENT_POS_COD": "161 49",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

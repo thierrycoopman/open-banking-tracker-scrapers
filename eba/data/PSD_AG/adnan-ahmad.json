@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!829906_AG10310",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829906",
+  "ENT_NAM": "Adnan Ahmad",
+  "ENT_ADD": "Via Enrico Arlotta 9",
+  "ENT_TOW_CIT_RES": "Portici",
+  "ENT_POS_COD": "80055",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

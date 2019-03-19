@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!592034_AG144",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG592034",
+  "ENT_NAM": "Rosa Schiavone",
+  "ENT_ADD": "Piazza Umberto I 19",
+  "ENT_TOW_CIT_RES": "San Marzano Sul Sarno",
+  "ENT_POS_COD": "84 010",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

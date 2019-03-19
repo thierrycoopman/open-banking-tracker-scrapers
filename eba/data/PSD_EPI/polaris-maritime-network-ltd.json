@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!786514",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "786514",
+  "ENT_NAM": "POLARIS MARITIME NETWORK LTD",
+  "ENT_NAM_COM": "POLARIS MARITIME",
+  "ENT_ADD": [
+    "Office 182",
+    "3 More London Riverside"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE1 2RE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-12-01"
+  ]
+}

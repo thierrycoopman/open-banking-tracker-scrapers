@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!800660460",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "800660460",
+  "ENT_NAM": "S. LAPATHIOTIS & SIA O.E.",
+  "ENT_ADD": "6, KALLERGI Str. & EMMANOUIL ROUSSOU Str.",
+  "ENT_TOW_CIT_RES": "ARGOS",
+  "ENT_POS_COD": "21200",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

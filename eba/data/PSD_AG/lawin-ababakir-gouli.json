@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!797004_AG7426",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG797004",
+  "ENT_NAM": "Lawin Ababakir Gouli",
+  "ENT_ADD": "Gronelundsgatan 9 C",
+  "ENT_TOW_CIT_RES": "Falkoping",
+  "ENT_POS_COD": "52135",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

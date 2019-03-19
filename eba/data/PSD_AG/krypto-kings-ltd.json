@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!776399_AG1694",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG776399",
+  "ENT_NAM": "Krypto Kings Ltd",
+  "ENT_ADD": "969 Leeds Road",
+  "ENT_TOW_CIT_RES": "Bradford",
+  "ENT_POS_COD": "BD3 8JB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

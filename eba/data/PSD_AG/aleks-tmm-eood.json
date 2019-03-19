@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203289957",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203289957",
+  "ENT_NAM": [
+    "Алекс - ТММ ЕООД",
+    "Aleks - TMM EOOD"
+  ],
+  "ENT_ADD": "25 Aleksandar Stamboliiski str.",
+  "ENT_TOW_CIT_RES": "Nedelino",
+  "ENT_POS_COD": "4990",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!681",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "681",
+  "ENT_NAM": "KATARZYNA KOPYCKA \"KATARZYNKA\" SKLEP SPOŻYWCZO-PRZEMYSŁOWY",
+  "ENT_ADD": "Zalesice 62A, Zalesice, 26-680, PL",
+  "ENT_TOW_CIT_RES": "Zalesice",
+  "ENT_POS_COD": "26-680",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

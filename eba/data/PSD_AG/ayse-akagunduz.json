@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!804100_AG7811",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG804100",
+  "ENT_NAM": "Ayse Akagunduz",
+  "ENT_ADD": "Monschauer Str 183",
+  "ENT_TOW_CIT_RES": "Dueren",
+  "ENT_POS_COD": "52355",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

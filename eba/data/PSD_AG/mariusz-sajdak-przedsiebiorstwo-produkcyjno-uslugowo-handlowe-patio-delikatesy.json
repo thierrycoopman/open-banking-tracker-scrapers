@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2841",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2841",
+  "ENT_NAM": "Mariusz Sajdak Przedsiębiorstwo Produkcyjno-Usługowo-Handlowe \"Patio-Delikatesy\"",
+  "ENT_ADD": "Beskidzka 133, Grojec, 32-615, PL",
+  "ENT_TOW_CIT_RES": "Grojec",
+  "ENT_POS_COD": "32-615",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

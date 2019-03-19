@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!656281_AG796",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG656281",
+  "ENT_NAM": "Pastore Mario",
+  "ENT_ADD": "Piazza Della Costituzione 15",
+  "ENT_TOW_CIT_RES": "San Giorgio Del Sannio",
+  "ENT_POS_COD": "8201 8",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

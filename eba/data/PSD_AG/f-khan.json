@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!787729_AG6896",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG787729",
+  "ENT_NAM": "F Khan",
+  "ENT_ADD": "85 Avenue Charles De Gaulle",
+  "ENT_TOW_CIT_RES": "Rochefort",
+  "ENT_POS_COD": "17300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

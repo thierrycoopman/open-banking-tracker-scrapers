@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!781624_AG380",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG781624",
+  "ENT_NAM": "Global Express Services Ltd",
+  "ENT_ADD": "53A Mile End Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 4TT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

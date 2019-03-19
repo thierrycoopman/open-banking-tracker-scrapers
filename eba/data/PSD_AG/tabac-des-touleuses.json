@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70869",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "822730347",
+  "ENT_NAM": "TABAC DES TOULEUSES",
+  "ENT_ADD": [
+    "12 place des Touleuses",
+    "Ctre commercial des Touleuses"
+  ],
+  "ENT_TOW_CIT_RES": "CERGY",
+  "ENT_POS_COD": "95000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

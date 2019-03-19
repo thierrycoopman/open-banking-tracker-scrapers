@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!596392_AG168",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG596392",
+  "ENT_NAM": "Muhammed Tahir Raza",
+  "ENT_ADD": [
+    "Sparkhill",
+    "532 Stratford road",
+    "Unit 11"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B11 4AJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

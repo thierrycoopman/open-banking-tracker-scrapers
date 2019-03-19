@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!123",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "123",
+  "ENT_NAM": "CENTRUM KREDYTOWE EWELINA JAWORSKA",
+  "ENT_ADD": "3 Maja 2, Lipno, 87-600, PL",
+  "ENT_TOW_CIT_RES": "Lipno",
+  "ENT_POS_COD": "87-600",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}
+T_AUT": "Inactive"
+}

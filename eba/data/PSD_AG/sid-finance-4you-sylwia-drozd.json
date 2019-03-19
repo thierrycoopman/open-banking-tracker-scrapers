@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6961002983!4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4",
+  "ENT_NAM": "SID Finance 4you Sylwia Drozd",
+  "ENT_ADD": "Plac Konstytucji 3 Maja 5/4, Lesko, 38-600, PL",
+  "ENT_TOW_CIT_RES": "Lesko",
+  "ENT_POS_COD": "38-600",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6961002983",
+  "DER_CHI_ENT_AUT": "Active"
+}

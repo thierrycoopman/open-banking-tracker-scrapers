@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5291706203",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5291706203",
+  "ENT_NAM": "AUTOLEX Katarzyna Wierzbicka",
+  "ENT_ADD": "Gen. Skokowskiego  107, Jaktorów Kolonia, 96-313, PL",
+  "ENT_TOW_CIT_RES": "Jaktorów Kolonia",
+  "ENT_POS_COD": "96-313",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-12-23"
+  ]
+}

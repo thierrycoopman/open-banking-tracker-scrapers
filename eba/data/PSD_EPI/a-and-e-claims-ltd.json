@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!512934",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "512934",
+  "ENT_NAM": "A & E Claims Ltd",
+  "ENT_NAM_COM": [
+    "A & E Claims",
+    "AE Claims"
+  ],
+  "ENT_ADD": "29 Highfield Road",
+  "ENT_TOW_CIT_RES": "Doncaster",
+  "ENT_POS_COD": "DN1 2LA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-24",
+    "2018-10-09"
+  ]
+}

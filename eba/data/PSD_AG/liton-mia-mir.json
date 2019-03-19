@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!999037210!128834449",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "128834449",
+  "ENT_NAM": "LITON MIA MIR",
+  "ENT_ADD": "74, NIKOPOLEOS Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "10446",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!999037210",
+  "DER_CHI_ENT_AUT": "Active"
+}

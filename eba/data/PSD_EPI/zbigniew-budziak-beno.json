@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8571502667",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8571502667",
+  "ENT_NAM": "Zbigniew Budziak BENO",
+  "ENT_ADD": "Klonowa 4/5, Gryfice, 72-300, PL",
+  "ENT_TOW_CIT_RES": "Gryfice",
+  "ENT_POS_COD": "72-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-09-13"
+  ]
+}

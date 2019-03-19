@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!509751!555430_AG1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG555430",
+  "ENT_NAM": "Kabayan Services GmbH",
+  "ENT_ADD": "16 Singerstrasse",
+  "ENT_TOW_CIT_RES": "Vienna",
+  "ENT_POS_COD": "a10 10",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!509751",
+  "DER_CHI_ENT_AUT": "Active"
+}

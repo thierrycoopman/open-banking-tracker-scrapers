@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9372252530",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9372252530",
+  "ENT_NAM": "POLCAS Stanisławski Tomasz",
+  "ENT_ADD": "Jutrzenki 33/B, Bielsko-Biała, 43-300, PL",
+  "ENT_TOW_CIT_RES": "Bielsko-Biała",
+  "ENT_POS_COD": "43-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-17"
+  ]
+}

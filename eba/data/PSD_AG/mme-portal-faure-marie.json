@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57228",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "349034116",
+  "ENT_NAM": "Mme PORTAL FAURE Marie",
+  "ENT_ADD": "46 avenue Baptiste Marcet",
+  "ENT_TOW_CIT_RES": "LE PUY EN VELAY",
+  "ENT_POS_COD": "43000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

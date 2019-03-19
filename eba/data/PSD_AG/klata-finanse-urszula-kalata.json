@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5851450734!17",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "17",
+  "ENT_NAM": "Klata Finanse Urszula Kalata",
+  "ENT_ADD": "Mickiewicza 10, Morąg, 14-300, PL",
+  "ENT_TOW_CIT_RES": "Morąg",
+  "ENT_POS_COD": "14-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851450734",
+  "DER_CHI_ENT_AUT": "Active"
+}

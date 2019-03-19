@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!709971_AG1319",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG709971",
+  "ENT_NAM": "Bar Excelsior S.A.S. Di Annunziata Vincenzo E C",
+  "ENT_ADD": [
+    "Ottaviano (NA)",
+    "Via Raffaele Pappalardo 192"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

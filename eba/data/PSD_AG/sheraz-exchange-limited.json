@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!755503_AG1460",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG755503",
+  "ENT_NAM": "Sheraz Exchange Limited",
+  "ENT_ADD": "Office No 4A Masons Avenue",
+  "ENT_TOW_CIT_RES": "Harrow",
+  "ENT_POS_COD": "HA3 5AP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

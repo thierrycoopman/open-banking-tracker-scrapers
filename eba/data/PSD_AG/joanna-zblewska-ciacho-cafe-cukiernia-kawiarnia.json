@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6009",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6009",
+  "ENT_NAM": "Joanna Zblewska \"CIACHO CAFE\" Cukiernia - Kawiarnia",
+  "ENT_ADD": "Cz3uchowska 3, Przechlewo, 77-320, PL",
+  "ENT_TOW_CIT_RES": "Przechlewo",
+  "ENT_POS_COD": "77-320",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

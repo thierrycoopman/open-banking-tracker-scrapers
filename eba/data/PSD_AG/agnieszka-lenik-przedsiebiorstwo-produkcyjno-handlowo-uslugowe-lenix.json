@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1249",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1249",
+  "ENT_NAM": "Agnieszka Lenik Przedsiębiorstwo - Produkcyjno - Handlowo - Usługowe \"Lenix\"",
+  "ENT_ADD": "  149A, Kuków, 34-206, PL",
+  "ENT_TOW_CIT_RES": "Kuków",
+  "ENT_POS_COD": "34-206",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

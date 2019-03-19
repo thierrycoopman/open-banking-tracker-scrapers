@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6492134607",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6492134607",
+  "ENT_NAM": "RedLAN Robert Kuczera",
+  "ENT_ADD": "Osiedlowa 15A, Zawiercie, 42-400, PL",
+  "ENT_TOW_CIT_RES": "Zawiercie",
+  "ENT_POS_COD": "42-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-01-22"
+  ]
+}

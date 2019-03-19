@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!1250514367",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "1250514367",
+  "ENT_NAM": "Anna Wysocka",
+  "ENT_ADD": "Piłsudskiego 5, Wołomin, 05-200, PL",
+  "ENT_TOW_CIT_RES": "Wołomin",
+  "ENT_POS_COD": "05-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-06-20"
+  ]
+}

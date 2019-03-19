@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62657",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "514028844",
+  "ENT_NAM": "M. BIANI Christophe",
+  "ENT_ADD": "24 avenue de Toulon",
+  "ENT_TOW_CIT_RES": "DONCHERY",
+  "ENT_POS_COD": "08350",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!463",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "40103445248",
+  "ENT_NAM": "Sabiedrība ar ierobežotu atbildību \"My Pay\"",
+  "ENT_NAM_COM": "My Pay",
+  "ENT_ADD": "Murjāņu iela 1A",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1024",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2012-01-13"
+  ]
+}

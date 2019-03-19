@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67951",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "802507996",
+  "ENT_NAM": "M. DONG Kévin",
+  "ENT_ADD": "15 place de la République",
+  "ENT_TOW_CIT_RES": "FERE EN TARDENOIS",
+  "ENT_POS_COD": "02130",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

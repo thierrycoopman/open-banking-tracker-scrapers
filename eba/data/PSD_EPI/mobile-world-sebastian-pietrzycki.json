@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9121606580",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9121606580",
+  "ENT_NAM": "MOBILE-WORLD Sebastian Pietrzycki",
+  "ENT_ADD": "Długa 2, Brzeg, 49-300, PL",
+  "ENT_TOW_CIT_RES": "Brzeg",
+  "ENT_POS_COD": "49-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-08"
+  ]
+}

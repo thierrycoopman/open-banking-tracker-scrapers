@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!7343537648!1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1",
+  "ENT_NAM": "Sabo Barbara Zegarzewska Pośrednictwo Finansowe",
+  "ENT_ADD": "Wojska Polskiego 46, Kolno, 18-500, PL",
+  "ENT_TOW_CIT_RES": "Kolno",
+  "ENT_POS_COD": "18-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7343537648",
+  "DER_CHI_ENT_AUT": "Active"
+}

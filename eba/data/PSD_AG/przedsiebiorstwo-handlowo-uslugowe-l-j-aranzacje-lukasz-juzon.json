@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!732",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "732",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo - Usługowe \"Ł. J. Aranżacje\" Łukasz Juzoń",
+  "ENT_ADD": "Elizy Orzeszkowej 12c, Kielce, 25-435, PL",
+  "ENT_TOW_CIT_RES": "Kielce",
+  "ENT_POS_COD": "25-435",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

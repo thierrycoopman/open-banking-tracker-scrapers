@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2690",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2690",
+  "ENT_NAM": "Natalia Bujak NAT-PRES",
+  "ENT_ADD": "Jakuba Bojki 10/8, Kraków, 30-611, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "30-611",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

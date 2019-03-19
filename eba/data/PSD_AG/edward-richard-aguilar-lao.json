@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!610222_AG342",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG610222",
+  "ENT_NAM": "Edward Richard Aguilar Lao",
+  "ENT_ADD": "27 Genoa Court",
+  "ENT_TOW_CIT_RES": "Andover",
+  "ENT_POS_COD": "SP10 5JB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

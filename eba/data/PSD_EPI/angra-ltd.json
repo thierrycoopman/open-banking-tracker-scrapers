@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!567231",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "567231",
+  "ENT_NAM": "Angra Ltd",
+  "ENT_ADD": "1 College Yard, Winchester Avenue",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW6 7UA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-04-04"
+  ]
+}

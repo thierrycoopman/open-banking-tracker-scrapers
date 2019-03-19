@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203007074",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203007074",
+  "ENT_NAM": [
+    "Пиенпи 70 ЕООД",
+    "Pienpi 70 EOOD"
+  ],
+  "ENT_ADD": "51A Silistra str., fl. 7, app. 19",
+  "ENT_TOW_CIT_RES": "Dobrich",
+  "ENT_POS_COD": "9300",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

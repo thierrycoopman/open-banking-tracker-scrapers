@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!4179",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4179",
+  "ENT_NAM": "\"KAHART\" Firma Handlowo-Us3ugowa Artur Dombrowski",
+  "ENT_ADD": "Nieca3a 22, Bystrzyca, 55-200, PL",
+  "ENT_TOW_CIT_RES": "Bystrzyca",
+  "ENT_POS_COD": "55-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

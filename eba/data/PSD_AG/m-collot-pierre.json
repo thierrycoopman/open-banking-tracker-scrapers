@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!59055",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "381249531",
+  "ENT_NAM": "M. COLLOT Pierre",
+  "ENT_ADD": [
+    "Centre commercial Les Fontaines ",
+    "Plessis la Forêt"
+  ],
+  "ENT_TOW_CIT_RES": "SAVIGNY LE TEMPLE",
+  "ENT_POS_COD": "77176",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

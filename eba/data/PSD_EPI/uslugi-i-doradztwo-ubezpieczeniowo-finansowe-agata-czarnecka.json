@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5371569116",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5371569116",
+  "ENT_NAM": "Usługi i Doradztwo Ubezpieczeniowo-Finansowe Agata Czarnecka",
+  "ENT_ADD": "Kościelna 1, Biała Podlaska, 21-500, PL",
+  "ENT_TOW_CIT_RES": "Biała Podlaska",
+  "ENT_POS_COD": "21-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-26"
+  ]
+}

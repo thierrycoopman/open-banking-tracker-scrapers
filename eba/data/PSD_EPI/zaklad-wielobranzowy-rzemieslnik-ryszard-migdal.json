@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5990203778",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5990203778",
+  "ENT_NAM": "Zakład Wielobranżowy \"Rzemieślnik\" Ryszard Migdał",
+  "ENT_ADD": "Sikorskiego 17, Witnica, 66-460, PL",
+  "ENT_TOW_CIT_RES": "Witnica",
+  "ENT_POS_COD": "66-460",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-11-20"
+  ]
+}

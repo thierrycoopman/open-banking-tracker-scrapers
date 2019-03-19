@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R135780",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "R135780",
+  "ENT_NAM": "Mobuyou B.V.",
+  "ENT_ADD": "De Lind 20",
+  "ENT_TOW_CIT_RES": "OISTERWIJK",
+  "ENT_POS_COD": "5061 HW",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

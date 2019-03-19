@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1120",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1120",
+  "ENT_NAM": "Wojciech Jurek Sklep Spożywczo - Przemysłowy",
+  "ENT_ADD": "  109, Siedliska, 33-172, PL",
+  "ENT_TOW_CIT_RES": "Siedliska",
+  "ENT_POS_COD": "33-172",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

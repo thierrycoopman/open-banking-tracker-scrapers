@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!28",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "28",
+  "ENT_NAM": "Przedsiębiorstwo Produkcyjno-Handlowo-Usługowe \"EL-PRO\" Elwira Pustuł",
+  "ENT_ADD": "Osiedle Na Skarpie  19/6, Sędziszów, 28-340, PL",
+  "ENT_TOW_CIT_RES": "Sędziszów",
+  "ENT_POS_COD": "28-340",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

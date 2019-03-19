@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201821190",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201821190",
+  "ENT_NAM": [
+    "Та Инвест ЕООД",
+    "Ta Invest Ltd EOOD"
+  ],
+  "ENT_ADD": "zh.k. Lyulin 3, build 325, entr. B, fl. 7, app. 43",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1336",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

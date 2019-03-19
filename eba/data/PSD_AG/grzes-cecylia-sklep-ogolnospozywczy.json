@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!369",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "369",
+  "ENT_NAM": "Grześ Cecylia Sklep Ogólnospożywczy",
+  "ENT_ADD": "Karkonoska 107, Jelenia Góra, 58-571, PL",
+  "ENT_TOW_CIT_RES": "Jelenia Góra",
+  "ENT_POS_COD": "58-571",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094438857!800091269",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "800091269",
+  "ENT_NAM": "V. BAGIOKOS - D. SPYRAKOS E.E.",
+  "ENT_ADD": "23, I. GRIGORAKI Str.",
+  "ENT_TOW_CIT_RES": "GYTHEIO",
+  "ENT_POS_COD": "23200",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094438857",
+  "DER_CHI_ENT_AUT": "Active"
+}

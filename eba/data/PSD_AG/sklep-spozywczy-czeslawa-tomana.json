@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!778",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "778",
+  "ENT_NAM": "SKLEP SPOŻYWCZY Czesława Tomana",
+  "ENT_ADD": "Generała Zygmunta Zielińskiego 9, Rzeszotary, 30-040, PL",
+  "ENT_TOW_CIT_RES": "Rzeszotary",
+  "ENT_POS_COD": "30-040",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

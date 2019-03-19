@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!61858",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "753407261",
+  "ENT_NAM": "VENET & CIE",
+  "ENT_ADD": "6B Rue du Quatorze Juillet",
+  "ENT_TOW_CIT_RES": "ARES",
+  "ENT_POS_COD": "33740",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

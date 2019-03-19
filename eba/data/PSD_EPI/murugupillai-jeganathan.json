@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!539942",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "539942",
+  "ENT_NAM": "Murugupillai Jeganathan",
+  "ENT_NAM_COM": "KV  Money Transfer",
+  "ENT_ADD": "67 Woodlands Road",
+  "ENT_TOW_CIT_RES": "Southall",
+  "ENT_POS_COD": "UB1 1EJ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-07-07"
+  ]
+}

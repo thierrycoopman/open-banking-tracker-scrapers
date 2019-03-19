@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5851412521!33",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "33",
+  "ENT_NAM": "CASH HOUSE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "ENT_ADD": "Jana Pawła II 5, Września, 62-300, PL",
+  "ENT_TOW_CIT_RES": "Września",
+  "ENT_POS_COD": "62-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851412521",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+}

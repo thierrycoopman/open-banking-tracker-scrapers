@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!714730",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "714730",
+  "ENT_NAM": "Affiliate Squared Ltd",
+  "ENT_ADD": "7 Western Gardens",
+  "ENT_TOW_CIT_RES": "Brentwood",
+  "ENT_POS_COD": "CM14 4SP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-10-06"
+  ]
+}

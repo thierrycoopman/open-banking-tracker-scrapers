@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1451",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1451",
+  "ENT_NAM": "SŁAWOMIR RUTKOWSKI \"RUTKOWSCY \" Handel Detal. Art.Spoż. i Przemysłowe",
+  "ENT_ADD": "Przy Agorze 2, Warszawa, 01-960, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "01-960",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

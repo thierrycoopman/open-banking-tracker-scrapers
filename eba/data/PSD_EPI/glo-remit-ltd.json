@@ -1,0 +1,21 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!759532",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "759532",
+  "ENT_NAM": "Glo Remit Ltd",
+  "ENT_NAM_COM": [
+    "Glo Money",
+    "Global Remit",
+    "Glo Remit",
+    "Global Remit Money Transfer",
+    "Global Remit Financial Services"
+  ],
+  "ENT_ADD": "79a West Ham Lane",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E15 4PH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-12-01"
+  ]
+}

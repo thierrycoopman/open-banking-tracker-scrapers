@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!124249",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "124249",
+  "ENT_NAM": "FWU Payment GmbH",
+  "ENT_ADD": "Boschetsrieder Straße 67 | 81379 München",
+  "ENT_TOW_CIT_RES": "München",
+  "ENT_POS_COD": "81379",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-06-28"
+  ]
+}

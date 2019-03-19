@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!811445_AG8568",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG811445",
+  "ENT_NAM": "Salar Rashed Walli Walli",
+  "ENT_ADD": "Emsteker Str 14",
+  "ENT_TOW_CIT_RES": "Cloppenburg",
+  "ENT_POS_COD": "49661",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

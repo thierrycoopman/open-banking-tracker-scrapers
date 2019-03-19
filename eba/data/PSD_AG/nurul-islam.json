@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!797679_AG1992",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG797679",
+  "ENT_NAM": "Nurul Islam",
+  "ENT_ADD": [
+    "Acorn House",
+    "1 Chertsey Road"
+  ],
+  "ENT_TOW_CIT_RES": "Woking",
+  "ENT_POS_COD": "GU21 5AB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

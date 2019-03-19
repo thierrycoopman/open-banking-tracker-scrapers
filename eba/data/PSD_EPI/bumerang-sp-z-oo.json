@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6040152506",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6040152506",
+  "ENT_NAM": "Bumerang Sp. z o.o.",
+  "ENT_ADD": "Podkomorzego 32, Pruszcz Gdański, 83-000, PL",
+  "ENT_TOW_CIT_RES": "Pruszcz Gdański",
+  "ENT_POS_COD": "83-000",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-04-16"
+  ]
+}

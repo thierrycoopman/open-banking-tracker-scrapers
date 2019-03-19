@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!650779_AG3619",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG650779",
+  "ENT_NAM": "Shahzad Mahmood",
+  "ENT_ADD": "Albjergparken 4",
+  "ENT_TOW_CIT_RES": "Brondby Strand",
+  "ENT_POS_COD": "26 60",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

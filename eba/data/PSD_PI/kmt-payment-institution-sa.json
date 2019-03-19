@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "GR_BOG!800316659",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "800316659",
+  "ENT_NAM": "KMT PAYMENT INSTITUTION S.A.",
+  "ENT_NAM_COM": "KMT",
+  "ENT_ADD": "39-41, AGIOU KONSTANTINOU Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "10437",
+  "ENT_COU_RES": "GR",
+  "ENT_AUT": [
+    "2018-07-23"
+  ]
+}

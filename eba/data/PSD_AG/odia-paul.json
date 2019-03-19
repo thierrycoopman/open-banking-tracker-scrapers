@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!552064_AG966",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG552064",
+  "ENT_NAM": "Odia Paul",
+  "ENT_ADD": "Leharstraat 76",
+  "ENT_TOW_CIT_RES": "Tilburg",
+  "ENT_POS_COD": "302 1BJ",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!69961",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "819733494",
+  "ENT_NAM": "SPEED PHONE",
+  "ENT_ADD": [
+    "Centre commercial Carrefour",
+    "rue Jacques Duclos",
+    "Avenue Maurice Thorez"
+  ],
+  "ENT_TOW_CIT_RES": "SARTROUVILLE",
+  "ENT_POS_COD": "78500",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

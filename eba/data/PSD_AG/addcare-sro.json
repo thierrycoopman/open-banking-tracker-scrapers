@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!25163680!47496592",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "47496592",
+  "ENT_NAM": "AddCare s.r.o.",
+  "ENT_ADD": "Sládkovičova 2051/52",
+  "ENT_TOW_CIT_RES": "Šaľa",
+  "ENT_POS_COD": "927 01",
+  "ENT_COU_RES": "SK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!25163680",
+  "DER_CHI_ENT_AUT": "Active"
+}

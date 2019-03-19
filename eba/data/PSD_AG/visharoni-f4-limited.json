@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!789301_AG6990",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG789301",
+  "ENT_NAM": "Visharoni (F4) Limited",
+  "ENT_ADD": "111 Upper Clapton Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E5 9BU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

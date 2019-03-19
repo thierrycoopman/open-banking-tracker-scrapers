@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!00031747",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "00031747",
+  "ENT_NAM": "COOP Hořovice, družstvo",
+  "ENT_ADD": "Palackého náměstí 200/10",
+  "ENT_TOW_CIT_RES": "Hořovice",
+  "ENT_POS_COD": "26801",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

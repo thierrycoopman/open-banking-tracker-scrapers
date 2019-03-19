@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!532088",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "532088",
+  "ENT_NAM": "BA Exchange Company (UK) Limited",
+  "ENT_ADD": [
+    "125",
+    "Whitechapel Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 1DT",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2010-12-24"
+  ]
+}

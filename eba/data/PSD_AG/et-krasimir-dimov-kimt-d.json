@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!117017681",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "117017681",
+  "ENT_NAM": [
+    "ЕТ Красимир Димов - КИМТ - Д",
+    "ET Krasimir Dimov - KIMT - D"
+  ],
+  "ENT_ADD": "63 Vasil Levski str., Ruse area",
+  "ENT_TOW_CIT_RES": "Dve mogili",
+  "ENT_POS_COD": "7150",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

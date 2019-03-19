@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!314",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "314",
+  "ENT_NAM": "Biuro Usług Finansowo-Księgowych ”BUCHALTER” Jadwiga Kobuszewska",
+  "ENT_ADD": "ul. Południowa 22, Rawa Mazowiecka, 96-200, PL",
+  "ENT_TOW_CIT_RES": "Rawa Mazowiecka",
+  "ENT_POS_COD": "96-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

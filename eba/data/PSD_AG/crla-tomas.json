@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!12473057",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "12473057",
+  "ENT_NAM": "Crla Tomáš",
+  "ENT_ADD": "Gen. Janka 1154/2",
+  "ENT_TOW_CIT_RES": "Ostrava",
+  "ENT_POS_COD": "70900",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!572123!618475_AG12",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG618475",
+  "ENT_NAM": "Abdirahman Sheikh Hassan",
+  "ENT_ADD": "179 Church Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW10 9EE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!572123",
+  "DER_CHI_ENT_AUT": "Active"
+}

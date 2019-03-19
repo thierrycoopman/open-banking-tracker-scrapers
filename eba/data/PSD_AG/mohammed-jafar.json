@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!156669930",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "156669930",
+  "ENT_NAM": "MOHAMMED JAFAR",
+  "ENT_ADD": "96, ARISTOTELOUS Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "10434",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

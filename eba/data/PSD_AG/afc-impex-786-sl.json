@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!767608_AG672",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG767608",
+  "ENT_NAM": "AFC Impex 786 SL",
+  "ENT_ADD": [
+    "8 bajos Mislata",
+    "calle Manuel simo"
+  ],
+  "ENT_TOW_CIT_RES": "valencia",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

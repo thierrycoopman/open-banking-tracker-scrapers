@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "LT_LT_LT_LB_305007941",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "305007941",
+  "ENT_NAM": "UAB \"H Pay & Go\"",
+  "ENT_ADD": "Vilniaus m. sav. Vilniaus m. Gynėjų g. 4-333",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "01109",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2019-01-21"
+  ]
+}

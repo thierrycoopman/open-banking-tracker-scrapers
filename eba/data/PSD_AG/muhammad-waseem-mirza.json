@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!754457_AG424",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG754457",
+  "ENT_NAM": "Muhammad Waseem Mirza",
+  "ENT_ADD": "129 Hyde Park Road",
+  "ENT_TOW_CIT_RES": "Leeds",
+  "ENT_POS_COD": "LS6 1AJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

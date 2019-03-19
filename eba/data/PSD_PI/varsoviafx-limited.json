@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!767993",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "767993",
+  "ENT_NAM": "VarsoviaFX Limited",
+  "ENT_ADD": [
+    "Suite 2",
+    "Alexander House",
+    "7 Oaklands Gate"
+  ],
+  "ENT_TOW_CIT_RES": "Northwood",
+  "ENT_POS_COD": "HA6 3AA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-04-11"
+  ]
+}

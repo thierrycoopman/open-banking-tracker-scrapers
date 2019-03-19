@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1766",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1766",
+  "ENT_NAM": "Maria Kołodziej Sklep z Artykułami Spożywczo-Przemysłowymi",
+  "ENT_ADD": "Wola Raniżowska 433, Wola Raniżowska, 36-130, PL",
+  "ENT_TOW_CIT_RES": "Wola Raniżowska",
+  "ENT_POS_COD": "36-130",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

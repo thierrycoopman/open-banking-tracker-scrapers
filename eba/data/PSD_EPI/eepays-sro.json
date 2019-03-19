@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!29415152",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "29415152",
+  "ENT_NAM": "EEPAYS s.r.o. ",
+  "ENT_ADD": "Revoluční 762/13",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "11000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2013-05-10"
+  ]
+}

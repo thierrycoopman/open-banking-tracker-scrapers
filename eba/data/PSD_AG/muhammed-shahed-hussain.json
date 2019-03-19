@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!768540_AG1603",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG768540",
+  "ENT_NAM": "Muhammed Shahed Hussain",
+  "ENT_ADD": [
+    "165 Staines Road",
+    "Hounslow"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "TW3 3LL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2650",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2650",
+  "ENT_NAM": "Sklep Spożywczo-Przemysłowy Zbigniew Wawrzyniak",
+  "ENT_ADD": "Bolesława Chrobrego 4, Boleszkowice, 74-407, PL",
+  "ENT_TOW_CIT_RES": "Boleszkowice",
+  "ENT_POS_COD": "74-407",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

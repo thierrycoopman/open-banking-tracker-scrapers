@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "AGN407",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "40003365783",
+  "ENT_NAM": "Sabiedrība ar ierobežotu atbildību \"NARVESEN BALTIJA\"",
+  "ENT_ADD": "Aiviekstes iela 4",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1003",
+  "ENT_COU_RES": "LV",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "LV_FCMC!416",
+  "DER_CHI_ENT_AUT": "Active"
+}

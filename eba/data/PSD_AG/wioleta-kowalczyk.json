@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!695",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "695",
+  "ENT_NAM": "Wioleta Kowalczyk",
+  "ENT_ADD": "Świerczewskiego 14, Brójce, 66-304, PL",
+  "ENT_TOW_CIT_RES": "Brójce",
+  "ENT_POS_COD": "66-304",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!834629_AG10666",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG834629",
+  "ENT_NAM": "Whittles Newsagent Limited",
+  "ENT_ADD": "772 Barking Road Plaistow",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E13 9PJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

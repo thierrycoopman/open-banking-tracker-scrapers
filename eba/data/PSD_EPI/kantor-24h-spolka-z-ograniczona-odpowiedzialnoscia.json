@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7811953944",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7811953944",
+  "ENT_NAM": "Kantor 24H spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Poznańska 1/3, Poznań, 60-848, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "60-848",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-01-16",
+    "2018-10-12"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!593364!825253_AG58",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG825253",
+  "ENT_NAM": "Katarzyna Kapecka",
+  "ENT_ADD": [
+    "Unit 5",
+    "Market Square"
+  ],
+  "ENT_TOW_CIT_RES": "Ballina",
+  "ENT_POS_COD": "F26 NX22",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!593364",
+  "DER_CHI_ENT_AUT": "Active"
+}

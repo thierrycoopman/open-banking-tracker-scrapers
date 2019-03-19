@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!838",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "838",
+  "ENT_NAM": "Pawlak Michał ”MILL – MAX”",
+  "ENT_ADD": "ul. 1 Maja 18, Lipsko n/Wisłą, 27-300, PL",
+  "ENT_TOW_CIT_RES": "Lipsko n/Wisłą",
+  "ENT_POS_COD": "27-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

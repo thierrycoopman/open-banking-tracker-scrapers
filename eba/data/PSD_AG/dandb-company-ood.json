@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!205078396",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "205078396",
+  "ENT_NAM": [
+    "Д - Б Къмпани ООД",
+    "D&B Company OOD"
+  ],
+  "ENT_ADD": "8 Karamfil str., zh.k. Verdikal",
+  "ENT_TOW_CIT_RES": "Bankya",
+  "ENT_POS_COD": "1320",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

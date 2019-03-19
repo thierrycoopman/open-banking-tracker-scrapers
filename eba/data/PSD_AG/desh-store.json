@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!828539_AG10127",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG828539",
+  "ENT_NAM": "Desh Store",
+  "ENT_ADD": [
+    "Toulouse",
+    "37 Rue Des 7 Troubadours"
+  ],
+  "ENT_TOW_CIT_RES": "Occitanie",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

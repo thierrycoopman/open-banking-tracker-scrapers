@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75648",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "420205908",
+  "ENT_NAM": "M. DELAFORGE Philippe",
+  "ENT_ADD": "33, 35 rue François Mitterand",
+  "ENT_TOW_CIT_RES": "PORT SUR SAONE",
+  "ENT_POS_COD": "70170",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

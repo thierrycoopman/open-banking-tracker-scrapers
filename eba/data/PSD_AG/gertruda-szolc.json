@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2045",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2045",
+  "ENT_NAM": "Gertruda Szolc",
+  "ENT_ADD": "Rymera 11, Zabełków, 47-460, PL",
+  "ENT_TOW_CIT_RES": "Zabełków",
+  "ENT_POS_COD": "47-460",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

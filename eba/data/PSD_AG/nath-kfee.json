@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72758",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "832194625",
+  "ENT_NAM": "NATH KFEE",
+  "ENT_ADD": "38 rue principale",
+  "ENT_TOW_CIT_RES": "OIZE",
+  "ENT_POS_COD": "72330",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!665506_AG3813",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG665506",
+  "ENT_NAM": "Angelo Alessio",
+  "ENT_ADD": "Via Liberta 57 B",
+  "ENT_TOW_CIT_RES": "Ciro Marina",
+  "ENT_POS_COD": "8881 1",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

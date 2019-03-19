@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6713",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6713",
+  "ENT_NAM": "Anna Kulczyk-Szymańska 1/ Fabio s.c. 2/ Morgan s.c.",
+  "ENT_ADD": "Mikołowska 66a, Tychy, 43-100, PL",
+  "ENT_TOW_CIT_RES": "Tychy",
+  "ENT_POS_COD": "43-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

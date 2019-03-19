@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!742163",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "742163",
+  "ENT_NAM": "Platio Limited",
+  "ENT_ADD": [
+    "Dashwood House Level 17",
+    "69 Old Broad Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2M 1QS",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-07-01"
+  ]
+}

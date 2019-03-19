@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!131424592",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "131424592",
+  "ENT_NAM": [
+    "Далукойл ЕООД",
+    "Dalukoyl EOOD"
+  ],
+  "ENT_ADD": "zh.k. Levski, build. 21, entr. 3, fl. 3, app. 60, Poduyane dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1836",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

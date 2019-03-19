@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!834386_AG2564",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG834386",
+  "ENT_NAM": "Adzee Retails Ltd",
+  "ENT_ADD": "30 Glebe Place",
+  "ENT_TOW_CIT_RES": "Cambuslang",
+  "ENT_POS_COD": "G72 8LJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

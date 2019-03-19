@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "PSD_PI!MT_MFSA!ENT!AG21234543",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2123454-3",
+  "ENT_NAM": "PlusPay Finland OY",
+  "ENT_ADD": "c/o MOW Mothership of Work, Small Roobertinkatu 9",
+  "ENT_TOW_CIT_RES": "Helsinki",
+  "ENT_POS_COD": "00130",
+  "ENT_COU_RES": "FI",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "MT_MFSA!ENT",
+  "DER_CHI_ENT_AUT": "Active"
+}

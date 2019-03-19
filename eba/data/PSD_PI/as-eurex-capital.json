@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "EE_FI",
+  "EntityCode": "10543836",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "10543836",
+  "ENT_NAM": "AS Eurex Capital",
+  "ENT_ADD": "Tornimäe 5",
+  "ENT_TOW_CIT_RES": "Tallinn",
+  "ENT_POS_COD": "10145",
+  "ENT_COU_RES": "EE",
+  "ENT_AUT": [
+    "2011-04-27",
+    "2017-10-09"
+  ]
+}

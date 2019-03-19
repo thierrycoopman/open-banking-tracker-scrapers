@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8252046589",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8252046589",
+  "ENT_NAM": "POŚREDNICTWO FINANSOWE PROFIT Aleksandra Pytlak (d. POŚREDNICTWO FINANSOWE PROFIT Aleksandra Trochimowska)",
+  "ENT_ADD": "Eugeniusza Kwiatkowskiego  3, Łuków, 21-400, PL",
+  "ENT_TOW_CIT_RES": "Łuków",
+  "ENT_POS_COD": "21-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-05-17",
+    "2018-10-24"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!817141_AG2280",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG817141",
+  "ENT_NAM": "Michell De Souza Meyer",
+  "ENT_ADD": "Stationsstraat 49",
+  "ENT_TOW_CIT_RES": "Tervuren",
+  "ENT_POS_COD": "3080",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

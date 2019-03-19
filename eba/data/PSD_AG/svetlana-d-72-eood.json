@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!205328818",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "205328818",
+  "ENT_NAM": [
+    "Светлана Д 72 ЕООД",
+    "Svetlana D 72 EOOD"
+  ],
+  "ENT_ADD": "120 Dunav blvd., Severen dist.",
+  "ENT_TOW_CIT_RES": "Plovdiv",
+  "ENT_POS_COD": "4003",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

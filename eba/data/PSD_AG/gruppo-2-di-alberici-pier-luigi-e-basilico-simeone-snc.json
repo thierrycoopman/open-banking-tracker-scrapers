@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!626720_AG3380",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG626720",
+  "ENT_NAM": "Gruppo 2 Di Alberici Pier Luigi E Basilico Simeone S.N.C.",
+  "ENT_ADD": "Via Piave 17",
+  "ENT_TOW_CIT_RES": "Sannazzaro De Burgondi",
+  "ENT_POS_COD": "27039",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

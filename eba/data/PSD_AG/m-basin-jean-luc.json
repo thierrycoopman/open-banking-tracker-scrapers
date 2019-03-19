@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74641",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "812473619",
+  "ENT_NAM": "M. BASIN Jean-Luc",
+  "ENT_ADD": "16 rue Saint-Jacques",
+  "ENT_TOW_CIT_RES": "THANN",
+  "ENT_POS_COD": "68800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

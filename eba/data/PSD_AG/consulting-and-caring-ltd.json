@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!816900_AG2276",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG816900",
+  "ENT_NAM": "Consulting And Caring Ltd",
+  "ENT_ADD": [
+    "Unit 05",
+    "16 Tarling Street",
+    "Shadwell"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 0AD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

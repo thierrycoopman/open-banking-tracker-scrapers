@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971683744!179",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "179",
+  "ENT_NAM": "SALONIK \"TABAKO\" MAŁGORZATA ŁAWNICZAK",
+  "ENT_ADD": "G.Morcinka 3, DĄBROWA GÓRNICZA, 41-303, PL",
+  "ENT_TOW_CIT_RES": "DĄBROWA GÓRNICZA",
+  "ENT_POS_COD": "41-303",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971683744",
+  "DER_CHI_ENT_AUT": "Active"
+}

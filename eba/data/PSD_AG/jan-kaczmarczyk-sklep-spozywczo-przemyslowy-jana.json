@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2588",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2588",
+  "ENT_NAM": "Jan Kaczmarczyk Sklep Spożywczo-Przemysłowy \"Jana\"",
+  "ENT_ADD": "Buciorówka 158, Tylmanowa, 34-451, PL",
+  "ENT_TOW_CIT_RES": "Tylmanowa",
+  "ENT_POS_COD": "34-451",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

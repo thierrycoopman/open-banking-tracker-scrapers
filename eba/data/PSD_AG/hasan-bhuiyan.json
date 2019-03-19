@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!687555_AG4066",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG687555",
+  "ENT_NAM": "Hasan Bhuiyan",
+  "ENT_ADD": "Sestiere Cannaregio 1413 A",
+  "ENT_TOW_CIT_RES": "Venezia",
+  "ENT_POS_COD": "301 22",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

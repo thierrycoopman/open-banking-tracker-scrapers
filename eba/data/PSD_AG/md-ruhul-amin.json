@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!755115_AG5379",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG755115",
+  "ENT_NAM": "MD Ruhul Amin",
+  "ENT_ADD": "367 Hanworth Road",
+  "ENT_TOW_CIT_RES": "Hounslow",
+  "ENT_POS_COD": "TW4 5LF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

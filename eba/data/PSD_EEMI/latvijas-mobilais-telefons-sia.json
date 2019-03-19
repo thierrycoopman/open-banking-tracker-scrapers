@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!396",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "50003050931",
+  "ENT_NAM": "\"Latvijas Mobilais Telefons\" SIA",
+  "ENT_NAM_COM": "lmt",
+  "ENT_ADD": "Ropažu iela 6",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1039",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2012-04-28"
+  ]
+}

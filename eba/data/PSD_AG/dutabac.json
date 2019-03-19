@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77085",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "408784593",
+  "ENT_NAM": "DUTABAC",
+  "ENT_ADD": "22 QUAI ROMAIN ROLLAND",
+  "ENT_TOW_CIT_RES": "LYON",
+  "ENT_POS_COD": "69005",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!797664_AG1989",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG797664",
+  "ENT_NAM": "Watan Exchange Ltd",
+  "ENT_ADD": "5 Grand Arcade North Finchley",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "N12 0EH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

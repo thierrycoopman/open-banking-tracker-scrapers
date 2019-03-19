@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!MST",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "C63632",
+  "ENT_NAM": "MISTRAL PAY LTD",
+  "ENT_NAM_COM": "MISTRAL PAY LTD",
+  "ENT_ADD": "51, Europa Centre, St. Anne",
+  "ENT_TOW_CIT_RES": "Floriana",
+  "ENT_POS_COD": "FRN 1400",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2014-02-17"
+  ]
+}

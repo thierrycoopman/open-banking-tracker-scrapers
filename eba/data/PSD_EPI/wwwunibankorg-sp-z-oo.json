@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7292483114",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7292483114",
+  "ENT_NAM": "www.unibank.org sp. z o.o.",
+  "ENT_ADD": "Piękna 64/66/26, Łódź, 93-558, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "93-558",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-11-12"
+  ]
+}

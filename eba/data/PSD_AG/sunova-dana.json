@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!69101523",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "69101523",
+  "ENT_NAM": "Šůnová Dana",
+  "ENT_ADD": "V. Volfa 1351/2",
+  "ENT_TOW_CIT_RES": "České Budějovice",
+  "ENT_POS_COD": "37005",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

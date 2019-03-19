@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7822423026",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7822423026",
+  "ENT_NAM": "AGENA Agencja Finansowa Natalia Nowakowska",
+  "ENT_ADD": "Aleksandra Gabszewicza 10/8, Poznań, 61-332, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-332",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-21"
+  ]
+}

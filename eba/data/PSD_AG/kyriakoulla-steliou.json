@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!553719_AG162",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG553719",
+  "ENT_NAM": "Kyriakoulla Steliou",
+  "ENT_ADD": [
+    "Cyprus",
+    "16 Trion Lerarchon Str",
+    "Limassol",
+    "4185 Ipsunas"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "CY",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

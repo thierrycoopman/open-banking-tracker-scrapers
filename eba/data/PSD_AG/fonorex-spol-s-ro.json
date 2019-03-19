@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!46905944",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "46905944",
+  "ENT_NAM": "FONOREX, spol. s r.o.",
+  "ENT_ADD": "Masarykovo náměstí 86",
+  "ENT_TOW_CIT_RES": "Bystřice nad Pernštejnem",
+  "ENT_POS_COD": "59301",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

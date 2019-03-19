@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!711879_AG1199",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG711879",
+  "ENT_NAM": "General and Cargo Ltd",
+  "ENT_ADD": [
+    "Ratcliffe Lane",
+    "Arch 242"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E14 7JE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

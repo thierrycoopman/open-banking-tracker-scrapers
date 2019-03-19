@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!04276931",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "04276931",
+  "ENT_NAM": "Cirhanová Markéta",
+  "ENT_ADD": "Sládkova 773",
+  "ENT_TOW_CIT_RES": "Česká Kamenice",
+  "ENT_POS_COD": "40721",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!650970_AG745",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG650970",
+  "ENT_NAM": "Genius di Coppola Massimo",
+  "ENT_ADD": [
+    "VIA DELLA VALLE",
+    "BENEDETTA, 6"
+  ],
+  "ENT_TOW_CIT_RES": "LIVORNO,",
+  "ENT_POS_COD": "0720 0",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

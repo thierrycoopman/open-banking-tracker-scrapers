@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62639",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "509193413",
+  "ENT_NAM": "SNC LA CIVETTE",
+  "ENT_ADD": [
+    "Place de la Communication ",
+    "Place de l'Europe"
+  ],
+  "ENT_TOW_CIT_RES": "BETHUNE",
+  "ENT_POS_COD": "62400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

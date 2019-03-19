@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!784535_AG1792",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG784535",
+  "ENT_NAM": "Dipak Sapkota",
+  "ENT_ADD": [
+    "Vester Farimagsgade 6",
+    "1. SAL 1027"
+  ],
+  "ENT_TOW_CIT_RES": "Copenhagen",
+  "ENT_POS_COD": "1606",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

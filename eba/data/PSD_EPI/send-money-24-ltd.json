@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!585075",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "585075",
+  "ENT_NAM": "Send Money 24 Ltd",
+  "ENT_ADD": [
+    "Compass House",
+    "Histon",
+    "Chivers Way"
+  ],
+  "ENT_TOW_CIT_RES": "Cambridge",
+  "ENT_POS_COD": "CB24 9AD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-09-04"
+  ]
+}

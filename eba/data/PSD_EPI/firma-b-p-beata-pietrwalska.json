@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6471079079",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6471079079",
+  "ENT_NAM": "Firma \"B-P\" Beata Pietrwalska",
+  "ENT_ADD": "Pszowska 92, Wodzisław Śląski, 44-300, PL",
+  "ENT_TOW_CIT_RES": "Wodzisław Śląski",
+  "ENT_POS_COD": "44-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-15"
+  ]
+}

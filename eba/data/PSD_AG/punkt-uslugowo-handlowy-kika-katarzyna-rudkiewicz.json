@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8943039043!5",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5",
+  "ENT_NAM": "Punkt Usługowo-Handlowy KIKA Katarzyna Rudkiewicz",
+  "ENT_ADD": "Popowicka 134, Wrocław, 54-238, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "54-238",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8943039043",
+  "DER_CHI_ENT_AUT": "Active"
+}

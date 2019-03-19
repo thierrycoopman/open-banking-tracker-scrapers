@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!27818454",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "27818454",
+  "ENT_NAM": "KEMAX MORAVA s.r.o.",
+  "ENT_ADD": "Verdunská 1814/3",
+  "ENT_TOW_CIT_RES": "Ostrava",
+  "ENT_POS_COD": "70200",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

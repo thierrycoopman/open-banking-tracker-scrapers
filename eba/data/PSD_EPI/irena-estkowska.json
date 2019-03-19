@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7771426597",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7771426597",
+  "ENT_NAM": "Irena Estkowska",
+  "ENT_ADD": "Tadeusza Kościuszki 62, Luboń, 62-030, PL",
+  "ENT_TOW_CIT_RES": "Luboń",
+  "ENT_POS_COD": "62-030",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-21"
+  ]
+}

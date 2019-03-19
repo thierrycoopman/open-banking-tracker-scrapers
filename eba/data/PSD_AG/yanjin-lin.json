@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!538435!758672_AG15",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG758672",
+  "ENT_NAM": "YANJIN LIN",
+  "ENT_ADD": [
+    "N BLOCO 4",
+    "RUA DA MATA 200",
+    "2 ESQ 4490 059 POVOA DE VARZIM"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "4490 059",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!538435",
+  "DER_CHI_ENT_AUT": "Active"
+}

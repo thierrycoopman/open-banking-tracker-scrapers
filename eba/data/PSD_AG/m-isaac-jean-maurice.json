@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65237",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "490734639",
+  "ENT_NAM": "M. ISAAC Jean-Maurice",
+  "ENT_ADD": "421 Rue du Général de Gaulle",
+  "ENT_TOW_CIT_RES": "CARLEPONT",
+  "ENT_POS_COD": "60170",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

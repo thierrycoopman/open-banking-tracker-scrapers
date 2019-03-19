@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!817230_AG9142",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG817230",
+  "ENT_NAM": "Khan Baba Gastro OG",
+  "ENT_ADD": [
+    "Reindlstrasse 3",
+    "Linz"
+  ],
+  "ENT_TOW_CIT_RES": "Oberosterreich",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

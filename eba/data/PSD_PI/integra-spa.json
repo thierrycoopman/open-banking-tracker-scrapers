@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!5590900485",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "5590900485",
+  "ENT_NAM": "INTEGRA S.P.A.",
+  "ENT_NAM_COM": "INTEGRA S.P.A.",
+  "ENT_ADD": "VIA LEONE PANCALDO 4",
+  "ENT_TOW_CIT_RES": "FIRENZE",
+  "ENT_POS_COD": "50127",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

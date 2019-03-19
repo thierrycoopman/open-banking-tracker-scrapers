@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!764058",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "764058",
+  "ENT_NAM": "Direct Remit Limited",
+  "ENT_ADD": [
+    "Small Heath",
+    "214-218",
+    "Herbert Road"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B10 0PR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-02-20"
+  ]
+}

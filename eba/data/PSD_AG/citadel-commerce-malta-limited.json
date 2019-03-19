@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!575193!599061_AG1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG599061",
+  "ENT_NAM": "Citadel Commerce (Malta) Limited",
+  "ENT_ADD": [
+    "lvl 5, `de Tigne'¿",
+    "77 Fawwara Lane"
+  ],
+  "ENT_TOW_CIT_RES": "Sliema",
+  "ENT_POS_COD": "SLM1670",
+  "ENT_COU_RES": "MT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!575193",
+  "DER_CHI_ENT_AUT": "Active"
+}

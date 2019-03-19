@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!579306!830475_AG70",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG830475",
+  "ENT_NAM": "Muhammad Aslam Uddin",
+  "ENT_ADD": [
+    "2 Chandos Place",
+    "Bletchley"
+  ],
+  "ENT_TOW_CIT_RES": "Milton Keynes",
+  "ENT_POS_COD": "MK2 2SQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!579306",
+  "DER_CHI_ENT_AUT": "Active"
+}

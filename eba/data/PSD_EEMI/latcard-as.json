@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!460",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "40103453692",
+  "ENT_NAM": "LatCard AS",
+  "ENT_NAM_COM": "LatCard",
+  "ENT_ADD": "Krišjāņa Barona iela 55 - 17",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1001",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2011-12-30"
+  ]
+}

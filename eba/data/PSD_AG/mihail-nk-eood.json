@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!205301714",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "205301714",
+  "ENT_NAM": [
+    "Михаил – НК ЕООД",
+    "Mihail - NK EOOD"
+  ],
+  "ENT_ADD": "24 Angel Drandarov str., Troyan municipality, Lovech area",
+  "ENT_TOW_CIT_RES": "Shipkovo village",
+  "ENT_POS_COD": "5663",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

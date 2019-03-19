@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!751643_AG5256",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG751643",
+  "ENT_NAM": "Nihat Kargin",
+  "ENT_ADD": [
+    "Augsburg",
+    "Ulmer Str 7",
+    "Bayern"
+  ],
+  "ENT_TOW_CIT_RES": "86154",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

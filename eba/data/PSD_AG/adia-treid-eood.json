@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!131339067",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "131339067",
+  "ENT_NAM": [
+    "Адиа Трейд ЕООД",
+    "Adia Treid EOOD"
+  ],
+  "ENT_ADD": "63 Sevastokrator Kaloyan str.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1616",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

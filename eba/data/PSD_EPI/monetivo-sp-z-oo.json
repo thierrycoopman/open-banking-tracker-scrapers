@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7811920672",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7811920672",
+  "ENT_NAM": "MONETIVO Sp. z o.o.",
+  "ENT_ADD": "Botaniczna  8, Poznań, 60-586, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "60-586",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-02-03",
+    "2018-10-12"
+  ]
+}

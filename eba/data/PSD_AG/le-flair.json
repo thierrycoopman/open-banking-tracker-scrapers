@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!594951_AG293",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG594951",
+  "ENT_NAM": "Le Flair",
+  "ENT_ADD": "48 Boulevard Des Coquibus Immeuble Forum Est",
+  "ENT_TOW_CIT_RES": "Evry",
+  "ENT_POS_COD": "91 000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

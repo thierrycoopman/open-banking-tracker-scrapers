@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64518",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "501588263",
+  "ENT_NAM": "Mme CRAPET Marjorie",
+  "ENT_ADD": "30 Place du Général De Gaulle ",
+  "ENT_TOW_CIT_RES": "LE CATEAU CAMBRESIS",
+  "ENT_POS_COD": "59360",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

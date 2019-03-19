@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!775101_AG1682",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG775101",
+  "ENT_NAM": "Artbel Limited",
+  "ENT_ADD": [
+    "135 Station Road",
+    "Unit 1"
+  ],
+  "ENT_TOW_CIT_RES": "Addlestone",
+  "ENT_POS_COD": "KT15 2AT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

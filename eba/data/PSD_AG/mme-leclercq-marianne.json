@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56011",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "525272498",
+  "ENT_NAM": "Mme LECLERCQ Marianne",
+  "ENT_ADD": "38 rue du Président Wilson",
+  "ENT_TOW_CIT_RES": "MIRANDE",
+  "ENT_POS_COD": "32300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

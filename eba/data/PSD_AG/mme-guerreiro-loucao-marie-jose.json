@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57047",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "482257060",
+  "ENT_NAM": "Mme GUERREIRO LOUCAO Marie-José",
+  "ENT_ADD": "13 rue Henri Bodchon",
+  "ENT_TOW_CIT_RES": "PONT STE MAXENCE",
+  "ENT_POS_COD": "60700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

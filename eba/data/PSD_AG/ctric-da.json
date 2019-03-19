@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!618388_AG3193",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG618388",
+  "ENT_NAM": "Ctric DA",
+  "ENT_ADD": "Helga Vaneks Vei 1 3",
+  "ENT_TOW_CIT_RES": "Oslo",
+  "ENT_POS_COD": "128 1",
+  "ENT_COU_RES": "NO",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

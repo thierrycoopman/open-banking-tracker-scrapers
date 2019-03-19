@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!737464_AG4848",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG737464",
+  "ENT_NAM": "Asia Mini Mart AB",
+  "ENT_ADD": "Tingvallavagen 1",
+  "ENT_TOW_CIT_RES": "Marsta",
+  "ENT_POS_COD": "19 531",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

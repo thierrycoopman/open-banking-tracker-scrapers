@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2200",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2200",
+  "ENT_NAM": "P.P.H.U. \"Renmax\" Teresa Ambrożewicz",
+  "ENT_ADD": "Stefana Żeromskiego 6/4, Boguszów-Gorce, 58-372, PL",
+  "ENT_TOW_CIT_RES": "Boguszów-Gorce",
+  "ENT_POS_COD": "58-372",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

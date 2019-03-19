@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74738",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "818687667",
+  "ENT_NAM": "M. LABASTIE Yannick",
+  "ENT_ADD": [
+    "Avenue Annibal ",
+    "Res Port Saint-Ange"
+  ],
+  "ENT_TOW_CIT_RES": "LE BARCARES",
+  "ENT_POS_COD": "66420",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

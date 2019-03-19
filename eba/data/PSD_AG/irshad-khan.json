@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!575747_AG95",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG575747",
+  "ENT_NAM": "Irshad Khan",
+  "ENT_ADD": "32 Lye High Street",
+  "ENT_TOW_CIT_RES": "Stourbridge",
+  "ENT_POS_COD": "DY9 8LF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

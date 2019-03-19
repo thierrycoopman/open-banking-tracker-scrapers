@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!16234",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "16234",
+  "ENT_NAM": "Kaah Express Oy",
+  "ENT_ADD": "Syystie 1 I 48",
+  "ENT_TOW_CIT_RES": "Helsinki",
+  "ENT_POS_COD": "00780",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2010-04-01"
+  ]
+}

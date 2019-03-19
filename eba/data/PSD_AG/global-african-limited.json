@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!538502_AG14",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG538502",
+  "ENT_NAM": "Global African Limited",
+  "ENT_ADD": [
+    "78 Hulme High Street",
+    "Unit 3"
+  ],
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M15 5JP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}

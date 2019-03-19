@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!628062_AG389",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG628062",
+  "ENT_NAM": "Dan Rejser Aps",
+  "ENT_ADD": "Hvidovrevej 137, 2-206,,",
+  "ENT_TOW_CIT_RES": "Hvidovre",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

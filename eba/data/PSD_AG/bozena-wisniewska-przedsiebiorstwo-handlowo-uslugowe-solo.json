@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2177",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2177",
+  "ENT_NAM": "Bożena Wiśniewska Przedsiębiorstwo Handlowo-Usługowe \"Solo\"",
+  "ENT_ADD": "Płużnica 62 A, Płużnica, 87-214, PL",
+  "ENT_TOW_CIT_RES": "Płużnica",
+  "ENT_POS_COD": "87-214",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

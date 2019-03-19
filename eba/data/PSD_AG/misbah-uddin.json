@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!616130_AG3121",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG616130",
+  "ENT_NAM": "Misbah Uddin",
+  "ENT_ADD": "3rd Floor 221 Whitechapel Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E11D E",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

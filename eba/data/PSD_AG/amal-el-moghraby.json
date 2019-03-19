@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!810345_AG8437",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG810345",
+  "ENT_NAM": "Amal El Moghraby",
+  "ENT_ADD": "Meyfartstrasse 16",
+  "ENT_TOW_CIT_RES": "Erfurt",
+  "ENT_POS_COD": "99084",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

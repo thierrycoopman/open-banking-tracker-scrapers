@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2899",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2899",
+  "ENT_NAM": "Handel-Usługi \"Market Ewa\" Nowacka Ewa",
+  "ENT_ADD": "gen. Józefa Hallera 33, Więcbork, 89-410, PL",
+  "ENT_TOW_CIT_RES": "Więcbork",
+  "ENT_POS_COD": "89-410",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

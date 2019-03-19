@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!49271",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "522031624",
+  "ENT_NAM": "Compagnie de l'Arc Atlantique",
+  "ENT_NAM_COM": "C2A",
+  "ENT_ADD": [
+    "63 avenue de Bayonne - ZA",
+    "Agoretta"
+  ],
+  "ENT_TOW_CIT_RES": "BIDART",
+  "ENT_POS_COD": "64210",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2012-01-04"
+  ]
+}

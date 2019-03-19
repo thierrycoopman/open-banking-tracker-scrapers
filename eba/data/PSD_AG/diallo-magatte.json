@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!580268_AG208",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG580268",
+  "ENT_NAM": "Diallo Magatte",
+  "ENT_ADD": "Via Lovanio,13/A",
+  "ENT_TOW_CIT_RES": "Verona",
+  "ENT_POS_COD": "37 155",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

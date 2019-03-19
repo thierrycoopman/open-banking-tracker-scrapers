@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7691798977",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "7691798977",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa w Elektrowni Bełchatów",
+  "ENT_ADD": "Bełchatów 5, Bełchatów, 97-406, PL",
+  "ENT_TOW_CIT_RES": "Bełchatów",
+  "ENT_POS_COD": "97-406",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-07",
+    "2019-01-08"
+  ]
+}

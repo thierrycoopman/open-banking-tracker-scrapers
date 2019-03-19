@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!793171",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "793171",
+  "ENT_NAM": "Truelayer Limited",
+  "ENT_ADD": [
+    "1",
+    "Hardwick Street"
+  ],
+  "ENT_TOW_CIT_RES": "LONDON",
+  "ENT_POS_COD": "EC1R 4RB",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-01-13"
+  ]
+}

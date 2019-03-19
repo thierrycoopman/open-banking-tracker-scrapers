@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!8453",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8453",
+  "ENT_NAM": "1. AK COMERCIO ALEKSANDRA KORDOWSKA 2. BCN ALEKSANDRA KORDOWSKA, MICHAŁ BIELUN S.C.",
+  "ENT_ADD": "Podmurna 7, Chełmno, 86-200, PL",
+  "ENT_TOW_CIT_RES": "Chełmno",
+  "ENT_POS_COD": "86-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

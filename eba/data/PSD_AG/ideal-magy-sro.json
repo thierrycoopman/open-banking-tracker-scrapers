@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!26150972",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "26150972",
+  "ENT_NAM": "IDEAL MaGy, s.r.o.",
+  "ENT_ADD": "Vrchlabská 27/11",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "19700",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

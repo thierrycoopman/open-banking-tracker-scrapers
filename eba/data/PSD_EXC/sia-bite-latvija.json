@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!428",
+  "EntityType": "PSD_EXC",
+  "ENT_NAT_REF_COD": "40003742426",
+  "ENT_NAM": "SIA \"BITE Latvija\"",
+  "ENT_NAM_COM": "bite",
+  "ENT_ADD": "Uriekstes iela 2A - 24",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1005",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2019-02-22"
+  ],
+  "ENT_EXC": [
+    "EXCL_201",
+    "EXCL_202"
+  ],
+  "ENT_DES_ACT_EXC_SCP": "Telecommunication service provider"
+}

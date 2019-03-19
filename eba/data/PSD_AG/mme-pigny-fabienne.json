@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67654",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "380145946",
+  "ENT_NAM": "Mme PIGNY Fabienne",
+  "ENT_ADD": "71 Avenue de la Crau",
+  "ENT_TOW_CIT_RES": "ISTRES",
+  "ENT_POS_COD": "13118",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

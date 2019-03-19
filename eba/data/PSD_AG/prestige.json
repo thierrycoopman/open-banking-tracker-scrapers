@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!8991456402!2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2",
+  "ENT_NAM": "Prestige",
+  "ENT_ADD": "Tadeusza Kościuszki 128A, Wrocław, 50-437, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "50-437",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8991456402",
+  "DER_CHI_ENT_AUT": "Active"
+}

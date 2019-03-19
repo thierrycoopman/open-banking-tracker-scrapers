@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!663425_AG3788",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG663425",
+  "ENT_NAM": "Nac",
+  "ENT_ADD": "18 Rue Pasteur",
+  "ENT_TOW_CIT_RES": "Pantin",
+  "ENT_POS_COD": "9350 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

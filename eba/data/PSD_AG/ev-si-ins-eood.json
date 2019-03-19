@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!205320593",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "205320593",
+  "ENT_NAM": [
+    "Ев Си Инс ЕООД",
+    "Ev Si Ins EOOD"
+  ],
+  "ENT_ADD": "33 Dobrudzha blvd.",
+  "ENT_TOW_CIT_RES": "Dobrich",
+  "ENT_POS_COD": "9300",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

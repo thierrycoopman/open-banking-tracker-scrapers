@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!821141318",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "821141318",
+  "ENT_NAM": [
+    "ЕТ Декам - Цветан Каменов",
+    "ET Dekam - Tsvetan Kamenov"
+  ],
+  "ENT_ADD": "Lehchevo village 3445",
+  "ENT_TOW_CIT_RES": "Lehchevo village",
+  "ENT_POS_COD": "3445",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

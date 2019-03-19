@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2748",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2748",
+  "ENT_NAM": "JACHT-AR Joanna Łożyńska-Pakuła",
+  "ENT_ADD": "Aleksandra Segala 7, Łobez, 73-150, PL",
+  "ENT_TOW_CIT_RES": "Łobez",
+  "ENT_POS_COD": "73-150",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!754103",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "754103",
+  "ENT_NAM": "AJB GLOBAL LTD",
+  "ENT_ADD": [
+    "18 Union Road",
+    "Charan House, Suite 4"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW4 6JP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-12-28"
+  ]
+}

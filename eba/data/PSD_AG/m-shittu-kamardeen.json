@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!78239",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "794976498",
+  "ENT_NAM": "M. SHITTU Kamardeen",
+  "ENT_ADD": "64 Rue d'Auge ",
+  "ENT_TOW_CIT_RES": "CAEN",
+  "ENT_POS_COD": "14000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1159",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1159",
+  "ENT_NAM": "Delikatesy Anna, Anna Spierewka",
+  "ENT_ADD": "Rokitki Świerkowa 7, Lubiszewo Tczewskie, 83-112, PL",
+  "ENT_TOW_CIT_RES": "Lubiszewo Tczewskie",
+  "ENT_POS_COD": "83-112",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

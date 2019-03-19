@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!747393",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "747393",
+  "ENT_NAM": "Geoswift UK Limited",
+  "ENT_ADD": [
+    "Bressenden Place",
+    "Portland House"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW1E 5RS",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-12-01"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6421008746",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "6421008746",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa Ziemi Rybnickiej",
+  "ENT_ADD": "ul. 3 Maja 1a, Czerwionka-Leszczyny, 44-230 , PL",
+  "ENT_TOW_CIT_RES": "Czerwionka-Leszczyny",
+  "ENT_POS_COD": "44-230 ",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-07"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!132368930",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "132368930",
+  "ENT_NAM": "NTOMATAS ISIDOROS",
+  "ENT_ADD": "20, ROIDOU Str.",
+  "ENT_TOW_CIT_RES": "CHIOS",
+  "ENT_POS_COD": "82131",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

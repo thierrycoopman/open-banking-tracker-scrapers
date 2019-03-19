@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!810340_AG8434",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG810340",
+  "ENT_NAM": "Farida Mohammad",
+  "ENT_ADD": "Dr Friedrichs Ring 21 A",
+  "ENT_TOW_CIT_RES": "Zwickau",
+  "ENT_POS_COD": "08056",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57222",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "520225160",
+  "ENT_NAM": "Mme DUVERNOIS Brigitte",
+  "ENT_ADD": "36 av du 8 Mai 1945",
+  "ENT_TOW_CIT_RES": "COULANGES LES NEVERS",
+  "ENT_POS_COD": "58660",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

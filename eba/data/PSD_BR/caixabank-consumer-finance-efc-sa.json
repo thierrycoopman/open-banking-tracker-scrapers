@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "ES_BE",
+  "EntityCode": "ES_BE!8776!PT",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "CAIXABANK CONSUMER FINANCE, E.F.C., S.A.",
+  "ENT_ADD": "RUA BRAAMCAMP 11      3",
+  "ENT_TOW_CIT_RES": "LISBOA",
+  "ENT_POS_COD": "1250-049",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "ES_BE!8776",
+  "DER_CHI_ENT_AUT": "Active"
+}

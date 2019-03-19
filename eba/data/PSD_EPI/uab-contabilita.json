@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "PSD_EX_PI_LT_LT_BL_303573008",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "303573008",
+  "ENT_NAM": "UAB ,,Contabilita“",
+  "ENT_ADD": "A. Vivulskio str. 7",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "03162",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2015-01-15"
+  ]
+}

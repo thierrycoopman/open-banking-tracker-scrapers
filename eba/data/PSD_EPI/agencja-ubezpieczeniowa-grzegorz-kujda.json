@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8261280706",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8261280706",
+  "ENT_NAM": "Agencja Ubezpieczeniowa Grzegorz Kujda",
+  "ENT_ADD": "Kościuszki  43/2, Garwolin, 08-400, PL",
+  "ENT_TOW_CIT_RES": "Garwolin",
+  "ENT_POS_COD": "08-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-02-02"
+  ]
+}

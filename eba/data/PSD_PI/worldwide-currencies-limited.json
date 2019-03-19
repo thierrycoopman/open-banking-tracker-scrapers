@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!525361",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "525361",
+  "ENT_NAM": "Worldwide Currencies Limited",
+  "ENT_ADD": "55 King William Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC4R 9AD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-03-17"
+  ]
+}

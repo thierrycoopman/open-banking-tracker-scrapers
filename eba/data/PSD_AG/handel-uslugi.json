@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5971001418!1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1",
+  "ENT_NAM": "Handel-Usługi",
+  "ENT_ADD": "Stargardzka 20, Pyrzyce, 74-200, PL",
+  "ENT_TOW_CIT_RES": "Pyrzyce",
+  "ENT_POS_COD": "74-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5971001418",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!582008",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "582008",
+  "ENT_NAM": "Separayen Ltd",
+  "ENT_ADD": [
+    "Room 3",
+    "Colton House",
+    "Princes Avenue"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "N3 2DB",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2013-02-25"
+  ]
+}

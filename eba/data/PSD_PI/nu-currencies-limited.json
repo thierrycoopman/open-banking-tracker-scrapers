@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!554999",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "554999",
+  "ENT_NAM": "NU Currencies Limited",
+  "ENT_NAM_COM": "Nu Currencies",
+  "ENT_ADD": [
+    "38-40 Bell Street",
+    "Skinner House"
+  ],
+  "ENT_TOW_CIT_RES": "Reigate",
+  "ENT_POS_COD": "RH2 7BA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-10-04"
+  ]
+}

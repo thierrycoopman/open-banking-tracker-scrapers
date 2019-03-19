@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8943039043!15",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "15",
+  "ENT_NAM": "FinEx Jacek Skibiński",
+  "ENT_ADD": "Jedności Narodowej 57, Wrocław, 50-262, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "50-262",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8943039043",
+  "DER_CHI_ENT_AUT": "Active"
+}

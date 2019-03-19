@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R109371",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R109371",
+  "ENT_NAM": "Singh Telecom",
+  "ENT_ADD": "Tweede Van Swindenstraat 57 A",
+  "ENT_TOW_CIT_RES": "AMSTERDAM",
+  "ENT_POS_COD": "1093 VJ",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!505944_AG15",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG505944",
+  "ENT_NAM": "Abdulqadir Mohamud Dalal",
+  "ENT_ADD": "42 Northam Road",
+  "ENT_TOW_CIT_RES": "Southampton",
+  "ENT_POS_COD": "SO14 0PA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

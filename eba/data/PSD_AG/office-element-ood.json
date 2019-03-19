@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!175073013",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "175073013",
+  "ENT_NAM": [
+    "Офис елемент ООД",
+    "Office element OOD"
+  ],
+  "ENT_ADD": "12 Iliya Beshkov str., zh.k. Druzhba, Iskar dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1592",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

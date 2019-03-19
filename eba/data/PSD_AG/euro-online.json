@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!535688!547534_AG1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG547534",
+  "ENT_NAM": "Euro Online",
+  "ENT_ADD": "19 rue edouard vaillant",
+  "ENT_TOW_CIT_RES": "touts",
+  "ENT_POS_COD": "370 00",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!535688",
+  "DER_CHI_ENT_AUT": "Active"
+}

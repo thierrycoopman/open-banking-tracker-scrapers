@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7553",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7553",
+  "ENT_NAM": "Posrednictwo Finansowe \"BRZOZA\" Iwona Brzozowska",
+  "ENT_ADD": "Warszawskie Przedmieście 14 lok. 4, Kutno, 99-300, PL",
+  "ENT_TOW_CIT_RES": "Kutno",
+  "ENT_POS_COD": "99-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

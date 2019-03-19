@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!815418_AG8926",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG815418",
+  "ENT_NAM": "Bismillah Travel Ltd",
+  "ENT_ADD": "115 Hoe Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E17 4RX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

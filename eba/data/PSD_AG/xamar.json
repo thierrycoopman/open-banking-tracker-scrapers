@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63404",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "789893765",
+  "ENT_NAM": "XAMAR",
+  "ENT_ADD": "8 Bis Rue de la Mer",
+  "ENT_TOW_CIT_RES": "COURSEULLES SUR MER",
+  "ENT_POS_COD": "14470",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

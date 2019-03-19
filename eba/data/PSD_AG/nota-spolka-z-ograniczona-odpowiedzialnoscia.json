@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6488",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6488",
+  "ENT_NAM": "\"Nota\" Spółka z Ograniczoną Odpowiedzialnością",
+  "ENT_ADD": "Magnuszewska 8, Bydgoszcz, 85-861, PL",
+  "ENT_TOW_CIT_RES": "Bydgoszcz",
+  "ENT_POS_COD": "85-861",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

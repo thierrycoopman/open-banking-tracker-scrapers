@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8771442786",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8771442786",
+  "ENT_NAM": "P.H.U. Dawid Robaczewski",
+  "ENT_ADD": "Waryńskiego 7, Nowe Miasto Lubawskie, 13-300, PL",
+  "ENT_TOW_CIT_RES": "Nowe Miasto Lubawskie",
+  "ENT_POS_COD": "13-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-12-21"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64538",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "513613166",
+  "ENT_NAM": "Mme DESUMER Christiane",
+  "ENT_ADD": "9 Place du Général Sibille",
+  "ENT_TOW_CIT_RES": "SARREGUEMINES",
+  "ENT_POS_COD": "57200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

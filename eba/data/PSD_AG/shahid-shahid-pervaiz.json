@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!811435_AG8563",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG811435",
+  "ENT_NAM": "Shahid Shahid Pervaiz",
+  "ENT_ADD": "Via Derna 5",
+  "ENT_TOW_CIT_RES": "Milano",
+  "ENT_POS_COD": "20132",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!49786!51595",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "01946066",
+  "ENT_NAM": "WPS UK LTD",
+  "ENT_ADD": [
+    "GREAT WEST HOUSE 2-3rd FLOOR",
+    "GREAT WEST ROAD"
+  ],
+  "ENT_TOW_CIT_RES": "BRENTFORD MIDDLESEX TW8 9HU",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!49786",
+  "DER_CHI_ENT_AUT": "Active"
+}

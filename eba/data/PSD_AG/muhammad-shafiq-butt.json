@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!543799_AG23",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG543799",
+  "ENT_NAM": "Muhammad Shafiq Butt",
+  "ENT_ADD": "Via Valperga Calusi 1Bis/F",
+  "ENT_TOW_CIT_RES": "Torino",
+  "ENT_POS_COD": "101 25",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

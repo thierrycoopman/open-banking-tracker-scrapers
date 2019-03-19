@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!78361",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "839247954",
+  "ENT_NAM": "CHADI",
+  "ENT_ADD": [
+    "222 Chemin du Roucas Blanc",
+    "4 Avenue des Roches"
+  ],
+  "ENT_TOW_CIT_RES": "MARSEILLE",
+  "ENT_POS_COD": "13007",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

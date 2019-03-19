@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57082",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "449954981",
+  "ENT_NAM": "GRUET SNC",
+  "ENT_ADD": [
+    "rond point du Montfleuy",
+    "route de Marseille"
+  ],
+  "ENT_TOW_CIT_RES": "ST MAXIMIN LA STE BAUME",
+  "ENT_POS_COD": "83470",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

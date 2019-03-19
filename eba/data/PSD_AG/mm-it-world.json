@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!811212_AG8547",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG811212",
+  "ENT_NAM": "MM IT World",
+  "ENT_ADD": "185 187 Rue Saint Maur",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75010",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

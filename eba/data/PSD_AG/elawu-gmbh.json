@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!823186_AG9566",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG823186",
+  "ENT_NAM": "Elawu GmbH",
+  "ENT_ADD": "Lassallestrasse 46",
+  "ENT_TOW_CIT_RES": "Wien",
+  "ENT_POS_COD": "1020",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

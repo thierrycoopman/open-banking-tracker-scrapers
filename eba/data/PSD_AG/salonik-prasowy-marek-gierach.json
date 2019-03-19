@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!515",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "515",
+  "ENT_NAM": "Salonik prasowy - Marek Gierach",
+  "ENT_ADD": "Lubelska 38, Lubartów, 21-100, PL",
+  "ENT_TOW_CIT_RES": "Lubartów",
+  "ENT_POS_COD": "21-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

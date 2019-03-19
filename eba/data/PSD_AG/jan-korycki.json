@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!593364!820410_AG57",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG820410",
+  "ENT_NAM": "Jan Korycki",
+  "ENT_ADD": "Swietokrzyska 21/6",
+  "ENT_TOW_CIT_RES": "Gdansk",
+  "ENT_POS_COD": "80180",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!593364",
+  "DER_CHI_ENT_AUT": "Active"
+}

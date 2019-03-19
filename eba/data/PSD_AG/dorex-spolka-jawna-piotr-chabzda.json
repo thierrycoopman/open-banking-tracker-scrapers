@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1880",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1880",
+  "ENT_NAM": "\" Dorex \" Spółka Jawna Piotr Chabzda",
+  "ENT_ADD": "Topolowa 50 A/1, Dąbrowa Górnicza, 41-307, PL",
+  "ENT_TOW_CIT_RES": "Dąbrowa Górnicza",
+  "ENT_POS_COD": "41-307",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

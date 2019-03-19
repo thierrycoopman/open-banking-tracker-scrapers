@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!15529550",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "15529550",
+  "ENT_NAM": "P L E H A S O , komanditní společnost",
+  "ENT_ADD": "Pražská 40",
+  "ENT_TOW_CIT_RES": "Plaňany",
+  "ENT_POS_COD": "28104",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

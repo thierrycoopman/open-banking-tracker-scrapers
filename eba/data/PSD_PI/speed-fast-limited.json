@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!532981",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "532981",
+  "ENT_NAM": "Speed Fast Limited",
+  "ENT_ADD": "22 High Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW10 2QD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-05-20"
+  ]
+}

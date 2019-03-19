@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900688",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900688",
+  "ENT_NAM": "Valitor Payment Services Limited",
+  "ENT_NAM_COM": "Valitor Payment Services Limited",
+  "ENT_ADD": [
+    "1",
+    "Fore Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2Y 9DT",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-04-30"
+  ]
+}

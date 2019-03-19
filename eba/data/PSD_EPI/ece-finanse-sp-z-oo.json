@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9191829291",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9191829291",
+  "ENT_NAM": "ECE FINANSE sp. z o.o.",
+  "ENT_ADD": "Partyzantów 16/1, Hrubieszów, 22-500, PL",
+  "ENT_TOW_CIT_RES": "Hrubieszów",
+  "ENT_POS_COD": "22-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-05-05"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!779799_AG490",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG779799",
+  "ENT_NAM": "United Cargo Shipping Limited",
+  "ENT_ADD": [
+    "353c Birchfield Road",
+    "Flat"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B20 3BJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

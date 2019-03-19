@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!545543_AG643",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG545543",
+  "ENT_NAM": "Index Business Center Di Chaudhury Rony Sas",
+  "ENT_ADD": "Piazza Caiazzo 2",
+  "ENT_TOW_CIT_RES": "Milano",
+  "ENT_POS_COD": "201 24",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

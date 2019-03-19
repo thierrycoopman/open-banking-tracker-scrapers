@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76863",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "815350145",
+  "ENT_NAM": "M. TIBALDO Yves",
+  "ENT_ADD": "21 Route Départementale 817",
+  "ENT_TOW_CIT_RES": "LACQ",
+  "ENT_POS_COD": "64170",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!8396",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8396",
+  "ENT_NAM": "Boa Spółka Cywilna Bożena Książek, Agata Macheta",
+  "ENT_ADD": "Środkowa 140, Jadowniki, 32-851, PL",
+  "ENT_TOW_CIT_RES": "Jadowniki",
+  "ENT_POS_COD": "32-851",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

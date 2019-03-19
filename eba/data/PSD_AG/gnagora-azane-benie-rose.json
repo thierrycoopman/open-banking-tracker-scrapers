@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!554184_AG1018",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG554184",
+  "ENT_NAM": "Gnagora Azane Benie Rose",
+  "ENT_ADD": [
+    "Wahringer Strasse 41/1/1A",
+    "Austria",
+    "Vienna"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "10 90",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

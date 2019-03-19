@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!19692",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "19692",
+  "ENT_NAM": "Amal Express Osuuskunta",
+  "ENT_ADD": "Junailijankuja 10",
+  "ENT_TOW_CIT_RES": "Helsinki",
+  "ENT_POS_COD": "00520",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2010-04-01"
+  ]
+}

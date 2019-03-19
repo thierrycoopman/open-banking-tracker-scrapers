@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!626111_AG3350",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG626111",
+  "ENT_NAM": "Karin Waltraud Tressl",
+  "ENT_ADD": [
+    "Bahnhofstrasse 31",
+    "Wolfratshausen"
+  ],
+  "ENT_TOW_CIT_RES": "Bayern",
+  "ENT_POS_COD": "49 817",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

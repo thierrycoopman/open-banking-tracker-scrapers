@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!46951261",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "46951261",
+  "ENT_NAM": "Qasem Adel",
+  "ENT_ADD": "Kaštanová 68",
+  "ENT_TOW_CIT_RES": "Sokolnice",
+  "ENT_POS_COD": "66452",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!787420_AG597",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG787420",
+  "ENT_NAM": "Ummey Jamila Chowdhury",
+  "ENT_ADD": [
+    "Chrisp Street Retail Market",
+    "13 Market Square"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E14 6AQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

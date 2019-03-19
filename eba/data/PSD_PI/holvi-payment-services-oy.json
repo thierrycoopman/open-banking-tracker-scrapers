@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!17028",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "17028",
+  "ENT_NAM": "Holvi Payment Services Oy",
+  "ENT_ADD": "Kaikukatu 2C",
+  "ENT_TOW_CIT_RES": "HELSINKI",
+  "ENT_POS_COD": "00530",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2012-01-01"
+  ]
+}

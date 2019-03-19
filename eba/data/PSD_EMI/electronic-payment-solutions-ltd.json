@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900873",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900873",
+  "ENT_NAM": "Electronic Payment Solutions Ltd",
+  "ENT_NAM_COM": "Elpaso",
+  "ENT_ADD": [
+    "26 Mocatta House",
+    "Trafalgar Place",
+    "Office 5"
+  ],
+  "ENT_TOW_CIT_RES": "Brighton",
+  "ENT_POS_COD": "BN1 4DU",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2019-01-06"
+  ]
+}

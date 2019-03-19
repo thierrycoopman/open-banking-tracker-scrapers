@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!210",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "210",
+  "ENT_NAM": "Doradztwo Finansowo Gospodarcze PROGRES Artur Ratajczak",
+  "ENT_ADD": "ul. Owocowa 1, Polkowice, 59-101, PL",
+  "ENT_TOW_CIT_RES": "Polkowice",
+  "ENT_POS_COD": "59-101",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

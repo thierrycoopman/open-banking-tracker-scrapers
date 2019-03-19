@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2256",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2256",
+  "ENT_NAM": "Adam Siekirka Sklep Wielobranżowy \"Adaś\"",
+  "ENT_ADD": "Skokowa, Wrocławska 13, Prusice, 55-110, PL",
+  "ENT_TOW_CIT_RES": "Prusice",
+  "ENT_POS_COD": "55-110",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

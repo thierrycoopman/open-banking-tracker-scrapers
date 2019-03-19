@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6652231668",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6652231668",
+  "ENT_NAM": "Tomasz Karolak",
+  "ENT_ADD": "Odyńca 73/89, Warszawa, 02-644, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-644",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-04-09"
+  ]
+}

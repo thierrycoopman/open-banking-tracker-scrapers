@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5165",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5165",
+  "ENT_NAM": "Czesław Roś Firma Handlowa  \"ŁAKOĆ\"",
+  "ENT_ADD": "Średnia Wieś 94, Hoczew, 38-604, PL",
+  "ENT_TOW_CIT_RES": "Hoczew",
+  "ENT_POS_COD": "38-604",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

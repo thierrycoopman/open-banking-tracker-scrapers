@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76271",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "753630912",
+  "ENT_NAM": "TABAC PRESSE LUBERON",
+  "ENT_ADD": [
+    "BD JEAN GUIGUES",
+    "CENTRE COMMERCIAL ESPACE",
+    "LE LUBERON"
+  ],
+  "ENT_TOW_CIT_RES": "PERTUIS",
+  "ENT_POS_COD": "84120",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

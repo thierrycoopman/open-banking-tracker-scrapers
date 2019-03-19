@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!612377_AG3011",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG612377",
+  "ENT_NAM": "Luis Gustavo Saldana Ibanez",
+  "ENT_ADD": "Via Padova 34",
+  "ENT_TOW_CIT_RES": "Milano",
+  "ENT_POS_COD": "20127",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

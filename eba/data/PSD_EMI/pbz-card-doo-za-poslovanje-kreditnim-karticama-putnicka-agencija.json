@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "HR_HNB",
+  "EntityCode": "HR_HNB!IEN112",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "IEN112",
+  "ENT_NAM": "PBZ CARD d.o.o. za poslovanje kreditnim karticama, putnička agencija",
+  "ENT_NAM_COM": "PBZ CARD Ltd. for Card business, Travel agency",
+  "ENT_ADD": "Radnička cesta 44",
+  "ENT_TOW_CIT_RES": "ZAGREB",
+  "ENT_POS_COD": "10000",
+  "ENT_COU_RES": "HR",
+  "ENT_AUT": [
+    "2011-12-16"
+  ]
+}

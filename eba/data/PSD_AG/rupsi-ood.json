@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!117671873",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "117671873",
+  "ENT_NAM": [
+    "Рупси ООД",
+    "Rupsi OOD"
+  ],
+  "ENT_ADD": "7 Sarnena gora str., entr. 2, fl. 4",
+  "ENT_TOW_CIT_RES": "Ruse",
+  "ENT_POS_COD": "7005",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

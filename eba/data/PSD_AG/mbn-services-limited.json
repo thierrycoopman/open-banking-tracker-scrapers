@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!796724_AG633",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG796724",
+  "ENT_NAM": "MBN Services Limited",
+  "ENT_ADD": [
+    "11A Station Road",
+    "Hayes"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "UB3 4BD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1952",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1952",
+  "ENT_NAM": "SKLEP SPOŻYWCZO-PRZEMYSŁOWY BOŻENA MROCZKOWSKA",
+  "ENT_ADD": "Blok Dobryszyce ul. Kwiatowa 16, Dobryszyce, 97-505, PL",
+  "ENT_TOW_CIT_RES": "Dobryszyce",
+  "ENT_POS_COD": "97-505",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

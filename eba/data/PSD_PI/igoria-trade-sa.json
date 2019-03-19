@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5252507681",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "5252507681",
+  "ENT_NAM": "IGORIA TRADE SA",
+  "ENT_ADD": "Puławska 111A/109, Warszawa, 02-707, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-707",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-12-20"
+  ]
+}

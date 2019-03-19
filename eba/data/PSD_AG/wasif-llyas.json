@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!612733_AG214",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG612733",
+  "ENT_NAM": "Wasif Llyas",
+  "ENT_ADD": [
+    "Calle Jaime 1 14",
+    "Bajos Local 1",
+    "Montcada I Reixac"
+  ],
+  "ENT_TOW_CIT_RES": "Barcelona",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67750",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "799112446",
+  "ENT_NAM": "DE LA MER",
+  "ENT_ADD": "13 place du 3 Septembre 1944",
+  "ENT_TOW_CIT_RES": "TELGRUC SUR MER",
+  "ENT_POS_COD": "29560",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

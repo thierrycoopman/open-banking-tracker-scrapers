@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "SK_NBS",
+  "EntityCode": "PSD_PI!SK_NBS!36865800",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "36865800",
+  "ENT_NAM": "Trust Pay, a.s.",
+  "ENT_ADD": "Za kasárňou 315/1",
+  "ENT_TOW_CIT_RES": "Bratislava",
+  "ENT_POS_COD": "83103",
+  "ENT_COU_RES": "SK",
+  "ENT_AUT": [
+    "2018-07-13"
+  ]
+}

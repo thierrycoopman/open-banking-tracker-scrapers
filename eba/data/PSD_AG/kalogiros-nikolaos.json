@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094438857!061213861",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "061213861",
+  "ENT_NAM": "KALOGIROS NIKOLAOS",
+  "ENT_ADD": "4, AGIOU IOANNI Str.",
+  "ENT_TOW_CIT_RES": "CHALKIDA",
+  "ENT_POS_COD": "34002",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094438857",
+  "DER_CHI_ENT_AUT": "Active"
+}

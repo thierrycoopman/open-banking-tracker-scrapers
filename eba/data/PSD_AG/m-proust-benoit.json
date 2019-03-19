@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75309",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "512874744",
+  "ENT_NAM": "M. PROUST Benoit",
+  "ENT_ADD": "1bis Avenue de Paris",
+  "ENT_TOW_CIT_RES": "VIVONNE",
+  "ENT_POS_COD": "86370",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

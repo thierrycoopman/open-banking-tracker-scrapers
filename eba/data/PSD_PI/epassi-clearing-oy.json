@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!29088",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "29088",
+  "ENT_NAM": "ePassi Clearing Oy",
+  "ENT_ADD": "Pohjoinen Rautatiekatu 25",
+  "ENT_TOW_CIT_RES": "Helsinki",
+  "ENT_POS_COD": "00100",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2012-01-01"
+  ]
+}

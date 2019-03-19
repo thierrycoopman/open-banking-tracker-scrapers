@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6610008948",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6610008948",
+  "ENT_NAM": "Jan Zieja Kantor Wymiany Walut \"DUKAT\"\\Firma Handlowo-Usługowa \"SŁAWAX\"",
+  "ENT_ADD": "Siennieńska 1, Ostrowiec Św., 27-400, PL",
+  "ENT_TOW_CIT_RES": "Ostrowiec Św.",
+  "ENT_POS_COD": "27-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-12"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63882",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "443590153",
+  "ENT_NAM": "LE MIROIR",
+  "ENT_ADD": "61 rue de la Liberté",
+  "ENT_TOW_CIT_RES": "DIJON",
+  "ENT_POS_COD": "21000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

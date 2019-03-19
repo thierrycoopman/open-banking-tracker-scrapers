@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!332",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "332",
+  "ENT_NAM": "BIURO UBEZPIECZEŃ Joanna Michalczyk",
+  "ENT_ADD": "ul. Ignacego Krasickiego 11/lok. 1, Górowo Iławeckie, 11-220, PL",
+  "ENT_TOW_CIT_RES": "Górowo Iławeckie",
+  "ENT_POS_COD": "11-220",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4002",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4002",
+  "ENT_NAM": "AS Spó3ka Cywilna Wioniewska Gra?yna Wioniewska Dorota",
+  "ENT_ADD": "Stefana Grota-Roweckiego 17, Opole, 45-267, PL",
+  "ENT_TOW_CIT_RES": "Opole",
+  "ENT_POS_COD": "45-267",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

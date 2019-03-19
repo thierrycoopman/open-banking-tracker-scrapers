@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73266",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "499921864",
+  "ENT_NAM": "SNC AIMARD",
+  "ENT_ADD": "3 Rue de la République",
+  "ENT_TOW_CIT_RES": "BROU",
+  "ENT_POS_COD": "28160",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

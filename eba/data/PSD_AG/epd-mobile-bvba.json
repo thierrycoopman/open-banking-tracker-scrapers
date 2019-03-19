@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!792102_AG7118",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG792102",
+  "ENT_NAM": "EPD Mobile Bvba",
+  "ENT_ADD": "Koning Albertstraat 34",
+  "ENT_TOW_CIT_RES": "Diest",
+  "ENT_POS_COD": "3290",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

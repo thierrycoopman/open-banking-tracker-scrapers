@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!805200_AG7883",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG805200",
+  "ENT_NAM": "Hamid El Merzouki",
+  "ENT_ADD": "8 Rue Louis Maitre",
+  "ENT_TOW_CIT_RES": "Brignoles",
+  "ENT_POS_COD": "83170",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

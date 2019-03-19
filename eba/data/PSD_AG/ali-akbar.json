@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!503929!623297_AG68",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG623297",
+  "ENT_NAM": "Ali Akbar",
+  "ENT_ADD": "VIA PIEMONTE 11",
+  "ENT_TOW_CIT_RES": "PIOLTELLO",
+  "ENT_POS_COD": "20 096",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!503929",
+  "DER_CHI_ENT_AUT": "Active"
+}

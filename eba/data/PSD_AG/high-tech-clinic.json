@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!783563_AG6684",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG783563",
+  "ENT_NAM": "High Tech Clinic",
+  "ENT_ADD": "21 Avenue Lucien Cornet",
+  "ENT_TOW_CIT_RES": "Sens",
+  "ENT_POS_COD": "89100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

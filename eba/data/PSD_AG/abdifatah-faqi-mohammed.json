@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!524141!762924_AG34",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG762924",
+  "ENT_NAM": "ABDIFATAH FAQI MOHAMMED",
+  "ENT_ADD": [
+    "Sparkhill",
+    "70 Stratford Road"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B11 1AN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!524141",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5481598811",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5481598811",
+  "ENT_NAM": "KANCELARIA EUROKASS WITOLD BARTOSZ",
+  "ENT_ADD": "Piastowska 7/2, Bielsko-Biała , 43-300, PL",
+  "ENT_TOW_CIT_RES": "Bielsko-Biała ",
+  "ENT_POS_COD": "43-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-09-07",
+    "2018-11-30"
+  ]
+}

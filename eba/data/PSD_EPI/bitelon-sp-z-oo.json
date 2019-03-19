@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5472150703",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5472150703",
+  "ENT_NAM": "\"Bitelon\" Sp. z o.o.",
+  "ENT_ADD": "Plac Bankowy  2, Warszawa, 00-095, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-095",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-10-10"
+  ]
+}

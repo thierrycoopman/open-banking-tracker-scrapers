@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!151079116",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "151079116",
+  "ENT_NAM": "VOVOLI NATALIA",
+  "ENT_ADD": "2, N. ZERVA Str.",
+  "ENT_TOW_CIT_RES": "IOANNINA",
+  "ENT_POS_COD": "45332",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

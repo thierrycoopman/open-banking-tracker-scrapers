@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!750523",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "750523",
+  "ENT_NAM": "naseri exchange ltd",
+  "ENT_ADD": "301 Neasden Lane",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW10 1QR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-08-02"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!795549_AG629",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG795549",
+  "ENT_NAM": "Marina Express Limited",
+  "ENT_ADD": [
+    "4 Marina Streeet",
+    "Triq IX-Xatt",
+    "Pieta`"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "MT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

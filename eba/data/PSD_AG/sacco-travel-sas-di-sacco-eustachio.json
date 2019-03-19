@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!663660_AG948",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG663660",
+  "ENT_NAM": "Sacco Travel Sas Di Sacco Eustachio",
+  "ENT_ADD": "Contrada Spineto Snc",
+  "ENT_TOW_CIT_RES": "Matera",
+  "ENT_POS_COD": "75 012",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

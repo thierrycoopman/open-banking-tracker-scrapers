@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77658",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "815251103",
+  "ENT_NAM": "Mme HENIN Maria De Fatima",
+  "ENT_ADD": "6 avenue de Verdun",
+  "ENT_TOW_CIT_RES": "BAUME LES DAMES",
+  "ENT_POS_COD": "25110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

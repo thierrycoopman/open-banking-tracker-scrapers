@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PT_BP",
+  "EntityCode": "PSD_PI!PT_BP!329!500051720",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "500051720",
+  "ENT_NAM": "Campião & Cª, Sucessores José Dias & Dias, Lda.",
+  "ENT_ADD": "Rua do Amparo, nº 2-C",
+  "ENT_TOW_CIT_RES": "Lisboa",
+  "ENT_POS_COD": "1100-026",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!PT_BP!329",
+  "DER_CHI_ENT_AUT": "Active"
+}

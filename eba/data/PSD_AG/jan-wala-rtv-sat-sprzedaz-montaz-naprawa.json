@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2281",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2281",
+  "ENT_NAM": "Jan Wala RTV-SAT Sprzedaż Montaż Naprawa",
+  "ENT_ADD": "Krakowska 38, Kozy, 43-340, PL",
+  "ENT_TOW_CIT_RES": "Kozy",
+  "ENT_POS_COD": "43-340",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

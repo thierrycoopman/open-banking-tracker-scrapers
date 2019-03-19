@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!805972_AG1437",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG805972",
+  "ENT_NAM": "Pasquale Carrieri",
+  "ENT_ADD": "Via Bari 33",
+  "ENT_TOW_CIT_RES": "Giovinazzo",
+  "ENT_POS_COD": "70054",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

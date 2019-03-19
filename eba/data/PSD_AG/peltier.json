@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!79197",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "840390942",
+  "ENT_NAM": "PELTIER",
+  "ENT_ADD": "1 PL DES COMMERCES",
+  "ENT_TOW_CIT_RES": "BOUCHET",
+  "ENT_POS_COD": "26790",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

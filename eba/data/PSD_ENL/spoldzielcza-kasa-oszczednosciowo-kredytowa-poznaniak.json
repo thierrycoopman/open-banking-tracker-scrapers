@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7821092343",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "7821092343",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa \"Poznaniak\"",
+  "ENT_ADD": "ul. Energetyczna  3B, Poznań, 61-016, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-016",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-07"
+  ]
+}

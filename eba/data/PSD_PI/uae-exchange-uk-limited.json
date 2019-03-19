@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504329",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "504329",
+  "ENT_NAM": "UAE Exchange UK Limited",
+  "ENT_NAM_COM": "UAE Exchange",
+  "ENT_ADD": "14-15 Carlisle Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W1D 3BS",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-01"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3560",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3560",
+  "ENT_NAM": "PIECHOWICZ ANNA",
+  "ENT_ADD": "ŚLĘZAN 41/2, ŚWIĘTOCHŁOWICE, 41-608, PL",
+  "ENT_TOW_CIT_RES": "ŚWIĘTOCHŁOWICE",
+  "ENT_POS_COD": "41-608",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

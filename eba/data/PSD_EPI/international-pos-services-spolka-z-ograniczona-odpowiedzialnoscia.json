@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5213616650",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5213616650",
+  "ENT_NAM": "International POS Services spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Al. Jerozolimskie 63, Warszawa, 00-697, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-697",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-18",
+    "2018-07-16"
+  ]
+}

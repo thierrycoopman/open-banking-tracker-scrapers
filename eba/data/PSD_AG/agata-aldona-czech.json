@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!596526_AG2447",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG596526",
+  "ENT_NAM": "Agata Aldona Czech",
+  "ENT_ADD": "Fryderyka Chopina 1 lok 42",
+  "ENT_TOW_CIT_RES": "Szczytno",
+  "ENT_POS_COD": "1210 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

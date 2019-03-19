@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!765047_AG5724",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG765047",
+  "ENT_NAM": "Cevat Yavuz",
+  "ENT_ADD": "Poststrasse 50",
+  "ENT_TOW_CIT_RES": "Merzig",
+  "ENT_POS_COD": "66663",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

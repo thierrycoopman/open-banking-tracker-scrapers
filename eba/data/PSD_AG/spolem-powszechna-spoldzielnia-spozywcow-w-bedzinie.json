@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1583",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1583",
+  "ENT_NAM": "\"SPOŁEM\" POWSZECHNA SPÓŁDZIELNIA SPOŻYWCÓW W BĘDZINIE",
+  "ENT_ADD": "Sączewskiego 27, Będzin, 42-500, PL",
+  "ENT_TOW_CIT_RES": "Będzin",
+  "ENT_POS_COD": "42-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

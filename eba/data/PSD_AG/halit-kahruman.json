@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!687643_AG4080",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG687643",
+  "ENT_NAM": "Halit Kahruman",
+  "ENT_ADD": "Friedrich Ebert Strasse 199",
+  "ENT_TOW_CIT_RES": "Duisburg",
+  "ENT_POS_COD": "4717 9",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

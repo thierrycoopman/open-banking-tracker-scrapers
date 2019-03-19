@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!26978636!46352163",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "46352163",
+  "ENT_NAM": "S E T O S spol. s r.o.",
+  "ENT_ADD": "Přímá 84",
+  "ENT_TOW_CIT_RES": "Horoměřice",
+  "ENT_POS_COD": "25262",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!26978636",
+  "DER_CHI_ENT_AUT": "Active"
+}

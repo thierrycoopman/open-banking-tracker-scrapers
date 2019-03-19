@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576781",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "576781",
+  "ENT_NAM": "Eastern Union Ltd",
+  "ENT_ADD": [
+    "Airlines House",
+    "66 Lumb Lane"
+  ],
+  "ENT_TOW_CIT_RES": "Bradford",
+  "ENT_POS_COD": "BD8 7QZ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-09-26",
+    "2018-03-23"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!7343537648!21",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "21",
+  "ENT_NAM": "ELIPSA sp. z o.o.",
+  "ENT_ADD": "Krakowska 129, Zabierzów, 32-080, PL",
+  "ENT_TOW_CIT_RES": "Zabierzów",
+  "ENT_POS_COD": "32-080",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7343537648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

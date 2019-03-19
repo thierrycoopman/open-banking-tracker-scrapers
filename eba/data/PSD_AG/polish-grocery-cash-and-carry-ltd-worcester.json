@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!578391!719107_AG4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG719107",
+  "ENT_NAM": "Polish Grocery Cash and Carry Ltd (Worcester)",
+  "ENT_ADD": [
+    "Unit 20",
+    "St Martins Quarter"
+  ],
+  "ENT_TOW_CIT_RES": "Worcester",
+  "ENT_POS_COD": "WR1 2DD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!578391",
+  "DER_CHI_ENT_AUT": "Active"
+}

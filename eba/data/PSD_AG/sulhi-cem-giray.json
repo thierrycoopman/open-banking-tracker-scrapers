@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!621713_AG3255",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG621713",
+  "ENT_NAM": "Sulhi Cem Giray",
+  "ENT_ADD": "Jahnstr. 15",
+  "ENT_TOW_CIT_RES": "Bayreuth",
+  "ENT_POS_COD": "95 444",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

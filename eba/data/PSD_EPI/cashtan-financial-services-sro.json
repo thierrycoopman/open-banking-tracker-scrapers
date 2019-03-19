@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!05584809",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "05584809",
+  "ENT_NAM": "CashTan Financial Services s.r.o. ",
+  "ENT_ADD": "Nové sady 988/2",
+  "ENT_TOW_CIT_RES": "Brno",
+  "ENT_POS_COD": "60200",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-03-17"
+  ]
+}

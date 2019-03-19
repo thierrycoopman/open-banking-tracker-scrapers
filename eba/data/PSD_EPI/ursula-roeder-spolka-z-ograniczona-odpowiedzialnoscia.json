@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5991006459",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5991006459",
+  "ENT_NAM": "URSULA ROEDER Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Podmiejska 17A, Gorzów Wielkopolski, 66-400, PL",
+  "ENT_TOW_CIT_RES": "Gorzów Wielkopolski",
+  "ENT_POS_COD": "66-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-12-04"
+  ]
+}

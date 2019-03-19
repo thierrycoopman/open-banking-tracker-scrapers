@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3490",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3490",
+  "ENT_NAM": "SKLEP WIELOBRANŻOWY KRYSTYNA JELIŃSKA",
+  "ENT_ADD": "PORTOWCÓW 2/-, Tczew, 83-110, PL",
+  "ENT_TOW_CIT_RES": "Tczew",
+  "ENT_POS_COD": "83-110",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

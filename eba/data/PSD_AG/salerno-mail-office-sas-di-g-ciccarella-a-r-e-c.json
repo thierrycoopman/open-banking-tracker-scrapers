@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!679173_AG1043",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG679173",
+  "ENT_NAM": "Salerno Mail Office SAS Di G Ciccarella A R E C",
+  "ENT_ADD": "Viale Giuseppe Verdi 6/x",
+  "ENT_TOW_CIT_RES": "Salerno",
+  "ENT_POS_COD": "84131",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

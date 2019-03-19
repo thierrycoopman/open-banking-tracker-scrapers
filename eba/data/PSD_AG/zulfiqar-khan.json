@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!573340!519176_AG5",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG519176",
+  "ENT_NAM": "Zulfiqar Khan",
+  "ENT_ADD": "430 High Street",
+  "ENT_TOW_CIT_RES": "Smethwick",
+  "ENT_POS_COD": "B66 3PJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!573340",
+  "DER_CHI_ENT_AUT": "Active"
+}

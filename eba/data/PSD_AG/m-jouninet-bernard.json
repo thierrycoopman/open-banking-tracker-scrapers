@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!55077",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "421197096",
+  "ENT_NAM": "M. JOUNINET Bernard",
+  "ENT_ADD": "Résidence du Vieux Château",
+  "ENT_TOW_CIT_RES": "ST FARGEAU PONTHIERRY",
+  "ENT_POS_COD": "77310",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

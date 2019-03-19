@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!592740_AG2293",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG592740",
+  "ENT_NAM": "Barbara Letizia",
+  "ENT_ADD": "Via San Zeno 85",
+  "ENT_TOW_CIT_RES": "Montagnana",
+  "ENT_POS_COD": "35 044",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

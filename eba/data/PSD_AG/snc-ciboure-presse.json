@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65752",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "377739370",
+  "ENT_NAM": "SNC CIBOURE PRESSE",
+  "ENT_ADD": [
+    "quai Maurice Ravel",
+    "Res. le Boléro"
+  ],
+  "ENT_TOW_CIT_RES": "CIBOURE",
+  "ENT_POS_COD": "64500",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

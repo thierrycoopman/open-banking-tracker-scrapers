@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!571534_AG1321",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG571534",
+  "ENT_NAM": "Shafaat Khan",
+  "ENT_ADD": "Freudental 1",
+  "ENT_TOW_CIT_RES": "Schwaebisch Gmuend",
+  "ENT_POS_COD": "7352 5",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,21 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!782235",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "782235",
+  "ENT_NAM": "Expresslink Limited",
+  "ENT_NAM_COM": [
+    "expressLink",
+    "expressPay"
+  ],
+  "ENT_ADD": [
+    "16",
+    "Bay Court, Frimley Way"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 4AG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-10-26"
+  ]
+}

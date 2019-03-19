@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204873514",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204873514",
+  "ENT_NAM": [
+    "Фючър Уеб ЕООД",
+    "Future Web EOOD"
+  ],
+  "ENT_ADD": "zh.k. Nadezhda 1, build. 120, entr. A, fl. 8, app. 22",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1220",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

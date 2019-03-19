@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!59044",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "751015405",
+  "ENT_NAM": "THE SUN",
+  "ENT_ADD": "19 rue Robert Le Ricolais",
+  "ENT_TOW_CIT_RES": "ORVAULT",
+  "ENT_POS_COD": "44700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

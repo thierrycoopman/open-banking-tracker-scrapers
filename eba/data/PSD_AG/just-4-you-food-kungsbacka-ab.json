@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!787222_AG6872",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG787222",
+  "ENT_NAM": "Just 4 You Food Kungsbacka AB",
+  "ENT_ADD": "Ostergatan 14",
+  "ENT_TOW_CIT_RES": "Kungsbacka",
+  "ENT_POS_COD": "43430",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

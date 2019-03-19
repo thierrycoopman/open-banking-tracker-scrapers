@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!725057_AG4622",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG725057",
+  "ENT_NAM": "Rosaria Catanzaro",
+  "ENT_ADD": "Via G B Fardella 147",
+  "ENT_TOW_CIT_RES": "Trapani",
+  "ENT_POS_COD": "9110 0",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

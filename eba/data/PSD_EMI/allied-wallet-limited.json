@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900124",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900124",
+  "ENT_NAM": "Allied Wallet Limited",
+  "ENT_NAM_COM": "Allied Wallet Limited",
+  "ENT_ADD": [
+    "2nd Floor, 1-2",
+    "Broadgate"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2M 2QS",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-02-02"
+  ]
+}

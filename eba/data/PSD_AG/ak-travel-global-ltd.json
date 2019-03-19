@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!579306!762176_AG59",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG762176",
+  "ENT_NAM": "AK TRAVEL GLOBAL LTD",
+  "ENT_ADD": "91 High Street",
+  "ENT_TOW_CIT_RES": "Dudley",
+  "ENT_POS_COD": "DY1 1QP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!579306",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

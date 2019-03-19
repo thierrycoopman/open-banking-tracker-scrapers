@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!547578_AG23",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG547578",
+  "ENT_NAM": "Paa Kojo Tommy Mensah",
+  "ENT_ADD": [
+    "8-10 Heathfield Road",
+    "Handsworth"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B19 1HB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}

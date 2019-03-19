@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!942",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "942",
+  "ENT_NAM": "MAX BAX Grzegorz Głowacki",
+  "ENT_ADD": "Rębowska 56b, Wyszogród, 09-450, PL",
+  "ENT_TOW_CIT_RES": "Wyszogród",
+  "ENT_POS_COD": "09-450",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

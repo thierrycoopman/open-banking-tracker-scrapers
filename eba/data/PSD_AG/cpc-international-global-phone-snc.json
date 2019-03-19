@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!545652_AG48",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG545652",
+  "ENT_NAM": "Cpc International Global Phone Snc",
+  "ENT_ADD": "Viale Europa 64/01",
+  "ENT_TOW_CIT_RES": "Montesilvano",
+  "ENT_POS_COD": "650 15",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

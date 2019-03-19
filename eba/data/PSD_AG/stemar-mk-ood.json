@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202766583",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202766583",
+  "ENT_NAM": [
+    "Стемар МК ООД",
+    "Stemar MK OOD"
+  ],
+  "ENT_ADD": "27A Stefan Oreshkov str., app. 6",
+  "ENT_TOW_CIT_RES": "Shipka",
+  "ENT_POS_COD": "6150",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

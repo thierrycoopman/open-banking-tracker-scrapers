@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!747465_AG5145",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG747465",
+  "ENT_NAM": "Epicerie Le 78400",
+  "ENT_ADD": "2 Place Du 8 Mai",
+  "ENT_TOW_CIT_RES": "Chatou",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

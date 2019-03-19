@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!576701_AG1419",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG576701",
+  "ENT_NAM": "Gnanasivam Bangajan",
+  "ENT_ADD": "Hernerstr 158",
+  "ENT_TOW_CIT_RES": "Bochum",
+  "ENT_POS_COD": "4480 9",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

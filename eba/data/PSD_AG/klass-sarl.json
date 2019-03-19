@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!751769_AG5265",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG751769",
+  "ENT_NAM": "KLASS Sarl",
+  "ENT_ADD": "Rue Grande Duchesse Charlotte 28",
+  "ENT_TOW_CIT_RES": "Mersch",
+  "ENT_POS_COD": "7520",
+  "ENT_COU_RES": "LU",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

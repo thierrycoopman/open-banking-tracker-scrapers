@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!675000",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "675000",
+  "ENT_NAM": "Covercy Europe Ltd",
+  "ENT_ADD": "5-7 Tanner Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE1 3LE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-09-03"
+  ]
+}

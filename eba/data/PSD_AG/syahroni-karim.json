@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!631071_AG3506",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG631071",
+  "ENT_NAM": "Syahroni Karim",
+  "ENT_ADD": "Marco Polostraat 213H",
+  "ENT_TOW_CIT_RES": "Amsterdam",
+  "ENT_POS_COD": "1057 WK",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

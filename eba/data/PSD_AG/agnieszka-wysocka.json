@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2183",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2183",
+  "ENT_NAM": "Agnieszka Wysocka",
+  "ENT_ADD": "Władysława Andersa 9, Lublin, 20-259, PL",
+  "ENT_TOW_CIT_RES": "Lublin",
+  "ENT_POS_COD": "20-259",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63192",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "394344683",
+  "ENT_NAM": "M. BUSANA Jean-Marc",
+  "ENT_ADD": "22 Route de Toulouse",
+  "ENT_TOW_CIT_RES": "CORNEBARRIEU",
+  "ENT_POS_COD": "31700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

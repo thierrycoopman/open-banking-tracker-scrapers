@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!766963_AG533",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG766963",
+  "ENT_NAM": "Muhammad Salim Khan",
+  "ENT_ADD": [
+    "138 Walton Road",
+    "Woking"
+  ],
+  "ENT_TOW_CIT_RES": "Woking",
+  "ENT_POS_COD": "GU21 5DU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!825577_AG1462",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG825577",
+  "ENT_NAM": "Traesio Alberto",
+  "ENT_ADD": "Via Argine 597",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "80147",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

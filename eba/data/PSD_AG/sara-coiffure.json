@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!555334_AG1048",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG555334",
+  "ENT_NAM": "Sara Coiffure",
+  "ENT_ADD": "4 Place Du Marche",
+  "ENT_TOW_CIT_RES": "Cergy",
+  "ENT_POS_COD": "958 00",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

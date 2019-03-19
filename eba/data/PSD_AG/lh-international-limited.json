@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!815131_AG509",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG815131",
+  "ENT_NAM": "LH International Limited",
+  "ENT_ADD": "159 Stoke Road",
+  "ENT_TOW_CIT_RES": "Gosport",
+  "ENT_POS_COD": "PO12 1SE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

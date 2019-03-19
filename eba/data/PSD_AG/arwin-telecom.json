@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!805543_AG7941",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG805543",
+  "ENT_NAM": "Arwin Telecom",
+  "ENT_ADD": "113 Rue De Crimee",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75019",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

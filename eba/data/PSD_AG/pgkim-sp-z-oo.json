@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!351",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "351",
+  "ENT_NAM": "PGKiM Sp. z o.o.",
+  "ENT_ADD": "ul. Partyzantów 42, Opatów, 27-500, PL",
+  "ENT_TOW_CIT_RES": "Opatów",
+  "ENT_POS_COD": "27-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

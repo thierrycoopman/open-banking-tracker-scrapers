@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!79101",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "428964100",
+  "ENT_NAM": "M. LECERF Bruno",
+  "ENT_ADD": "157 RUE JEAN JAURES",
+  "ENT_TOW_CIT_RES": "ONNAING",
+  "ENT_POS_COD": "59264",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

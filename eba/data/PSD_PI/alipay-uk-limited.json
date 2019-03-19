@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!771845",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "771845",
+  "ENT_NAM": "Alipay (UK) Limited",
+  "ENT_ADD": [
+    "Covent Garden",
+    "5 Southampton Street",
+    "3rd Floor, Davidson Building"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "WC2E 7HA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-10-17"
+  ]
+}

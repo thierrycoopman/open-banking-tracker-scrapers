@@ -1,0 +1,24 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!791914",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "791914",
+  "ENT_NAM": "CRIF RealTime Limited",
+  "ENT_NAM_COM": [
+    "Credit Data Research Realtime Germany",
+    "Credit Data Research Realtime Italy",
+    "Credit Data Research Realtime United Kingdom",
+    "Credit Data Research Realtime Spain",
+    "Credit Data Research Realtime France"
+  ],
+  "ENT_ADD": [
+    "Broad Street House",
+    "55 Old Broad Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2M 1RX",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-01-13"
+  ]
+}

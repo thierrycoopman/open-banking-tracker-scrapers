@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57095",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "483671590",
+  "ENT_NAM": "M. JUY BIRMANN Laurent",
+  "ENT_ADD": "8 place Lamartine",
+  "ENT_TOW_CIT_RES": "PARAY LE MONIAL",
+  "ENT_POS_COD": "71600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

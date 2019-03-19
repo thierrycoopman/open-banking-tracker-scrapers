@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7868",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7868",
+  "ENT_NAM": "Przedsiębiorstwo Handlowe \"Camel\" Małgorzata Klapper",
+  "ENT_ADD": "Aleja Marszałka Józefa Piłsudskiego Kiosk przy budynku S, Olsztyn, 10-575, PL",
+  "ENT_TOW_CIT_RES": "Olsztyn",
+  "ENT_POS_COD": "10-575",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

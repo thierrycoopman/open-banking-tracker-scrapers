@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!774367_AG6180",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG774367",
+  "ENT_NAM": "Eric Elenga",
+  "ENT_ADD": "Breite Strasse 4",
+  "ENT_TOW_CIT_RES": "Lemgo",
+  "ENT_POS_COD": "32657",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

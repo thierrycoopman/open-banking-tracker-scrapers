@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!517165!579383_AG1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG579383",
+  "ENT_NAM": "GAP Vassilopoulos Public Ltd",
+  "ENT_ADD": [
+    "Arch. Makariou III",
+    "2-4, Capital Centre",
+    "9th Floor, P.C."
+  ],
+  "ENT_TOW_CIT_RES": "Nicosia",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "CY",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!517165",
+  "DER_CHI_ENT_AUT": "Active"
+}

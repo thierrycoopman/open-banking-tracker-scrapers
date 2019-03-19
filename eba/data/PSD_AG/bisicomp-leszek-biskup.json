@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!169",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "169",
+  "ENT_NAM": "BISICOMP Leszek Biskup",
+  "ENT_ADD": "ul. Franciszka Kleeberga 12A, Lublin, 20-244, PL",
+  "ENT_TOW_CIT_RES": "Lublin",
+  "ENT_POS_COD": "20-244",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

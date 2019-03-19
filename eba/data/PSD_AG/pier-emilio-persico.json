@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!543680_AG533",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG543680",
+  "ENT_NAM": "Pier Emilio Persico",
+  "ENT_ADD": "Piazza Cadorna 13",
+  "ENT_TOW_CIT_RES": "Cremona",
+  "ENT_POS_COD": "261 00",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

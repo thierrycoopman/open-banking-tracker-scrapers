@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0015!R128290",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R128290",
+  "ENT_NAM": "RENT-TO-PAY",
+  "ENT_ADD": "Mechelsesteenweg 190-b7",
+  "ENT_TOW_CIT_RES": "ANTWERPEN",
+  "ENT_POS_COD": "2018",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0015",
+  "DER_CHI_ENT_AUT": "Active"
+}

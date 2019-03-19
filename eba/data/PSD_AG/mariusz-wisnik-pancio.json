@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971683744!144",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "144",
+  "ENT_NAM": "MARIUSZ WIŚNIK \"PAŃCIO\"",
+  "ENT_ADD": "TATRZAŃSKA 21A, ŁÓDŹ, 93-219, PL",
+  "ENT_TOW_CIT_RES": "ŁÓDŹ",
+  "ENT_POS_COD": "93-219",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971683744",
+  "DER_CHI_ENT_AUT": "Active"
+}

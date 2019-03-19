@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971683744!64",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "64",
+  "ENT_NAM": "P.H.U. „KOLOR” Jaśków Iwona",
+  "ENT_ADD": "Wojska Polskiego 5, Milicz, 56-300, PL",
+  "ENT_TOW_CIT_RES": "Milicz",
+  "ENT_POS_COD": "56-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971683744",
+  "DER_CHI_ENT_AUT": "Active"
+}

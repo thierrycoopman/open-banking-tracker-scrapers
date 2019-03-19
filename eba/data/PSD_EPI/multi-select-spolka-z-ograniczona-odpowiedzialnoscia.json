@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8871815146",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8871815146",
+  "ENT_NAM": "Multi Select spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Kościuszki 1, Ziębice, 57-220, PL",
+  "ENT_TOW_CIT_RES": "Ziębice",
+  "ENT_POS_COD": "57-220",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-10-09"
+  ]
+}

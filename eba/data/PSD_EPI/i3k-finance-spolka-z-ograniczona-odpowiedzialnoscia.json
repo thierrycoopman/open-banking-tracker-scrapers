@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5213843831",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5213843831",
+  "ENT_NAM": "I3K Finance spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Wołomińska 3a, Kobyłka, 05-230, PL",
+  "ENT_TOW_CIT_RES": "Kobyłka",
+  "ENT_POS_COD": "05-230",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-11-28"
+  ]
+}

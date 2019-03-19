@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!34550",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "37960705 ",
+  "ENT_NAM": "Velkommen A/S",
+  "ENT_ADD": "Kalvebod Brygge 39, 5",
+  "ENT_TOW_CIT_RES": "Copenhagen V",
+  "ENT_POS_COD": "1560",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2017-04-25"
+  ]
+}

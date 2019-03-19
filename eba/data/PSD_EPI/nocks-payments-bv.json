@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R134958",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R134958",
+  "ENT_NAM": "Nocks Payments B.V.",
+  "ENT_NAM_COM": "Nocks Payments B.V.",
+  "ENT_ADD": "Van Lodensteinstraat 25",
+  "ENT_TOW_CIT_RES": "ZOETERMEER",
+  "ENT_POS_COD": "2722 CG",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

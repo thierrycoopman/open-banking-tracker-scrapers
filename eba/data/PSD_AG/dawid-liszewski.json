@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!593364!817285_AG55",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG817285",
+  "ENT_NAM": "Dawid Liszewski",
+  "ENT_ADD": "Bauera 1",
+  "ENT_TOW_CIT_RES": "Bytów",
+  "ENT_POS_COD": "77100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!593364",
+  "DER_CHI_ENT_AUT": "Active"
+}

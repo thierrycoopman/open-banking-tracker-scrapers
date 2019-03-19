@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!578339",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "578339",
+  "ENT_NAM": "Safesend EXP Ltd",
+  "ENT_NAM_COM": "Maandeeq Express",
+  "ENT_ADD": [
+    "Felix  Road",
+    "Suite 41E",
+    "Easton Business Centre"
+  ],
+  "ENT_TOW_CIT_RES": "Bristol",
+  "ENT_POS_COD": "BS5 0HE",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-07-31",
+    "2018-10-30"
+  ]
+}

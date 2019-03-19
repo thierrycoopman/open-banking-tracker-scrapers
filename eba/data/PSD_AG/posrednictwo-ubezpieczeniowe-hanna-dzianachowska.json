@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!671",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "671",
+  "ENT_NAM": "Pośrednictwo Ubezpieczeniowe Hanna Dzianachowska",
+  "ENT_ADD": "ul. Świerczewskiego 18/2, Olsztynek, 11-015, PL",
+  "ENT_TOW_CIT_RES": "Olsztynek",
+  "ENT_POS_COD": "11-015",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

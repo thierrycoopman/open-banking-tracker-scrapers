@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6691924312",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6691924312",
+  "ENT_NAM": "Elżbieta Wójcik Biuro Rachunkowe",
+  "ENT_ADD": "Plac Tadeusza Kościuszki 11/5, Darłowo, 76-150, PL",
+  "ENT_TOW_CIT_RES": "Darłowo",
+  "ENT_POS_COD": "76-150",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-04-19"
+  ]
+}

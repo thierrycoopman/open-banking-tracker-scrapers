@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2622",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2622",
+  "ENT_NAM": "P.S.S. Skorpion Zbigniew Czarny",
+  "ENT_ADD": "Kwiatowa 1, Łężyca, 66-016, PL",
+  "ENT_TOW_CIT_RES": "Łężyca",
+  "ENT_POS_COD": "66-016",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

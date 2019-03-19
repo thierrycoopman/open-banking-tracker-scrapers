@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!24236501",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "24236501",
+  "ENT_NAM": "BANCIBO, SE ",
+  "ENT_ADD": "Václavské náměstí 799/48",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "11000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2016-02-09"
+  ]
+}

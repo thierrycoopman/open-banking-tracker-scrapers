@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!110058412",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "110058412",
+  "ENT_NAM": [
+    "ЕТ Данов-57-Ганета Данова",
+    "ET Danov-57-Ganeta Danova"
+  ],
+  "ENT_ADD": "30 Stara planina str., Troyan municipality",
+  "ENT_TOW_CIT_RES": "Dobrodan village",
+  "ENT_POS_COD": "5658",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

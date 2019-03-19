@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5671011329",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5671011329",
+  "ENT_NAM": "\"ARKADIA\" Artur Gizler",
+  "ENT_ADD": "Ziemowita 24, Raciąż, 09-140, PL",
+  "ENT_TOW_CIT_RES": "Raciąż",
+  "ENT_POS_COD": "09-140",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-31"
+  ]
+}

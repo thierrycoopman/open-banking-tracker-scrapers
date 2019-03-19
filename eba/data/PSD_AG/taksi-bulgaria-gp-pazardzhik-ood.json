@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200457218",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200457218",
+  "ENT_NAM": [
+    "Такси България – ГП – Пазарджик ООД",
+    "Taksi Bulgaria - GP - Pazardzhik OOD"
+  ],
+  "ENT_ADD": "64V V. Levski str., fl. 7, app. 27",
+  "ENT_TOW_CIT_RES": "Pazardzhik",
+  "ENT_POS_COD": "4400",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

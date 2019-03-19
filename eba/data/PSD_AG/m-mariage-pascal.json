@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75708",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "492073309",
+  "ENT_NAM": "M. MARIAGE Pascal",
+  "ENT_ADD": "156 RUE DE LA LIBERATION",
+  "ENT_TOW_CIT_RES": "GAINNEVILLE",
+  "ENT_POS_COD": "76700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

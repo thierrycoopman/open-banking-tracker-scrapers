@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8132404508",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "8132404508",
+  "ENT_NAM": "Rzeszowska Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Bpa J.S. Pelczara",
+  "ENT_ADD": "ul. Zamenhoffa 3, Rzeszów, 35-065, PL",
+  "ENT_TOW_CIT_RES": "Rzeszów",
+  "ENT_POS_COD": "35-065",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-08"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!608181_AG2878",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG608181",
+  "ENT_NAM": "Yaser Ahmed Timraz",
+  "ENT_ADD": "St Marie Gate 80",
+  "ENT_TOW_CIT_RES": "Sarpsborg",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "NO",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

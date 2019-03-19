@@ -1,0 +1,21 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504315",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "504315",
+  "ENT_NAM": "Global Reach Partners Limited",
+  "ENT_NAM_COM": [
+    "Global Reach Group",
+    "Global Reach"
+  ],
+  "ENT_ADD": [
+    "Woolgate Exchange",
+    "25 Basinghall Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2V 5HA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2010-02-25"
+  ]
+}

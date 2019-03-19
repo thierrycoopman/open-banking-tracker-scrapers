@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201821639",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201821639",
+  "ENT_NAM": [
+    "Джи Ес Кеш ЕООД",
+    "G S CASH EOOD"
+  ],
+  "ENT_ADD": "20 Oborishte str., entr. 1, fl. 2",
+  "ENT_TOW_CIT_RES": "Ruse",
+  "ENT_POS_COD": "7000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

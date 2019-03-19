@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3776",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3776",
+  "ENT_NAM": "Tomasz Kruszewski",
+  "ENT_ADD": "Klonowa 26, Kostki, 08-300, PL",
+  "ENT_TOW_CIT_RES": "Kostki",
+  "ENT_POS_COD": "08-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0017",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0017",
+  "ENT_NAM": "Sepay B.V.",
+  "ENT_NAM_COM": "Sepay B.V.",
+  "ENT_ADD": "Dr. Kuyperstraat 14",
+  "ENT_TOW_CIT_RES": "'S-GRAVENHAGE",
+  "ENT_POS_COD": "2514 BB",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

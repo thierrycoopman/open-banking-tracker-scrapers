@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72342",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "832453963",
+  "ENT_NAM": "M. BETTAYEB Kamel",
+  "ENT_ADD": [
+    "32 patio des Reflets",
+    "La Défense 2"
+  ],
+  "ENT_TOW_CIT_RES": "COURBEVOIE",
+  "ENT_POS_COD": "92400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

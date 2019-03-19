@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!955",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "955",
+  "ENT_NAM": "Tomasz Urbanek Firma Handlowo-Usługowa",
+  "ENT_ADD": "Piotrówka ul. Kościuszki 166, Jemielnica, 47-133, PL",
+  "ENT_TOW_CIT_RES": "Jemielnica",
+  "ENT_POS_COD": "47-133",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

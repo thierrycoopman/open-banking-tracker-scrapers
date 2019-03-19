@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!560812!512477_AG7",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG512477",
+  "ENT_NAM": "Sonali Express Limited",
+  "ENT_ADD": "182b Lozells Road",
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B19 1PA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!560812",
+  "DER_CHI_ENT_AUT": "Active"
+}

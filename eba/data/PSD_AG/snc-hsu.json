@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66610",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "810560219",
+  "ENT_NAM": "SNC HSU",
+  "ENT_ADD": [
+    "avenue du Maréchal Joffre ",
+    "Ctre commercial Val de Fontenay ",
+    "Auchan"
+  ],
+  "ENT_TOW_CIT_RES": "FONTENAY SOUS BOIS",
+  "ENT_POS_COD": "94120",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

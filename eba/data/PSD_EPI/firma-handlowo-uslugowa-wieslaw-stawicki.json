@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6370110238",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6370110238",
+  "ENT_NAM": "Firma Handlowo- Usługowa Wiesław Stawicki",
+  "ENT_ADD": "1 Maja  126, Bukowno, 32-332 , PL",
+  "ENT_TOW_CIT_RES": "Bukowno",
+  "ENT_POS_COD": "32-332 ",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-15"
+  ]
+}

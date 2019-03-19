@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13046!69725",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "514974443",
+  "ENT_NAM": "THANALAKSHMI STORES",
+  "ENT_ADD": "1 Bis rue de Ledru Rollin",
+  "ENT_TOW_CIT_RES": "CHOISY LE ROI",
+  "ENT_POS_COD": "94600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13046",
+  "DER_CHI_ENT_AUT": "Active"
+}

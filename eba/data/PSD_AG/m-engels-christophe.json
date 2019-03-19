@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75752",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "442710885",
+  "ENT_NAM": "M. ENGELS Christophe",
+  "ENT_ADD": [
+    "RTE DE BRIGNOLES",
+    " LE VALLON DES SOURCES",
+    "ZONE D'ACTIVITE COMMERCIALE",
+    "DES TUILERIES"
+  ],
+  "ENT_TOW_CIT_RES": "ST ZACHARIE",
+  "ENT_POS_COD": "83640",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!833888_AG617",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG833888",
+  "ENT_NAM": "Safir Hussain",
+  "ENT_ADD": [
+    "Dunstable Road",
+    "7-8 The Arcade"
+  ],
+  "ENT_TOW_CIT_RES": "Luton",
+  "ENT_POS_COD": "LU4 8JE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

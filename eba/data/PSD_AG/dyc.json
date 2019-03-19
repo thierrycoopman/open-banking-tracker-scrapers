@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!745756_AG5070",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG745756",
+  "ENT_NAM": "DYC",
+  "ENT_ADD": "5 Avenue Des Ursurlines",
+  "ENT_TOW_CIT_RES": "Poissy",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

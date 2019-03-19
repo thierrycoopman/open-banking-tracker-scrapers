@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63846",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "445136450",
+  "ENT_NAM": "NOUVEAU HONG KONG",
+  "ENT_ADD": "132-134 rue de Périgueux",
+  "ENT_TOW_CIT_RES": "ANGOULEME",
+  "ENT_POS_COD": "16000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

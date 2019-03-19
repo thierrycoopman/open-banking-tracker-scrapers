@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7794",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7794",
+  "ENT_NAM": "LICZNERSKA JOANNA SKLEP SPOŻYWCZO MIĘSNY",
+  "ENT_ADD": "Świetlińska 12, Kajkowo, 14-100, PL",
+  "ENT_TOW_CIT_RES": "Kajkowo",
+  "ENT_POS_COD": "14-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

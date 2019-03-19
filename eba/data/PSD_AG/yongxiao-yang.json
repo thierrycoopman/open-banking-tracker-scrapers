@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!725440_AG460",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG725440",
+  "ENT_NAM": "Yongxiao Yang",
+  "ENT_ADD": "Corso Nizza 78",
+  "ENT_TOW_CIT_RES": "Cuneo",
+  "ENT_POS_COD": "121 0",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

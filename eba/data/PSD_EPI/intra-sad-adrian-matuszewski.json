@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6991118874",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6991118874",
+  "ENT_NAM": "\"INTRA-SAD\" Adrian Matuszewski",
+  "ENT_ADD": "Bydgoska 1, Świecie, 86-100, PL",
+  "ENT_TOW_CIT_RES": "Świecie",
+  "ENT_POS_COD": "86-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14"
+  ]
+}

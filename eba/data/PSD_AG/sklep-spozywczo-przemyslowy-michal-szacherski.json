@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!249",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "249",
+  "ENT_NAM": "Sklep spożywczo-przemysłowy Michał Szacherski",
+  "ENT_ADD": "Niechłonin 152, Płośnica, 13-206, PL",
+  "ENT_TOW_CIT_RES": "Płośnica",
+  "ENT_POS_COD": "13-206",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

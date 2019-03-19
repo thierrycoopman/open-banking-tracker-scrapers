@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8840015491",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8840015491",
+  "ENT_NAM": "Biuro Handlowe ANDA Krzysztof Michalik",
+  "ENT_ADD": "Pl. Grunwaldzki 11A, Świdnica, 58-100, PL",
+  "ENT_TOW_CIT_RES": "Świdnica",
+  "ENT_POS_COD": "58-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-03-19",
+    "2018-10-15"
+  ]
+}

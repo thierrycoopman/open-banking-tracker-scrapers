@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R135611",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R135611",
+  "ENT_NAM": "Kedin Consumenten Financieringen B.V.",
+  "ENT_NAM_COM": "Kedin/Direct Secure",
+  "ENT_ADD": "Blaak 16",
+  "ENT_TOW_CIT_RES": "ROTTERDAM",
+  "ENT_POS_COD": "3011 TA",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

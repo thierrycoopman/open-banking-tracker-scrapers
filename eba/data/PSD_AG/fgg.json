@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73838",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "817794258",
+  "ENT_NAM": "FGG",
+  "ENT_ADD": "195 Grand Rue François Mitterand",
+  "ENT_TOW_CIT_RES": "MAUGUIO",
+  "ENT_POS_COD": "34130",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

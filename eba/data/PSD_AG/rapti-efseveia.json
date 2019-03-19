@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!049456026",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "049456026",
+  "ENT_NAM": "RAPTI EFSEVEIA",
+  "ENT_ADD": "NEO LIMANI",
+  "ENT_TOW_CIT_RES": "THASOS",
+  "ENT_POS_COD": "64004",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

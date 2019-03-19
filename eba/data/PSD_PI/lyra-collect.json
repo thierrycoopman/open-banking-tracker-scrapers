@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!68341",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "817491236",
+  "ENT_NAM": "LYRA COLLECT",
+  "ENT_NAM_COM": "PI Commercial Name (Not Specified)",
+  "ENT_ADD": "109 rue de l'Innovation",
+  "ENT_TOW_CIT_RES": "LABEGE",
+  "ENT_POS_COD": "31670",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2017-06-21"
+  ]
+}

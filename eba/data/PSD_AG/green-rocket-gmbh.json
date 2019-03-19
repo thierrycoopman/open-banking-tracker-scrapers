@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!72906",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "HRB229313",
+  "ENT_NAM": "GREEN ROCKET GMBH",
+  "ENT_ADD": "Otto-Heilmann-Strasse 17",
+  "ENT_TOW_CIT_RES": "82031 GRUNWALD",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

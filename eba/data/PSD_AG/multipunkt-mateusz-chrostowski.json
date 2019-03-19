@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6117",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6117",
+  "ENT_NAM": "MultiPunkt Mateusz Chrostowski",
+  "ENT_ADD": "Stefana Starzynskiego 3, Przasnysz, 06-300, PL",
+  "ENT_TOW_CIT_RES": "Przasnysz",
+  "ENT_POS_COD": "06-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

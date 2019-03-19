@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!543412!551935_AG10",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG551935",
+  "ENT_NAM": "Syed Munawar Ali Saqib",
+  "ENT_ADD": "Möllnerlandstr. 137A",
+  "ENT_TOW_CIT_RES": "Hamburg",
+  "ENT_POS_COD": "22 117",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!543412",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!834907_AG10685",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG834907",
+  "ENT_NAM": "Moussa Andjibou",
+  "ENT_ADD": "39 Rue Stade De Foot",
+  "ENT_TOW_CIT_RES": "Bandrele",
+  "ENT_POS_COD": "97660",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

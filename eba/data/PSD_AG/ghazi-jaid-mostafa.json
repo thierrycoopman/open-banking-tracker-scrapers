@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!832689_AG10589",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG832689",
+  "ENT_NAM": "Ghazi Jaid Mostafa",
+  "ENT_ADD": "Djupegatan 29 B",
+  "ENT_TOW_CIT_RES": "Hudiksvall",
+  "ENT_POS_COD": "82450",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

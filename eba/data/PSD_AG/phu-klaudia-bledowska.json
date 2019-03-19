@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2210",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2210",
+  "ENT_NAM": "PHU Klaudia Błędowska",
+  "ENT_ADD": "Leszczyńska 20, Bielsko-Biała, 43-300, PL",
+  "ENT_TOW_CIT_RES": "Bielsko-Biała",
+  "ENT_POS_COD": "43-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

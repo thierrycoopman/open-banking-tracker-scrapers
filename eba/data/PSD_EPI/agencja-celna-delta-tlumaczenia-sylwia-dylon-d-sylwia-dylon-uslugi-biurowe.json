@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7122621155",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7122621155",
+  "ENT_NAM": "AGENCJA CELNA DELTA TŁUMACZENIA SYLWIA DYLON (d. SYLWIA DYLON USŁUGI BIUROWE)",
+  "ENT_ADD": "Energetyków 37, Lublin, 20-468, PL",
+  "ENT_TOW_CIT_RES": "Lublin",
+  "ENT_POS_COD": "20-468",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-10-27"
+  ]
+}

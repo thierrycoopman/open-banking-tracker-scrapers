@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65498",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "338163207",
+  "ENT_NAM": "Mme RIVIERE Karin",
+  "ENT_ADD": "1 place Jean Baptiste Lebas",
+  "ENT_TOW_CIT_RES": "PREMESQUES",
+  "ENT_POS_COD": "59840",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

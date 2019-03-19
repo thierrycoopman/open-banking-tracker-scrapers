@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "BE_NBB",
+  "EntityCode": "BE_NBB!0475445104",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "0475445104",
+  "ENT_NAM": "Money International",
+  "ENT_ADD": "Gentse Steenweg 100/Chaussée de Gand 100",
+  "ENT_TOW_CIT_RES": "Brussel/Bruxelles",
+  "ENT_POS_COD": "1080",
+  "ENT_COU_RES": "BE",
+  "ENT_AUT": [
+    "2013-06-04"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8971215581",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8971215581",
+  "ENT_NAM": "Halina Szczerba Usługi Finansowe",
+  "ENT_ADD": "Popowicka 134, Wrocław, 54-238, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "54-238",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-16"
+  ]
+}

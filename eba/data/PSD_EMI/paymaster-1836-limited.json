@@ -1,0 +1,22 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900860",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900860",
+  "ENT_NAM": "Paymaster (1836) Limited",
+  "ENT_NAM_COM": [
+    "EQ Global",
+    "Equiniti Global"
+  ],
+  "ENT_ADD": [
+    "Crawley",
+    "Sutherland House",
+    "Russell Way"
+  ],
+  "ENT_TOW_CIT_RES": "West Sussex",
+  "ENT_POS_COD": "RH10 1UH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-07-12"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!123118",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "123118",
+  "ENT_NAM": "BS PAYONE GmbH",
+  "ENT_ADD": "Lyoner Straße 9 | 60528 Frankfurt am Main",
+  "ENT_TOW_CIT_RES": "Frankfurt am Main",
+  "ENT_POS_COD": "60528",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-06-28"
+  ]
+}

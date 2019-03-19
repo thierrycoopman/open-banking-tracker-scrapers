@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1104",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1104",
+  "ENT_NAM": "PHU Zofia Kotra",
+  "ENT_ADD": "1 Maja 9A, Ząbkowice Śląskie, 57-200, PL",
+  "ENT_TOW_CIT_RES": "Ząbkowice Śląskie",
+  "ENT_POS_COD": "57-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

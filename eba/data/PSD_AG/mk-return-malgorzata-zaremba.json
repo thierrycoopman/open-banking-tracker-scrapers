@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!164",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "164",
+  "ENT_NAM": "MK - Return Małgorzata Zaremba",
+  "ENT_ADD": "Juliusza 33, Zduńska Wola, 98-220, PL",
+  "ENT_TOW_CIT_RES": "Zduńska Wola",
+  "ENT_POS_COD": "98-220",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}

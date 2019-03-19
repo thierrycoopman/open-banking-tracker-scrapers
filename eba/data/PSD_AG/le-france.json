@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74875",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "533588422",
+  "ENT_NAM": "LE FRANCE",
+  "ENT_ADD": "12 COURS JOEL ESTEVE",
+  "ENT_TOW_CIT_RES": "SERIGNAN DU COMTAT",
+  "ENT_POS_COD": "84830",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

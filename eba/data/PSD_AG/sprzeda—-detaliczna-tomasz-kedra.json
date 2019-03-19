@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!141",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "141",
+  "ENT_NAM": "SPRZEDA— DETALICZNA TOMASZ KEDRA",
+  "ENT_ADD": "Hetmana Stefana Czarnieckiego 26, Kielce, 25-132, PL",
+  "ENT_TOW_CIT_RES": "Kielce",
+  "ENT_POS_COD": "25-132",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+}

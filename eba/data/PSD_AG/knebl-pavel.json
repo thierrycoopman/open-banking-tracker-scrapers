@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!40369129",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "40369129",
+  "ENT_NAM": "Knébl Pavel",
+  "ENT_ADD": "Komenského 267/22",
+  "ENT_TOW_CIT_RES": "Podivín",
+  "ENT_POS_COD": "69145",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5252524188",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5252524188",
+  "ENT_NAM": "TNN FINANCE Spółka Akcyjna",
+  "ENT_ADD": "Braci Mieroszewskich 50, Sosnowiec, 41-219, PL",
+  "ENT_TOW_CIT_RES": "Sosnowiec",
+  "ENT_POS_COD": "41-219",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-08-17"
+  ]
+}

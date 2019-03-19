@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!805757",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "805757",
+  "ENT_NAM": "Callcredit Limited",
+  "ENT_ADD": "One Park Lane",
+  "ENT_TOW_CIT_RES": "Leeds",
+  "ENT_POS_COD": "LS3 1EP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-12-21"
+  ]
+}

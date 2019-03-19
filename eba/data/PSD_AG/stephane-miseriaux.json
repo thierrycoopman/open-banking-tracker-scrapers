@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!538906_AG456",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG538906",
+  "ENT_NAM": "STEPHANE MISERIAUX",
+  "ENT_ADD": "12 rue du Perrinon",
+  "ENT_TOW_CIT_RES": "Capesterre Belle-Eau",
+  "ENT_POS_COD": "971 30",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8691131630",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8691131630",
+  "ENT_NAM": "Agata Faron Punkt Opłat AGFA",
+  "ENT_ADD": "Rynek 1, Szczurowa, 32-820, PL",
+  "ENT_TOW_CIT_RES": "Szczurowa",
+  "ENT_POS_COD": "32-820",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-11"
+  ]
+}

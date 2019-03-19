@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!058553807",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "058553807",
+  "ENT_NAM": "POULINAKIS EMMANOUIL",
+  "ENT_ADD": "159, 28th OKTOVRIOU Str.",
+  "ENT_TOW_CIT_RES": "MOIRES",
+  "ENT_POS_COD": "70400",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

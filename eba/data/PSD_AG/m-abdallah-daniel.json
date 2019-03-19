@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13046!64977",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "054394689",
+  "ENT_NAM": "M. ABDALLAH Daniel",
+  "ENT_ADD": [
+    "17 B Rue Ciné 2000",
+    "Labattoir"
+  ],
+  "ENT_TOW_CIT_RES": "DZAOUDZI",
+  "ENT_POS_COD": "97615",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13046",
+  "DER_CHI_ENT_AUT": "Active"
+}

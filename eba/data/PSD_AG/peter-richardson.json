@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!548086_AG134",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG548086",
+  "ENT_NAM": "Peter Richardson",
+  "ENT_ADD": "178b Dunstable Road",
+  "ENT_TOW_CIT_RES": "Luton",
+  "ENT_POS_COD": "LU4 8JJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

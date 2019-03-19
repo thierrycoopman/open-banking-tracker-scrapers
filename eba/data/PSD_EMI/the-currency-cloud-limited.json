@@ -1,0 +1,26 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900199",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900199",
+  "ENT_NAM": "The Currency Cloud Limited",
+  "ENT_NAM_COM": [
+    "Currency Cloud",
+    "Aviation Forex",
+    "Swifex",
+    "The Currency Cloud Limited",
+    "Mayfair FX",
+    "Currency Cloud Limited",
+    "The Currency Cloud.com"
+  ],
+  "ENT_ADD": [
+    "The Steward Building",
+    "12 Steward Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 6FQ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-06-07"
+  ]
+}

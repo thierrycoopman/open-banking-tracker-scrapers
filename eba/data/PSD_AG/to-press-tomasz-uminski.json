@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7846",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7846",
+  "ENT_NAM": "\"TO-PRESS\" Tomasz Umiński",
+  "ENT_ADD": "Józefa Cieszkowskiego 7/21, Dąbrowa Górnicza, 41-306, PL",
+  "ENT_TOW_CIT_RES": "Dąbrowa Górnicza",
+  "ENT_POS_COD": "41-306",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

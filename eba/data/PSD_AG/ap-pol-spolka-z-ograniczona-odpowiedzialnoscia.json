@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1531",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1531",
+  "ENT_NAM": "\"AP-POL\" Spółka z Ograniczoną Odpowiedzialnością",
+  "ENT_ADD": "Obrońców Wybrzeża 2 B, Pruszcz Gdański, 83-000, PL",
+  "ENT_TOW_CIT_RES": "Pruszcz Gdański",
+  "ENT_POS_COD": "83-000",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

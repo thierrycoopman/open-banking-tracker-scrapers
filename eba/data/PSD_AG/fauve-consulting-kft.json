@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!25163680!01_09_976587",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "01-09-976587",
+  "ENT_NAM": "FAUVE Consulting Kft",
+  "ENT_ADD": "Kiscelli utca 6. 10. em. 29.",
+  "ENT_TOW_CIT_RES": "Budapest",
+  "ENT_POS_COD": "1032",
+  "ENT_COU_RES": "HU",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!25163680",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!773892_AG1660",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG773892",
+  "ENT_NAM": "Imran Hussain",
+  "ENT_ADD": "2 Croft Street Hyde",
+  "ENT_TOW_CIT_RES": "Hyde",
+  "ENT_POS_COD": "SK14 1LH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

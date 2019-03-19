@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8251262262",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8251262262",
+  "ENT_NAM": "Jarosław Laskowski \"Kameleon\"",
+  "ENT_ADD": "Oś. Klimeckiego 1/14, Łuków, 21-400, PL",
+  "ENT_TOW_CIT_RES": "Łuków",
+  "ENT_POS_COD": "21-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-15",
+    "2018-07-05"
+  ]
+}

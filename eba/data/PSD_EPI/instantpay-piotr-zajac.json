@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5010078012",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5010078012",
+  "ENT_NAM": "InstantPay Piotr Zając",
+  "ENT_ADD": "Starogórska 56, Góra, 56-200, PL",
+  "ENT_TOW_CIT_RES": "Góra",
+  "ENT_POS_COD": "56-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-02-16",
+    "2019-02-06"
+  ]
+}

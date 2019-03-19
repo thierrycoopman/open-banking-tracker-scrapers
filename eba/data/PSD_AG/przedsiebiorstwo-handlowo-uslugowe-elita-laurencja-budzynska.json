@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!444",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "444",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo-Usługowe ”ELITA” Laurencja Budzyńska",
+  "ENT_ADD": "ul. 800-lecia Inowrocławia 12, Inowrocław, 88-100, PL",
+  "ENT_TOW_CIT_RES": "Inowrocław",
+  "ENT_POS_COD": "88-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!782278_AG384",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG782278",
+  "ENT_NAM": "Jahed Miah",
+  "ENT_ADD": [
+    "Witton Road",
+    "284"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B6",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

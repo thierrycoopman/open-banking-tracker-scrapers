@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6625",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6625",
+  "ENT_NAM": "K&K Krzysztof Dąbkowski Wspólnik Spółki Cywilnej",
+  "ENT_ADD": "Makolągwy 21, Warszawa, 02-811, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-811",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

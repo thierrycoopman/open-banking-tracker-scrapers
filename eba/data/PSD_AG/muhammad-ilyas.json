@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!535844_AG32",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG535844",
+  "ENT_NAM": "Muhammad Ilyas",
+  "ENT_ADD": "8 Abel Street",
+  "ENT_TOW_CIT_RES": "Burnley",
+  "ENT_POS_COD": "BB10 1QX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

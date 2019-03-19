@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!130870385",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "130870385",
+  "ENT_NAM": [
+    "Ел Зет Бе Ге ЕООД",
+    "El Zet BG EOOD"
+  ],
+  "ENT_ADD": "16B Apostol Karamitev str., app. 1-4, zh.k. Dianabad",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

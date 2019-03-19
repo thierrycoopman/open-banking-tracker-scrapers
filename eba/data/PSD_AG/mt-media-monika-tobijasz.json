@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!785",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "785",
+  "ENT_NAM": "\"M.T - Media\" Monika Tobijasz",
+  "ENT_ADD": "Leopolda Okulickiego 3 lok.3, Nowy Dwór Mazowiecki, 05-101, PL",
+  "ENT_TOW_CIT_RES": "Nowy Dwór Mazowiecki",
+  "ENT_POS_COD": "05-101",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

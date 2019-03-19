@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!48844",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "422097097",
+  "ENT_NAM": "PRO MULTI SERVICES",
+  "ENT_ADD": [
+    "18 B rue Goinet, angle rue Félix",
+    "Eboué"
+  ],
+  "ENT_TOW_CIT_RES": "CAYENNE",
+  "ENT_POS_COD": "97300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

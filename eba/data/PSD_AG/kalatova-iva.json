@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!62639285",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "62639285",
+  "ENT_NAM": "Kalátová Iva",
+  "ENT_ADD": "Sídliště 649",
+  "ENT_TOW_CIT_RES": "Rotava",
+  "ENT_POS_COD": "35701",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

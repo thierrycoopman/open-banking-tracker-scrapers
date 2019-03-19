@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!25163680!8085353580",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8085353580",
+  "ENT_NAM": "FRONX SRL",
+  "ENT_ADD": "Bulevardul TOMIS, Nr. 253, cam. 1, Bloc T1, Scara B, Etaj 4, Ap. 37",
+  "ENT_TOW_CIT_RES": "Mun. Constanţa",
+  "ENT_POS_COD": "900395",
+  "ENT_COU_RES": "RO",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!25163680",
+  "DER_CHI_ENT_AUT": "Active"
+}

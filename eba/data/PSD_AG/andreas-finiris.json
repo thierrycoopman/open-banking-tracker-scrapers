@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!597367_AG2474",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG597367",
+  "ENT_NAM": "Andreas Finiris",
+  "ENT_ADD": "Arch Makarios III Ave 42 Anayia",
+  "ENT_TOW_CIT_RES": "Nicosia",
+  "ENT_POS_COD": "NA NA",
+  "ENT_COU_RES": "CY",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

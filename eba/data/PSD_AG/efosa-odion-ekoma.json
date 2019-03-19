@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!826946_AG9924",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG826946",
+  "ENT_NAM": "Efosa Odion Ekoma",
+  "ENT_ADD": "138 Eastgate Street",
+  "ENT_TOW_CIT_RES": "Gloucester",
+  "ENT_POS_COD": "GL1 1QU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

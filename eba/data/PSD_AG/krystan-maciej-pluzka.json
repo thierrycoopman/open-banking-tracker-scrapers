@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!3",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3",
+  "ENT_NAM": "KRYSTAN Maciej Płużka",
+  "ENT_ADD": "ul. Tuszyńska 87, Łódź, 93-368, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "93-368",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

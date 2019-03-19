@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!785623_AG6773",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG785623",
+  "ENT_NAM": "Domenico Giuliano",
+  "ENT_ADD": [
+    "Via Provinciale SNC",
+    "San Nicolo"
+  ],
+  "ENT_TOW_CIT_RES": "Ricadi",
+  "ENT_POS_COD": "89866",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

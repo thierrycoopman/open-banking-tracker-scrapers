@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!538730_AG112",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG538730",
+  "ENT_NAM": "Right Flight Limited",
+  "ENT_ADD": "282 Halliwell Road",
+  "ENT_TOW_CIT_RES": "Bolton",
+  "ENT_POS_COD": "BL1 3QB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!610779_AG348",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG610779",
+  "ENT_NAM": "Adekusibe Adebiyi",
+  "ENT_ADD": [
+    "15 Hawthorn Crescent",
+    "Shaw"
+  ],
+  "ENT_TOW_CIT_RES": "Oldham",
+  "ENT_POS_COD": "OL2 8RU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

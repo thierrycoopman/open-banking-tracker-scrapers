@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77845",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "435140058",
+  "ENT_NAM": "M. MATHIEU Jean-Christophe",
+  "ENT_ADD": "223 et 225 Avenue Michel Croz",
+  "ENT_TOW_CIT_RES": "CHAMONIX MONT BLANC",
+  "ENT_POS_COD": "74400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!832949_AG2537",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG832949",
+  "ENT_NAM": "S&F Multiservices Ltd",
+  "ENT_ADD": [
+    "Farnworth",
+    "34 Egerton Street"
+  ],
+  "ENT_TOW_CIT_RES": "Bolton",
+  "ENT_POS_COD": "BL4 7LE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

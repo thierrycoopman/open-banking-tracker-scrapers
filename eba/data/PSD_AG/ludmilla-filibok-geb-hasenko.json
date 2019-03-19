@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!541089_AG489",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG541089",
+  "ENT_NAM": "Ludmilla Filibok geb. Hasenko",
+  "ENT_ADD": "Mönchseestr. 55, Heilbronn",
+  "ENT_TOW_CIT_RES": "Baden Wurttenberg,",
+  "ENT_POS_COD": "74 072",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

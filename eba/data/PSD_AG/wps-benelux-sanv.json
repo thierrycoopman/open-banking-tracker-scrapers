@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!49786!51596",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "B 512 387",
+  "ENT_NAM": "WPS BENELUX SA/NV",
+  "ENT_ADD": "Avenue Louise 87",
+  "ENT_TOW_CIT_RES": "1050 BRUXELLES",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!49786",
+  "DER_CHI_ENT_AUT": "Active"
+}

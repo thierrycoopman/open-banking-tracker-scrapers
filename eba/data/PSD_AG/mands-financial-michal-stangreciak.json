@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2613",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2613",
+  "ENT_NAM": "M&S FINANCIAL Michał Stangreciak",
+  "ENT_ADD": "Konduktorska 4/lok. 017, Warszawa, 00-745, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-745",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

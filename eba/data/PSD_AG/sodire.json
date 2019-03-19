@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!73505",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "514561810",
+  "ENT_NAM": "SODIRE",
+  "ENT_ADD": "52 rue de Nice",
+  "ENT_TOW_CIT_RES": "ST DENIS",
+  "ENT_POS_COD": "97400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

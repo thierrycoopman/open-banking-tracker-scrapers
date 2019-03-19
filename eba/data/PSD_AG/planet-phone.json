@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!51697",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "518172812",
+  "ENT_NAM": "PLANET PHONE",
+  "ENT_ADD": "111 GRANDE RUE",
+  "ENT_TOW_CIT_RES": "ARPAJON",
+  "ENT_POS_COD": "91290",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

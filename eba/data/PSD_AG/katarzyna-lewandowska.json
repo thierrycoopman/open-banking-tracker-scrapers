@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!593364!780299_AG41",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG780299",
+  "ENT_NAM": "Katarzyna Lewandowska",
+  "ENT_ADD": "56 Westgate",
+  "ENT_TOW_CIT_RES": "Bradford",
+  "ENT_POS_COD": "BD1 2QR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!593364",
+  "DER_CHI_ENT_AUT": "Active"
+}

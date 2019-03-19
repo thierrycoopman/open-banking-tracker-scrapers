@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5832859681!13",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "13",
+  "ENT_NAM": "F.H.U. KANTOR WYMIANY WALUT PUCHAŁA PAWEŁ",
+  "ENT_ADD": "Sienkiewicza 4, Ostrzeszów, 63-500, PL",
+  "ENT_TOW_CIT_RES": "Ostrzeszów",
+  "ENT_POS_COD": "63-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5832859681",
+  "DER_CHI_ENT_AUT": "Active"
+}

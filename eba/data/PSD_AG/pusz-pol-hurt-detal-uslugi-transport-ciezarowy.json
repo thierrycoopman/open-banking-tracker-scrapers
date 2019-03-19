@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!585",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "585",
+  "ENT_NAM": "PUSZ-POL HURT-DETAL - USŁUGI-TRANSPORT CIĘŻAROWY",
+  "ENT_ADD": "Sierakowo Sławieńskie 28, Sierakowo Sławieńskie, 76-004, PL",
+  "ENT_TOW_CIT_RES": "Sierakowo Sławieńskie",
+  "ENT_POS_COD": "76-004",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

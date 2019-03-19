@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!525548!629903_AG17",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG629903",
+  "ENT_NAM": "Osman Abdi Rage",
+  "ENT_ADD": [
+    "195 Streatham High Road",
+    "Flat A-F"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW16 6EG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!525548",
+  "DER_CHI_ENT_AUT": "Active"
+}

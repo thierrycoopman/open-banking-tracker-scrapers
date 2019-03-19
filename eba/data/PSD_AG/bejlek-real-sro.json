@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!27737497",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "27737497",
+  "ENT_NAM": "BEJLEK REAL s.r.o.",
+  "ENT_ADD": "Větrná 957",
+  "ENT_TOW_CIT_RES": "Hrušovany nad Jevišovkou",
+  "ENT_POS_COD": "67167",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

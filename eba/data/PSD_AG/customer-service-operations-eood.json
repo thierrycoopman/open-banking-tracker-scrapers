@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!175031377",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "175031377",
+  "ENT_NAM": [
+    "Къстъмър Сървис Оперейшънс ЕООД",
+    "Customer Service Operations EOOD"
+  ],
+  "ENT_ADD": "25A San Stefano str., fl. 1, app. 4A",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1504",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

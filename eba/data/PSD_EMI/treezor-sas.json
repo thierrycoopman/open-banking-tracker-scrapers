@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!63512",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "807465059",
+  "ENT_NAM": "Treezor SAS",
+  "ENT_NAM_COM": "EMI Commercial Name (Not Specified)",
+  "ENT_ADD": "150 rue Gallieni",
+  "ENT_TOW_CIT_RES": "BOULOGNE BILLANCOURT",
+  "ENT_POS_COD": "92100",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2016-06-21"
+  ]
+}

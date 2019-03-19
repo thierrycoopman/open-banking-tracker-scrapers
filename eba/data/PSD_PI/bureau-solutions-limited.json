@@ -1,0 +1,28 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!622935",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "622935",
+  "ENT_NAM": "Bureau Solutions Limited",
+  "ENT_NAM_COM": [
+    "Ozan Gate",
+    "Bureau Solutions Bureau",
+    "FirstGate",
+    "Clearsettle",
+    "Emily Cloud",
+    "First Remit",
+    " Eurosettle",
+    "Ozan",
+    " Mocinity"
+  ],
+  "ENT_ADD": [
+    "The Shard, 9th Floor",
+    "32 London Bridge Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE1 9SG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-01-28"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7431073272",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7431073272",
+  "ENT_NAM": "Centrum Ubezpieczeń Katarzyna Pacewicz",
+  "ENT_ADD": "1-go Maja 1, Górowo Iławeckie, 11-220, PL",
+  "ENT_TOW_CIT_RES": "Górowo Iławeckie",
+  "ENT_POS_COD": "11-220",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-30"
+  ]
+}

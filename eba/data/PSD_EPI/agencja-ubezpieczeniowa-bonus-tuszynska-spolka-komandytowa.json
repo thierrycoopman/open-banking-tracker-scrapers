@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5262153718",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5262153718",
+  "ENT_NAM": "AGENCJA UBEZPIECZENIOWA \"BONUS\" TUSZYŃSKA SPÓŁKA KOMANDYTOWA",
+  "ENT_ADD": "Filtrowa 79/m. 21, Warszawa, 02-032, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-032",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-15"
+  ]
+}

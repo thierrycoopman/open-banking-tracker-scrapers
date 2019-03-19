@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6940002050",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6940002050",
+  "ENT_NAM": "Joker Agencja Usług Detektywistycznych i Ochrony Krzysztof Mysior",
+  "ENT_ADD": "Boh. Getta Warszawskiego 12, Złotoryja, 59-500, PL",
+  "ENT_TOW_CIT_RES": "Złotoryja",
+  "ENT_POS_COD": "59-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-01-25",
+    "2018-12-17"
+  ]
+}

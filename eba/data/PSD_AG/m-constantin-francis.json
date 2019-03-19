@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74030",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "450874409",
+  "ENT_NAM": "M. CONSTANTIN Francis",
+  "ENT_ADD": [
+    "Centre commercial",
+    "Cité Saint Cyprien",
+    "Place de France"
+  ],
+  "ENT_TOW_CIT_RES": "POITIERS",
+  "ENT_POS_COD": "86000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201467891",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201467891",
+  "ENT_NAM": [
+    "Галина 881 ЕООД",
+    "Galina 881 EOOD"
+  ],
+  "ENT_ADD": "61 A Gladston str.",
+  "ENT_TOW_CIT_RES": "Komoshtitsa villiage",
+  "ENT_POS_COD": "3648",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

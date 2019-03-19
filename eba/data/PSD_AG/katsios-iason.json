@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094438857!109003151",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "109003151",
+  "ENT_NAM": "KATSIOS IASON",
+  "ENT_ADD": "G. GENNIMATA Str.",
+  "ENT_TOW_CIT_RES": "PARAMYTHIA",
+  "ENT_POS_COD": "46200",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094438857",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!712026",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "712026",
+  "ENT_NAM": "Goldman Bullion Limited",
+  "ENT_ADD": [
+    "37 Bury New Road",
+    "Prestwich"
+  ],
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M25 9JY",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-10-21"
+  ]
+}

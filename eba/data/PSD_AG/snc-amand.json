@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65829",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "534614078",
+  "ENT_NAM": "SNC AMAND",
+  "ENT_ADD": [
+    "Centre Commercial Bel Air",
+    "Galerie Marchande Carrefour"
+  ],
+  "ENT_TOW_CIT_RES": "RAMBOUILLET",
+  "ENT_POS_COD": "78120",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

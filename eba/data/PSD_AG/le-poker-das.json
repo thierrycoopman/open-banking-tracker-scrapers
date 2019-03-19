@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!62327",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "538691098",
+  "ENT_NAM": "LE POKER D'AS",
+  "ENT_ADD": [
+    "16 allée Benoîte Boulard ",
+    "Le Vauban II"
+  ],
+  "ENT_TOW_CIT_RES": "ST DENIS",
+  "ENT_POS_COD": "97400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

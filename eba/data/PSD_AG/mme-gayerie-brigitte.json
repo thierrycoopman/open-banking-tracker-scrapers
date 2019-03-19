@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66472",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "488527284",
+  "ENT_NAM": "Mme GAYERIE Brigitte",
+  "ENT_ADD": "Le Veyrou",
+  "ENT_TOW_CIT_RES": "ALTILLAC",
+  "ENT_POS_COD": "19120",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

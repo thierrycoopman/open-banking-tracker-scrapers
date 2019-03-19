@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!26978636!13107135",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "13107135",
+  "ENT_NAM": "Filip Zdeněk",
+  "ENT_ADD": "Mozartova 529/21",
+  "ENT_TOW_CIT_RES": "Říčany",
+  "ENT_POS_COD": "25101",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!26978636",
+  "DER_CHI_ENT_AUT": "Active"
+}

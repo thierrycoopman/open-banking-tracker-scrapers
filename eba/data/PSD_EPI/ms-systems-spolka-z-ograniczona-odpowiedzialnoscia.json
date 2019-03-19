@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!1182053929",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "1182053929",
+  "ENT_NAM": "MS Systems spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Powązkowska 15, Warszawa, 01-797, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "01-797",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-11-10"
+  ]
+}

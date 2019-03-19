@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!588940_AG2136",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG588940",
+  "ENT_NAM": "Assadi Nassim",
+  "ENT_ADD": "51 Rue Victor Faugier",
+  "ENT_TOW_CIT_RES": "Vienne",
+  "ENT_POS_COD": "3820 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

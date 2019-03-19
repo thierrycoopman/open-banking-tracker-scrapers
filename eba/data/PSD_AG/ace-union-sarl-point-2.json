@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!662474_AG410",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG662474",
+  "ENT_NAM": "Ace Union SARL Point 2",
+  "ENT_ADD": "67 Rue de Paris",
+  "ENT_TOW_CIT_RES": "Pierrefitte sur Seine",
+  "ENT_POS_COD": "93 380",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

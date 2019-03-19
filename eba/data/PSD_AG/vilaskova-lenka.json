@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!06433545",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "06433545",
+  "ENT_NAM": "Vilášková Lenka",
+  "ENT_ADD": "Květná 613/5",
+  "ENT_TOW_CIT_RES": "Odry",
+  "ENT_POS_COD": "74235",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

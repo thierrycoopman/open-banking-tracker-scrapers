@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!186",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "186",
+  "ENT_NAM": "Elwira Radziszewska Roland",
+  "ENT_ADD": "Konopnickiej 25, Banie Mazurskie, 19-520, PL",
+  "ENT_TOW_CIT_RES": "Banie Mazurskie",
+  "ENT_POS_COD": "19-520",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

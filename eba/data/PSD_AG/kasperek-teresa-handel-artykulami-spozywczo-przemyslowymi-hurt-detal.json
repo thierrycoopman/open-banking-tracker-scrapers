@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1443",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1443",
+  "ENT_NAM": "Kasperek Teresa Handel Artykułami Spożywczo - Przemysłowymi Hurt - Detal",
+  "ENT_ADD": "Królewiecka 68, Braniewo, 14-500, PL",
+  "ENT_TOW_CIT_RES": "Braniewo",
+  "ENT_POS_COD": "14-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

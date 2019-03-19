@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57299",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "395367246",
+  "ENT_NAM": "M. LEJUEZ Ludovic",
+  "ENT_ADD": "203 place des Résistants",
+  "ENT_TOW_CIT_RES": "CHERBOURG EN COTENTIN",
+  "ENT_POS_COD": "50110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

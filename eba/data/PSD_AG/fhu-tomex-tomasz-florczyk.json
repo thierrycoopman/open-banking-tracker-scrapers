@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3512",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3512",
+  "ENT_NAM": "F.H.U. TOMEX TOMASZ FLORCZYK",
+  "ENT_ADD": "Niepodległości 7C/38, Czeladź, 41-250, PL",
+  "ENT_TOW_CIT_RES": "Czeladź",
+  "ENT_POS_COD": "41-250",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

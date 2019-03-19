@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5851450734!11",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "11",
+  "ENT_NAM": "E-FUMO Klaudia Sierant, Wspólnik s.c. \"MULTI FINANSE\"",
+  "ENT_ADD": "Ks. Piotra Wawrzyniaka 37, Słubice, 69-100, PL",
+  "ENT_TOW_CIT_RES": "Słubice",
+  "ENT_POS_COD": "69-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851450734",
+  "DER_CHI_ENT_AUT": "Active"
+}

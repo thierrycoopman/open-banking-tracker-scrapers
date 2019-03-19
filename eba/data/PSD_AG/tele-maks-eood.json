@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202255368",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202255368",
+  "ENT_NAM": [
+    "Теле Макс ЕООД",
+    "Tele Maks EOOD"
+  ],
+  "ENT_ADD": "10 Slavyanka str.",
+  "ENT_TOW_CIT_RES": "Bansko",
+  "ENT_POS_COD": "2770",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

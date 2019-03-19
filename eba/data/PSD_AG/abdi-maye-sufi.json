@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!518352!754519_AG18",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG754519",
+  "ENT_NAM": "Abdi Maye Sufi",
+  "ENT_ADD": [
+    "670 Eglinton Street",
+    "3/2"
+  ],
+  "ENT_TOW_CIT_RES": "Glasgow",
+  "ENT_POS_COD": "G5 9RP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!518352",
+  "DER_CHI_ENT_AUT": "Active"
+}

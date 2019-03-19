@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!613713_AG360",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG613713",
+  "ENT_NAM": "Osaretin Enofe Peters",
+  "ENT_ADD": "12 Hillfoot Street",
+  "ENT_TOW_CIT_RES": "Glasgow",
+  "ENT_POS_COD": "G31 2LF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

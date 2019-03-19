@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!802572_AG552",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG802572",
+  "ENT_NAM": "Haji Brothers Money Transfer Limited",
+  "ENT_ADD": "10C Thornton Lodge Road",
+  "ENT_TOW_CIT_RES": "Huddersfield",
+  "ENT_POS_COD": "HD1 3JQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

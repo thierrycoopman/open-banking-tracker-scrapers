@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!24759023",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "24759023",
+  "ENT_NAM": "MOPET CZ a.s. ",
+  "ENT_ADD": "Budějovická 1518/13b",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "14000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2012-05-22"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R139422",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "R139422",
+  "ENT_NAM": "TravelCheq B.V.",
+  "ENT_ADD": "Schrank 3",
+  "ENT_TOW_CIT_RES": "HARDINXVELD-GIESSENDAM",
+  "ENT_POS_COD": "3371 KJ",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

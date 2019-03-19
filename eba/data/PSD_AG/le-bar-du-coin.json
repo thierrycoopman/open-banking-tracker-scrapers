@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76705",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "793801036",
+  "ENT_NAM": "LE BAR DU COIN",
+  "ENT_ADD": "24 GRAND RUE",
+  "ENT_TOW_CIT_RES": "BOUTTENCOURT",
+  "ENT_POS_COD": "80220",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!576303_AG1406",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG576303",
+  "ENT_NAM": "Societe Massy Euro Exo Marche",
+  "ENT_ADD": "53 Rue Des Canadiens",
+  "ENT_TOW_CIT_RES": "Massy",
+  "ENT_POS_COD": "9130 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

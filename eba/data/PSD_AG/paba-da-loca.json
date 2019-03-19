@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72337",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "800912990",
+  "ENT_NAM": "PABA DA LOCA",
+  "ENT_ADD": "36 quai du Général de Gaulle",
+  "ENT_TOW_CIT_RES": "BEAUCAIRE",
+  "ENT_POS_COD": "30300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57297",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "485137723",
+  "ENT_NAM": "LES SUD'S",
+  "ENT_ADD": "4 avenue du Commerce",
+  "ENT_TOW_CIT_RES": "NAZELLES NEGRON",
+  "ENT_POS_COD": "37530",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

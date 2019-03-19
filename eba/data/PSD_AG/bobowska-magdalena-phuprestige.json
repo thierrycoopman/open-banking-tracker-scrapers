@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!828",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "828",
+  "ENT_NAM": "BOBOWSKA MAGDALENA P.H.U.\"PRESTIGE\"",
+  "ENT_ADD": "gen. Kazimierza Pułaskiego 8/48, Sosnowiec, 41-205, PL",
+  "ENT_TOW_CIT_RES": "Sosnowiec",
+  "ENT_POS_COD": "41-205",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

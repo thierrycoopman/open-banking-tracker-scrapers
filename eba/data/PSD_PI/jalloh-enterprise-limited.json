@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!507189",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "507189",
+  "ENT_NAM": "Jalloh Enterprise Limited",
+  "ENT_NAM_COM": "CASHMINUTE.COM",
+  "ENT_ADD": [
+    "Unit 5, First Floor",
+    "Town Quay Wharf",
+    "Abbey Road"
+  ],
+  "ENT_TOW_CIT_RES": "Barking",
+  "ENT_POS_COD": "IG11 7BZ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-01"
+  ]
+}

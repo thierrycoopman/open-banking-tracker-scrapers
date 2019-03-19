@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5474",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5474",
+  "ENT_NAM": "Małgorzata Kuziemko Przedsiębiorstwo Produkcyjno- Handlowo- Usługowe \" RÓŻA \"",
+  "ENT_ADD": "Kolejowa 76, Kamieniec Ząbkowicki, 57-230, PL",
+  "ENT_TOW_CIT_RES": "Kamieniec Ząbkowicki",
+  "ENT_POS_COD": "57-230",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

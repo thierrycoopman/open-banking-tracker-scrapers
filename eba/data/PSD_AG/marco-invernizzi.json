@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!790699_AG7040",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG790699",
+  "ENT_NAM": "Marco Invernizzi",
+  "ENT_ADD": "Via Domenico Carbone 46",
+  "ENT_TOW_CIT_RES": "Villalvernia",
+  "ENT_POS_COD": "15050",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6652844891",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6652844891",
+  "ENT_NAM": "Jarosław Kruszyński",
+  "ENT_ADD": "Kościelna 2, Ślesin, 62-561, PL",
+  "ENT_TOW_CIT_RES": "Ślesin",
+  "ENT_POS_COD": "62-561",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-02-24"
+  ]
+}

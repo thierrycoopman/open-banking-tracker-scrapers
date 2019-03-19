@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!536656_AG427",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG536656",
+  "ENT_NAM": "Natalia Lisin",
+  "ENT_ADD": "Lindenallee 25, 18437 Stralsund Mecklenburg",
+  "ENT_TOW_CIT_RES": "Vorpommen",
+  "ENT_POS_COD": "18 437",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

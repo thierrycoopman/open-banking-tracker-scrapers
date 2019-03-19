@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7811864293",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "7811864293",
+  "ENT_NAM": "waluciarz.pl S.A.",
+  "ENT_ADD": "Noakowskiego 12/61, Warszawa, 00-666, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-666",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-07-21"
+  ]
+}

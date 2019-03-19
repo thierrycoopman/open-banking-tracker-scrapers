@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8921239585",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8921239585",
+  "ENT_NAM": "Firma Handlowo - Usługowa Gabmar Maria Sitkowska",
+  "ENT_ADD": "Nowa 33, Rypin, 87-500, PL",
+  "ENT_TOW_CIT_RES": "Rypin",
+  "ENT_POS_COD": "87-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-05-28"
+  ]
+}

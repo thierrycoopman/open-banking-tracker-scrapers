@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!120614206",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "120614206",
+  "ENT_NAM": [
+    "М-Инвест ЕООД",
+    "M-Invest EOOD"
+  ],
+  "ENT_ADD": "Nedelino municipality, Smolyan area",
+  "ENT_TOW_CIT_RES": "Elenka village",
+  "ENT_POS_COD": "4990",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

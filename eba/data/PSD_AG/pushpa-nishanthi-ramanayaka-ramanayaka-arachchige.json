@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!829093_AG10191",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829093",
+  "ENT_NAM": "Pushpa Nishanthi Ramanayaka Ramanayaka Arachchige",
+  "ENT_ADD": "Piazza Caduti Liberta 5",
+  "ENT_TOW_CIT_RES": "Spilamberto",
+  "ENT_POS_COD": "41057",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

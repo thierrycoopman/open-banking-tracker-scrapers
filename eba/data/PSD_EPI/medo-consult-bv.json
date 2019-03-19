@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R140307",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R140307",
+  "ENT_NAM": "Medo Consult B.V.",
+  "ENT_NAM_COM": "Medo Consult B.V./Hevo Consult",
+  "ENT_ADD": "Merwe Donk 76",
+  "ENT_TOW_CIT_RES": "GORINCHEM",
+  "ENT_POS_COD": "4200 AM",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

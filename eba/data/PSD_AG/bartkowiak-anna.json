@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6751496200!18",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "18",
+  "ENT_NAM": "Bartkowiak Anna",
+  "ENT_ADD": "Józefa Bema  20, Jarocin, 63-200, PL",
+  "ENT_TOW_CIT_RES": "Jarocin",
+  "ENT_POS_COD": "63-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6751496200",
+  "DER_CHI_ENT_AUT": "Active"
+}

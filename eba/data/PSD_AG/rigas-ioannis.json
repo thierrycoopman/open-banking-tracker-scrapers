@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!049554081",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "049554081",
+  "ENT_NAM": "RIGAS IOANNIS",
+  "ENT_ADD": "114, OLD N.R. ATHENS - PATRA ",
+  "ENT_TOW_CIT_RES": "MELISSI",
+  "ENT_POS_COD": "20400",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

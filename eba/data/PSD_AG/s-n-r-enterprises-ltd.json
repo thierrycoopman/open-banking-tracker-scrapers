@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!514406!796779_AG66",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG796779",
+  "ENT_NAM": "S N R ENTERPRISES LTD",
+  "ENT_ADD": "165 Alfreton Road",
+  "ENT_TOW_CIT_RES": "Nottingham",
+  "ENT_POS_COD": "NG7 3JR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!514406",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

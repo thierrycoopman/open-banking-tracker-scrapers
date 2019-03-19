@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!817248_AG978",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG817248",
+  "ENT_NAM": "Diamond Travel Rochdale Limited",
+  "ENT_ADD": "116 Ramsay Street",
+  "ENT_TOW_CIT_RES": "Rochdale",
+  "ENT_POS_COD": "OL16 2EZ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

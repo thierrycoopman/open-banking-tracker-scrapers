@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!508137_AG35",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG508137",
+  "ENT_NAM": "The Copy Center",
+  "ENT_ADD": [
+    "150 BARKING ROAD",
+    "E16 1EN"
+  ],
+  "ENT_TOW_CIT_RES": "LONDON",
+  "ENT_POS_COD": "E16 1EN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

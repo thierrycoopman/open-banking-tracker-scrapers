@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!71320",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "812678126",
+  "ENT_NAM": "SAS PHONE ACCESSOIRES 83",
+  "ENT_ADD": [
+    "1192 Avenue Colonel Picot",
+    "Bât C. Le Solana"
+  ],
+  "ENT_TOW_CIT_RES": "TOULON",
+  "ENT_POS_COD": "83100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

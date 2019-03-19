@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2648",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2648",
+  "ENT_NAM": "\"Młynapiek\" Maria Krainik",
+  "ENT_ADD": "Młyńska 5, Gołubie, 83-316, PL",
+  "ENT_TOW_CIT_RES": "Gołubie",
+  "ENT_POS_COD": "83-316",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

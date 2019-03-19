@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!710657_AG4336",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG710657",
+  "ENT_NAM": "Amir Irshad",
+  "ENT_ADD": "Via Milazzo 1 D",
+  "ENT_TOW_CIT_RES": "Roma",
+  "ENT_POS_COD": "00185",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

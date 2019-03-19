@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!7343537648!8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8",
+  "ENT_NAM": "NAVIGO FINANSE sp. z o. o.",
+  "ENT_ADD": "J. Słowackiego  31, Strzyżów, 38-100, PL",
+  "ENT_TOW_CIT_RES": "Strzyżów",
+  "ENT_POS_COD": "38-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7343537648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

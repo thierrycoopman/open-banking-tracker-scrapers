@@ -1,0 +1,24 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900637",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900637",
+  "ENT_NAM": "Bilderlings Pay Limited",
+  "ENT_NAM_COM": [
+    "BildPay",
+    "iAMwallet",
+    "iAMPay",
+    "Bilderlings",
+    "Bilderlings Pay"
+  ],
+  "ENT_ADD": [
+    "Daws Lane Business Centre",
+    "33-35 Daws Lane"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW7 4SD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-05-01"
+  ]
+}

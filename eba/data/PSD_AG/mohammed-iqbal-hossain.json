@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!553405_AG72",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG553405",
+  "ENT_NAM": "Mohammed Iqbal Hossain",
+  "ENT_ADD": [
+    "Pisa",
+    "Italy",
+    "Via Filippo Corridoni 98"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "56 125",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

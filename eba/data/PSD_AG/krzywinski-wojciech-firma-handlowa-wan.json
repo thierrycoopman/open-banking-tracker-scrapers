@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!4000",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4000",
+  "ENT_NAM": "Krzywinski Wojciech Firma Handlowa WAN",
+  "ENT_ADD": "Konopnickiej 4C/lok. 9, Kluczbork, 46-200, PL",
+  "ENT_TOW_CIT_RES": "Kluczbork",
+  "ENT_POS_COD": "46-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}
+"
+}
+}

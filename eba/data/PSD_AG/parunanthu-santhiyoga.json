@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!797385_AG403",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG797385",
+  "ENT_NAM": "Parunanthu Santhiyoga",
+  "ENT_ADD": "Breitscheid str 19",
+  "ENT_TOW_CIT_RES": "Nuernberg",
+  "ENT_POS_COD": "90459",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

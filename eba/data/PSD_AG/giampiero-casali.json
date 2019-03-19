@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!603077_AG2677",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG603077",
+  "ENT_NAM": "Giampiero Casali",
+  "ENT_ADD": "Via Campo Gillaro 5",
+  "ENT_TOW_CIT_RES": "Monte Compatri (RM)",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

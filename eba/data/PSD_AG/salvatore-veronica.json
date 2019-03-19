@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!661988_AG855",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG661988",
+  "ENT_NAM": "SALVATORE VERONICA",
+  "ENT_ADD": "VIA URSO 9",
+  "ENT_TOW_CIT_RES": "PORTO EMPEDOCLE (AG)",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

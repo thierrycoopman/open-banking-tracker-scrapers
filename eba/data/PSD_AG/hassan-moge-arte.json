@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!505955_AG17",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG505955",
+  "ENT_NAM": "Hassan Moge Arte",
+  "ENT_ADD": [
+    "475 Coventry Road",
+    "Small Heath"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B10 0TJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

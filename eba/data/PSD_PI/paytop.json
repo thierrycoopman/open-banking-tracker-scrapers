@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!13032",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "487568446",
+  "ENT_NAM": "Paytop",
+  "ENT_NAM_COM": "FLOUSS.COM,PAYTOP.COM",
+  "ENT_ADD": "68 avenue des Champs Elysées",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75008",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2011-04-27"
+  ]
+}

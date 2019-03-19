@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0033",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0033",
+  "ENT_NAM": "Brainpoint Betaalsystemen B.V.",
+  "ENT_NAM_COM": "Brainpoint Betaalsystemen B.V./Brainpoint Betaalsystemen",
+  "ENT_ADD": "Arlandabaan 17",
+  "ENT_TOW_CIT_RES": "ROTTERDAM",
+  "ENT_POS_COD": "3045 AA",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

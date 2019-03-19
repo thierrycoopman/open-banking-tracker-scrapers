@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6961276166!6",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6",
+  "ENT_NAM": "Bożena Pazoła -Biuro Rachunkowe",
+  "ENT_ADD": "Kwiatowa 8, Krobia, 63-840, PL",
+  "ENT_TOW_CIT_RES": "Krobia",
+  "ENT_POS_COD": "63-840",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6961276166",
+  "DER_CHI_ENT_AUT": "Active"
+}

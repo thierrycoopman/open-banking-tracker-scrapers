@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!766149_AG172",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG766149",
+  "ENT_NAM": "Musa Ali Hersi",
+  "ENT_ADD": "Amselstrasse 5",
+  "ENT_TOW_CIT_RES": "Straubing",
+  "ENT_POS_COD": "94315",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

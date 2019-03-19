@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8871083795",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8871083795",
+  "ENT_NAM": "Przedsiębiorstwo Handlowe i Pośrednictwo Finansowe TOM KAS Tomasz Działa",
+  "ENT_ADD": "Powstańców Warszawy 10A, Ząbkowice Śląskie, 57-200 , PL",
+  "ENT_TOW_CIT_RES": "Ząbkowice Śląskie",
+  "ENT_POS_COD": "57-200 ",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-04-03"
+  ]
+}

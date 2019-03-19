@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!22009",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "32338895 ",
+  "ENT_NAM": "Saxo Payments A/S",
+  "ENT_ADD": "Philip Heymans Alle 15",
+  "ENT_TOW_CIT_RES": "Hellerup",
+  "ENT_POS_COD": "2900",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2013-08-15"
+  ]
+}

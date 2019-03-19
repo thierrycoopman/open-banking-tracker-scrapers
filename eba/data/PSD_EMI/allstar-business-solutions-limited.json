@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900470",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900470",
+  "ENT_NAM": "Allstar Business Solutions Limited",
+  "ENT_NAM_COM": "Allstar Business Solutions Limited",
+  "ENT_ADD": [
+    "Windmill Hill",
+    "Whitehill Way",
+    "PO Box 1463",
+    "Swindon"
+  ],
+  "ENT_TOW_CIT_RES": "Wiltshire",
+  "ENT_POS_COD": "SN5 6PS",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-05-01"
+  ]
+}

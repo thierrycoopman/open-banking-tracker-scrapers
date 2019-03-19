@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6151081028",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6151081028",
+  "ENT_NAM": "Agent Ubezpieczeniowy Jolanta Łazorczyk",
+  "ENT_ADD": "Warszawska 1/3, Zgorzelec, 59-900, PL",
+  "ENT_TOW_CIT_RES": "Zgorzelec",
+  "ENT_POS_COD": "59-900",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-02-21"
+  ]
+}

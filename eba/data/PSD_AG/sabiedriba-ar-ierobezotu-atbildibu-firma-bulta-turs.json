@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "AGN598",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "40003144578",
+  "ENT_NAM": "Sabiedrība ar ierobežotu atbildību firma \"BULTA-TURS\"",
+  "ENT_ADD": "Madonas iela 19 - 35",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1084",
+  "ENT_COU_RES": "LV",
+  "ENT_TYP_PAR_ENT": "PSD_EEMI",
+  "ENT_COD_PAR_ENT": "LV_FCMC!460",
+  "DER_CHI_ENT_AUT": "Active"
+}

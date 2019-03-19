@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75931",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "533059903",
+  "ENT_NAM": "Mme BAFFIE Jennifer",
+  "ENT_ADD": "696 route DES PRINCE D'ORANGE",
+  "ENT_TOW_CIT_RES": "ROAIX",
+  "ENT_POS_COD": "84110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

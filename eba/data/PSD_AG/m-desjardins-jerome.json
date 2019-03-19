@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!79255",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "823647318",
+  "ENT_NAM": "M. DESJARDINS Jérôme",
+  "ENT_ADD": "6 GRAND'PLACE",
+  "ENT_TOW_CIT_RES": "BEAULIEU LES FONTAINES",
+  "ENT_POS_COD": "60310",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

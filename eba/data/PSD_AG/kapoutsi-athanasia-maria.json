@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!168200017",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "168200017",
+  "ENT_NAM": "KAPOUTSI ATHANASIA-MARIA",
+  "ENT_ADD": "4, ORFEOS Str.",
+  "ENT_TOW_CIT_RES": "FERES",
+  "ENT_POS_COD": "68500",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

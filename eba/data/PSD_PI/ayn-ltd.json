@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!AYN",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "C81789",
+  "ENT_NAM": "AYN LTD",
+  "ENT_NAM_COM": "AYN LTD",
+  "ENT_ADD": "The Ivies, Blk C, Penthouse 7, Mosta Road",
+  "ENT_TOW_CIT_RES": "Attard",
+  "ENT_POS_COD": "ATD 1433",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2017-11-03"
+  ]
+}

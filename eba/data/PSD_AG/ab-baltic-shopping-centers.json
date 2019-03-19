@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "AGN597",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "111621714",
+  "ENT_NAM": "AB \"Baltic Shopping Centers\"",
+  "ENT_ADD": "Garažų g. 18",
+  "ENT_TOW_CIT_RES": "Kaunas",
+  "ENT_POS_COD": "LT-51120",
+  "ENT_COU_RES": "LT",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "LV_FCMC!416",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!790910_AG7077",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG790910",
+  "ENT_NAM": "Eric Anthony Duse",
+  "ENT_ADD": "171A 173 Beeston Road",
+  "ENT_TOW_CIT_RES": "Leeds",
+  "ENT_POS_COD": "LS11 6AW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

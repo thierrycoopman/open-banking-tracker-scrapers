@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!549191_AG896",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG549191",
+  "ENT_NAM": "Sivasankar Sinniah",
+  "ENT_ADD": "293 Portland Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE25 4QQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!607563_AG2864",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG607563",
+  "ENT_NAM": "Alfredo Merolle",
+  "ENT_ADD": "Via Lungoliri Rosati 73",
+  "ENT_TOW_CIT_RES": "Sora",
+  "ENT_POS_COD": "0303 9",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

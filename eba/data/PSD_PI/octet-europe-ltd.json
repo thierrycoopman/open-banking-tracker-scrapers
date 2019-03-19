@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!OCT",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "C88287",
+  "ENT_NAM": "OCTET EUROPE LTD",
+  "ENT_NAM_COM": "OCTET EUROPE LTD",
+  "ENT_ADD": "Room 2, Level 2, Regional Business Centre, University Heights",
+  "ENT_TOW_CIT_RES": "Msida",
+  "ENT_POS_COD": "MSD 1751",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2019-02-20"
+  ]
+}

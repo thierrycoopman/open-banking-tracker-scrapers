@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "SK_NBS",
+  "EntityCode": "PSD_EXC!SK_NBS!31322832",
+  "EntityType": "PSD_EXC",
+  "ENT_NAT_REF_COD": "31322832",
+  "ENT_NAM": "SLOVNAFT, a.s.",
+  "ENT_ADD": "Vlčie hrdlo 1",
+  "ENT_TOW_CIT_RES": "Bratislava",
+  "ENT_POS_COD": "82412",
+  "ENT_COU_RES": "SK",
+  "ENT_AUT": [
+    "2018-08-13"
+  ],
+  "ENT_EXC": "EXCL_102",
+  "ENT_DES_ACT_EXC_SCP": "Spoločnosti SLOVNAFT, a.s. vydáva palivové karty MOL Group GOLD, ktoré slúžia motoristom na bezhotovostný nákup  motorových palív, služieb, ako aj iných tovarov poskytovaných na čerpacích/servisných staniciach spoločnosti SLOVNAFT, a.s. a na všetkých označených akceptačných miestach, ktoré akceptujú palivové karty MOL Group GOLD."
+}

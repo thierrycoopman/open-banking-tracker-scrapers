@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!830242_AG10346",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG830242",
+  "ENT_NAM": "Said Omar Said Mouhtar",
+  "ENT_ADD": "4 Rue Du Stade Cavani",
+  "ENT_TOW_CIT_RES": "Mamoudzou",
+  "ENT_POS_COD": "97600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

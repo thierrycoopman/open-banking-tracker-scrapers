@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!630214_AG267",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG630214",
+  "ENT_NAM": "Ajmal Yousaf",
+  "ENT_ADD": "49 Reedyford Road",
+  "ENT_TOW_CIT_RES": "Nelson",
+  "ENT_POS_COD": "BB9 8LL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

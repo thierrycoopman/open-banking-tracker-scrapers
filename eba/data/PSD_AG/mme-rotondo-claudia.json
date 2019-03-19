@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68088",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "531625762",
+  "ENT_NAM": "Mme ROTONDO Claudia",
+  "ENT_ADD": "117 rue de Saint-Avold",
+  "ENT_TOW_CIT_RES": "PORCELETTE",
+  "ENT_POS_COD": "57890",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

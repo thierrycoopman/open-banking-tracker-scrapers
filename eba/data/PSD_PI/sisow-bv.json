@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0034",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0034",
+  "ENT_NAM": "Sisow B.V.",
+  "ENT_NAM_COM": "Sisow B.V.",
+  "ENT_ADD": "Binnen Parallelweg 14",
+  "ENT_TOW_CIT_RES": "HELMOND",
+  "ENT_POS_COD": "5701 PH",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

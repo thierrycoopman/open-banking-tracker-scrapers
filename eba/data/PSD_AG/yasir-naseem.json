@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!743617_AG551",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG743617",
+  "ENT_NAM": "Yasir Naseem",
+  "ENT_ADD": [
+    "Parla",
+    "Calle San Antón 8"
+  ],
+  "ENT_TOW_CIT_RES": "Madrid",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4260",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4260",
+  "ENT_NAM": "Gminna Spó3dzielnia \"SAMOPOMOC CHLOPSKA\" w Zaniemyolu",
+  "ENT_ADD": "Oredzka 1, Zaniemyol, 63-020, PL",
+  "ENT_TOW_CIT_RES": "Zaniemyol",
+  "ENT_POS_COD": "63-020",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

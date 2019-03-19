@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!357",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "357",
+  "ENT_NAM": "Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Staszowie Spółka Gminy z Ograniczoną Odpowiedzialnością",
+  "ENT_ADD": "ul. Wojska Polskiego 3, Staszów, 28-200, PL",
+  "ENT_TOW_CIT_RES": "Staszów",
+  "ENT_POS_COD": "28-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

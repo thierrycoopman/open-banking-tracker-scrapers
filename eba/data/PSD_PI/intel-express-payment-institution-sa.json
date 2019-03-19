@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "GR_BOG!998732293",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "998732293",
+  "ENT_NAM": "INTEL EXPRESS PAYMENT INSTITUTION S.A.",
+  "ENT_NAM_COM": "INTELI EXPRESS",
+  "ENT_ADD": "57, MENANDROU Str. & VILARA Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "10437",
+  "ENT_COU_RES": "GR",
+  "ENT_AUT": [
+    "2018-07-23"
+  ]
+}

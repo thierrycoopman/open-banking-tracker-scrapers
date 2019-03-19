@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77882",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "819171513",
+  "ENT_NAM": "CYNADE",
+  "ENT_ADD": "3 AV STANISLAS",
+  "ENT_TOW_CIT_RES": "COMMERCY",
+  "ENT_POS_COD": "55200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

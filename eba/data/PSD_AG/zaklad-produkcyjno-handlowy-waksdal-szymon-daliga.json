@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3663",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3663",
+  "ENT_NAM": "Zakład Produkcyjno-Handlowy \"WAKSDAL\" Szymon Daliga",
+  "ENT_ADD": "Kopernika 21, Jeziorany, 11-320, PL",
+  "ENT_TOW_CIT_RES": "Jeziorany",
+  "ENT_POS_COD": "11-320",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6740001985",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6740001985",
+  "ENT_NAM": "Alsat Zbigniew Szlezak",
+  "ENT_ADD": "Pl. Konstytucji 8, Drawsko Pomorskie, 78-500, PL",
+  "ENT_TOW_CIT_RES": "Drawsko Pomorskie",
+  "ENT_POS_COD": "78-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-22"
+  ]
+}

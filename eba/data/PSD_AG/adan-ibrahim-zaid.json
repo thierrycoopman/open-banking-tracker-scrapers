@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!526301!505077_AG1",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG505077",
+  "ENT_NAM": "Adan Ibrahim Zaid",
+  "ENT_ADD": "41 Kettering Road",
+  "ENT_TOW_CIT_RES": "Northampton",
+  "ENT_POS_COD": "NN1 4Aj",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!526301",
+  "DER_CHI_ENT_AUT": "Active"
+}

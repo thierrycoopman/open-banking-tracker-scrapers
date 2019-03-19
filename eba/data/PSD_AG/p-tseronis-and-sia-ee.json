@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094438857!999741411",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "999741411",
+  "ENT_NAM": "P. TSERONIS & SIA E.E.",
+  "ENT_ADD": "28, EL. VENIZELOU Str.",
+  "ENT_TOW_CIT_RES": "TRIPOLI",
+  "ENT_POS_COD": "22100",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094438857",
+  "DER_CHI_ENT_AUT": "Active"
+}

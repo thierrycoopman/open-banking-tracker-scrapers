@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!578824!826916_AG97",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG826916",
+  "ENT_NAM": "TUMBLETEE ESTATES LTD",
+  "ENT_ADD": "107 Katherine Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E6 1ES",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!578824",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8451717891",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8451717891",
+  "ENT_NAM": "Marta Jurgielewicz",
+  "ENT_ADD": "A. Struga 16, Giżycko, 11-500, PL",
+  "ENT_TOW_CIT_RES": "Giżycko",
+  "ENT_POS_COD": "11-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-02-19"
+  ]
+}

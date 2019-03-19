@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3389",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3389",
+  "ENT_NAM": "S & S SELECT GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "ENT_ADD": "Kazimierza Pułaskiego 76, Konstancin-Jeziorna, 05-510, PL",
+  "ENT_TOW_CIT_RES": "Konstancin-Jeziorna",
+  "ENT_POS_COD": "05-510",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

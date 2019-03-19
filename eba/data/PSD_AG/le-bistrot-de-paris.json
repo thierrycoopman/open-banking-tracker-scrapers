@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65429",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "530070143",
+  "ENT_NAM": "LE BISTROT DE PARIS",
+  "ENT_ADD": "32 Rue de Paris",
+  "ENT_TOW_CIT_RES": "EPINAY SUR SEINE",
+  "ENT_POS_COD": "93800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!610",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "610",
+  "ENT_NAM": "MK KREDYT MIECZYSŁAW KORZĘPA",
+  "ENT_ADD": "ul. Wincentego Witosa 27, Gdańsk, 80-809, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-809",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+UT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!999504595",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "999504595",
+  "ENT_NAM": "PATSIOU GEORGIOS & SIA E.E.",
+  "ENT_ADD": "5th km N.R. KATERINI - ATHENS",
+  "ENT_TOW_CIT_RES": "KATERINI",
+  "ENT_POS_COD": "60100",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

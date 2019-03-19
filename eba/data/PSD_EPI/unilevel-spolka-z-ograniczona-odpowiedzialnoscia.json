@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9591977440",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9591977440",
+  "ENT_NAM": "UNILEVEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "ENT_ADD": "Piwowarska 34, Kielce, 25-561, PL",
+  "ENT_TOW_CIT_RES": "Kielce",
+  "ENT_POS_COD": "25-561",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-09-25"
+  ]
+}

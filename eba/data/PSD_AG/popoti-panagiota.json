@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!044005275",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "044005275",
+  "ENT_NAM": "POPOTI PANAGIOTA",
+  "ENT_ADD": "103, KARDITSIS Str.",
+  "ENT_TOW_CIT_RES": "LARISA",
+  "ENT_POS_COD": "41335",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

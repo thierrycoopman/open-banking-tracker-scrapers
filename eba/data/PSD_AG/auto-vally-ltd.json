@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!784913_AG6743",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG784913",
+  "ENT_NAM": "Auto Vally Ltd",
+  "ENT_ADD": "144 Plashet Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E13 0QS",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

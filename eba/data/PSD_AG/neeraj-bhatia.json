@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!706085_AG4225",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG706085",
+  "ENT_NAM": "Neeraj Bhatia",
+  "ENT_ADD": "Via Adriano Cristofoli 11",
+  "ENT_TOW_CIT_RES": "Verona",
+  "ENT_POS_COD": "37138",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

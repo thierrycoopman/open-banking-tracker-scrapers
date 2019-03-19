@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!750180_AG1412",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG750180",
+  "ENT_NAM": "Binoy Debnath",
+  "ENT_ADD": [
+    "Av .D. José I, 9A",
+    "Reboleira"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

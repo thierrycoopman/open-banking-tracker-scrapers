@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7249",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7249",
+  "ENT_NAM": "1.SZWAGIER MACIEJ SZABLEWSKI 2. Lejdis Maciej Szablewski (Wspólnik Spółki Cywilnej)",
+  "ENT_ADD": "Łowicka 16, Gdańsk, 80-642, PL",
+  "ENT_TOW_CIT_RES": "Gdańsk",
+  "ENT_POS_COD": "80-642",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

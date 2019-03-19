@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200249651",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200249651",
+  "ENT_NAM": [
+    "Пролан ООД",
+    "Prolan OOD"
+  ],
+  "ENT_ADD": "3 Momin kladenets str., zh.k. Simeonovo",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1434",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!551190_AG148",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG551190",
+  "ENT_NAM": "Hudson Omoigui",
+  "ENT_ADD": "383 Elswick Road",
+  "ENT_TOW_CIT_RES": "Newcastle upon Tyne",
+  "ENT_POS_COD": "NE4 8DY",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

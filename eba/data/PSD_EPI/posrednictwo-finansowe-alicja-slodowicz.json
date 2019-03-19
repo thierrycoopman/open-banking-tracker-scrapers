@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8911029099",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8911029099",
+  "ENT_NAM": "Pośrednictwo Finansowe Alicja Słodowicz",
+  "ENT_ADD": "Piekarska  1, Ciechocinek, 87-720, PL",
+  "ENT_TOW_CIT_RES": "Ciechocinek",
+  "ENT_POS_COD": "87-720",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-03-07"
+  ]
+}

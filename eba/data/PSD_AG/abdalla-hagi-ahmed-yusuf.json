@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!607670!748069_AG45",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG748069",
+  "ENT_NAM": "Abdalla Hagi Ahmed Yusuf",
+  "ENT_ADD": "Stall N0.80 CMK Market",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "MK9 3BG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!607670",
+  "DER_CHI_ENT_AUT": "Active"
+}

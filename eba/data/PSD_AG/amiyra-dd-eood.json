@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!101769725",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "101769725",
+  "ENT_NAM": [
+    "Амийра - ДД ЕООД",
+    "Amiyra - DD EOOD"
+  ],
+  "ENT_ADD": "Garmen municipality, Blagoevgrad area",
+  "ENT_TOW_CIT_RES": "Dolno Dryanovo village",
+  "ENT_POS_COD": "2944",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

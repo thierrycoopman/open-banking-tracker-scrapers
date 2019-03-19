@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3822",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3822",
+  "ENT_NAM": "Firma Handlowa Marta Kociołek",
+  "ENT_ADD": "  76A, Łukawiec, 37-626, PL",
+  "ENT_TOW_CIT_RES": "Łukawiec",
+  "ENT_POS_COD": "37-626",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

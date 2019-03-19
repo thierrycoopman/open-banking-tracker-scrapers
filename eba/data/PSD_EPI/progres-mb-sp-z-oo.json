@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9241902453",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9241902453",
+  "ENT_NAM": "\"PROGRES MB\" Sp. z o.o.",
+  "ENT_ADD": "Sportowa 10, Żagań, 68-100, PL",
+  "ENT_TOW_CIT_RES": "Żagań",
+  "ENT_POS_COD": "68-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-05-27"
+  ]
+}

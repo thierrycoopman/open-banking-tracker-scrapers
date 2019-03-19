@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!502845",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "502845",
+  "ENT_NAM": "Exchange4Free Ltd",
+  "ENT_ADD": [
+    "The Light Bulb",
+    "Exchange4Free Ltd",
+    "1 Filament Walk"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW18 4GQ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-01"
+  ]
+}

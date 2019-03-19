@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!99",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "99",
+  "ENT_NAM": "JAX Krzysztof Skibiński",
+  "ENT_ADD": "ul. Strzegomska 206, Wrocław, 54-432, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "54-432",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}
+T_AUT": "Inactive"
+}

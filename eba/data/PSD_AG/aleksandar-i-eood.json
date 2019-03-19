@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!107594478",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "107594478",
+  "ENT_NAM": [
+    "Александър  I ЕООД",
+    "Aleksandar I EOOD"
+  ],
+  "ENT_ADD": "10A Petar Bozhinov str., fl. 6, app. 16",
+  "ENT_TOW_CIT_RES": "Gabrovo",
+  "ENT_POS_COD": "5300",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

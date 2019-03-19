@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72730",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "813659307",
+  "ENT_NAM": "LE CAFE DES SPORTS",
+  "ENT_ADD": "191 avenue de la République",
+  "ENT_TOW_CIT_RES": "L ISLE D ESPAGNAC",
+  "ENT_POS_COD": "16340",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

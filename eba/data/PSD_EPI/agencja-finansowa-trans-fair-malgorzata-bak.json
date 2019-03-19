@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8881014413",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8881014413",
+  "ENT_NAM": "Agencja Finansowa \"TRANS-FAIR\" - Małgorzata Bąk",
+  "ENT_ADD": "Ostrowska 32A, Włocławek, 87-800, PL",
+  "ENT_TOW_CIT_RES": "Włocławek",
+  "ENT_POS_COD": "87-800",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-19"
+  ]
+}

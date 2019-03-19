@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6941498573",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6941498573",
+  "ENT_NAM": "VIKAR Robert Karnas",
+  "ENT_ADD": "Saturna 9/Pawilon 28, Głogów, 67-200, PL",
+  "ENT_TOW_CIT_RES": "Głogów",
+  "ENT_POS_COD": "67-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-15"
+  ]
+}

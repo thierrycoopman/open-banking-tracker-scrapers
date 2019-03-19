@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!823863_AG9613",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG823863",
+  "ENT_NAM": "Sad",
+  "ENT_ADD": "5 Rue Marat",
+  "ENT_TOW_CIT_RES": "Ivry Sur Seine",
+  "ENT_POS_COD": "94200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

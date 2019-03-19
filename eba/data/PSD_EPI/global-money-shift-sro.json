@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!06518648",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "06518648",
+  "ENT_NAM": "Global Money Shift s.r.o. ",
+  "ENT_ADD": "Štefánikova 18/25",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "15000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-12-13"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6193",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6193",
+  "ENT_NAM": "PPUH ZIOBER ZDZISLAW SOSINSKI",
+  "ENT_ADD": "Bronowice 41/2, Strzelce Krajenskie, 66-500, PL",
+  "ENT_TOW_CIT_RES": "Strzelce Krajenskie",
+  "ENT_POS_COD": "66-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

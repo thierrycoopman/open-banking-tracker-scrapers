@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!578824!629060_AG29",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG629060",
+  "ENT_NAM": "Alyaqoob 493 Sl",
+  "ENT_ADD": "Calle Escocia 7",
+  "ENT_TOW_CIT_RES": "Barcelona",
+  "ENT_POS_COD": "80 16",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!578824",
+  "DER_CHI_ENT_AUT": "Active"
+}

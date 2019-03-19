@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66482",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "789101367",
+  "ENT_NAM": "M. GOUGEON Sylvain",
+  "ENT_ADD": "4 rue de la Cueille",
+  "ENT_TOW_CIT_RES": "LAVANS LES ST CLAUDE",
+  "ENT_POS_COD": "39170",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

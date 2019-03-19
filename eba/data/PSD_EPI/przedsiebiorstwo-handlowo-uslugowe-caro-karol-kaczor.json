@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7661902045",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7661902045",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo-Usługowe CARO Karol Kaczor",
+  "ENT_ADD": "Rynek 11, Damasławek, 62-110, PL",
+  "ENT_TOW_CIT_RES": "Damasławek",
+  "ENT_POS_COD": "62-110",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-06-20"
+  ]
+}

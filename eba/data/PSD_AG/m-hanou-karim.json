@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66272",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "512726977",
+  "ENT_NAM": "M. HANOU Karim",
+  "ENT_ADD": [
+    "225 Route d'Angoulême ",
+    "Centre Commercial",
+    "le Privilège"
+  ],
+  "ENT_TOW_CIT_RES": "PERIGUEUX",
+  "ENT_POS_COD": "24000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

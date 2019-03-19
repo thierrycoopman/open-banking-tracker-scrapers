@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73831",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "820440121",
+  "ENT_NAM": "M. BOUDJEMA Kamal",
+  "ENT_ADD": "70 rue des Entrepreneurs",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75015",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

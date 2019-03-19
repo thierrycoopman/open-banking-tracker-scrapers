@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5731741452",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5731741452",
+  "ENT_NAM": "AGENCJA UBEZPIECZENIOWA JOANNA KOCIŃSKA",
+  "ENT_ADD": "Śląska 3/5, Częstochowa, 42-217, PL",
+  "ENT_TOW_CIT_RES": "Częstochowa",
+  "ENT_POS_COD": "42-217",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-03-20"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!829602_AG10255",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829602",
+  "ENT_NAM": "Ali Cargo Express Ltd",
+  "ENT_ADD": "38 Albert Road",
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M19 2AB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

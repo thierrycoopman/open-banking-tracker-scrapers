@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!631908_AG592",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG631908",
+  "ENT_NAM": "DE VIRGILIO DELIA",
+  "ENT_ADD": "CORSO MR IMBRIANI 98/A,",
+  "ENT_TOW_CIT_RES": "TRANI,",
+  "ENT_POS_COD": "761 25",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!935",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "935",
+  "ENT_NAM": "Firma Handlowo - Usługowa \" EWA \" Ewa Grzesiak",
+  "ENT_ADD": "Krzeszowicka 79, Wola Filipowska, 32-065, PL",
+  "ENT_TOW_CIT_RES": "Wola Filipowska",
+  "ENT_POS_COD": "32-065",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

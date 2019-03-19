@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56788",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "432241891",
+  "ENT_NAM": "M. GASPOZ Michel",
+  "ENT_ADD": "688 avenue de la Plage",
+  "ENT_TOW_CIT_RES": "BISCARROSSE",
+  "ENT_POS_COD": "40600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

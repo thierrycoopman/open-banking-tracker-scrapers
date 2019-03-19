@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!757739_AG5461",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG757739",
+  "ENT_NAM": "R K Food & Wines Ltd",
+  "ENT_ADD": "18 High Street Egham",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "TW20 9DT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!763660",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "763660",
+  "ENT_NAM": "MALIK EXCHANGE LIMITED",
+  "ENT_ADD": [
+    "297-303 Edgware Road",
+    "Watling Gate",
+    "Unit 3"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW9 6NB",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-03-31"
+  ]
+}

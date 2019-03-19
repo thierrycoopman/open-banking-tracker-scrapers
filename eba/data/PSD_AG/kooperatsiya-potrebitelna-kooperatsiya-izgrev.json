@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!000114609",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "000114609",
+  "ENT_NAM": [
+    "Кооперация Потребителна кооперация Изгрев",
+    "Kooperatsiya Potrebitelna kooperatsiya Izgrev"
+  ],
+  "ENT_ADD": "Ovcha mogila village 5295",
+  "ENT_TOW_CIT_RES": "Ovcha mogila village",
+  "ENT_POS_COD": "5295",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

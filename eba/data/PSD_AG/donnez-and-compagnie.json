@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!69388",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "494807993",
+  "ENT_NAM": "DONNEZ & COMPAGNIE",
+  "ENT_ADD": "56-58-60 Rue du Mont Valérien",
+  "ENT_TOW_CIT_RES": "ST CLOUD",
+  "ENT_POS_COD": "92210",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

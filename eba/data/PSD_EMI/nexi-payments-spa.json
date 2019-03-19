@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_EMI!IT_BI!4107060966",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "4107060966",
+  "ENT_NAM": "NEXI PAYMENTS S.P.A.",
+  "ENT_NAM_COM": "NEXI PAYMENTS S.P.A.",
+  "ENT_ADD": "CORSO SEMPIONE, 55",
+  "ENT_TOW_CIT_RES": "MILANO",
+  "ENT_POS_COD": "20149",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

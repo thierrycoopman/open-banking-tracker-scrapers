@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!104593008",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "104593008",
+  "ENT_NAM": [
+    "ЕТ Димитър Иванов - Империал",
+    "ET Dimitar Ivanov - Imperial"
+  ],
+  "ENT_ADD": "32 Kraibrezhna str., entr. B, fl. 4, app. 10",
+  "ENT_TOW_CIT_RES": "Elena",
+  "ENT_POS_COD": "5070",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!601094_AG229",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG601094",
+  "ENT_NAM": "Syed Qamar Abbas",
+  "ENT_ADD": "Piazza Sandro Pertini SCN",
+  "ENT_TOW_CIT_RES": "Morrovalle",
+  "ENT_POS_COD": "62010",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!596907_AG2467",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG596907",
+  "ENT_NAM": "Taiwo Fimihan Olajumoke",
+  "ENT_ADD": [
+    "Kiosk 2",
+    "3 St. Edwards Way"
+  ],
+  "ENT_TOW_CIT_RES": "Romford",
+  "ENT_POS_COD": "RM1 3DQ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

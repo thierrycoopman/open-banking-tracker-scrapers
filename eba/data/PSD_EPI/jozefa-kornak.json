@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9181019892",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9181019892",
+  "ENT_NAM": "Józefa Kornak",
+  "ENT_ADD": "Kościuszki 35, Biłgoraj, 23-400, PL",
+  "ENT_TOW_CIT_RES": "Biłgoraj",
+  "ENT_POS_COD": "23-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-29"
+  ]
+}

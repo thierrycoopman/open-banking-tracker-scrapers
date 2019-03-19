@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7391500809",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7391500809",
+  "ENT_NAM": "Ultra Marek Krzysztof Niewiadomski",
+  "ENT_ADD": "Kołobrzeska 13h/31, Olsztyn, 10-445, PL",
+  "ENT_TOW_CIT_RES": "Olsztyn",
+  "ENT_POS_COD": "10-445",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-02-25"
+  ]
+}

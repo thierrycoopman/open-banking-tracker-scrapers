@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7871144674",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7871144674",
+  "ENT_NAM": "Firma Handlowo-Usługowa \"MKT-E\" Magdalena Nowak",
+  "ENT_ADD": "Plac Kościuszki 13, Obrzycko, 64-520, PL",
+  "ENT_TOW_CIT_RES": "Obrzycko",
+  "ENT_POS_COD": "64-520",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-18"
+  ]
+}

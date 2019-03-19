@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7543004879",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7543004879",
+  "ENT_NAM": "meritumkredyt spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Aleje Jerozolimskie 96, Warszawa, 00-807, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-807",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-10-19"
+  ]
+}

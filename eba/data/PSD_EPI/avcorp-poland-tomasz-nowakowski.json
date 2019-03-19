@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6131488850",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6131488850",
+  "ENT_NAM": "AVcorp Poland Tomasz Nowakowski",
+  "ENT_ADD": "Poniatowskiego 25, Jawor, 59-400, PL",
+  "ENT_TOW_CIT_RES": "Jawor",
+  "ENT_POS_COD": "59-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-06-25",
+    "2018-09-24"
+  ]
+}

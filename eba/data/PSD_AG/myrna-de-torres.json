@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537568!552889_AG8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG552889",
+  "ENT_NAM": "Myrna de Torres",
+  "ENT_ADD": [
+    "Aspley",
+    "171 Harwill Crescent"
+  ],
+  "ENT_TOW_CIT_RES": "Nottingham",
+  "ENT_POS_COD": "NG8 5LE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537568",
+  "DER_CHI_ENT_AUT": "Active"
+}

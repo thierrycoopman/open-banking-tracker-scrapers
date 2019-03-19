@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3351",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3351",
+  "ENT_NAM": "PHU Express Mariusz Pędziwiatr",
+  "ENT_ADD": "Wiktora Bałandy 18 lok. 11, Oświęcim, 32-600, PL",
+  "ENT_TOW_CIT_RES": "Oświęcim",
+  "ENT_POS_COD": "32-600",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

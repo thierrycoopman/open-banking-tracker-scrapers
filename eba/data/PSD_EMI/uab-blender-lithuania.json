@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "LT_LT_BL_304230261",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "304230261",
+  "ENT_NAM": "UAB BLENDER LITHUANIA",
+  "ENT_ADD": "Vilniaus m. sav. Vilniaus m. Jogailos g. 9",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "01116",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2017-02-14"
+  ]
+}

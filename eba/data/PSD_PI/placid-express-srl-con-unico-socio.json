@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!9145191004",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "9145191004",
+  "ENT_NAM": "PLACID EXPRESS S.R.L. CON UNICO SOCIO",
+  "ENT_NAM_COM": "PLACID EXPRESS S.R.L. CON UNICO SOCIO",
+  "ENT_ADD": "VIA ERATOSTENE, 26",
+  "ENT_TOW_CIT_RES": "ROMA",
+  "ENT_POS_COD": "00176",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

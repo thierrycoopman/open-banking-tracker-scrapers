@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!545641_AG22",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG545641",
+  "ENT_NAM": "Fp Services Snc Di Facciolongo Michele",
+  "ENT_ADD": "Piazza Della Repubblica,33",
+  "ENT_TOW_CIT_RES": "Canosa Di Puglia",
+  "ENT_POS_COD": "700 53",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

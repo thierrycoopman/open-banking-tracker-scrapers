@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!40719466",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "40719466",
+  "ENT_NAM": [
+    "ЕТ БИС - Божидар Мирчев",
+    "ET BIS - Bozhidar Mirchev"
+  ],
+  "ENT_ADD": "zh.k. Mladost, buil 3031, entr. ZH, fl. 6, app. 18",
+  "ENT_TOW_CIT_RES": "Lovetch",
+  "ENT_POS_COD": "5500",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

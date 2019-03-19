@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6640011530",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6640011530",
+  "ENT_NAM": "SATEL Robert Niewczas",
+  "ENT_ADD": "Piłsudskiego 11, Starachowice, 27-200, PL",
+  "ENT_TOW_CIT_RES": "Starachowice",
+  "ENT_POS_COD": "27-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-03-27"
+  ]
+}

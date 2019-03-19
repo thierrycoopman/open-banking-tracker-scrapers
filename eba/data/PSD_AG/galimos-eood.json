@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!107587302",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "107587302",
+  "ENT_NAM": [
+    "Галимос ЕООД",
+    "Galimos EOOD"
+  ],
+  "ENT_ADD": "4 Kosmonavt str.",
+  "ENT_TOW_CIT_RES": "Hirevo village",
+  "ENT_POS_COD": "5451",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

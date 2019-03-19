@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!817306_AG425",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG817306",
+  "ENT_NAM": "Kantheepan Sutharsini",
+  "ENT_ADD": "Wilhelmstrasse 58/1",
+  "ENT_TOW_CIT_RES": "Heilbronn",
+  "ENT_POS_COD": "74074",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

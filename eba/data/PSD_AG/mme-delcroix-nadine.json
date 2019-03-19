@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68937",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "342399847",
+  "ENT_NAM": "Mme DELCROIX Nadine",
+  "ENT_ADD": "32 rue Fauqueux",
+  "ENT_TOW_CIT_RES": "MASNY",
+  "ENT_POS_COD": "59176",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!821920",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "821920",
+  "ENT_NAM": "Streeva Ltd",
+  "ENT_NAM_COM": "Swiftaid",
+  "ENT_ADD": [
+    "Streeva",
+    "40 Occam Road",
+    "Surrey Technology Centre"
+  ],
+  "ENT_TOW_CIT_RES": "Guildford",
+  "ENT_POS_COD": "GU2 7YG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2019-02-26"
+  ]
+}

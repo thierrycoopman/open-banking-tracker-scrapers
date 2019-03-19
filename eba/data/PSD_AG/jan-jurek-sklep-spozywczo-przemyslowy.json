@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1820",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1820",
+  "ENT_NAM": "Jan Jurek Sklep spożywczo-przemysłowy",
+  "ENT_ADD": "Nowa Wieś 171, Łabowa, 33-336, PL",
+  "ENT_TOW_CIT_RES": "Łabowa",
+  "ENT_POS_COD": "33-336",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

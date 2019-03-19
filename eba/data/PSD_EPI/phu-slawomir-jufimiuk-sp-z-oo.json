@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5372597209",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5372597209",
+  "ENT_NAM": "\"P.H.U. SŁAWOMIR JUFIMIUK\" Sp. z o.o.",
+  "ENT_ADD": "Wojska Polskiego 96, Terespol, 21-550, PL",
+  "ENT_TOW_CIT_RES": "Terespol",
+  "ENT_POS_COD": "21-550",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-19"
+  ]
+}

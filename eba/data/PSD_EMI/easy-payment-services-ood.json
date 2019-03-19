@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "BG_BNB!204112059",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "204112059",
+  "ENT_NAM": [
+    "Изи Пеймънт Сървисиз ООД",
+    "Easy Payment Services OOD"
+  ],
+  "ENT_ADD": "28 Dzhavaharlal Neru blvd., floor 2, office 40-46, Lyulin 7 dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1324",
+  "ENT_COU_RES": "BG",
+  "ENT_AUT": [
+    "2018-10-25"
+  ]
+}

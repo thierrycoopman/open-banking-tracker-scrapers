@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!610858_AG345",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG610858",
+  "ENT_NAM": "Amrik Singh",
+  "ENT_ADD": "Via Marconi 43",
+  "ENT_TOW_CIT_RES": "Cornedo Vicentino",
+  "ENT_POS_COD": "36 073",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

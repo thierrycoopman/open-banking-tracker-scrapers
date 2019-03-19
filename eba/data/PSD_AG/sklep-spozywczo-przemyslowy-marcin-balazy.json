@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3478",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3478",
+  "ENT_NAM": "Sklep Spożywczo - Przemysłowy Marcin Bałazy",
+  "ENT_ADD": "Ławy 77, Rzekuń, 07-411, PL",
+  "ENT_TOW_CIT_RES": "Rzekuń",
+  "ENT_POS_COD": "07-411",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

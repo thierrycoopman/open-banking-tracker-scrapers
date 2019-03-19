@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!763518_AG642",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG763518",
+  "ENT_NAM": "Izrar Hussain",
+  "ENT_ADD": [
+    "Local 2",
+    "Avinguda de Vallcarca 67"
+  ],
+  "ENT_TOW_CIT_RES": "Barcelona",
+  "ENT_POS_COD": "08023",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

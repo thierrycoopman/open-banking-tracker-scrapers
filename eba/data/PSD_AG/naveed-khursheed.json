@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!514406!672976_AG46",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG672976",
+  "ENT_NAM": "Naveed Khursheed",
+  "ENT_ADD": "6 Bankhall Street",
+  "ENT_TOW_CIT_RES": "Glasgow",
+  "ENT_POS_COD": "G42 8JR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!514406",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!05903084",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "05903084",
+  "ENT_NAM": "WAYFORPAY s.r.o. ",
+  "ENT_ADD": "Klimentská 1216/46",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "11000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-11-21"
+  ]
+}

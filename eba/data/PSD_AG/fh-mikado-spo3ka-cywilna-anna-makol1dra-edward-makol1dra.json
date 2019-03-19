@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4122",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4122",
+  "ENT_NAM": "F.H. \"MIKADO\" Spó3ka Cywilna Anna Makol1dra, Edward Makol1dra",
+  "ENT_ADD": "Palinskiego 21, Bytom, 41-909, PL",
+  "ENT_TOW_CIT_RES": "Bytom",
+  "ENT_POS_COD": "41-909",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

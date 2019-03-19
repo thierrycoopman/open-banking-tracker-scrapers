@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!610",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "610",
+  "ENT_NAM": "Sklep Spożywczo-Przemysłowy Artur Bocian",
+  "ENT_ADD": "Zwycięstwa 13/a, Międzywodzie, 72-415, PL",
+  "ENT_TOW_CIT_RES": "Międzywodzie",
+  "ENT_POS_COD": "72-415",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

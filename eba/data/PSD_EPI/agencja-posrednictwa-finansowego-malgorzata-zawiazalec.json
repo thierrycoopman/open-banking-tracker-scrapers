@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8991453823",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8991453823",
+  "ENT_NAM": "Agencja Pośrednictwa Finansowego Małgorzata Zawiązalec",
+  "ENT_ADD": "Broniewskiego  16, Oborniki Śląskie , 55-120, PL",
+  "ENT_TOW_CIT_RES": "Oborniki Śląskie ",
+  "ENT_POS_COD": "55-120",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-09"
+  ]
+}

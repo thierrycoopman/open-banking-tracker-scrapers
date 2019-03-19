@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!68218451",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "68218451",
+  "ENT_NAM": "Černý Jan",
+  "ENT_ADD": "Na stavě 1258",
+  "ENT_TOW_CIT_RES": "Třebechovice pod Orebem",
+  "ENT_POS_COD": "50346",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

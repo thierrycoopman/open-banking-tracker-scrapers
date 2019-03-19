@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PT_BP",
+  "EntityCode": "PSD_PI!PT_BP!8710",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "8710",
+  "ENT_NAM": "PAYPAYUE - Instituição de Pagamentos, Unipessoal, Lda.",
+  "ENT_NAM_COM": "PayPay",
+  "ENT_ADD": "Estrada Regional nº 104 nº 42 A",
+  "ENT_TOW_CIT_RES": "Ribeira Brava",
+  "ENT_POS_COD": "9350-203",
+  "ENT_COU_RES": "PT",
+  "ENT_AUT": [
+    "2016-01-04"
+  ]
+}

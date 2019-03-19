@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!584599",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "584599",
+  "ENT_NAM": "Segregated Payments Limited",
+  "ENT_NAM_COM": "SegPay",
+  "ENT_ADD": [
+    "Three Kings Meadow",
+    "9A",
+    "Osney Mead"
+  ],
+  "ENT_TOW_CIT_RES": "Oxford",
+  "ENT_POS_COD": "OX2 0DP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2013-02-21"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!826736_AG731",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG826736",
+  "ENT_NAM": "Westcliffs Cosmetics Limited",
+  "ENT_ADD": [
+    "Westcliff-On-Sea",
+    "413 London Road"
+  ],
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "SS0 7HU",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

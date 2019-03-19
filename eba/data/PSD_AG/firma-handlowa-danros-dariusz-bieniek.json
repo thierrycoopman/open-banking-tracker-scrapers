@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2129",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2129",
+  "ENT_NAM": "Firma Handlowa \"Danros\" - Dariusz Bieniek",
+  "ENT_ADD": "Dębina 86, Bratucice, 32-712, PL",
+  "ENT_TOW_CIT_RES": "Bratucice",
+  "ENT_POS_COD": "32-712",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

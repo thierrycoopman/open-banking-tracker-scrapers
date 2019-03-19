@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5791",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5791",
+  "ENT_NAM": "Duo Market M.Kiea, K. Sulowski S.C.",
+  "ENT_ADD": "Radlna 66A, Tarnowiec, 33-112, PL",
+  "ENT_TOW_CIT_RES": "Tarnowiec",
+  "ENT_POS_COD": "33-112",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

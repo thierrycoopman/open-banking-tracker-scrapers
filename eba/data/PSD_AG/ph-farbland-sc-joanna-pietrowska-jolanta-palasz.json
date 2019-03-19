@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4411",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4411",
+  "ENT_NAM": "P.H. \"Farbland\" S.C. Joanna Pietrowska, Jolanta Palasz",
+  "ENT_ADD": "Bandurskiego 5, Miko3ów, 43-190, PL",
+  "ENT_TOW_CIT_RES": "Miko3ów",
+  "ENT_POS_COD": "43-190",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5591002021",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5591002021",
+  "ENT_NAM": "ZUH \"EL-TEL-SAT\" Piotr Jopek",
+  "ENT_ADD": "Rynek 10, Nowe, 86-170, PL",
+  "ENT_TOW_CIT_RES": "Nowe",
+  "ENT_POS_COD": "86-170",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-03-05"
+  ]
+}

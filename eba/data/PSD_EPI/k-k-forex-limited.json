@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!696149",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "696149",
+  "ENT_NAM": "K K Forex Limited",
+  "ENT_ADD": [
+    "33",
+    "Stamford road"
+  ],
+  "ENT_TOW_CIT_RES": "Dagenham",
+  "ENT_POS_COD": "RM9 4HA",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-12-22"
+  ]
+}

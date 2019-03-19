@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1759",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1759",
+  "ENT_NAM": "Sklep Spożywczo Przemysłowy Mini Bar Magdalena Grałek",
+  "ENT_ADD": "Jana Kochanowskiego 9, Ciepielów, 27-310, PL",
+  "ENT_TOW_CIT_RES": "Ciepielów",
+  "ENT_POS_COD": "27-310",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

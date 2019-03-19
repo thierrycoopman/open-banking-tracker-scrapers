@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!621840_AG379",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG621840",
+  "ENT_NAM": "Mohammed Abul Kashem",
+  "ENT_ADD": "No 4, 251 Whitechapel Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 1DB",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

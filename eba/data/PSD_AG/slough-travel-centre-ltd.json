@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!596394_AG169",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG596394",
+  "ENT_NAM": "Slough Travel Centre Ltd",
+  "ENT_ADD": "31 Burgett Road",
+  "ENT_TOW_CIT_RES": "Slough",
+  "ENT_POS_COD": "SL1 2TJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

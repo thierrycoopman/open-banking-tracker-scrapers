@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9560010197",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9560010197",
+  "ENT_NAM": "Przedsiębiorstwo Produkcyjno Handlowo Usługowe Monter Andrzej Kowalski",
+  "ENT_ADD": "Adama Asnyka 10a/16, Toruń, 87-100, PL",
+  "ENT_TOW_CIT_RES": "Toruń",
+  "ENT_POS_COD": "87-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-19"
+  ]
+}

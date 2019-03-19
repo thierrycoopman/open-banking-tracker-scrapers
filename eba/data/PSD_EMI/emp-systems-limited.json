@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "MT_MFSA",
+  "EntityCode": "MT_MFSA!EMP",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "C64728",
+  "ENT_NAM": "EMP SYSTEMS LIMITED",
+  "ENT_NAM_COM": "EMP SYSTEMS LIMITED",
+  "ENT_ADD": "115B, Suite 3, Old Mint Street",
+  "ENT_TOW_CIT_RES": "Valletta",
+  "ENT_POS_COD": "VLT 1515",
+  "ENT_COU_RES": "MT",
+  "ENT_AUT": [
+    "2015-06-03"
+  ]
+}

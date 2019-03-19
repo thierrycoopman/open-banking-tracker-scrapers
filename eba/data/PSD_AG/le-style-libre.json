@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!791661_AG7102",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG791661",
+  "ENT_NAM": "Le Style Libre",
+  "ENT_ADD": [
+    "20 Rue Du General Koenig",
+    "Centre Commercial Du Puy Du Roy Lot 273"
+  ],
+  "ENT_TOW_CIT_RES": "Compiègne",
+  "ENT_POS_COD": "60200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

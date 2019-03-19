@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!806540_AG8035",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG806540",
+  "ENT_NAM": "Surjan Zadran",
+  "ENT_ADD": "Bolongarostr 132",
+  "ENT_TOW_CIT_RES": "Frankfurt",
+  "ENT_POS_COD": "65929",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BE_NBB",
+  "EntityCode": "BE_NBB!0418547872",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "0418547872",
+  "ENT_NAM": "Worldline",
+  "ENT_ADD": [
+    "Haachtsesteenweg 1442/Chaussée de Haecht 1442",
+    "Blue Star Building - FIN - D4"
+  ],
+  "ENT_TOW_CIT_RES": "Brussel/Bruxelles",
+  "ENT_POS_COD": "1130",
+  "ENT_COU_RES": "BE",
+  "ENT_AUT": [
+    "2010-09-21"
+  ]
+}

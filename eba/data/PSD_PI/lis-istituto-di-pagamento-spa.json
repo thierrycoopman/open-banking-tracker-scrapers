@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "IT_BI",
+  "EntityCode": "PSD_PI!IT_BI!3396740965",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "3396740965",
+  "ENT_NAM": "LIS ISTITUTO DI PAGAMENTO SPA",
+  "ENT_NAM_COM": "LIS ISTITUTO DI PAGAMENTO SPA",
+  "ENT_ADD": "VIA STARO 4",
+  "ENT_TOW_CIT_RES": "MILANO",
+  "ENT_POS_COD": "20134",
+  "ENT_COU_RES": "IT",
+  "ENT_AUT": [
+    "2018-01-14"
+  ]
+}

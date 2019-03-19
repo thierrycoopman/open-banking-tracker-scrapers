@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8862987439",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8862987439",
+  "ENT_NAM": "Sklep Zoologiczny Patrycja Szmigiel",
+  "ENT_ADD": "Moniuszki 3, Wałbrzych, 58-300, PL",
+  "ENT_TOW_CIT_RES": "Wałbrzych",
+  "ENT_POS_COD": "58-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-12-28"
+  ]
+}

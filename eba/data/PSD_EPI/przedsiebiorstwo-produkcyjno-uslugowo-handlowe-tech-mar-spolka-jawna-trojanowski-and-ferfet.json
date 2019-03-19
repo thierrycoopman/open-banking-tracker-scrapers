@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7640075950",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7640075950",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO PRODUKCYJNO-USŁUGOWO-HANDLOWE \"TECH-MAR\" - SPÓŁKA JAWNA TROJANOWSKI & FERFET",
+  "ENT_ADD": "Kościuszki  15, Chodzież, 64-800, PL",
+  "ENT_TOW_CIT_RES": "Chodzież",
+  "ENT_POS_COD": "64-800",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-01-14"
+  ]
+}

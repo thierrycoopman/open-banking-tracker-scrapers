@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581339_AG1646",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581339",
+  "ENT_NAM": "Dersarkissian Petikian Anaid",
+  "ENT_ADD": "10 Avenue Sadi Carnot",
+  "ENT_TOW_CIT_RES": "Valence",
+  "ENT_POS_COD": "2600 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

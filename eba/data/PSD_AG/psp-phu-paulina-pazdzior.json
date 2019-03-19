@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5851412521!60",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "60",
+  "ENT_NAM": "\"PSP\" P.H.U. Paulina Paździor",
+  "ENT_ADD": "Kazimierska 3, Bełżce, 24-200, PL",
+  "ENT_TOW_CIT_RES": "Bełżce",
+  "ENT_POS_COD": "24-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851412521",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

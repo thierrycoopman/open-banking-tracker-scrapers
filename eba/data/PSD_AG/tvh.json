@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!822816_AG9536",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG822816",
+  "ENT_NAM": "TVH",
+  "ENT_ADD": "258 Bis Rue Des Pyrénées",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

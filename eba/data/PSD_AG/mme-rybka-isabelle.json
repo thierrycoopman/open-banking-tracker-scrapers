@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!79130",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "415139294",
+  "ENT_NAM": "Mme RYBKA ISABELLE",
+  "ENT_ADD": "24 RUE DU PAVE",
+  "ENT_TOW_CIT_RES": "BOUCONVILLERS",
+  "ENT_POS_COD": "60240",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!824952_AG9739",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG824952",
+  "ENT_NAM": "Epicerie De Marbot",
+  "ENT_ADD": "5 Bis Rue De La Chapelle",
+  "ENT_TOW_CIT_RES": "Bar Le Duc",
+  "ENT_POS_COD": "55000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

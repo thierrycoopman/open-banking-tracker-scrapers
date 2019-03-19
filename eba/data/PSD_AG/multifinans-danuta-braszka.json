@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5851450734!4",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4",
+  "ENT_NAM": "MULTIFINANS Danuta Braszka",
+  "ENT_ADD": "Nyska 5, Otmuchów, 48-385, PL",
+  "ENT_TOW_CIT_RES": "Otmuchów",
+  "ENT_POS_COD": "48-385",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851450734",
+  "DER_CHI_ENT_AUT": "Active"
+}

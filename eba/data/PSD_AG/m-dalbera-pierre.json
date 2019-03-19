@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!58981",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "438980682",
+  "ENT_NAM": "M. DALBERA Pierre",
+  "ENT_ADD": "236 hameau du Petit Palais",
+  "ENT_TOW_CIT_RES": "L ISLE SUR LA SORGUE",
+  "ENT_POS_COD": "84800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "LU_CSSF!W00000001",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "W00000001",
+  "ENT_NAM": "Amazon Payments Europe S.C.A.",
+  "ENT_ADD": "38 Avenue J.F. Kennedy",
+  "ENT_TOW_CIT_RES": "Luxembourg",
+  "ENT_POS_COD": "1855",
+  "ENT_COU_RES": "LU",
+  "ENT_AUT": [
+    "2010-09-24"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!283",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "283",
+  "ENT_NAM": "Zbigniew Sięda Sprzedaż artykułów spożywczych i przemysłowych. Pośrednictwo ubezpieczeniowe",
+  "ENT_ADD": "ul. Traktorowa 33, Olsztyn, 10-828, PL",
+  "ENT_TOW_CIT_RES": "Olsztyn",
+  "ENT_POS_COD": "10-828",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

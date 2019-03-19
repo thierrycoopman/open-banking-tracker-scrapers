@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67585",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "798553863",
+  "ENT_NAM": "SNC MARETTON",
+  "ENT_ADD": "35 Place d'Armes",
+  "ENT_TOW_CIT_RES": "DOUAI",
+  "ENT_POS_COD": "59500",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

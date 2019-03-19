@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7641102838",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7641102838",
+  "ENT_NAM": "Rafał Dziuba RAMADO",
+  "ENT_ADD": "Żeromskiego 35A/3, Chodzież, 64-800, PL",
+  "ENT_TOW_CIT_RES": "Chodzież",
+  "ENT_POS_COD": "64-800",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-11-07"
+  ]
+}

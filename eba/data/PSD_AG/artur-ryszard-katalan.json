@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581483_AG1703",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581483",
+  "ENT_NAM": "Artur Ryszard Katalan",
+  "ENT_ADD": "Podmurna 34",
+  "ENT_TOW_CIT_RES": "Torun",
+  "ENT_POS_COD": "8710 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

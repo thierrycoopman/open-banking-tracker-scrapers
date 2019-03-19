@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!16799",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "303160501",
+  "ENT_NAM": "Somafi-Soguafi",
+  "ENT_NAM_COM": "Somafi-Soguafi",
+  "ENT_ADD": "Zone Industrielle des Mangles",
+  "ENT_TOW_CIT_RES": "LE LAMENTIN",
+  "ENT_POS_COD": "97232",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2014-10-06"
+  ]
+}

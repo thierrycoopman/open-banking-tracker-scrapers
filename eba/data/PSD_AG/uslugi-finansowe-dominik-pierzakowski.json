@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5851412521!39",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "39",
+  "ENT_NAM": "USŁUGI FINANSOWE DOMINIK PIERZAKOWSKI",
+  "ENT_ADD": "Bazylijska 39F, Zgierz, 95-100, PL",
+  "ENT_TOW_CIT_RES": "Zgierz",
+  "ENT_POS_COD": "95-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851412521",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+}

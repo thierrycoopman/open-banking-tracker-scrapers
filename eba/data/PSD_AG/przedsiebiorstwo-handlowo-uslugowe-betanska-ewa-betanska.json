@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!882",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "882",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo-Usługowe \"Betańska\" Ewa Betańska",
+  "ENT_ADD": "Spokojna 18A, Lipka, 77-420, PL",
+  "ENT_TOW_CIT_RES": "Lipka",
+  "ENT_POS_COD": "77-420",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

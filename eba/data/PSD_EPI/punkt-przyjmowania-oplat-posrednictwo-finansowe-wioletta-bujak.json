@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6741163193",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6741163193",
+  "ENT_NAM": "Punkt Przyjmowania Opłat - Pośrednictwo Finansowe Wioletta Bujak",
+  "ENT_ADD": "Ratuszowa 3, Drawsko Pomorskie, 78-500, PL",
+  "ENT_TOW_CIT_RES": "Drawsko Pomorskie",
+  "ENT_POS_COD": "78-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-21"
+  ]
+}

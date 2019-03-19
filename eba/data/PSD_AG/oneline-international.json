@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!50885",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "453784340",
+  "ENT_NAM": "ONELINE INTERNATIONAL",
+  "ENT_ADD": "157 rue du Faubourg Saint Denis",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75010",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

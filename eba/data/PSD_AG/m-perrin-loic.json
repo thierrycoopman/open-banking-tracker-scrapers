@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56795",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "379057599",
+  "ENT_NAM": "M. PERRIN Loic",
+  "ENT_ADD": "6 place de l'église",
+  "ENT_TOW_CIT_RES": "ST AVE",
+  "ENT_POS_COD": "56890",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

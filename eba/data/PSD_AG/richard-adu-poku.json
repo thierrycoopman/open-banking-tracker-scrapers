@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!627962_AG388",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG627962",
+  "ENT_NAM": "Richard Adu-Poku",
+  "ENT_ADD": "80 Peckham High Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE15 5ED",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

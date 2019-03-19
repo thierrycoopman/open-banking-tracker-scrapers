@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "PSD_PI!NL_DNB!F0022!R111060",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "R111060",
+  "ENT_NAM": "Bissesar Import & Export",
+  "ENT_ADD": "Truffautstraat 30",
+  "ENT_TOW_CIT_RES": "ALMERE",
+  "ENT_POS_COD": "1325 PN",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "NL_DNB!F0022",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!541244_AG497",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG541244",
+  "ENT_NAM": "Abubakari Ganda Ibrahim",
+  "ENT_ADD": "Van der Hoopstraat 97",
+  "ENT_TOW_CIT_RES": "Amsterdam",
+  "ENT_POS_COD": "1051 VD",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

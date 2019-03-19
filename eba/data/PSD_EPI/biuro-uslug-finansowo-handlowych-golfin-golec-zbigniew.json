@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8790260247",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8790260247",
+  "ENT_NAM": "Biuro Usług Finansowo - Handlowych \"GOLFIN\" Golec Zbigniew",
+  "ENT_ADD": "Rydygiera 15B/28, Toruń, 87-100, PL",
+  "ENT_TOW_CIT_RES": "Toruń",
+  "ENT_POS_COD": "87-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-05-09"
+  ]
+}

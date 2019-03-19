@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72357",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "401107289",
+  "ENT_NAM": "Mme MINIL Véronique",
+  "ENT_ADD": [
+    "8 rue du 8 mai 1945",
+    "Centre Commercial Pierre Rollin"
+  ],
+  "ENT_TOW_CIT_RES": "AMIENS",
+  "ENT_POS_COD": "80090",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

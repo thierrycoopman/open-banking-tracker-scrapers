@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204147551",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204147551",
+  "ENT_NAM": [
+    "Авто тест 2014 ЕООД",
+    "Auto test 2014 EOOD"
+  ],
+  "ENT_ADD": "4 Metodi Kusevich str., fl. 5, app. 21",
+  "ENT_TOW_CIT_RES": "Dobrich",
+  "ENT_POS_COD": "9300",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

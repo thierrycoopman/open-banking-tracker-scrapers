@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6185",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6185",
+  "ENT_NAM": "Polok Piotr Us3ugi Leone",
+  "ENT_ADD": "Potokowa 15, Ba?anowice, 43-440, PL",
+  "ENT_TOW_CIT_RES": "Ba?anowice",
+  "ENT_POS_COD": "43-440",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

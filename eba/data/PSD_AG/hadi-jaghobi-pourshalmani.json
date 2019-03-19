@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!750766_AG5237",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG750766",
+  "ENT_NAM": "Hadi Jaghobi Pourshalmani",
+  "ENT_ADD": "Fyrkloversgatan 22",
+  "ENT_TOW_CIT_RES": "Goteborg",
+  "ENT_POS_COD": "41721",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

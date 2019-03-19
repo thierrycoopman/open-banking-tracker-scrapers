@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!820663_AG9304",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG820663",
+  "ENT_NAM": "Amelie Marie Helene Philogene Brissac",
+  "ENT_ADD": "Le pont Bourg",
+  "ENT_TOW_CIT_RES": "Vieux Habitants",
+  "ENT_POS_COD": "97119",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

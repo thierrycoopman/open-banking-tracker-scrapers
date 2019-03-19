@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5781462257",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5781462257",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO HANDLOWO - USŁUGOWE BIURO USŁUG FINANSOWYCH DOBRAWA DOŁĘGA ",
+  "ENT_ADD": "Lotnicza 26, Elbląg, 82-300, PL",
+  "ENT_TOW_CIT_RES": "Elbląg",
+  "ENT_POS_COD": "82-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-07-16",
+    "2018-10-17"
+  ]
+}

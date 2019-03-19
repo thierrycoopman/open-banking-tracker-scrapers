@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577174!608376_AG12",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG608376",
+  "ENT_NAM": "Papa Waly Fall",
+  "ENT_ADD": "Gropelinger Heerstrasse 114",
+  "ENT_TOW_CIT_RES": "Bremen",
+  "ENT_POS_COD": "2823 7",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577174",
+  "DER_CHI_ENT_AUT": "Active"
+}

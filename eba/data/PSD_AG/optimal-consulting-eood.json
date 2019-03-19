@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201845519",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201845519",
+  "ENT_NAM": [
+    "Оптимал Консултинг ЕООД",
+    "Optimal Consulting EOOD"
+  ],
+  "ENT_ADD": "3 Ribarska str.",
+  "ENT_TOW_CIT_RES": "Nesebar",
+  "ENT_POS_COD": "8230",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_EPI!CZ_CNB!03046214!28255615",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "28255615",
+  "ENT_NAM": "LINAVITA s.r.o.",
+  "ENT_ADD": "Příkop 843/4",
+  "ENT_TOW_CIT_RES": "Brno",
+  "ENT_POS_COD": "60200",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!03046214",
+  "DER_CHI_ENT_AUT": "Active"
+}

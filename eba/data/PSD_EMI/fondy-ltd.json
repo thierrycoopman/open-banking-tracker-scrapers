@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900705",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900705",
+  "ENT_NAM": "Fondy Ltd",
+  "ENT_NAM_COM": "Fondy Ltd",
+  "ENT_ADD": [
+    "22",
+    "Long Acre"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "WC2E 9LY",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-04-25"
+  ]
+}

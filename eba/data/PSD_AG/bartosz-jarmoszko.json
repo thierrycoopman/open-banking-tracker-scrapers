@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4826",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4826",
+  "ENT_NAM": "Bartosz Jarmoszko",
+  "ENT_ADD": "Wincentego Witosa 1J lok.9, Olsztyn, 10-688, PL",
+  "ENT_TOW_CIT_RES": "Olsztyn",
+  "ENT_POS_COD": "10-688",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

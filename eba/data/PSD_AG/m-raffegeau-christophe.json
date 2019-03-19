@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!61853",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "438635005",
+  "ENT_NAM": "M. RAFFEGEAU Christophe",
+  "ENT_ADD": "1 B Rue des Saulaies",
+  "ENT_TOW_CIT_RES": "BOUCHEMAINE",
+  "ENT_POS_COD": "49080",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

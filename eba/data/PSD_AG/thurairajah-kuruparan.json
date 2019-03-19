@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!804321_AG7814",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG804321",
+  "ENT_NAM": "Thurairajah Kuruparan",
+  "ENT_ADD": "128a Horns Road",
+  "ENT_TOW_CIT_RES": "Ilford",
+  "ENT_POS_COD": "IG2 6BL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!603406_AG2693",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG603406",
+  "ENT_NAM": "HBD",
+  "ENT_ADD": "43 Rroute Du Polygone",
+  "ENT_TOW_CIT_RES": "Strasbourg",
+  "ENT_POS_COD": "6710 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

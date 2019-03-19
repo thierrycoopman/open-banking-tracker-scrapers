@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!829119875",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "829119875",
+  "ENT_NAM": [
+    "ЕТ Тени-Комерс – Стоян Димитров",
+    "ET Teni-Komers - Stoyan Dimitrov"
+  ],
+  "ENT_ADD": "80-A Kancho Chamov str.",
+  "ENT_TOW_CIT_RES": "Nova Zagora ",
+  "ENT_POS_COD": "8900",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

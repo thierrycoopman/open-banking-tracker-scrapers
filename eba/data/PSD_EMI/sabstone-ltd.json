@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900841",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900841",
+  "ENT_NAM": "Sabstone Ltd",
+  "ENT_NAM_COM": "OweMe",
+  "ENT_ADD": [
+    "Regus Centre",
+    "Bank of America House",
+    "26 Emfield Road"
+  ],
+  "ENT_TOW_CIT_RES": "Bromley",
+  "ENT_POS_COD": "BR1 1LR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-06-28"
+  ]
+}

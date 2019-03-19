@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7780115997",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7780115997",
+  "ENT_NAM": "Przemysław Jarno \"KANTOR WYMIANY WALUT A2\" \"POMARAŃCZARNIA\"",
+  "ENT_ADD": "Bukowska 156, Poznań, 60-195, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "60-195",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-27"
+  ]
+}

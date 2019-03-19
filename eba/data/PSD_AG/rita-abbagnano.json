@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!702712_AG1210",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG702712",
+  "ENT_NAM": "Rita Abbagnano",
+  "ENT_ADD": "Corso Vittorio Emanuele 11",
+  "ENT_TOW_CIT_RES": "Castellamore Di Stabia (Napoli)",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!457",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "40003812282",
+  "ENT_NAM": "SIA \"Dāvanu karte\"",
+  "ENT_NAM_COM": "Dāvanu karte",
+  "ENT_ADD": "Audēju iela 16",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1050",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2011-11-25"
+  ]
+}

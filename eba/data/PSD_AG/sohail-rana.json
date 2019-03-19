@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!608996_AG2908",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG608996",
+  "ENT_NAM": "Sohail Rana",
+  "ENT_ADD": "158 Desborough Road",
+  "ENT_TOW_CIT_RES": "High Wycombe",
+  "ENT_POS_COD": "HP11 2QA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

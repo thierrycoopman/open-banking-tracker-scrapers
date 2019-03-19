@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!363",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "363",
+  "ENT_NAM": "Firma Handlowo Usługowo Produkcyjna \"Gabi\" Brzezińska Maria",
+  "ENT_ADD": "Starogardzka 6, Lubichowo, 83-240, PL",
+  "ENT_TOW_CIT_RES": "Lubichowo",
+  "ENT_POS_COD": "83-240",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

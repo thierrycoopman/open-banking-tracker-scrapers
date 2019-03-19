@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!652281_AG3643",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG652281",
+  "ENT_NAM": "Nativos Services Ltd",
+  "ENT_ADD": [
+    "Walworth Road",
+    "Eagle Yard Arch 143"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE1 6SP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

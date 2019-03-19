@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1964",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1964",
+  "ENT_NAM": "IRDA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "ENT_ADD": "Kozubszczyzna 61, Motycz, 21-030, PL",
+  "ENT_TOW_CIT_RES": "Motycz",
+  "ENT_POS_COD": "21-030",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

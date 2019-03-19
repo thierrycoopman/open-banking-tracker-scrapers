@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!65535847",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "65535847",
+  "ENT_NAM": "Schrőpfer Pavel",
+  "ENT_ADD": "K Zámku 268",
+  "ENT_TOW_CIT_RES": "Kaznějov",
+  "ENT_POS_COD": "33151",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

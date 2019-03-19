@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "BG_BNB!204112059",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "204112059",
+  "ENT_NAM": [
+    "Изи Пеймънт Сървисиз ООД",
+    "Easy Payment Services OOD"
+  ],
+  "ENT_ADD": "PI Address (Not Specified)",
+  "ENT_TOW_CIT_RES": "PI City (Not Specified)",
+  "ENT_POS_COD": "PI Postcode (Not Specified)",
+  "ENT_COU_RES": "BG",
+  "ENT_AUT": [
+    "2016-05-25",
+    "2018-10-25"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!1990072541",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "1990072541",
+  "ENT_NAM": "Marcin Strehl Pasaż Ubezpieczeniowy",
+  "ENT_ADD": "Bolesława Chrobrego 1, Zdzieszowice, 47-330, PL",
+  "ENT_TOW_CIT_RES": "Zdzieszowice",
+  "ENT_POS_COD": "47-330",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-09-17"
+  ]
+}

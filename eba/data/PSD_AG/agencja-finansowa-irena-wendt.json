@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2740",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2740",
+  "ENT_NAM": "Agencja Finansowa Irena Wendt",
+  "ENT_ADD": "marsz. Józefa Piłsudskiego 6, Przasnysz, 06-300, PL",
+  "ENT_TOW_CIT_RES": "Przasnysz",
+  "ENT_POS_COD": "06-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

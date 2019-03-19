@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!126654450",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "126654450",
+  "ENT_NAM": [
+    "ЕТ Йорданка Първанова - 2005",
+    "ET Yordanka Parvanova - 2005"
+  ],
+  "ENT_ADD": "Rakovski blvd., build 10, entr. V, app. 5",
+  "ENT_TOW_CIT_RES": "Dimitrovgrad",
+  "ENT_POS_COD": "6400",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

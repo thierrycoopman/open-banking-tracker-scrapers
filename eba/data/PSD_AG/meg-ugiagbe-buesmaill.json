@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!739793_AG4930",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG739793",
+  "ENT_NAM": "Meg Ugiagbe Buesmaill",
+  "ENT_ADD": [
+    "Mallow",
+    "Unit 3 Park View Bridge Street"
+  ],
+  "ENT_TOW_CIT_RES": "Cork",
+  "ENT_POS_COD": "CoCork",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

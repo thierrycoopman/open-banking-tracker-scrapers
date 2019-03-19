@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5527",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5527",
+  "ENT_NAM": "SPÓŁDZIELNIA HANDLOWO-USŁUGOWA Z SIEDZIBĄ W BYTONIU",
+  "ENT_ADD": "Bytoń 72, Bytoń, 88-231, PL",
+  "ENT_TOW_CIT_RES": "Bytoń",
+  "ENT_POS_COD": "88-231",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

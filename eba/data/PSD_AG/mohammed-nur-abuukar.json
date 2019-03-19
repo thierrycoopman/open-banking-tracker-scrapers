@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!607670!557675_AG11",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG557675",
+  "ENT_NAM": "Mohammed Nur Abuukar",
+  "ENT_ADD": "104 Stapleton Road",
+  "ENT_TOW_CIT_RES": "Bristol",
+  "ENT_POS_COD": "BS5 0PR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!607670",
+  "DER_CHI_ENT_AUT": "Active"
+}

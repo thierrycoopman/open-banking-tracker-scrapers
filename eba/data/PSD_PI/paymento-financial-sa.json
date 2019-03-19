@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6462948587",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "6462948587",
+  "ENT_NAM": "PAYMENTO FINANCIAL S.A.",
+  "ENT_ADD": "Browarowa  21, Tychy, 43-100, PL",
+  "ENT_TOW_CIT_RES": "Tychy",
+  "ENT_POS_COD": "43-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-12-20"
+  ]
+}

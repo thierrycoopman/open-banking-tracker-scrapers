@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7561975145",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7561975145",
+  "ENT_NAM": "BIURO USŁUG PŁATNICZYCH MONETA spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Poprzeczna 3, Dziewkowice, 47-100, PL",
+  "ENT_TOW_CIT_RES": "Dziewkowice",
+  "ENT_POS_COD": "47-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-04-03"
+  ]
+}

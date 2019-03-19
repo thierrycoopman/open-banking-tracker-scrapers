@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!559864_AG154",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG559864",
+  "ENT_NAM": "Call Center Darou Salam di Kaba Tiguidanke",
+  "ENT_ADD": "Via Volta 7",
+  "ENT_TOW_CIT_RES": "Paderno D'Adda",
+  "ENT_POS_COD": "2387 7",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

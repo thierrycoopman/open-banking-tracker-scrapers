@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!629580",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "629580",
+  "ENT_NAM": "Bluesnap Payment Services Limited",
+  "ENT_NAM_COM": "Bluesnap",
+  "ENT_ADD": [
+    "WeWork",
+    "1 Fore Street Avenue"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2Y 9DT",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-05-05"
+  ]
+}

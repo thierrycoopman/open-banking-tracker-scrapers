@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6252369179",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6252369179",
+  "ENT_NAM": "Usługi Finansowe API 2 Piotr Śmiechowski",
+  "ENT_ADD": "Wojciecha Korfantego 1/V, Świętochłowice, 41-605, PL",
+  "ENT_TOW_CIT_RES": "Świętochłowice",
+  "ENT_POS_COD": "41-605",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-03-19"
+  ]
+}

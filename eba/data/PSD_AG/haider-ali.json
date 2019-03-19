@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!667869_AG3824",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG667869",
+  "ENT_NAM": "Haider Ali",
+  "ENT_ADD": "Via Francesco De Sanctis 2",
+  "ENT_TOW_CIT_RES": "Milano",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

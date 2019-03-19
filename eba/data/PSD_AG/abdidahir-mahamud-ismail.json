@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!525548!797661_AG29",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG797661",
+  "ENT_NAM": "Abdidahir Mahamud Ismail",
+  "ENT_ADD": "4 Market Lane",
+  "ENT_TOW_CIT_RES": "Edgware",
+  "ENT_POS_COD": "HA8 0LP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!525548",
+  "DER_CHI_ENT_AUT": "Active"
+}

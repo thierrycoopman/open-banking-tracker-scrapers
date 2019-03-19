@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!518352!586765_AG8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG586765",
+  "ENT_NAM": "Ali Hashi Macalin",
+  "ENT_ADD": "86a Sydenham Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE26 5JX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!518352",
+  "DER_CHI_ENT_AUT": "Active"
+}

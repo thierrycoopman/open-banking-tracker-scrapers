@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!6610",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "6610",
+  "ENT_NAM": "Marcin Szachowicz P.P.U.H. \"Bolmex\" S.C. Marcin Szachowicz, Czesław Bołądź",
+  "ENT_ADD": "Zwycięstwa 1, Dobiegniew, 66-520, PL",
+  "ENT_TOW_CIT_RES": "Dobiegniew",
+  "ENT_POS_COD": "66-520",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

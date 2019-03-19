@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!604038_AG2735",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG604038",
+  "ENT_NAM": "Tadeusz Galka",
+  "ENT_ADD": "Sadecka 33 d lok 6",
+  "ENT_TOW_CIT_RES": "Rabka Zdrow",
+  "ENT_POS_COD": "3470 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

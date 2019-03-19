@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!547117_AG821",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG547117",
+  "ENT_NAM": "Alessandro Navarese",
+  "ENT_ADD": "Piazza Cavour Ang. Viale Xxiv Maggio",
+  "ENT_TOW_CIT_RES": "Foggia",
+  "ENT_POS_COD": "711 00",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

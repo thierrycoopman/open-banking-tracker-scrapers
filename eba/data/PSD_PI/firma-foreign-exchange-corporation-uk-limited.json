@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!541034",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "541034",
+  "ENT_NAM": "FIRMA Foreign Exchange Corporation (UK) Limited",
+  "ENT_ADD": "25 Worship Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2A 2DX",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-05-05"
+  ]
+}

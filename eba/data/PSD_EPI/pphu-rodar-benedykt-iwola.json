@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6641307149",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6641307149",
+  "ENT_NAM": "P.P.H.U. \"Rodar\" Benedykt Iwoła",
+  "ENT_ADD": "Armii Krajowej 23, Starachowice, 27-200, PL",
+  "ENT_TOW_CIT_RES": "Starachowice",
+  "ENT_POS_COD": "27-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-17"
+  ]
+}

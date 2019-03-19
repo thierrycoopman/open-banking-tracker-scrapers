@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!73921!77464",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "823811278",
+  "ENT_NAM": "TIIME SOFTWARE",
+  "ENT_ADD": "13 rue du Général de Reffye",
+  "ENT_TOW_CIT_RES": "EPINAL",
+  "ENT_POS_COD": "88000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!73921",
+  "DER_CHI_ENT_AUT": "Active"
+}

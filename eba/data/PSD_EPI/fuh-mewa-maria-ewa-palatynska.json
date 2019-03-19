@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8341052924",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8341052924",
+  "ENT_NAM": "FUH ,,MEWA'' Maria Ewa Pałatyńska",
+  "ENT_ADD": "Nowy Rynek 29, Łowicz, 99-400, PL",
+  "ENT_TOW_CIT_RES": "Łowicz",
+  "ENT_POS_COD": "99-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14",
+    "2018-11-14"
+  ]
+}

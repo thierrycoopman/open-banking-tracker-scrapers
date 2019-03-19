@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_PI!BG_BNB!121230735!831094393",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "831094393",
+  "ENT_NAM": [
+    "Първа инвестиционна банка АД",
+    "First Investment Bank AD"
+  ],
+  "ENT_ADD": "37 Dragan Tsankov",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1797",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "BG_BNB!121230735",
+  "DER_CHI_ENT_AUT": "Active"
+}
+_ENT_AUT": "Active"
+}

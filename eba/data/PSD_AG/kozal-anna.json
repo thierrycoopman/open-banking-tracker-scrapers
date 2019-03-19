@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6751496200!26",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "26",
+  "ENT_NAM": "Kozal Anna",
+  "ENT_ADD": "Śliczna 2, Wrocław, 50-566, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "50-566",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6751496200",
+  "DER_CHI_ENT_AUT": "Active"
+}

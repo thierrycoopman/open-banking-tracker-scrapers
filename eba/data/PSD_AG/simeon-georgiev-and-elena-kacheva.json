@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!510547_AG103",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG510547",
+  "ENT_NAM": "Simeon Georgiev And Elena Kacheva",
+  "ENT_ADD": "20 High Street",
+  "ENT_TOW_CIT_RES": "Boston",
+  "ENT_POS_COD": "PE21 8SH",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

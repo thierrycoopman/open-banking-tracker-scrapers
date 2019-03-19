@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6711523238",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6711523238",
+  "ENT_NAM": "TWOJE RACHUNKI Wojciech Kołodziejczak",
+  "ENT_ADD": "Świerszczowa 1, Szczecin, 71-115, PL",
+  "ENT_TOW_CIT_RES": "Szczecin",
+  "ENT_POS_COD": "71-115",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-15"
+  ]
+}

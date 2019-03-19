@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!114038559",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "114038559",
+  "ENT_NAM": [
+    "ЕТ Милена - 77 - Лиляна Тонева",
+    "ET Milena - 77 - Lilyana Toncheva"
+  ],
+  "ENT_ADD": "Gigen village 5970",
+  "ENT_TOW_CIT_RES": "Gigen village",
+  "ENT_POS_COD": "5970",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

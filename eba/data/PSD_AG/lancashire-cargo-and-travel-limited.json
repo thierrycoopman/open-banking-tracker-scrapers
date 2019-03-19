@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!597728_AG304",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG597728",
+  "ENT_NAM": "Lancashire Cargo and Travel Limited",
+  "ENT_ADD": "170 Chorley Old Road",
+  "ENT_TOW_CIT_RES": "Bolton",
+  "ENT_POS_COD": "BL1 3BA",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

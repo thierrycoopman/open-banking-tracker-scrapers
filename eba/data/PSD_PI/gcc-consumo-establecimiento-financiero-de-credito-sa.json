@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "ES_BE",
+  "EntityCode": "ES_BE!8839",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "8839",
+  "ENT_NAM": "GCC CONSUMO, ESTABLECIMIENTO FINANCIERO DE CREDITO, S.A.",
+  "ENT_ADD": "CL RETAMA 3 ",
+  "ENT_TOW_CIT_RES": "MADRID",
+  "ENT_POS_COD": "28045",
+  "ENT_COU_RES": "ES",
+  "ENT_AUT": [
+    "2019-03-15"
+  ]
+}

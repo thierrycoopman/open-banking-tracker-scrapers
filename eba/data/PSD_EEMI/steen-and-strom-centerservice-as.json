@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!34525",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "30925432 ",
+  "ENT_NAM": "Steen & Strøm Centerservice A/S",
+  "ENT_ADD": [
+    "Arne Jacobsens Allé 20, 2.",
+    "c/o Steen & Strøm Danmark A/S"
+  ],
+  "ENT_TOW_CIT_RES": "Copenhagen S",
+  "ENT_POS_COD": "2300",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2012-12-17"
+  ]
+}

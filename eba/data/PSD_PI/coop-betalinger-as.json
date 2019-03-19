@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA22010",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "35476695 ",
+  "ENT_NAM": "Coop Betalinger A/S",
+  "ENT_ADD": "Roskildevej 65",
+  "ENT_TOW_CIT_RES": "Albertslund",
+  "ENT_POS_COD": "2620",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2014-01-08"
+  ]
+}

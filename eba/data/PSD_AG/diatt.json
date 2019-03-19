@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75049",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "832307011",
+  "ENT_NAM": "DIATT",
+  "ENT_ADD": "19 PL DU CHAMP DE FOIRE",
+  "ENT_TOW_CIT_RES": "ST HILAIRE DES LOGES",
+  "ENT_POS_COD": "85240",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

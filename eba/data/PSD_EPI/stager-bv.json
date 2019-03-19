@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R115322",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R115322",
+  "ENT_NAM": "Stager B.V.",
+  "ENT_NAM_COM": "Stager B.V.",
+  "ENT_ADD": "Delftsestraat 11",
+  "ENT_TOW_CIT_RES": "ROTTERDAM",
+  "ENT_POS_COD": "3013 AB",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

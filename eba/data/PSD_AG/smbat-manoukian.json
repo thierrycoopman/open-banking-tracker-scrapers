@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!832314_AG10524",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG832314",
+  "ENT_NAM": "Smbat Manoukian",
+  "ENT_ADD": "228 Avenue Du 24 Avril 1915",
+  "ENT_TOW_CIT_RES": "Marseille",
+  "ENT_POS_COD": "13012",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!788328_AG1852",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG788328",
+  "ENT_NAM": "Small World Financial Services Denmark APS",
+  "ENT_ADD": [
+    "Bredgade 6, 1",
+    "TMF Denmark"
+  ],
+  "ENT_TOW_CIT_RES": "Kobenhavn K",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DK",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

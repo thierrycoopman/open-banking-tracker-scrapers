@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!73703",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "818014334",
+  "ENT_NAM": "SNC COULON",
+  "ENT_ADD": "4 rue du Pré ROBERT",
+  "ENT_TOW_CIT_RES": "LAON",
+  "ENT_POS_COD": "02000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

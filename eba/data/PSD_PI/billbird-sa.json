@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6762165116",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "6762165116",
+  "ENT_NAM": "BillBird S.A.",
+  "ENT_ADD": "Kamienna 21, Kraków, 31-403, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "31-403",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-12-20"
+  ]
+}

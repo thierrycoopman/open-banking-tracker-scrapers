@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R101582",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "R101582",
+  "ENT_NAM": "Multicard Nederland B.V.",
+  "ENT_NAM_COM": "Mybility/Multicard Nederland/Yoonison Mobile/CVV chipkaart/Mybell/yoonidata",
+  "ENT_ADD": "Albert Einsteinstraat 8",
+  "ENT_TOW_CIT_RES": "OUD-BEIJERLAND",
+  "ENT_POS_COD": "3261 LP",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

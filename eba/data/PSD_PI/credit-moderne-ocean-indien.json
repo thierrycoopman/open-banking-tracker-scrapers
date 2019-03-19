@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!5565",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "333353944",
+  "ENT_NAM": "Crédit moderne Océan Indien",
+  "ENT_NAM_COM": "PI Commercial Name (Not Specified)",
+  "ENT_ADD": [
+    "22 rue Pierre Aubert",
+    "Sainte Clotilde"
+  ],
+  "ENT_TOW_CIT_RES": "ST DENIS",
+  "ENT_POS_COD": "97490",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2014-07-03"
+  ]
+}

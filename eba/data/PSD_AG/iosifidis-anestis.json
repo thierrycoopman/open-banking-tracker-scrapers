@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!117704963",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "117704963",
+  "ENT_NAM": "IOSIFIDIS ANESTIS",
+  "ENT_ADD": "74, V. OLGAS Str.",
+  "ENT_TOW_CIT_RES": "THESSALONIKI",
+  "ENT_POS_COD": "54643",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

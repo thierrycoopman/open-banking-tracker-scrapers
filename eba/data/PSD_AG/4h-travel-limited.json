@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!808123_AG574",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808123",
+  "ENT_NAM": "4h Travel Limited",
+  "ENT_ADD": "6A Cook Street",
+  "ENT_TOW_CIT_RES": "Bury",
+  "ENT_POS_COD": "BL9 0RP",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203643982",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203643982",
+  "ENT_NAM": [
+    "ЕТ Тади 7 - Ирина Николова",
+    "ET Tadi 7 - Irina Nikolova"
+  ],
+  "ENT_ADD": "58 Dvadeset I Vtora str., Sofia area",
+  "ENT_TOW_CIT_RES": "Gorna Malina village",
+  "ENT_POS_COD": "2131",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

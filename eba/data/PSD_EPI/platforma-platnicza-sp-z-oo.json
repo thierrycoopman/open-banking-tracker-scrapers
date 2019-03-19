@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6783159523",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6783159523",
+  "ENT_NAM": "Platforma Płatnicza Sp. z o.o.",
+  "ENT_ADD": "Jana Henryka Dąbrowskiego 75/70, Poznań, 60-523, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "60-523",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-05-22"
+  ]
+}

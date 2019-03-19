@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!952",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "952",
+  "ENT_NAM": "Sklep spożywczo - przemysłowy Arkadiusz Kozieł",
+  "ENT_ADD": "Łubno 18, Kołczygłowy, 77-140, PL",
+  "ENT_TOW_CIT_RES": "Kołczygłowy",
+  "ENT_POS_COD": "77-140",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

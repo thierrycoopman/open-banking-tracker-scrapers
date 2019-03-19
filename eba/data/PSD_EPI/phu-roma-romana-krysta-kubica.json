@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9371287638",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9371287638",
+  "ENT_NAM": "P.H.U. \"Roma\" Romana Krysta-Kubica",
+  "ENT_ADD": "Leszczyńska 20, Bielsko-Biała, 43-300, PL",
+  "ENT_TOW_CIT_RES": "Bielsko-Biała",
+  "ENT_POS_COD": "43-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-04-04"
+  ]
+}

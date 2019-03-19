@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!746568_AG1380",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG746568",
+  "ENT_NAM": "Nosheen Altaf",
+  "ENT_ADD": [
+    "Ground Floor Shop",
+    "16 York Road",
+    "Erdington"
+  ],
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B23 6TE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

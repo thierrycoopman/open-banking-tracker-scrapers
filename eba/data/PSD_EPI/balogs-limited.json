@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!732508",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "732508",
+  "ENT_NAM": "Balogs Limited",
+  "ENT_NAM_COM": "Send Wise",
+  "ENT_ADD": "21 Ringside Court, Poplar Place",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE28 8GS",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2016-03-15"
+  ]
+}

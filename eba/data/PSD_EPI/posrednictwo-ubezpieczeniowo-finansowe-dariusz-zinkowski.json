@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6191007392",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6191007392",
+  "ENT_NAM": "Pośrednictwo Ubezpieczeniowo-Finansowe Dariusz Zinkowski",
+  "ENT_ADD": "Aleje Marcinkowskiego 13/27, Kępno, 63-600, PL",
+  "ENT_TOW_CIT_RES": "Kępno",
+  "ENT_POS_COD": "63-600",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-01-26"
+  ]
+}

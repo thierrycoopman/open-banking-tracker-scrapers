@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!625668",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "625668",
+  "ENT_NAM": "Victorian Money Limited",
+  "ENT_NAM_COM": "VictorianFX",
+  "ENT_ADD": "272 Bath Street",
+  "ENT_TOW_CIT_RES": "Glasgow",
+  "ENT_POS_COD": "G2 4JR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2014-09-26"
+  ]
+}

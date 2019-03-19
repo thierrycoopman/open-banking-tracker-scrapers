@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2693",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2693",
+  "ENT_NAM": "UKRA - BIS - POL Spółka z Ograniczoną Odpowiedzialnością",
+  "ENT_ADD": "Sądecka 17, Brzesko - Jasień, 32-800, PL",
+  "ENT_TOW_CIT_RES": "Brzesko - Jasień",
+  "ENT_POS_COD": "32-800",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

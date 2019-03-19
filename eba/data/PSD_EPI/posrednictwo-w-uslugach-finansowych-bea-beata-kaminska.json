@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7731103385",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7731103385",
+  "ENT_NAM": "Pośrednictwo w usługach finansowych \"BEA\" Beata Kamińska",
+  "ENT_ADD": "Dolna 30A, Tomaszów Mazowiecki, 97-200, PL",
+  "ENT_TOW_CIT_RES": "Tomaszów Mazowiecki",
+  "ENT_POS_COD": "97-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-08-27"
+  ]
+}

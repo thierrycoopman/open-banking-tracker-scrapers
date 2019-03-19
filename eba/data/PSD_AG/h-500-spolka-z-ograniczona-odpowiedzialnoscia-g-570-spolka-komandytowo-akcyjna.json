@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1885",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1885",
+  "ENT_NAM": "H 500 Spółka z Ograniczoną Odpowiedzialnością G 570 Spółka Komandytowo Akcyjna",
+  "ENT_ADD": "Żwirki i Wigury 2A, Świecie, 86-105, PL",
+  "ENT_TOW_CIT_RES": "Świecie",
+  "ENT_POS_COD": "86-105",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

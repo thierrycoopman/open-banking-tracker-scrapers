@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2272",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2272",
+  "ENT_NAM": "Kiosk Wielobranżowy Robert Kutryn",
+  "ENT_ADD": "Bobrowniki Polna 4A, Otyń, 67-106, PL",
+  "ENT_TOW_CIT_RES": "Otyń",
+  "ENT_POS_COD": "67-106",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

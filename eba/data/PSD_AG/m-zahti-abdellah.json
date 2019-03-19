@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!69734",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "509255675",
+  "ENT_NAM": "M. ZAHTI Abdellah",
+  "ENT_ADD": "49 rue Charles Robin",
+  "ENT_TOW_CIT_RES": "BOURG EN BRESSE",
+  "ENT_POS_COD": "01000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

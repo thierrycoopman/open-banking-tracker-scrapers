@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6610200462",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6610200462",
+  "ENT_NAM": "SPÓŁDZIELNIA MIESZKANIOWA \"KRZEMIONKI\"",
+  "ENT_ADD": "Osiedle Stawki 47, Ostrowiec Świętokrzyski, 27-400, PL",
+  "ENT_TOW_CIT_RES": "Ostrowiec Świętokrzyski",
+  "ENT_POS_COD": "27-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-09-30"
+  ]
+}

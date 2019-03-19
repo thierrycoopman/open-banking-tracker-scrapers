@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7471",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7471",
+  "ENT_NAM": "\"RAF-MAT\" Spółka Cywilna Rafał Przywitowski ,Mateusz Przywitowski",
+  "ENT_ADD": "Przemysłowa 4/8B, Żuromin, 09-300, PL",
+  "ENT_TOW_CIT_RES": "Żuromin",
+  "ENT_POS_COD": "09-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

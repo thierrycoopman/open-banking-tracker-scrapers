@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204243546",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204243546",
+  "ENT_NAM": [
+    "ЕТ Дияна 82 - Дияна Руменова",
+    "ET Diyana 82 - Diyana Rumenova"
+  ],
+  "ENT_ADD": "zh.k. Zlaten rog, build 14, entr. A, fl. 3, app. 7",
+  "ENT_TOW_CIT_RES": "Yambol",
+  "ENT_POS_COD": "8600",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

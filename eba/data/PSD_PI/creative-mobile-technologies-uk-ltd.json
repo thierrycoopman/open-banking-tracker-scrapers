@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!798771",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "798771",
+  "ENT_NAM": "CREATIVE MOBILE TECHNOLOGIES (UK) LTD",
+  "ENT_ADD": [
+    "Vision Industrial Park",
+    "Kendal Avenue",
+    "Unit 11"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W3 0AF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-08-08"
+  ]
+}

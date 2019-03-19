@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!808150_AG8187",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG808150",
+  "ENT_NAM": "Vivethaa Consulting",
+  "ENT_ADD": "73 Rue De Paris",
+  "ENT_TOW_CIT_RES": "Pierrefitte Sur Seine",
+  "ENT_POS_COD": "93380",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!603271_AG762",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG603271",
+  "ENT_NAM": "Hajji Communication Limited",
+  "ENT_ADD": "368 Mare Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E8 1HR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

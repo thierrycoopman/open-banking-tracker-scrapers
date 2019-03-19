@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77272",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "330289877",
+  "ENT_NAM": "M. PERRIER Eric",
+  "ENT_ADD": "13 rue Pasteur",
+  "ENT_TOW_CIT_RES": "LE GRAND LEMPS",
+  "ENT_POS_COD": "38690",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

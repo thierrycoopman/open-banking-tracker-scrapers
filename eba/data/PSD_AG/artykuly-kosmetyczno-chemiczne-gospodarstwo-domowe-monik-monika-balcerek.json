@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4848",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4848",
+  "ENT_NAM": "Artykuły Kosmetyczno - Chemiczne Gospodarstwo Domowe \"Monik\" Monika Balcerek",
+  "ENT_ADD": "Parkowa 4, Tuszyn, 95-080, PL",
+  "ENT_TOW_CIT_RES": "Tuszyn",
+  "ENT_POS_COD": "95-080",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

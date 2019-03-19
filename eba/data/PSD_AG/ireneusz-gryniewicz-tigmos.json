@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1192",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1192",
+  "ENT_NAM": "IRENEUSZ GRYNIEWICZ \"TIGMOS\"",
+  "ENT_ADD": "Osiedlowa 8/lok. 15, Dubeninki, 19-504, PL",
+  "ENT_TOW_CIT_RES": "Dubeninki",
+  "ENT_POS_COD": "19-504",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

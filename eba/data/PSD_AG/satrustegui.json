@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62360",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "514013887",
+  "ENT_NAM": "SATRUSTEGUI",
+  "ENT_ADD": "10 Rue Maubec",
+  "ENT_TOW_CIT_RES": "BAYONNE",
+  "ENT_POS_COD": "64100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

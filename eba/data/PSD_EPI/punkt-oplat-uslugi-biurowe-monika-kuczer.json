@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5951328659",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5951328659",
+  "ENT_NAM": "Punkt Opłat Usługi Biurowe Monika Kuczer",
+  "ENT_ADD": "Poznańska 56, Sieraków, 64-410, PL",
+  "ENT_TOW_CIT_RES": "Sieraków",
+  "ENT_POS_COD": "64-410",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-10-10"
+  ]
+}

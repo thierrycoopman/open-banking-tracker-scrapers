@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203133820",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203133820",
+  "ENT_NAM": [
+    "Заложна къща Кристал айс ЕООД",
+    "Zalojna kyshta Kristal ais EOOD"
+  ],
+  "ENT_ADD": "4 Sofiisko shose str., entr. 4, fl. 2, app. 73",
+  "ENT_TOW_CIT_RES": "Shumen",
+  "ENT_POS_COD": "9700",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

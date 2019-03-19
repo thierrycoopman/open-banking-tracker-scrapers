@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9492033842",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9492033842",
+  "ENT_NAM": " Firma Handlowo Usługowa PU-MAR Martyna Puzio-Szymczyk",
+  "ENT_ADD": "Al. Pokoju 5, Częstochowa, 42-207, PL",
+  "ENT_TOW_CIT_RES": "Częstochowa",
+  "ENT_POS_COD": "42-207",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-06-01",
+    "2018-12-19"
+  ]
+}

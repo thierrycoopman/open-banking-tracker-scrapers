@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6281221953",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6281221953",
+  "ENT_NAM": "Jerzy Banasik Firma Usługowo-Handlowa \"Kirbypol 2\"",
+  "ENT_ADD": "Matejki 1, Trzebinia, 32-541, PL",
+  "ENT_TOW_CIT_RES": "Trzebinia",
+  "ENT_POS_COD": "32-541",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-03-28"
+  ]
+}

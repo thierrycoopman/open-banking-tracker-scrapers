@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!5851450734!28",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "28",
+  "ENT_NAM": "\"SUKCES\" BIURO FINANSOWO-UBEZPIECZENIOWE EWA BIAŁKOWSKA",
+  "ENT_ADD": "Osiedle Czecha 124/19, Poznań, 61-292, PL",
+  "ENT_TOW_CIT_RES": "Poznań",
+  "ENT_POS_COD": "61-292",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851450734",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74061",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "809167687",
+  "ENT_NAM": "Mme HERAUD Charlotte",
+  "ENT_ADD": "45 RUE PIERRE SEMARD",
+  "ENT_TOW_CIT_RES": "PERIGUEUX",
+  "ENT_POS_COD": "24000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

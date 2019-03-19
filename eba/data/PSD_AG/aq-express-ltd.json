@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!824407_AG542",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG824407",
+  "ENT_NAM": "AQ Express Ltd",
+  "ENT_ADD": "2A Beaconsfield Street",
+  "ENT_TOW_CIT_RES": "Newcastle upon Tyne",
+  "ENT_POS_COD": "NE4 5JN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9111680008",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9111680008",
+  "ENT_NAM": "FHU DOBEX Łukasz Dobrowolski",
+  "ENT_ADD": "Nowowiejska 7, Oleśnica, 56-400, PL",
+  "ENT_TOW_CIT_RES": "Oleśnica",
+  "ENT_POS_COD": "56-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-17",
+    "2019-01-02"
+  ]
+}

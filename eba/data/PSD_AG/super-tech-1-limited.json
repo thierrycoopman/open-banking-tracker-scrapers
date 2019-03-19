@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!783539_AG1785",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG783539",
+  "ENT_NAM": "Super Tech 1 Limited",
+  "ENT_ADD": [
+    "302 Oxford Road",
+    "Reading"
+  ],
+  "ENT_TOW_CIT_RES": "Berkshire",
+  "ENT_POS_COD": "RG30 1AD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!637",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "637",
+  "ENT_NAM": "Rychlik Tomasz \"HEXAGONE\"",
+  "ENT_ADD": "Wrząca Piłsudzkiego 27, Lutomiersk, 95-083, PL",
+  "ENT_TOW_CIT_RES": "Lutomiersk",
+  "ENT_POS_COD": "95-083",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

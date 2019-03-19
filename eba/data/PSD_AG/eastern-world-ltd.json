@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!829754_AG2487",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829754",
+  "ENT_NAM": "Eastern World Ltd",
+  "ENT_ADD": [
+    "Bethnal Green Road",
+    "302 First Floor"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E2 0AG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65295",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "814003893",
+  "ENT_NAM": "SNC RECH",
+  "ENT_ADD": [
+    "Route de la Gare Centre",
+    "Commercial les Alisiers"
+  ],
+  "ENT_TOW_CIT_RES": "MIGNALOUX BEAUVOIR",
+  "ENT_POS_COD": "86550",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!829214_AG2460",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829214",
+  "ENT_NAM": "S K S Express LIMITED",
+  "ENT_ADD": "26A Portland Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE25 4PF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

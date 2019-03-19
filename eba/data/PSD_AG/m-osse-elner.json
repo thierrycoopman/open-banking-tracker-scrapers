@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!74081",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "793707167",
+  "ENT_NAM": "M. OSSE Elner",
+  "ENT_ADD": [
+    "Deshauteurs",
+    "Chez Despoir Remy"
+  ],
+  "ENT_TOW_CIT_RES": "STE ANNE",
+  "ENT_POS_COD": "97180",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

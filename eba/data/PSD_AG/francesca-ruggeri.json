@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!807466_AG900",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG807466",
+  "ENT_NAM": "Francesca Ruggeri",
+  "ENT_ADD": "Via Emilia Levante 139/I",
+  "ENT_TOW_CIT_RES": "Bologna",
+  "ENT_POS_COD": "40139",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

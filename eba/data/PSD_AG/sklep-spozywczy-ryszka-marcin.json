@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!899",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "899",
+  "ENT_NAM": "Sklep Spożywczy Ryszka Marcin",
+  "ENT_ADD": "Rudzica 541, Rudzica, 43-394, PL",
+  "ENT_TOW_CIT_RES": "Rudzica",
+  "ENT_POS_COD": "43-394",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8951551034",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8951551034",
+  "ENT_NAM": "Adrian Kowalczyk Mila Rose II",
+  "ENT_ADD": "Grabiszyńska 88, Wrocław, 53-437, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "53-437",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-21"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2671",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2671",
+  "ENT_NAM": "\"Orfeusz\" Spółka z Ograniczoną Odpowiedzialnością",
+  "ENT_ADD": "Bohaterów Warszawy 20 A, Namysłów, 46-100, PL",
+  "ENT_TOW_CIT_RES": "Namysłów",
+  "ENT_POS_COD": "46-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

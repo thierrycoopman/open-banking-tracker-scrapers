@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!347",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "347",
+  "ENT_NAM": "Agencja Pośrednictwa Finansowego Andrzej Witrak",
+  "ENT_ADD": "ul. Łotewska 11, Tarnowskie Góry, 42-612, PL",
+  "ENT_TOW_CIT_RES": "Tarnowskie Góry",
+  "ENT_POS_COD": "42-612",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

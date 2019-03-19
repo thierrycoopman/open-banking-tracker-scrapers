@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!611507_AG2993",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG611507",
+  "ENT_NAM": "Bashir Abdullahi Mohamud",
+  "ENT_ADD": "Rochusstr. 128",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "531 23",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

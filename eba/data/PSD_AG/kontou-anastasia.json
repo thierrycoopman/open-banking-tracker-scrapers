@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!042899037",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "042899037",
+  "ENT_NAM": "KONTOU ANASTASIA",
+  "ENT_ADD": "80, NAFPLIOU Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "10441",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

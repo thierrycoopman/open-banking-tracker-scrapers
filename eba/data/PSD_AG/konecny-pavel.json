@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!11106514",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "11106514",
+  "ENT_NAM": "Konečný Pavel",
+  "ENT_ADD": "Jiráskova 651/82a",
+  "ENT_TOW_CIT_RES": "Moravská Třebová",
+  "ENT_POS_COD": "57101",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

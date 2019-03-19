@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!811178_AG8520",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG811178",
+  "ENT_NAM": "Amranext",
+  "ENT_ADD": "78 Rue Moliere",
+  "ENT_TOW_CIT_RES": "Margny Les Compiegne",
+  "ENT_POS_COD": "60280",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

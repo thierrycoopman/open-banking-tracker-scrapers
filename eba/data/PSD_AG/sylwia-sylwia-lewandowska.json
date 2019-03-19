@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3001",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3001",
+  "ENT_NAM": "SYLWIA - Sylwia Lewandowska",
+  "ENT_ADD": "Starogród 34, Starogród, 86-200, PL",
+  "ENT_TOW_CIT_RES": "Starogród",
+  "ENT_POS_COD": "86-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4649",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4649",
+  "ENT_NAM": "Renata Skurzewska Firma Handlowo-Usługowa 1305",
+  "ENT_ADD": "Kwiatowa 5, Masłomiąca, 32-091, PL",
+  "ENT_TOW_CIT_RES": "Masłomiąca",
+  "ENT_POS_COD": "32-091",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

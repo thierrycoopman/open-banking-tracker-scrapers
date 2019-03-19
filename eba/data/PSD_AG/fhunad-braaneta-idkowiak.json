@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!295",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "295",
+  "ENT_NAM": "F.H.U.\"NAD-BRA\"Aneta Idkowiak",
+  "ENT_ADD": "Targowa 12, Sosnowiec, 41-200, PL",
+  "ENT_TOW_CIT_RES": "Sosnowiec",
+  "ENT_POS_COD": "41-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

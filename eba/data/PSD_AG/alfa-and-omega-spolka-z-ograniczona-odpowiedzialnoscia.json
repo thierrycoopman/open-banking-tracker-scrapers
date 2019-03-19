@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!479",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "479",
+  "ENT_NAM": "Alfa & Omega Spółka z Ograniczoną Odpowiedzialnością",
+  "ENT_ADD": "1 Maja 23 C, Wąsosz, 56-210, PL",
+  "ENT_TOW_CIT_RES": "Wąsosz",
+  "ENT_POS_COD": "56-210",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

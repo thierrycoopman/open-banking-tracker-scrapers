@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!507001!672666_AG51",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG672666",
+  "ENT_NAM": "Brahim Mouacha",
+  "ENT_ADD": "513 Avenue De Barcelone Local 10",
+  "ENT_TOW_CIT_RES": "Montpellier",
+  "ENT_POS_COD": "3408 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!507001",
+  "DER_CHI_ENT_AUT": "Active"
+}

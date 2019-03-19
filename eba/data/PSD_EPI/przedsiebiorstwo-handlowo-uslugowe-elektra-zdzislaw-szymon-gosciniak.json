@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9271290670",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9271290670",
+  "ENT_NAM": "Przedsiębiorstwo Handlowo Usługowe \"ELEKTRA\" Zdzisław Szymon Gościniak",
+  "ENT_ADD": "Wojska Polskiego 45, Zbąszynek, 66-210, PL",
+  "ENT_TOW_CIT_RES": "Zbąszynek",
+  "ENT_POS_COD": "66-210",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-02-05"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75395",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "499389112",
+  "ENT_NAM": "L'HORIZON",
+  "ENT_ADD": [
+    "68 Rue du Gouverneur ",
+    "Général Eboué"
+  ],
+  "ENT_TOW_CIT_RES": "ISSY LES MOULINEAUX",
+  "ENT_POS_COD": "92130",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56716",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "441280955",
+  "ENT_NAM": "Mme MADORE Patricia",
+  "ENT_ADD": "139 rue Maréchal Joffre",
+  "ENT_TOW_CIT_RES": "HENNEBONT",
+  "ENT_POS_COD": "56700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!704383",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "704383",
+  "ENT_NAM": "Money Matter (UK) Limited",
+  "ENT_NAM_COM": "Money Matter",
+  "ENT_ADD": [
+    "Fulham",
+    "2a Halford Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW6 1JT",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-08-13"
+  ]
+}

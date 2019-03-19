@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4898",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4898",
+  "ENT_NAM": "\"RELAX\" Firma Handlowa Wanda Kanik-Kalinowska",
+  "ENT_ADD": "  73, Stary Jarosław, 76-150, PL",
+  "ENT_TOW_CIT_RES": "Stary Jarosław",
+  "ENT_POS_COD": "76-150",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

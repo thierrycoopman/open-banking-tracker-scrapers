@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!797344",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "797344",
+  "ENT_NAM": "Online Giving Ltd",
+  "ENT_NAM_COM": "Charity Checkout",
+  "ENT_ADD": [
+    "Charity Checkout",
+    "Runway East Shoreditch",
+    "58-64 City Road",
+    "Lower Ground Floor"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC1Y 2AL",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-01-13"
+  ]
+}

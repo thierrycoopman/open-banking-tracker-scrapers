@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!762701_AG5647",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG762701",
+  "ENT_NAM": "Amyn Services Limited",
+  "ENT_ADD": "262 Catherine Street",
+  "ENT_TOW_CIT_RES": "Leicester",
+  "ENT_POS_COD": "LE4 6GD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

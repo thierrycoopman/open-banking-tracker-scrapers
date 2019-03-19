@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203237519",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203237519",
+  "ENT_NAM": [
+    "Атко Инс ЕООД",
+    "Atko Ins EOOD"
+  ],
+  "ENT_ADD": "12 Dobri Chintulov str.",
+  "ENT_TOW_CIT_RES": "Burgas",
+  "ENT_POS_COD": "8000",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

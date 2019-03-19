@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7411047099",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7411047099",
+  "ENT_NAM": "Ubezpieczenia Barbara Bober ",
+  "ENT_ADD": "Klasztorna  1, Nowe Miasto Lubawskie, 13-300, PL",
+  "ENT_TOW_CIT_RES": "Nowe Miasto Lubawskie",
+  "ENT_POS_COD": "13-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-02-05"
+  ]
+}

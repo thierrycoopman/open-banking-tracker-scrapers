@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!810612_AG8454",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG810612",
+  "ENT_NAM": "La Casa Del Caffe Servizi Point SRL",
+  "ENT_ADD": "Viale Teocrito 103",
+  "ENT_TOW_CIT_RES": "Siracusa",
+  "ENT_POS_COD": "96100",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

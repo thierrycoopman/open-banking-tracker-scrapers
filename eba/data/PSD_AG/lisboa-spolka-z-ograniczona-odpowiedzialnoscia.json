@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1844",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1844",
+  "ENT_NAM": "\"Lisboa\" Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Wrocławska 27, Oborniki Śląskie, 55-120, PL",
+  "ENT_TOW_CIT_RES": "Oborniki Śląskie",
+  "ENT_POS_COD": "55-120",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

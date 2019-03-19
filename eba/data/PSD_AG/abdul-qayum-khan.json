@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!628150_AG351",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG628150",
+  "ENT_NAM": "Abdul Qayum Khan",
+  "ENT_ADD": "Amsterdamsestraatweg 186",
+  "ENT_TOW_CIT_RES": "Utrecht",
+  "ENT_POS_COD": "3551 CM",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

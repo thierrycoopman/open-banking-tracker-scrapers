@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!772445_AG503",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG772445",
+  "ENT_NAM": "KAZI ABDUL MANNAN",
+  "ENT_ADD": "VIA XX SETTEMBRE 45/B",
+  "ENT_TOW_CIT_RES": "VERONA",
+  "ENT_POS_COD": "3712 9",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

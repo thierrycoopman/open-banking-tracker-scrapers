@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!830011_AG10326",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG830011",
+  "ENT_NAM": "Mhd Yasser Alkhouja",
+  "ENT_ADD": "Grosse Strasse 7",
+  "ENT_TOW_CIT_RES": "Vechta",
+  "ENT_POS_COD": "49377",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

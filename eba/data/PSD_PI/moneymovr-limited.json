@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!779823",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "779823",
+  "ENT_NAM": "MoneyMovr Limited",
+  "ENT_NAM_COM": "Money Mover",
+  "ENT_ADD": [
+    "Milton Hall",
+    "Ely Road",
+    "Milton"
+  ],
+  "ENT_TOW_CIT_RES": "Cambridge",
+  "ENT_POS_COD": "CB24 6WZ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-08-01"
+  ]
+}

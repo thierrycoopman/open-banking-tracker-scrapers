@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!514406!517521_AG8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG517521",
+  "ENT_NAM": "Malik Ishtiaq",
+  "ENT_ADD": "6b Oxford Street",
+  "ENT_TOW_CIT_RES": "Batley",
+  "ENT_POS_COD": "WF17 7PZ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!514406",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65499",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "812487932",
+  "ENT_NAM": "Mme ROUVIERE Sabine",
+  "ENT_ADD": "104 rue de la République",
+  "ENT_TOW_CIT_RES": "CHATEAU RENAULT",
+  "ENT_POS_COD": "37110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

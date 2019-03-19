@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!524126",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "524126",
+  "ENT_NAM": "ENGLAND. PL LIMITED",
+  "ENT_ADD": "35 Baker Avenue",
+  "ENT_TOW_CIT_RES": "Stratford-upon-Avon",
+  "ENT_POS_COD": "CV37 9PW",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2010-07-02",
+    "2019-01-11"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "BE_NBB",
+  "EntityCode": "BE_NBB!0449356557",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "0449356557",
+  "ENT_NAM": "Moneytrans Payment Services",
+  "ENT_ADD": "Waterloolaan 77/Boulevard de Waterloo 77",
+  "ENT_TOW_CIT_RES": "Brussel/Bruxelles",
+  "ENT_POS_COD": "1000",
+  "ENT_COU_RES": "BE",
+  "ENT_AUT": [
+    "2011-04-26"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7830036321",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7830036321",
+  "ENT_NAM": "\"WABEX\" Bogumił Waroś",
+  "ENT_ADD": "Przemysłowa 1  , Śrem, 63-100, PL",
+  "ENT_TOW_CIT_RES": "Śrem",
+  "ENT_POS_COD": "63-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-04-11"
+  ]
+}

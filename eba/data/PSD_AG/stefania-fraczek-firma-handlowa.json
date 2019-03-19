@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4786",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4786",
+  "ENT_NAM": "Stefania Frączek Firma Handlowa",
+  "ENT_ADD": "Jastrzebia 145, Lanckorona, 34-143, PL",
+  "ENT_TOW_CIT_RES": "Lanckorona",
+  "ENT_POS_COD": "34-143",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

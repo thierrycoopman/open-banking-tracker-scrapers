@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6831852482",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6831852482",
+  "ENT_NAM": "F.H.U. Zbigniew Grabczyk ",
+  "ENT_ADD": "Mieszczańska 2, Wieliczka, 32-020, PL",
+  "ENT_TOW_CIT_RES": "Wieliczka",
+  "ENT_POS_COD": "32-020",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-11-09"
+  ]
+}

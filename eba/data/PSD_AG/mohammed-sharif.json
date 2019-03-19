@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!505349_AG8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG505349",
+  "ENT_NAM": "Mohammed Sharif",
+  "ENT_ADD": "93 Caldmore Road",
+  "ENT_TOW_CIT_RES": "Walsall",
+  "ENT_POS_COD": "WS1 3NR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

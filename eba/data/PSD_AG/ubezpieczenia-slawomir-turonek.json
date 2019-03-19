@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2414",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2414",
+  "ENT_NAM": "Ubezpieczenia Sławomir Turonek",
+  "ENT_ADD": "Plac Wolności 7, Janowiec Wielkopolski, 88-430, PL",
+  "ENT_TOW_CIT_RES": "Janowiec Wielkopolski",
+  "ENT_POS_COD": "88-430",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

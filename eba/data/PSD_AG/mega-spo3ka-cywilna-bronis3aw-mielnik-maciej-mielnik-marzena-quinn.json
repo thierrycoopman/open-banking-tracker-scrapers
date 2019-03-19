@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3922",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3922",
+  "ENT_NAM": "\"Mega\" Spó3ka Cywilna Bronis3aw Mielnik, Maciej Mielnik, Marzena Quinn",
+  "ENT_ADD": "Chopina 18, Lagów, 66-220, PL",
+  "ENT_TOW_CIT_RES": "Lagów",
+  "ENT_POS_COD": "66-220",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

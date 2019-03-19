@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7539",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7539",
+  "ENT_NAM": "P.H.U. MAR-POL ZBIGNIEW STRENCIWILK",
+  "ENT_ADD": "Młyńska 27F/31, Zamość, 22-400, PL",
+  "ENT_TOW_CIT_RES": "Zamość",
+  "ENT_POS_COD": "22-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

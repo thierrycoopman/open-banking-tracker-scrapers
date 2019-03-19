@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!516",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "516",
+  "ENT_NAM": "ADAM SENDYBYŁ",
+  "ENT_ADD": "ul. Podklasztorna / ul. Kalcytowa (salon prasowy)  , Kielce, 25-738, PL",
+  "ENT_TOW_CIT_RES": "Kielce",
+  "ENT_POS_COD": "25-738",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

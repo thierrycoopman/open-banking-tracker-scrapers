@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1904",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1904",
+  "ENT_NAM": "FIRMA HANDLOWO-USŁUGOWA \"ADAM\" ADAM SŁABOŃ",
+  "ENT_ADD": "Stara Kamienica 45A, Stara Kamienica, 58-512, PL",
+  "ENT_TOW_CIT_RES": "Stara Kamienica",
+  "ENT_POS_COD": "58-512",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

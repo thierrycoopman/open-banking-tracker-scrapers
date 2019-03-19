@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!24807842",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "24807842",
+  "ENT_NAM": "SMSVYSLEDKY s.r.o. ",
+  "ENT_ADD": "Vinohradská 2165/48",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "12000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2015-10-07"
+  ]
+}

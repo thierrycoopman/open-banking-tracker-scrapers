@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201259303",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201259303",
+  "ENT_NAM": [
+    "ET Георги Таров",
+    "ET Georgi Tarov"
+  ],
+  "ENT_ADD": "30 Rakovski str.",
+  "ENT_TOW_CIT_RES": "Valchitran village",
+  "ENT_POS_COD": "5890",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

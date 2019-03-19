@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!187",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "187",
+  "ENT_NAM": "Beata Woźniak",
+  "ENT_ADD": "Przelewice 61, Przelewice, 74-210, PL",
+  "ENT_TOW_CIT_RES": "Przelewice",
+  "ENT_POS_COD": "74-210",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

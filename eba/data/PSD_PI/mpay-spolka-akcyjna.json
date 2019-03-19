@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5213258216",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "5213258216",
+  "ENT_NAM": "mPay Spółka Akcyjna",
+  "ENT_ADD": "Jasna  1/lok. 421, Warszawa, 00-013, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "00-013",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-09-13"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74319",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "749933883",
+  "ENT_NAM": "SNC SOUCHU",
+  "ENT_ADD": [
+    "6 Rue Pasteur ",
+    "Saint-Brice-en-Coglès"
+  ],
+  "ENT_TOW_CIT_RES": "MAEN ROCH",
+  "ENT_POS_COD": "35460",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

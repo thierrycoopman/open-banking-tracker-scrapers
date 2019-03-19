@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3510",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3510",
+  "ENT_NAM": "BEATA ROSIEJKA-BARTOSZEK BEATA  SKLEP SPOŻYWCZO-WARZYWNY",
+  "ENT_ADD": "Średzka 68, Swarzędz, 62-020, PL",
+  "ENT_TOW_CIT_RES": "Swarzędz",
+  "ENT_POS_COD": "62-020",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

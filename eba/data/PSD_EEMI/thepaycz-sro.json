@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!28135261",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "28135261",
+  "ENT_NAM": "ThePay.cz, s.r.o. ",
+  "ENT_ADD": "Masarykovo náměstí 102/65",
+  "ENT_TOW_CIT_RES": "Jihlava",
+  "ENT_POS_COD": "58601",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2016-06-06"
+  ]
+}

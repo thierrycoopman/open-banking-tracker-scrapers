@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!832700_AG10600",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG832700",
+  "ENT_NAM": "Chateau Rouge Exotique",
+  "ENT_ADD": "291 Avenue Roger Guichard",
+  "ENT_TOW_CIT_RES": "Eragny Sur Oise",
+  "ENT_POS_COD": "95610",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

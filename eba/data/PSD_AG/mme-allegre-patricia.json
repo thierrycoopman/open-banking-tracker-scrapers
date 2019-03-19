@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72392",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "434361317",
+  "ENT_NAM": "Mme ALLEGRE Patricia",
+  "ENT_ADD": "Route Nationale 86",
+  "ENT_TOW_CIT_RES": "BEAUCHASTEL",
+  "ENT_POS_COD": "07800",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

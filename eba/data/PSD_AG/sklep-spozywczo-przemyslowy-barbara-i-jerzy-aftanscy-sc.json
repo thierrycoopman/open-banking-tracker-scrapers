@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7261",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7261",
+  "ENT_NAM": "Sklep Spożywczo - Przemysłowy Barbara i Jerzy Aftańscy S.C.",
+  "ENT_ADD": "Bydgoska 52, Niemcz, 86-032, PL",
+  "ENT_TOW_CIT_RES": "Niemcz",
+  "ENT_POS_COD": "86-032",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

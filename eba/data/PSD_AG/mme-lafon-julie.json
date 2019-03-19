@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74229",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "499353506",
+  "ENT_NAM": "Mme LAFON Julie",
+  "ENT_ADD": "102 rue de Saint-Aybert",
+  "ENT_TOW_CIT_RES": "THIVENCELLE",
+  "ENT_POS_COD": "59163",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

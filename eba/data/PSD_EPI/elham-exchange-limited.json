@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!629423",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "629423",
+  "ENT_NAM": "Elham Exchange Limited",
+  "ENT_ADD": [
+    "Premier House",
+    "1 Canning Road"
+  ],
+  "ENT_TOW_CIT_RES": "Harrow",
+  "ENT_POS_COD": "HA3 7TS",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-01-08",
+    "2018-10-18"
+  ]
+}

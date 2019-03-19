@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1837",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1837",
+  "ENT_NAM": "Sklep Spożywczo-Przemysłowy Ellea Elżbieta Naruszewicz",
+  "ENT_ADD": "Konopki Nowe 7C, Miłki, 11-513, PL",
+  "ENT_TOW_CIT_RES": "Miłki",
+  "ENT_POS_COD": "11-513",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

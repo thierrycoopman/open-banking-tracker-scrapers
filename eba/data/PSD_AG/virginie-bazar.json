@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!54070",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "485033740",
+  "ENT_NAM": "VIRGINIE BAZAR",
+  "ENT_ADD": [
+    "Lieu-dit Gros Cap",
+    "CENTRE COMMERCIAL LES MANGLES"
+  ],
+  "ENT_TOW_CIT_RES": "PETIT CANAL",
+  "ENT_POS_COD": "97131",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

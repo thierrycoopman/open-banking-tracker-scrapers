@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203724523",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203724523",
+  "ENT_NAM": [
+    "Дени Електроникс ЕООД",
+    "Deni Elektroniks EOOD"
+  ],
+  "ENT_ADD": "zh.k. Nadezhda-3, build 319, entr. K, fl. 5, app. 153",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1229",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

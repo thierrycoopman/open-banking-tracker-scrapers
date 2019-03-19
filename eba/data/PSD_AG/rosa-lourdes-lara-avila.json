@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!543825_AG25",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG543825",
+  "ENT_NAM": "Rosa Lourdes Lara Avila",
+  "ENT_ADD": "Via Francesco Gianni 3/R",
+  "ENT_TOW_CIT_RES": "Firenze",
+  "ENT_POS_COD": "501 34",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9251234177",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9251234177",
+  "ENT_NAM": "Maria Zalewska",
+  "ENT_ADD": "Wrocławska  2, Nowa Sól, 67-100, PL",
+  "ENT_TOW_CIT_RES": "Nowa Sól",
+  "ENT_POS_COD": "67-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-03-07"
+  ]
+}

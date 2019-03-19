@@ -1,0 +1,20 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!542750",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "542750",
+  "ENT_NAM": "John Lewis Financial Services Limited",
+  "ENT_NAM_COM": [
+    "The Partnership Card",
+    "John Lewis Personal Loans",
+    "John Lewis Finance",
+    "John Lewis Personal Loan"
+  ],
+  "ENT_ADD": "8 Canada Square",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E14 5HQ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-04-27"
+  ]
+}

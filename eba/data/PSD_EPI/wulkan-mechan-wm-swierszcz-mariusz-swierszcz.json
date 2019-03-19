@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9281677465",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9281677465",
+  "ENT_NAM": "WULKAN - MECHAN W.M. Świerszcz - Mariusz Świerszcz",
+  "ENT_ADD": "9 Maja  , Tuplice, 68-219, PL",
+  "ENT_TOW_CIT_RES": "Tuplice",
+  "ENT_POS_COD": "68-219",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-04-21",
+    "2018-07-16"
+  ]
+}

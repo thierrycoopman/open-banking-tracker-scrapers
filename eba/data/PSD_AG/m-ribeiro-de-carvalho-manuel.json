@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77894",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "382493989",
+  "ENT_NAM": "M. RIBEIRO DE CARVALHO Manuel",
+  "ENT_ADD": "67 RUE ALBERT CALMETTE",
+  "ENT_TOW_CIT_RES": "JOUY EN JOSAS",
+  "ENT_POS_COD": "78350",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

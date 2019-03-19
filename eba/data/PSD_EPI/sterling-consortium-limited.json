@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!504439",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "504439",
+  "ENT_NAM": "Sterling Consortium Limited",
+  "ENT_NAM_COM": [
+    "The Currency Club",
+    "Sterling"
+  ],
+  "ENT_ADD": "105 Edgware Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W2 2HX",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-01"
+  ]
+}

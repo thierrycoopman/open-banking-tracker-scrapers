@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!577170",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "577170",
+  "ENT_NAM": "Kanson Services Limited",
+  "ENT_ADD": [
+    "Crescent House",
+    "2a Norbury Crescent"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SW16 4JU",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-11-23"
+  ]
+}

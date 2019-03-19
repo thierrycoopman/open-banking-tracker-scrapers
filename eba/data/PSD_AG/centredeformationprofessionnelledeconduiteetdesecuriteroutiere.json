@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!711805_AG4371",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG711805",
+  "ENT_NAM": "CentreDeFormationProfessionnelleDeConduiteEtDeSecuriteRoutiere",
+  "ENT_ADD": "13 Avenue De Strasbourg",
+  "ENT_TOW_CIT_RES": "Illkirch Graffenstaden",
+  "ENT_POS_COD": "6740 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

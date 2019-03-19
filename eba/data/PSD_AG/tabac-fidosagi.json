@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!57014",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "451472500",
+  "ENT_NAM": "TABAC FI.DO.SA.GI",
+  "ENT_ADD": "59 rue Grande Rue",
+  "ENT_TOW_CIT_RES": "VAISON LA ROMAINE",
+  "ENT_POS_COD": "84110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

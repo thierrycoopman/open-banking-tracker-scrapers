@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_EMI!FR_ACPR!67816!75386",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "320217144",
+  "ENT_NAM": "DOCAPOST BPO",
+  "ENT_ADD": "10 Avenue Charles de Gaulle",
+  "ENT_TOW_CIT_RES": "CHARENTON LE PONT",
+  "ENT_POS_COD": "94220",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!67816",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!202627530",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "202627530",
+  "ENT_NAM": [
+    "Шеди ЕООД",
+    "Shedy EOOD"
+  ],
+  "ENT_ADD": "7 Vasil Levski str., Stolichna municipality, Sofia area",
+  "ENT_TOW_CIT_RES": "Zhelyava village",
+  "ENT_POS_COD": "1837",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

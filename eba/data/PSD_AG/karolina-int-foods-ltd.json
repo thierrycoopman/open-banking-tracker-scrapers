@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!593364!557016_AG5",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG557016",
+  "ENT_NAM": "KAROLINA INT FOODS LTD",
+  "ENT_ADD": [
+    "Newbridge Road",
+    "8A Wattstown Business Park"
+  ],
+  "ENT_TOW_CIT_RES": "Coleraine",
+  "ENT_POS_COD": "BT52 1BS",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!593364",
+  "DER_CHI_ENT_AUT": "Active"
+}

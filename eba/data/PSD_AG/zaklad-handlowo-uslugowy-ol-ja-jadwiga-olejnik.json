@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2235",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2235",
+  "ENT_NAM": "ZAKŁAD HANDLOWO-USŁUGOWY \"OL-JA\" JADWIGA OLEJNIK",
+  "ENT_ADD": "Legionistów 5, Pińczów, 28-400, PL",
+  "ENT_TOW_CIT_RES": "Pińczów",
+  "ENT_POS_COD": "28-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

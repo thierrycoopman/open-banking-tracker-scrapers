@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R134841",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R134841",
+  "ENT_NAM": "The Good Guyz B.V.",
+  "ENT_NAM_COM": "The Good Guyz B.V.",
+  "ENT_ADD": "Isolatorweg 36",
+  "ENT_TOW_CIT_RES": "AMSTERDAM",
+  "ENT_POS_COD": "1014 AS",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

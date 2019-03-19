@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5771928872",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5771928872",
+  "ENT_NAM": "FIRMA HANDLOWO - USŁUGOWA RATAJ WIOLETA",
+  "ENT_ADD": "Grunwaldzka 2, Żarki Letnisko, 42-311, PL",
+  "ENT_TOW_CIT_RES": "Żarki Letnisko",
+  "ENT_POS_COD": "42-311",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-08-08"
+  ]
+}

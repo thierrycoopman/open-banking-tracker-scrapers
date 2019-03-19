@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!504669",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "504669",
+  "ENT_NAM": "Amsons Travel Limited",
+  "ENT_ADD": "1A Beech Road",
+  "ENT_TOW_CIT_RES": "Luton",
+  "ENT_POS_COD": "LU1 1DW",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2009-11-01",
+    "2018-01-24"
+  ]
+}

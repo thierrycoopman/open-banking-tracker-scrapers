@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!822125_AG9470",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG822125",
+  "ENT_NAM": "Zenith Multimedia Services Ltd",
+  "ENT_ADD": "28 The Broadway Darkes Lane",
+  "ENT_TOW_CIT_RES": "Potters Bar",
+  "ENT_POS_COD": "EN6 2HW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

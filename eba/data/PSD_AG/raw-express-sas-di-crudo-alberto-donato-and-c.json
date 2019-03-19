@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!628223_AG469",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG628223",
+  "ENT_NAM": "Raw Express SAS Di Crudo Alberto Donato & C",
+  "ENT_ADD": [
+    "VIA R. SCOTELLARO",
+    "26, RUFFANO (LE),"
+  ],
+  "ENT_TOW_CIT_RES": "RUFFANO (LE),",
+  "ENT_POS_COD": "730 49",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

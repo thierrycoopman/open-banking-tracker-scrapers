@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1417",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1417",
+  "ENT_NAM": "Zofia Pelikan Sklep Spożywczy \"U Zosi\"",
+  "ENT_ADD": "11 Listopada 10, Kłobuck, 42-100, PL",
+  "ENT_TOW_CIT_RES": "Kłobuck",
+  "ENT_POS_COD": "42-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

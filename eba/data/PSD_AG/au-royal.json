@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68637",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "481423085",
+  "ENT_NAM": "AU ROYAL",
+  "ENT_ADD": "5 Rue Devouges",
+  "ENT_TOW_CIT_RES": "LOISON SOUS LENS",
+  "ENT_POS_COD": "62218",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

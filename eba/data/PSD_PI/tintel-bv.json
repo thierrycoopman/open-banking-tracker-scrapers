@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0041",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0041",
+  "ENT_NAM": "Tintel B.V.",
+  "ENT_NAM_COM": "Tintel B.V./Pay.eu/Pay.be/Pay.lu/pay.nl",
+  "ENT_ADD": "Jan Campertlaan 10",
+  "ENT_TOW_CIT_RES": "SPIJKENISSE",
+  "ENT_POS_COD": "3201 AX",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

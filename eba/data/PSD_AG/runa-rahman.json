@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!537844!547693_AG109",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG547693",
+  "ENT_NAM": "Runa Rahman",
+  "ENT_ADD": "Via della Pace 1A",
+  "ENT_TOW_CIT_RES": "Brescia",
+  "ENT_POS_COD": "25 122",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!537844",
+  "DER_CHI_ENT_AUT": "Active"
+}

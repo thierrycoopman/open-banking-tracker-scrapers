@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2025",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2025",
+  "ENT_NAM": "Powszechna Spółdzielnia Spożywców \"Społem\" w Katowicach",
+  "ENT_ADD": "Rynek 12, Katowice, 40-003, PL",
+  "ENT_TOW_CIT_RES": "Katowice",
+  "ENT_POS_COD": "40-003",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

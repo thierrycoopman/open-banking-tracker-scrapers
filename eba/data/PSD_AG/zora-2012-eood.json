@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201770536",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201770536",
+  "ENT_NAM": [
+    "Зора - 2012 ЕООД",
+    "Zora - 2012 EOOD"
+  ],
+  "ENT_ADD": "Troyan municipality, Lovech area",
+  "ENT_TOW_CIT_RES": "Vrabevo village",
+  "ENT_POS_COD": "5660",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

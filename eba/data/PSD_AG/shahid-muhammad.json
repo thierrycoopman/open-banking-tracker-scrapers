@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!561321_AG1146",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG561321",
+  "ENT_NAM": "Shahid Muhammad",
+  "ENT_ADD": "Via Cornigliano 178/R",
+  "ENT_TOW_CIT_RES": "Genova (GE)",
+  "ENT_POS_COD": "16 152",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

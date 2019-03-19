@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!793268_AG1909",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG793268",
+  "ENT_NAM": "Afia Lili Khatun",
+  "ENT_ADD": [
+    "Arch 146a",
+    "Martha Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 2PG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

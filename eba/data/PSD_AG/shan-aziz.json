@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!829639_AG2485",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG829639",
+  "ENT_NAM": "SHAN AZIZ",
+  "ENT_ADD": "Rua Regimento 19 de Infantaria, 18",
+  "ENT_TOW_CIT_RES": "Cascais",
+  "ENT_POS_COD": "2750001",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7640207794",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7640207794",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO USŁUGOWO - HANDLOWE A.R.A. Alicja Łabiszak",
+  "ENT_ADD": "Plac 1-go Maja 27, Ryczywół, 64-630, PL",
+  "ENT_TOW_CIT_RES": "Ryczywół",
+  "ENT_POS_COD": "64-630",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-04-29"
+  ]
+}

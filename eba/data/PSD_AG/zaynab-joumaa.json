@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!820917_AG9364",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG820917",
+  "ENT_NAM": "Zaynab Joumaa",
+  "ENT_ADD": "Olofsborgsgatan 1A",
+  "ENT_TOW_CIT_RES": "Malmo",
+  "ENT_POS_COD": "21361",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

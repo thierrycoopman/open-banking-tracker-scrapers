@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!728468_AG1288",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG728468",
+  "ENT_NAM": "Talib Sabhan Oude",
+  "ENT_ADD": "Sandhamnsgatan 35",
+  "ENT_TOW_CIT_RES": "Stockholm",
+  "ENT_POS_COD": "11528",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203599482",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203599482",
+  "ENT_NAM": [
+    "Довас - Донка Стефлекова ЕООД",
+    "Dovas - Donka Steflekova EOOD"
+  ],
+  "ENT_ADD": "121 Georgi Benkovski str.",
+  "ENT_TOW_CIT_RES": "Koprivshtitsa",
+  "ENT_POS_COD": "2077",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

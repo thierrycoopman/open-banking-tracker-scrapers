@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!830430_AG10407",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG830430",
+  "ENT_NAM": "Scd Superette Centre Draveil",
+  "ENT_ADD": "Rue Du Port aux Dames",
+  "ENT_TOW_CIT_RES": "Draveil",
+  "ENT_POS_COD": "91210",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

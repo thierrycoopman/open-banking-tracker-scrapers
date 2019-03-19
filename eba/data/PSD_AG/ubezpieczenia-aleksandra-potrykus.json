@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!5270",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "5270",
+  "ENT_NAM": "Ubezpieczenia Aleksandra Potrykus",
+  "ENT_ADD": "Szkolna 41, Połczyno, 84-100, PL",
+  "ENT_TOW_CIT_RES": "Połczyno",
+  "ENT_POS_COD": "84-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

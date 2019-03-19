@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!ATU68380511",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "ATU68380511",
+  "ENT_NAM": [
+    "Дорадо ГмбХ",
+    "Dorado GmbH"
+  ],
+  "ENT_ADD": "Laaer Berg Strasse 3/8",
+  "ENT_TOW_CIT_RES": "Vienna",
+  "ENT_POS_COD": "1100",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

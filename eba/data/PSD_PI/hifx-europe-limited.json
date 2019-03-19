@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!462444",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "462444",
+  "ENT_NAM": "HiFX Europe Limited",
+  "ENT_NAM_COM": "XE",
+  "ENT_ADD": [
+    "Western Road",
+    "Maxis 1"
+  ],
+  "ENT_TOW_CIT_RES": "Bracknell",
+  "ENT_POS_COD": "RG12 1RT",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2007-01-11"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!24226726",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "24226726",
+  "ENT_NAM": "Netera Systems s.r.o. ",
+  "ENT_ADD": "Sudoměřská 1293/32",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "13000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-11-14"
+  ]
+}

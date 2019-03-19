@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!710651_AG4334",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG710651",
+  "ENT_NAM": "Codrut Costinel Cojocaru",
+  "ENT_ADD": "Viale Curio Dentato 25 E",
+  "ENT_TOW_CIT_RES": "Terni",
+  "ENT_POS_COD": "0510 0",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

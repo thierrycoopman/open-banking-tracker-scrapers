@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!581435_AG1670",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581435",
+  "ENT_NAM": "Barbara Wojtkowiak",
+  "ENT_ADD": "Koscianska 28A",
+  "ENT_TOW_CIT_RES": "Kielczewo",
+  "ENT_POS_COD": "6400 0",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

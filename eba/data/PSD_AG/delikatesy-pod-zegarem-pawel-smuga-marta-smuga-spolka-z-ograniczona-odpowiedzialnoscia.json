@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!398",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "398",
+  "ENT_NAM": "Delikatesy Pod Zegarem Paweł Smuga, Marta Smuga Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Inowrocławska 1, Łódź, 91-020, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "91-020",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

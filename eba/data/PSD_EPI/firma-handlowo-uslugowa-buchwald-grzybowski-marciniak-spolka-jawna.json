@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9950147107",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9950147107",
+  "ENT_NAM": "Firma Handlowo-Usługowa Buchwald, Grzybowski, Marciniak spółka jawna",
+  "ENT_ADD": "Przemysłowa 12, Grodzisk Wielkopolski, 62-065, PL",
+  "ENT_TOW_CIT_RES": "Grodzisk Wielkopolski",
+  "ENT_POS_COD": "62-065",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-19"
+  ]
+}

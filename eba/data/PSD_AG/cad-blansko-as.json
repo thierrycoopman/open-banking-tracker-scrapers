@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!49454641",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "49454641",
+  "ENT_NAM": "ČAD Blansko a.s.",
+  "ENT_ADD": "Nádražní 2369/10",
+  "ENT_TOW_CIT_RES": "Blansko",
+  "ENT_POS_COD": "67801",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

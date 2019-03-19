@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!67496",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "488348947",
+  "ENT_NAM": "Mme PATORET Edith",
+  "ENT_ADD": "11 Rue de Marolles",
+  "ENT_TOW_CIT_RES": "SUCY EN BRIE",
+  "ENT_POS_COD": "94370",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

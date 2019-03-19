@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5482454913",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5482454913",
+  "ENT_NAM": "Gi - PAY UBEZPIECZENIA KATARZYNA SZWEBLIK",
+  "ENT_ADD": "Mickiewicza 16, Skoczów, 43-430, PL",
+  "ENT_TOW_CIT_RES": "Skoczów",
+  "ENT_POS_COD": "43-430",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-04-01"
+  ]
+}

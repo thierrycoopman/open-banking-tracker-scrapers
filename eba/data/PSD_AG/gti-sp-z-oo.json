@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5272606618!306",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "306",
+  "ENT_NAM": "GTI Sp. z o.o.",
+  "ENT_ADD": "Czarnkowska 16, Oborniki, 64-600, PL",
+  "ENT_TOW_CIT_RES": "Oborniki",
+  "ENT_POS_COD": "64-600",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5272606618",
+  "DER_CHI_ENT_AUT": "Active"
+}
+NT_AUT": "Active"
+}

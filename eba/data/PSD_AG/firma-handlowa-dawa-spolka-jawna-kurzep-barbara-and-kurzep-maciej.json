@@ -1,0 +1,16 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!407",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "407",
+  "ENT_NAM": "FIRMA HANDLOWA 'DAWA' SPÓLKA JAWNA KURZEP BARBARA & KURZEP MACIEJ",
+  "ENT_ADD": "Trakt ow. Wojciecha 81/-, Gdansk, 80-043, PL",
+  "ENT_TOW_CIT_RES": "Gdansk",
+  "ENT_POS_COD": "80-043",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70809",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "524862448",
+  "ENT_NAM": "L'ILONA",
+  "ENT_ADD": [
+    "21 Avenue du Maréchal Juin",
+    "Local 8"
+  ],
+  "ENT_TOW_CIT_RES": "MERIGNAC",
+  "ENT_POS_COD": "33700",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

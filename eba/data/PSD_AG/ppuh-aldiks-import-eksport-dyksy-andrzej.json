@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3046",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3046",
+  "ENT_NAM": "PPUH ,,ALDIKS IMPORT-EKSPORT Dyksy Andrzej",
+  "ENT_ADD": "Widzów, Żwirki i Wigury 24, Kruszyna, 42-282, PL",
+  "ENT_TOW_CIT_RES": "Kruszyna",
+  "ENT_POS_COD": "42-282",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

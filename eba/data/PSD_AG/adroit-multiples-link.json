@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!820023_AG9236",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG820023",
+  "ENT_NAM": "Adroit Multiples Link",
+  "ENT_ADD": "43 Bis Avenue Simon Bolivar",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75019",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

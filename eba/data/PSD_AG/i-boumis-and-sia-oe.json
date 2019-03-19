@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!800432892",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "800432892",
+  "ENT_NAM": "I. BOUMIS & SIA O.E.",
+  "ENT_ADD": "17, ANAPAFSEOS Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "12137",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

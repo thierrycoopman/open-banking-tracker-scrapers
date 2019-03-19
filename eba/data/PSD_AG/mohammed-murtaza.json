@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!670498_AG420",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG670498",
+  "ENT_NAM": "Mohammed Murtaza",
+  "ENT_ADD": "1a Esmond Road",
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M8 9LT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

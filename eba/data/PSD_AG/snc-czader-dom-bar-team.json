@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!70840",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "750516056",
+  "ENT_NAM": "SNC CZADER DOM BAR TEAM",
+  "ENT_ADD": "345 rue Saint-Mansuy",
+  "ENT_TOW_CIT_RES": "TOUL",
+  "ENT_POS_COD": "54200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!7292325763!305",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "305",
+  "ENT_NAM": "„OPTIMUM FINANSE” Sp. z o.o.",
+  "ENT_ADD": "ul. Zemska 18A, Wrocław, 54-438, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "54-438",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!7292325763",
+  "DER_CHI_ENT_AUT": "Active"
+}

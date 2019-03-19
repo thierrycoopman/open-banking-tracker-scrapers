@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!73754",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "830712931",
+  "ENT_NAM": "MOBIHELP",
+  "ENT_ADD": [
+    "14 rue de la Guadeloupe",
+    "ZA Foucherolles"
+  ],
+  "ENT_TOW_CIT_RES": "ST DENIS",
+  "ENT_POS_COD": "97490",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!F0022",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "F0022",
+  "ENT_NAM": "B.V. Suri-Change",
+  "ENT_NAM_COM": "B.V. Suri-Change/Surigoud Rotterdam",
+  "ENT_ADD": "West-Kruiskade 41 C",
+  "ENT_TOW_CIT_RES": "ROTTERDAM",
+  "ENT_POS_COD": "3014 AK",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

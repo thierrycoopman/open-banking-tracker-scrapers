@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_EMI!FR_ACPR!10595!79065",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "410620660",
+  "ENT_NAM": "COFINTEX 6 SA",
+  "ENT_ADD": "5 Avenue des Frères Lumière",
+  "ENT_TOW_CIT_RES": "VILLIERS SUR MARNE",
+  "ENT_POS_COD": "94350",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!10595",
+  "DER_CHI_ENT_AUT": "Active"
+}

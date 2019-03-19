@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!8393",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8393",
+  "ENT_NAM": "Katarzyna Tomaszewska Firma Handlowo-Usługowa K&S(wspólnik spółki cywilnej)",
+  "ENT_ADD": "Jana Śmidowicza 67, Gdynia, 81-127, PL",
+  "ENT_TOW_CIT_RES": "Gdynia",
+  "ENT_POS_COD": "81-127",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

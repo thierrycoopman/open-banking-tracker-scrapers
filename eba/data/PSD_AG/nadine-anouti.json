@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!537503_AG432",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG537503",
+  "ENT_NAM": "Nadine Anouti",
+  "ENT_ADD": "SKÄRHOLMSPLAN 1",
+  "ENT_TOW_CIT_RES": "SKÄRHOLMEN",
+  "ENT_POS_COD": "12 748",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

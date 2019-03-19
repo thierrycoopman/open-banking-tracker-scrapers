@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3378",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3378",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO WIELOBRANŻOWE \"KUBA\" MONIKA STEPEK",
+  "ENT_ADD": "Słupska 24, Biały Bór, 78-425, PL",
+  "ENT_TOW_CIT_RES": "Biały Bór",
+  "ENT_POS_COD": "78-425",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

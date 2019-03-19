@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8581866371",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8581866371",
+  "ENT_NAM": "Alde Alve Franciszek Grzegorczyk spółka z ograniczoną odpowiedzialnością (d. Alde Alve Franciszek Grzegorczyk)",
+  "ENT_ADD": "Bolesława Chrobrego 50c/1, Gryfino, 74-100, PL",
+  "ENT_TOW_CIT_RES": "Gryfino",
+  "ENT_POS_COD": "74-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-01-22"
+  ]
+}

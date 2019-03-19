@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!582703!798645_AG2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG798645",
+  "ENT_NAM": "First Data Global Servies",
+  "ENT_ADD": "Richview Office Park",
+  "ENT_TOW_CIT_RES": "Clonskeagh",
+  "ENT_POS_COD": "Dublin 14",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!582703",
+  "DER_CHI_ENT_AUT": "Active"
+}

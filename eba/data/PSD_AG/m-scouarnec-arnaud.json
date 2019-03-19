@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!78841",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "527517288",
+  "ENT_NAM": "M. SCOUARNEC ARNAUD",
+  "ENT_ADD": "17 RTE DE SIZUN",
+  "ENT_TOW_CIT_RES": "ST SAUVEUR",
+  "ENT_POS_COD": "29400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

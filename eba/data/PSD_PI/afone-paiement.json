@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!12965",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "530129204",
+  "ENT_NAM": "Afone Paiement",
+  "ENT_NAM_COM": "PI Commercial Name (Not Specified)",
+  "ENT_ADD": "11 place François Mitterrand",
+  "ENT_TOW_CIT_RES": "ANGERS",
+  "ENT_POS_COD": "49100",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2011-02-21"
+  ]
+}

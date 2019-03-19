@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!592248_AG92",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG592248",
+  "ENT_NAM": "Telecom Services Limited",
+  "ENT_ADD": "77 Triq Patri Felicjan Bilocca",
+  "ENT_TOW_CIT_RES": "Marsa",
+  "ENT_POS_COD": "MRS0",
+  "ENT_COU_RES": "MT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!524141!778709_AG36",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG778709",
+  "ENT_NAM": "Osman Ahmed Ali",
+  "ENT_ADD": "120 Broadway",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W13 0SY",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!524141",
+  "DER_CHI_ENT_AUT": "Active"
+}

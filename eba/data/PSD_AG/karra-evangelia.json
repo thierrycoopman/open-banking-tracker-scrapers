@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!039734594",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "039734594",
+  "ENT_NAM": "KARRA EVANGELIA",
+  "ENT_ADD": "39, MIKRAS ASIAS Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "15772",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

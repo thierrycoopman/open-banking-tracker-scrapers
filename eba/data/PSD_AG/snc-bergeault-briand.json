@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63721",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "534031976",
+  "ENT_NAM": "SNC BERGEAULT-BRIAND",
+  "ENT_ADD": "154 B Rue de Nantes",
+  "ENT_TOW_CIT_RES": "RENNES",
+  "ENT_POS_COD": "35000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

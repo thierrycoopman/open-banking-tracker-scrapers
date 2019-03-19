@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!71696831",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "71696831",
+  "ENT_NAM": "Lüftner Lukáš",
+  "ENT_ADD": "č.p. 142",
+  "ENT_TOW_CIT_RES": "Hořesedly",
+  "ENT_POS_COD": "27004",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

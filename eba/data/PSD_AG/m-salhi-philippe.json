@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!56437",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "498446228",
+  "ENT_NAM": "M. SALHI Philippe",
+  "ENT_ADD": "10 bd de Strasbourg",
+  "ENT_TOW_CIT_RES": "SOISSONS",
+  "ENT_POS_COD": "02200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

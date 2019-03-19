@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68033",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "814166989",
+  "ENT_NAM": "C.S.A.P",
+  "ENT_ADD": [
+    "15 Chemin d'esclavissat ",
+    "Lieu Dit Mestre Marty"
+  ],
+  "ENT_TOW_CIT_RES": "ESTILLAC",
+  "ENT_POS_COD": "47310",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

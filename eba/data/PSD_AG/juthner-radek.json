@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!72534222",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "72534222",
+  "ENT_NAM": "Jüthner Radek",
+  "ENT_ADD": "Školní 1375",
+  "ENT_TOW_CIT_RES": "Tachov",
+  "ENT_POS_COD": "34701",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

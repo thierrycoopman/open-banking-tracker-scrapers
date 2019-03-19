@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!28134",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "28134",
+  "ENT_NAM": "St1 Finance Oy",
+  "ENT_ADD": "PL 100",
+  "ENT_TOW_CIT_RES": "HELSINKI",
+  "ENT_POS_COD": "00381",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2012-01-01"
+  ]
+}

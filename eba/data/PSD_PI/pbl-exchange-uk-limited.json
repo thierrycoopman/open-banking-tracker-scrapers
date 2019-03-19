@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!712677",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "712677",
+  "ENT_NAM": "PBL Exchange (UK) Limited",
+  "ENT_ADD": "16 Brick Lane",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 6RF",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-11-02"
+  ]
+}

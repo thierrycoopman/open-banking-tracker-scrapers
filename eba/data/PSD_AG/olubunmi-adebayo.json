@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!531429_AG355",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG531429",
+  "ENT_NAM": "Olubunmi Adebayo",
+  "ENT_ADD": "2 Killinarden Enterprise Park Tallaght",
+  "ENT_TOW_CIT_RES": "Dublin",
+  "ENT_POS_COD": "CoDublin",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

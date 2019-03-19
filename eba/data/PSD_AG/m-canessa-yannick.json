@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72326",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "492218680",
+  "ENT_NAM": "M. CANESSA Yannick",
+  "ENT_ADD": "1130 Avenue du Languedoc",
+  "ENT_TOW_CIT_RES": "PERPIGNAN",
+  "ENT_POS_COD": "66000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

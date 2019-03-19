@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!27179907!18882374",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "18882374",
+  "ENT_NAM": "Zach Josef",
+  "ENT_ADD": "Sídliště Hegerova 929",
+  "ENT_TOW_CIT_RES": "Polička",
+  "ENT_POS_COD": "57201",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!27179907",
+  "DER_CHI_ENT_AUT": "Active"
+}

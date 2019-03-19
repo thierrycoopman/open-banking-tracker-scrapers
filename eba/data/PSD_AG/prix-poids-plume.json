@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!817283_AG9150",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG817283",
+  "ENT_NAM": "Prix Poids Plume",
+  "ENT_ADD": "22 Grande Rue",
+  "ENT_TOW_CIT_RES": "Survilliers",
+  "ENT_POS_COD": "95470",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

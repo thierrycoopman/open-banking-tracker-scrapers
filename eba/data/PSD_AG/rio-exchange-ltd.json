@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!601386_AG2636",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG601386",
+  "ENT_NAM": "Rio Exchange Ltd",
+  "ENT_ADD": "110 Greenfield Gardens",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW1 1HY",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

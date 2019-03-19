@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!531548_AG359",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG531548",
+  "ENT_NAM": "Krzysztof Wolyniec",
+  "ENT_ADD": "390 High Street",
+  "ENT_TOW_CIT_RES": "Cheltenham",
+  "ENT_POS_COD": "GL50 3JD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

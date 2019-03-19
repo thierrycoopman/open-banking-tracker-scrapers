@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76204",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "839153988",
+  "ENT_NAM": "M. SIMONIN Arnaud",
+  "ENT_ADD": "1387 Route de Paris",
+  "ENT_TOW_CIT_RES": "FRANQUEVILLE ST PIERRE",
+  "ENT_POS_COD": "76520",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

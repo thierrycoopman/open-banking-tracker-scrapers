@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5222190943",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5222190943",
+  "ENT_NAM": "Grażyna Gryczka",
+  "ENT_ADD": "Powstańców Śląskich 4A, Warszawa, 01-384, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "01-384",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-04-30"
+  ]
+}

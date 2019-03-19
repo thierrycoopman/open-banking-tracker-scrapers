@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!103872624",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "103872624",
+  "ENT_NAM": [
+    "ЕТ Ива - Иванка Янкова",
+    "ET Iva - Ivanka Yankova "
+  ],
+  "ENT_ADD": "zh.k. Mladost, build. 140, entr. 4, fl. 2, app. 79",
+  "ENT_TOW_CIT_RES": "Varna",
+  "ENT_POS_COD": "9020",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!72384",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "752358895",
+  "ENT_NAM": "M. DURAIN Allan",
+  "ENT_ADD": "11 Grande rue",
+  "ENT_TOW_CIT_RES": "CHENIMENIL",
+  "ENT_POS_COD": "88460",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

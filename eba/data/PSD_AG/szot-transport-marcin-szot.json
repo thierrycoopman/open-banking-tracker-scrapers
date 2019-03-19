@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!110",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "110",
+  "ENT_NAM": "Szot Transport Marcin Szot",
+  "ENT_ADD": "Aleja Wolności 2, Jelcz- Laskowice, 55-200, PL",
+  "ENT_TOW_CIT_RES": "Jelcz- Laskowice",
+  "ENT_POS_COD": "55-200",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8943039043!8",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8",
+  "ENT_NAM": "ASPOL Anna Skibińska",
+  "ENT_ADD": "Grabiszyńska 143A, Wrocław, 53-439, PL",
+  "ENT_TOW_CIT_RES": "Wrocław",
+  "ENT_POS_COD": "53-439",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8943039043",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

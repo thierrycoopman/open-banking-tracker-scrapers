@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!622",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "622",
+  "ENT_NAM": "SKLEP \"MIRA\" - Mirosława Balcerzak",
+  "ENT_ADD": "Łukowska 15/lok. 20, Warszawa, 04-133, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "04-133",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

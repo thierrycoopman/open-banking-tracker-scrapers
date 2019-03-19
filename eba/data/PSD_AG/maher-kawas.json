@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!809565_AG418",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG809565",
+  "ENT_NAM": "Maher Kawas",
+  "ENT_ADD": "Kaiserallee 1",
+  "ENT_TOW_CIT_RES": "Karlsruhe",
+  "ENT_POS_COD": "76133",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}

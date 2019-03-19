@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6443211383",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6443211383",
+  "ENT_NAM": "Pawlak-Chmielowski Barbara \"Rubieże\"",
+  "ENT_ADD": "Modrzejowska (róg Kościelnej - Bar)  , Sosnowiec, 41-200, PL",
+  "ENT_TOW_CIT_RES": "Sosnowiec",
+  "ENT_POS_COD": "41-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-03-05"
+  ]
+}

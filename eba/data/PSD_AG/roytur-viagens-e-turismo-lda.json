@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!581019_AG546",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG581019",
+  "ENT_NAM": "Roytur - Viagens E Turismo, LDA",
+  "ENT_ADD": "Av. João Crisostomo Nr. 55-A",
+  "ENT_TOW_CIT_RES": "Not Available",
+  "ENT_POS_COD": "1050 126",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

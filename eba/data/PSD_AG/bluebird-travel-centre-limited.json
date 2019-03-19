@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!555452_AG78",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG555452",
+  "ENT_NAM": "Bluebird Travel Centre Limited",
+  "ENT_ADD": [
+    "104 Woodgrange Road",
+    "Forest Gate"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E7 0EW",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}
+}

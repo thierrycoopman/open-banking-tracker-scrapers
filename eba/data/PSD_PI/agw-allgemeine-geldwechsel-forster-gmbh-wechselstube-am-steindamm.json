@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!110140",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "110140",
+  "ENT_NAM": "AGw Allgemeine Geldwechsel Förster GmbH Wechselstube am Steindamm",
+  "ENT_ADD": "Steindamm 1 | 20099 Hamburg",
+  "ENT_TOW_CIT_RES": "Hamburg",
+  "ENT_POS_COD": "20099",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-07-30"
+  ]
+}

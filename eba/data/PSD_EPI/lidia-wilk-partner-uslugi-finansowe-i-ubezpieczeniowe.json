@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5550004081",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5550004081",
+  "ENT_NAM": "Lidia Wilk Partner Usługi Finansowe i Ubezpieczeniowe",
+  "ENT_ADD": "Dworcowa 18, Chojnice, 89-620, PL",
+  "ENT_TOW_CIT_RES": "Chojnice",
+  "ENT_POS_COD": "89-620",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14",
+    "2019-02-18"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_EPI!CZ_CNB!04111648!24179345",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "24179345",
+  "ENT_NAM": "PAY - TIEN s. r. o.",
+  "ENT_ADD": "Raichlova 2644/3",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "15500",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!04111648",
+  "DER_CHI_ENT_AUT": "Active"
+}

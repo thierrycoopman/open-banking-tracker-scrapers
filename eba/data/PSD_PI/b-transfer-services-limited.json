@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!673100",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "673100",
+  "ENT_NAM": "B Transfer Services Limited",
+  "ENT_ADD": "46-48 E Smithfield",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1W 1AW",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2015-11-23"
+  ]
+}

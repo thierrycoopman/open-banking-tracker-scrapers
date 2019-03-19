@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!200906457",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "200906457",
+  "ENT_NAM": [
+    "Ви Стайл ЕООД",
+    "V Style ЕООД"
+  ],
+  "ENT_ADD": "11 Ivan Vazov str.",
+  "ENT_TOW_CIT_RES": "Ahtopol",
+  "ENT_POS_COD": "8280",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

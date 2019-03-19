@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!59809",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "535303036",
+  "ENT_NAM": "MONTBRAN",
+  "ENT_ADD": [
+    "49 avenue de la Convention",
+    "Tharon Plage"
+  ],
+  "ENT_TOW_CIT_RES": "ST MICHEL CHEF CHEF",
+  "ENT_POS_COD": "44730",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

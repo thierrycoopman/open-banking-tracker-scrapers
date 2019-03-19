@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!04339568",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "04339568",
+  "ENT_NAM": "FinBee CZ Lending s.r.o. ",
+  "ENT_ADD": "Lužná 716/2",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "16000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2017-04-11"
+  ]
+}

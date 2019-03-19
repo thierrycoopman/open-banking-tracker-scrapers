@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!780114_AG762",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG780114",
+  "ENT_NAM": "Muhammad Adnan Khan",
+  "ENT_ADD": "769 Alum Rock Road",
+  "ENT_TOW_CIT_RES": "Birmingham",
+  "ENT_POS_COD": "B8 3PX",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!59955",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "527740419",
+  "ENT_NAM": "M. ARISTEL Lener",
+  "ENT_ADD": "Le Boyer",
+  "ENT_TOW_CIT_RES": "STE ROSE",
+  "ENT_POS_COD": "97115",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

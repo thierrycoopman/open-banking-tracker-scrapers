@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FI_FIN-FSA",
+  "EntityCode": "FI_FIN_FSA!26781",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "26781",
+  "ENT_NAM": "Vauraus Suomi Oyj",
+  "ENT_ADD": "Urho Kekkosen katu 7 B",
+  "ENT_TOW_CIT_RES": "Helsinki",
+  "ENT_POS_COD": "00100",
+  "ENT_COU_RES": "FI",
+  "ENT_AUT": [
+    "2012-01-01"
+  ]
+}

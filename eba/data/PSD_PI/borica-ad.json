@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "BG_BNB!201230426",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "201230426",
+  "ENT_NAM": [
+    "БОРИКА АД",
+    "BORICA AD"
+  ],
+  "ENT_ADD": "41 Tsar Boris III blvd., Krasno selo dist.",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1612",
+  "ENT_COU_RES": "BG",
+  "ENT_AUT": [
+    "2017-12-14"
+  ]
+}

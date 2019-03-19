@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!570843!811293_AG118",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG811293",
+  "ENT_NAM": "Lillian Caguete",
+  "ENT_ADD": "MILANO (MI) VIA ANTONINI",
+  "ENT_TOW_CIT_RES": "GIACOMO 62 CAP",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!570843",
+  "DER_CHI_ENT_AUT": "Active"
+}

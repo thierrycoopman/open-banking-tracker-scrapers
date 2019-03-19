@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577174!522372_AG2",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG522372",
+  "ENT_NAM": "Syed Anisuzzaman",
+  "ENT_ADD": [
+    "Baden Wutenberg",
+    "Schreiberstr 18",
+    "Freiburg 79 098"
+  ],
+  "ENT_TOW_CIT_RES": "Freiburg",
+  "ENT_POS_COD": "79 098",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577174",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

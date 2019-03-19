@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!632059_AG621",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG632059",
+  "ENT_NAM": "TECNOSAL SRL",
+  "ENT_ADD": "VIA TRENTO, 14,",
+  "ENT_TOW_CIT_RES": "SALERNO,",
+  "ENT_POS_COD": "841 29",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

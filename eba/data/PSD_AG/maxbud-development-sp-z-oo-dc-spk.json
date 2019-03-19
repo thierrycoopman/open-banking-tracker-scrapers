@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4782",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4782",
+  "ENT_NAM": "MAXBUD DEVELOPMENT SP. Z O.O. DC SP.K.",
+  "ENT_ADD": "POWSTANCÓW 64B/23, ZĄBKI, 05-091, PL",
+  "ENT_TOW_CIT_RES": "ZĄBKI",
+  "ENT_POS_COD": "05-091",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

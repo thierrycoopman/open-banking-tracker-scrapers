@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!74401",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "794247791",
+  "ENT_NAM": "CED2JESS",
+  "ENT_ADD": [
+    "31 avenue Mal de Lattre ",
+    "de Tassigny"
+  ],
+  "ENT_TOW_CIT_RES": "LIMOGES",
+  "ENT_POS_COD": "87000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

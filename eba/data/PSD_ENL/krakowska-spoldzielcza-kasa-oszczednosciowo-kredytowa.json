@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6751000541",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "6751000541",
+  "ENT_NAM": "Krakowska Spółdzielcza Kasa Oszczędnościowo-Kredytowa ",
+  "ENT_ADD": "ul. Ujastek 3, Kraków, 30-969, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "30-969",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-07"
+  ]
+}

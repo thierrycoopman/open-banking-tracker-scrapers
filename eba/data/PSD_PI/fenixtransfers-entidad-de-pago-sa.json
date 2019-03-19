@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "ES_BE",
+  "EntityCode": "ES_BE!6808",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "6808",
+  "ENT_NAM": "FENIXTRANSFERS ENTIDAD DE PAGO, S.A.",
+  "ENT_ADD": "CL URZAIZ 53 BAJO",
+  "ENT_TOW_CIT_RES": "VIGO",
+  "ENT_POS_COD": "36201",
+  "ENT_COU_RES": "ES",
+  "ENT_AUT": [
+    "2019-03-15"
+  ]
+}

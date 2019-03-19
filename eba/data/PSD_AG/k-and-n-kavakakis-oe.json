@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_EMI!800759225!800465991",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "800465991",
+  "ENT_NAM": "K. & N. KAVAKAKIS O.E.",
+  "ENT_ADD": "68, VOULIAGMENIS Ave.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "11743",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "GR_BOG!800759225",
+  "DER_CHI_ENT_AUT": "Active"
+}

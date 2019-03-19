@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!707255_AG477",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG707255",
+  "ENT_NAM": "Arrien Cyber Net",
+  "ENT_ADD": "1-5 Rue De L Orillon",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75011",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6931038114",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6931038114",
+  "ENT_NAM": "Henryk Fendorf Przedsiębiorstwo \"FENDORF\"",
+  "ENT_ADD": "Budziszyńska 1B, Głogów, 67-200, PL",
+  "ENT_TOW_CIT_RES": "Głogów",
+  "ENT_POS_COD": "67-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2019-02-28"
+  ]
+}

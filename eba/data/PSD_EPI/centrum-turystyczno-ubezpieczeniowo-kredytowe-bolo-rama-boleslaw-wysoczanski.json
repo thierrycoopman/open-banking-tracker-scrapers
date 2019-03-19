@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7481002848",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7481002848",
+  "ENT_NAM": "Centrum Turystyczno Ubezpieczeniowo Kredytowe BOLO RAMA Bolesław Wysoczański",
+  "ENT_ADD": "Kościuszki  28/2, Głubczyce, 48-100, PL",
+  "ENT_TOW_CIT_RES": "Głubczyce",
+  "ENT_POS_COD": "48-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-25"
+  ]
+}

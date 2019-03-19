@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!78864",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "802380113",
+  "ENT_NAM": "SNC GMV",
+  "ENT_ADD": "15 BD CHAVASSIEU",
+  "ENT_TOW_CIT_RES": "MONTBRISON",
+  "ENT_POS_COD": "42600",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

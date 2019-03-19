@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577078",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "577078",
+  "ENT_NAM": "Dollar West Ltd",
+  "ENT_ADD": "55A  Regent Street",
+  "ENT_TOW_CIT_RES": "Blackburn",
+  "ENT_POS_COD": "BB1 6BH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-10-24",
+    "2018-06-29"
+  ]
+}

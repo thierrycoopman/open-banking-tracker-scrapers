@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!819552_AG9203",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG819552",
+  "ENT_NAM": "Ramzan Logiev",
+  "ENT_ADD": [
+    "Lerchenfelder Str 128",
+    "1 EG Top 7"
+  ],
+  "ENT_TOW_CIT_RES": "Wien",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "AT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

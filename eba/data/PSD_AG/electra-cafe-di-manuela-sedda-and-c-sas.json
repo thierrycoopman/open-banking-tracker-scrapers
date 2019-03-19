@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!682543_AG1104",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG682543",
+  "ENT_NAM": "Electra Cafe' Di Manuela Sedda & C. S.a.s.",
+  "ENT_ADD": "Localita' Ex Stazione Fms Sn",
+  "ENT_TOW_CIT_RES": "Iglesias (Cagliari)",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

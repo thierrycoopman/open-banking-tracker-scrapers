@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6731581724",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6731581724",
+  "ENT_NAM": "OPTIMA FIDE GRZEGORZ BOLECHOWSKI",
+  "ENT_ADD": "Warszawska 10/7, Szczecinek, 78-400, PL",
+  "ENT_TOW_CIT_RES": "Szczecinek",
+  "ENT_POS_COD": "78-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-09-30"
+  ]
+}

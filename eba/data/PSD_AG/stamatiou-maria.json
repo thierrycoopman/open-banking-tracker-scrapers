@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GR_BOG",
+  "EntityCode": "PSD_PI!094328668!045001606",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "045001606",
+  "ENT_NAM": "STAMATIOU MARIA",
+  "ENT_ADD": "AG. GEORGIOU Str. & 2, N. FLOUTZI Str.",
+  "ENT_TOW_CIT_RES": "ATHENS",
+  "ENT_POS_COD": "12461",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "GR_BOG!094328668",
+  "DER_CHI_ENT_AUT": "Active"
+}

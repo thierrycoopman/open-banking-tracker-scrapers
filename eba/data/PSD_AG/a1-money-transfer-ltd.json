@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!803476_AG7784",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG803476",
+  "ENT_NAM": "A1 Money Transfer Ltd",
+  "ENT_ADD": "415 Alexandra Avenue Harrow",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "HA2 9SG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!48214574",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "48214574",
+  "ENT_NAM": "Smrček Josef",
+  "ENT_ADD": "č.p. 179",
+  "ENT_TOW_CIT_RES": "Dolní Dvořiště",
+  "ENT_POS_COD": "38272",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

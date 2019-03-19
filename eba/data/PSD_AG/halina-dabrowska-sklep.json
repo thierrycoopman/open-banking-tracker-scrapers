@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!2506",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2506",
+  "ENT_NAM": "HALINA DĄBROWSKA SKLEP",
+  "ENT_ADD": "Bieliny 104A, GIELNIÓW, 26-434, PL",
+  "ENT_TOW_CIT_RES": "GIELNIÓW",
+  "ENT_POS_COD": "26-434",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

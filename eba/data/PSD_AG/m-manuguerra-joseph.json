@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!65025",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "337963532",
+  "ENT_NAM": "M. MANUGUERRA Joseph",
+  "ENT_ADD": "138 rue Henri Desbals",
+  "ENT_TOW_CIT_RES": "TOULOUSE",
+  "ENT_POS_COD": "31100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

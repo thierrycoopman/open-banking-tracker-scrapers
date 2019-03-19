@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!547927_AG873",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG547927",
+  "ENT_NAM": "M.A.I Informatique",
+  "ENT_ADD": [
+    "50 Rue De La Convention",
+    "Seine Saint Denis"
+  ],
+  "ENT_TOW_CIT_RES": "La Courneuve",
+  "ENT_POS_COD": "93120",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

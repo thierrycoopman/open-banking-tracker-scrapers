@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!781497_AG6571",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG781497",
+  "ENT_NAM": "Shanthy Balasingam",
+  "ENT_ADD": "312-314 Foleshill Road",
+  "ENT_TOW_CIT_RES": "Coventry",
+  "ENT_POS_COD": "CV6 5AJ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

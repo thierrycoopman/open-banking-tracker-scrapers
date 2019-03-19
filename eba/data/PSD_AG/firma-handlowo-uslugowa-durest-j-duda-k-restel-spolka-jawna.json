@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4727",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4727",
+  "ENT_NAM": "Firma Handlowo-Usługowa \"DUREST\" J. Duda, K. Restel Spółka Jawna",
+  "ENT_ADD": "Morawska 2, Krzanowice, 47-470, PL",
+  "ENT_TOW_CIT_RES": "Krzanowice",
+  "ENT_POS_COD": "47-470",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

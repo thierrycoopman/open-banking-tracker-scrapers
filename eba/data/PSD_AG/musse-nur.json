@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!572123!607011_AG11",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG607011",
+  "ENT_NAM": "Musse Nur",
+  "ENT_ADD": "5 Assembly Passage",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E1 4UT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PSD_EPI!GB_FCA!572123",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R135062",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R135062",
+  "ENT_NAM": "M+ Marketing Informatics B.V.",
+  "ENT_NAM_COM": "M+ Marketing Informatics B.V./TRY NOW",
+  "ENT_ADD": "Hoorn 131",
+  "ENT_TOW_CIT_RES": "ALPHEN AAN DEN RIJN",
+  "ENT_POS_COD": "2404 HH",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

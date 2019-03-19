@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!675633_AG3909",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG675633",
+  "ENT_NAM": "Arborescences Eurl",
+  "ENT_ADD": "27 Avenue Du Marechal Foch",
+  "ENT_TOW_CIT_RES": "Marmande",
+  "ENT_POS_COD": "4720 0",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

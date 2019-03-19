@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!805769",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "805769",
+  "ENT_NAM": "Swift Finance Ltd",
+  "ENT_NAM_COM": "Swift Send",
+  "ENT_ADD": [
+    "3rd Floor",
+    "14 Hanover Street"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W1S 1YH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-11-06"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!8266",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "8266",
+  "ENT_NAM": "BAR U ANDRZEJA, ANDRZEJ NIEKOWAL",
+  "ENT_ADD": "Oświęcimska 98, Piekary Śląskie, 41-949, PL",
+  "ENT_TOW_CIT_RES": "Piekary Śląskie",
+  "ENT_POS_COD": "41-949",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

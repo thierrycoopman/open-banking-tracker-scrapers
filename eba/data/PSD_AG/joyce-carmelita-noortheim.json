@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!608598_AG2891",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG608598",
+  "ENT_NAM": "Joyce Carmelita Noortheim",
+  "ENT_ADD": "Gullegemsesteenweg 68",
+  "ENT_TOW_CIT_RES": "Kortrijk",
+  "ENT_POS_COD": "85 01",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

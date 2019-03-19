@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1812",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1812",
+  "ENT_NAM": "Sklep Wielobranżowy \"Bożenka\" Gąbino, ul. Kasztanowa 4/2 Bożena Czech",
+  "ENT_ADD": "Gąbino, Kasztanowa 4/2, Ustka, 76-270, PL",
+  "ENT_TOW_CIT_RES": "Ustka",
+  "ENT_POS_COD": "76-270",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

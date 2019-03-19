@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!787246_AG6874",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG787246",
+  "ENT_NAM": "Ebelechukwu Haughey",
+  "ENT_ADD": "13 Short Wyre Street",
+  "ENT_TOW_CIT_RES": "Colchester",
+  "ENT_POS_COD": "CO1 1LN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

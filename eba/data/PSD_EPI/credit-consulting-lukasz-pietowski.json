@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6581872583",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6581872583",
+  "ENT_NAM": "CREDIT CONSULTING Łukasz Piętowski",
+  "ENT_ADD": "Tatrzańska 111, Łódź, 93-279, PL",
+  "ENT_TOW_CIT_RES": "Łódź",
+  "ENT_POS_COD": "93-279",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-03-14"
+  ]
+}

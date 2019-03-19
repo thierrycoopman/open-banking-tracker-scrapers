@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75404",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "421198102",
+  "ENT_NAM": "Mme DELSERIES Chantal",
+  "ENT_ADD": [
+    "24 RUE DE LA REPUBLIQUE ",
+    "BON ENCONTRE"
+  ],
+  "ENT_TOW_CIT_RES": "BON ENCONTRE",
+  "ENT_POS_COD": "47240",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

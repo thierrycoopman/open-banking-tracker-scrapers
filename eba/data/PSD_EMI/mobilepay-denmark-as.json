@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DK_DFSA",
+  "EntityCode": "DK_DFSA!40505",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "38292188 ",
+  "ENT_NAM": "Mobilepay Denmark A/S",
+  "ENT_ADD": "Vester Søgade 10, 6., 1601 København K",
+  "ENT_TOW_CIT_RES": "Copenhagen K",
+  "ENT_POS_COD": "1060",
+  "ENT_COU_RES": "DK",
+  "ENT_AUT": [
+    "2017-09-01"
+  ]
+}

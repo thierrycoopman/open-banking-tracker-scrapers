@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900036",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900036",
+  "ENT_NAM": "Prepaid Financial Services Ltd",
+  "ENT_NAM_COM": "Prepaid Financial Services Ltd",
+  "ENT_ADD": [
+    "36 Carnaby Street",
+    "4th Floor"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W1F7DR",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2011-12-12"
+  ]
+}

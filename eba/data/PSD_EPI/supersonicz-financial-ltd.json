@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!525232",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "525232",
+  "ENT_NAM": "Supersonicz Financial Ltd",
+  "ENT_ADD": "82 King Street",
+  "ENT_TOW_CIT_RES": "Manchester",
+  "ENT_POS_COD": "M2 4WQ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2010-07-02"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6711823992",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6711823992",
+  "ENT_NAM": "TPW SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "ENT_ADD": "Portowa 14/2, Kołobrzeg, 78-100, PL",
+  "ENT_TOW_CIT_RES": "Kołobrzeg",
+  "ENT_POS_COD": "78-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-06-06"
+  ]
+}

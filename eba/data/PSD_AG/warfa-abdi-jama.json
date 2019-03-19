@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!530851_AG59",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG530851",
+  "ENT_NAM": "Warfa Abdi Jama",
+  "ENT_ADD": "57 Dorset Street",
+  "ENT_TOW_CIT_RES": "Dublin",
+  "ENT_POS_COD": "DUBL IN1",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

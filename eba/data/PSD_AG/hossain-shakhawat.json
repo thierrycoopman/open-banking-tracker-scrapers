@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!591464_AG2236",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG591464",
+  "ENT_NAM": "Hossain Shakhawat",
+  "ENT_ADD": "Via Viotti An Via Sgambati 1",
+  "ENT_TOW_CIT_RES": "Padova",
+  "ENT_POS_COD": "3513 2",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

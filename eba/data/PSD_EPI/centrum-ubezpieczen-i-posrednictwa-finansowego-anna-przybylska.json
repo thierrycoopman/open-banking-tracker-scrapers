@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6652858545",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6652858545",
+  "ENT_NAM": "Centrum Ubezpieczeń i Pośrednictwa Finansowego Anna Przybylska",
+  "ENT_ADD": "Pl. Kościuszki 18, Kleczew, 62-540, PL",
+  "ENT_TOW_CIT_RES": "Kleczew",
+  "ENT_POS_COD": "62-540",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-11-04"
+  ]
+}

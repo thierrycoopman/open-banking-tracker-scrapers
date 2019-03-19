@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!77073",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "384554119",
+  "ENT_NAM": "M. DUSSART Jean-Marie",
+  "ENT_ADD": "133 RUE Wicardenne",
+  "ENT_TOW_CIT_RES": "ST MARTIN BOULOGNE",
+  "ENT_POS_COD": "62280",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

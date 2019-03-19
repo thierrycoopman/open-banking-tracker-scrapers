@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!803995_AG2067",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG803995",
+  "ENT_NAM": "Laxmi Khanal",
+  "ENT_ADD": "Trv. Do Seveiro N40 RC",
+  "ENT_TOW_CIT_RES": "Alcantara",
+  "ENT_POS_COD": "1300526",
+  "ENT_COU_RES": "PT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

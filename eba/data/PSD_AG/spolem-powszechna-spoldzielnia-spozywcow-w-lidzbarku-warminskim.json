@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2947",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2947",
+  "ENT_NAM": "\"Społem\" Powszechna Spółdzielnia Spożywców w Lidzbarku Warmińskim",
+  "ENT_ADD": "Hoża 1, Lidzbark Warmiński, 11-100, PL",
+  "ENT_TOW_CIT_RES": "Lidzbark Warmiński",
+  "ENT_POS_COD": "11-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

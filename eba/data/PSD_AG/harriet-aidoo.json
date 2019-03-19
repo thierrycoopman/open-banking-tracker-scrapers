@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!616775_AG3138",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG616775",
+  "ENT_NAM": "Harriet Aidoo",
+  "ENT_ADD": [
+    "begane grond",
+    "Parallelweg 14"
+  ],
+  "ENT_TOW_CIT_RES": "Den Haag",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

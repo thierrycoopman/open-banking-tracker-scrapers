@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!60921",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "750432627",
+  "ENT_NAM": "Mme CADIVEL Marie",
+  "ENT_ADD": [
+    "130 rue Raphaël Barquisseau",
+    "Fleurimont"
+  ],
+  "ENT_TOW_CIT_RES": "ST PAUL",
+  "ENT_POS_COD": "97460",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

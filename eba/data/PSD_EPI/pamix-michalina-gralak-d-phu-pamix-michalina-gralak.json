@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6661998777",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6661998777",
+  "ENT_NAM": "PAMIX Michalina Gralak (d. PHU PAMIX Michalina Gralak)",
+  "ENT_ADD": "Pl. Mickiewicza  3, Dąbie, 62-660, PL",
+  "ENT_TOW_CIT_RES": "Dąbie",
+  "ENT_POS_COD": "62-660",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-02"
+  ]
+}

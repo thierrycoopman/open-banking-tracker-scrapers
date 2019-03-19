@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8831762656",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8831762656",
+  "ENT_NAM": "TWÓJ PARTNER KREDYTOWY IZABELA SATERNUS",
+  "ENT_ADD": "Zdrojowa 11, Kudowa-Zdrój, 57-350, PL",
+  "ENT_TOW_CIT_RES": "Kudowa-Zdrój",
+  "ENT_POS_COD": "57-350",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-01-13",
+    "2018-11-30"
+  ]
+}

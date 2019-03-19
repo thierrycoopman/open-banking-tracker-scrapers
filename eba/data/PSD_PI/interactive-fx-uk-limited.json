@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!759853",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "759853",
+  "ENT_NAM": "Interactive FX UK Limited",
+  "ENT_ADD": "59 Windsor Road",
+  "ENT_TOW_CIT_RES": "Maidenhead",
+  "ENT_POS_COD": "SL6 2DN",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-08-01"
+  ]
+}

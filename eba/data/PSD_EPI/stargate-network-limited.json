@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!582874",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "582874",
+  "ENT_NAM": "Stargate Network Limited",
+  "ENT_ADD": [
+    "Leytonstone",
+    "210 High Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E11 3HU",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2014-05-01"
+  ]
+}

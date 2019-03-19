@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!762783_AG1536",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG762783",
+  "ENT_NAM": "Aparna Ananthabavan",
+  "ENT_ADD": "230 High Street",
+  "ENT_TOW_CIT_RES": "Croydon",
+  "ENT_POS_COD": "CR0 1NF",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

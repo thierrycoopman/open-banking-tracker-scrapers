@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!64489",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "440623833",
+  "ENT_NAM": "SNC ETMO",
+  "ENT_ADD": [
+    "Rue Pierre Ronsard",
+    "Centre Commercial Val  Fourre"
+  ],
+  "ENT_TOW_CIT_RES": "MANTES LA JOLIE",
+  "ENT_POS_COD": "78200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

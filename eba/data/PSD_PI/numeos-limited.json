@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!797347",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "797347",
+  "ENT_NAM": "Numeos Limited",
+  "ENT_ADD": [
+    "WeWork",
+    "2 Eastbourne Terrace"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W2 6LG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-09-05"
+  ]
+}

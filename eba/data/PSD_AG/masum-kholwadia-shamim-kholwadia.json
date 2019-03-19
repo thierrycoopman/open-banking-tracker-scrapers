@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!540765!556914_AG17",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG556914",
+  "ENT_NAM": "Masum Kholwadia Shamim Kholwadia",
+  "ENT_ADD": "52 Regent Street Tredworth",
+  "ENT_TOW_CIT_RES": "Gloucester",
+  "ENT_POS_COD": "GL1 4XG",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!540765",
+  "DER_CHI_ENT_AUT": "Active"
+}

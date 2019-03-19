@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!577104!556383_AG81",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG556383",
+  "ENT_NAM": "Nur Islam",
+  "ENT_ADD": "110 Boston Avenue",
+  "ENT_TOW_CIT_RES": "Southend-on-Sea",
+  "ENT_POS_COD": "SS2 6JE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!577104",
+  "DER_CHI_ENT_AUT": "Active"
+}

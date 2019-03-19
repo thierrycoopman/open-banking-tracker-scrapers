@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!535283_AG413",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG535283",
+  "ENT_NAM": "John Ndibe",
+  "ENT_ADD": [
+    "Forest Hill",
+    "13 Dartmouth Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE23 3HN",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

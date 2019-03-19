@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!423",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "40103331001",
+  "ENT_NAM": "SIA \"Baltic Payment Solutions\"",
+  "ENT_NAM_COM": "Baltic Payment Solutions",
+  "ENT_ADD": "Pirts iela 13 - 50",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1003",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2015-09-16"
+  ]
+}

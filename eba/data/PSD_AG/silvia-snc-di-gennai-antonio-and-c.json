@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!561810_AG1158",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG561810",
+  "ENT_NAM": "Silvia Snc Di Gennai Antonio & C.",
+  "ENT_ADD": "Via Argine Vecchio 87C",
+  "ENT_TOW_CIT_RES": "Vecchiano",
+  "ENT_POS_COD": "560 19",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

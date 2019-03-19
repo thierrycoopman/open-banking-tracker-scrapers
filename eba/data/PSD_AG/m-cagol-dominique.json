@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!62179",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "803888536",
+  "ENT_NAM": "M. CAGOL Dominique",
+  "ENT_ADD": "14 Rue du Pont Neuf",
+  "ENT_TOW_CIT_RES": "RUMILLY",
+  "ENT_POS_COD": "74150",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

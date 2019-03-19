@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!663143_AG917",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG663143",
+  "ENT_NAM": "Intrabet Slr",
+  "ENT_ADD": "Via Nazionale Dismessa, 1",
+  "ENT_TOW_CIT_RES": "Santa Maria A Vico",
+  "ENT_POS_COD": "61 082",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

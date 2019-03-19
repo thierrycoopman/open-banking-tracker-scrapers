@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!575157",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "575157",
+  "ENT_NAM": "Union Nepal Services Limited",
+  "ENT_ADD": "31 Sutlej Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE7 7DD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-09-13"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!75935",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "418673356",
+  "ENT_NAM": "Mme BISSO Catherine",
+  "ENT_ADD": "le Cours le Village",
+  "ENT_TOW_CIT_RES": "ENTRECHAUX",
+  "ENT_POS_COD": "84340",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

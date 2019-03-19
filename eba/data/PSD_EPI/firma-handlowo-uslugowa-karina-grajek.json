@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6171720974",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6171720974",
+  "ENT_NAM": "Firma Handlowo-Usługowa Karina Grajek",
+  "ENT_ADD": "Powstańców Wielkopolskich 56, Jarocin, 63-200, PL",
+  "ENT_TOW_CIT_RES": "Jarocin",
+  "ENT_POS_COD": "63-200",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-16"
+  ]
+}

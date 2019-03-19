@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!66547!78634",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "440775351",
+  "ENT_NAM": "L'ALTRO",
+  "ENT_ADD": "16 rue du Dragon",
+  "ENT_TOW_CIT_RES": "PARIS",
+  "ENT_POS_COD": "75006",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!66547",
+  "DER_CHI_ENT_AUT": "Active"
+}

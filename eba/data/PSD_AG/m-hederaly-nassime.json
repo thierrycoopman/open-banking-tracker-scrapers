@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68860",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "489571422",
+  "ENT_NAM": "M. HEDERALY Nassime",
+  "ENT_ADD": "33 rue du Tiers Pot",
+  "ENT_TOW_CIT_RES": "GARGES LES GONESSE",
+  "ENT_POS_COD": "95140",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

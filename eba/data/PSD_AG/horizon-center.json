@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!13019!54566",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "791925282",
+  "ENT_NAM": "HORIZON CENTER",
+  "ENT_ADD": "19 rue de Diane",
+  "ENT_TOW_CIT_RES": "ARGENTEUIL",
+  "ENT_POS_COD": "95100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!13019",
+  "DER_CHI_ENT_AUT": "Active"
+}

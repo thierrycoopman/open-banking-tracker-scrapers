@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PT_BP",
+  "EntityCode": "PSD_PI!PT_BP!8703",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "8703",
+  "ENT_NAM": "SIBS Pagamentos",
+  "ENT_ADD": "Rua Soeiro Pereira Gomes, Lote 1 ",
+  "ENT_TOW_CIT_RES": "Lisboa",
+  "ENT_POS_COD": "1649-031",
+  "ENT_COU_RES": "PT",
+  "ENT_AUT": [
+    "2011-05-05"
+  ]
+}

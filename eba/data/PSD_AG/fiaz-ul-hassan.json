@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!664144_AG416",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG664144",
+  "ENT_NAM": "Fiaz Ul Hassan",
+  "ENT_ADD": "Kosta Varnali 56",
+  "ENT_TOW_CIT_RES": "Neas Ionias",
+  "ENT_POS_COD": "14231",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

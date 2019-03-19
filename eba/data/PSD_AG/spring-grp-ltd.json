@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!565567!726716_AG375",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG726716",
+  "ENT_NAM": "Spring Grp Ltd",
+  "ENT_ADD": "41 Cardiff Street",
+  "ENT_TOW_CIT_RES": "Wolverhampton",
+  "ENT_POS_COD": "WV3 0EZ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!565567",
+  "DER_CHI_ENT_AUT": "Active"
+}
+
+DER_CHI_ENT_AUT": "Active"
+}

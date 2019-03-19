@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!612107_AG37",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG612107",
+  "ENT_NAM": "Trevor Watson",
+  "ENT_ADD": "17 Southend Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E6 2AL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}

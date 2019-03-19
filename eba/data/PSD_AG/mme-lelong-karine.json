@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!63135",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "409002722",
+  "ENT_NAM": "Mme LELONG Karine",
+  "ENT_ADD": "25 place Napoléon Bonaparte",
+  "ENT_TOW_CIT_RES": "FONTAINEBLEAU",
+  "ENT_POS_COD": "77300",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

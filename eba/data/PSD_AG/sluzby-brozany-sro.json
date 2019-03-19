@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!28707834",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "28707834",
+  "ENT_NAM": "SLUŽBY BROZANY s.r.o.",
+  "ENT_ADD": "Palackého náměstí 75",
+  "ENT_TOW_CIT_RES": "Brozany nad Ohří",
+  "ENT_POS_COD": "41181",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

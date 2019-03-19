@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!627070_AG961",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG627070",
+  "ENT_NAM": "Takbeer Travel Ltd",
+  "ENT_ADD": "54A  Sneinton Dale",
+  "ENT_TOW_CIT_RES": "Nottingham",
+  "ENT_POS_COD": "NG2 4HE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

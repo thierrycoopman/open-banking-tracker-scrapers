@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!66501",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "538460437",
+  "ENT_NAM": "Mme JANIN-GADOUX Dominique",
+  "ENT_ADD": "3 Place Deodat Gratet",
+  "ENT_TOW_CIT_RES": "DOLOMIEU",
+  "ENT_POS_COD": "38110",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

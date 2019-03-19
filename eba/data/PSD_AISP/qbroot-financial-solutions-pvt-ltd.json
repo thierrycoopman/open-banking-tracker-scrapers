@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!812844",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "812844",
+  "ENT_NAM": "Qbroot Financial Solutions Pvt Ltd",
+  "ENT_NAM_COM": "Fintify",
+  "ENT_ADD": [
+    "51 Clarendon Road",
+    "4th Floor, Radius House"
+  ],
+  "ENT_TOW_CIT_RES": "Watford",
+  "ENT_POS_COD": "WD17 1HP",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2019-01-23"
+  ]
+}

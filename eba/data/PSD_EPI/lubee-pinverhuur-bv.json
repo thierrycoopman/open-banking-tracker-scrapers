@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R114152",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R114152",
+  "ENT_NAM": "Lubee Pinverhuur B.V.",
+  "ENT_NAM_COM": "Lubee Pinverhuur B.V./Lubee Kassasystemen/Lubee/Pinservice",
+  "ENT_ADD": "Stationsweg 41",
+  "ENT_TOW_CIT_RES": "ZWIJNDRECHT",
+  "ENT_POS_COD": "3331 LR",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

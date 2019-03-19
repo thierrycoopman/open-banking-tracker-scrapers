@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!47994827",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "47994827",
+  "ENT_NAM": "Novotný Vladimír",
+  "ENT_ADD": "Dolní Václavov 35",
+  "ENT_TOW_CIT_RES": "Václavov u Bruntálu",
+  "ENT_POS_COD": "79201",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

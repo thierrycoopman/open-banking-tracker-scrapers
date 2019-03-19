@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!819",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "819",
+  "ENT_NAM": "Kryska Michał FENIX",
+  "ENT_ADD": "Cieszyńska 4, Ustroń, 43-450, PL",
+  "ENT_TOW_CIT_RES": "Ustroń",
+  "ENT_POS_COD": "43-450",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

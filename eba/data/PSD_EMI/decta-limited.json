@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900592",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900592",
+  "ENT_NAM": "Decta Limited",
+  "ENT_NAM_COM": "Decta Limited",
+  "ENT_ADD": [
+    "Suite 3",
+    "Third Floor",
+    "62 Bayswater Road"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W2 3PH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-04-18"
+  ]
+}

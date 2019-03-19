@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!418",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "418",
+  "ENT_NAM": "\"U AGI\" Pośrednictwo Handlowe i Usługowe Agnieszka Proch",
+  "ENT_ADD": "Wesoła 12, Szczecin, 70-884, PL",
+  "ENT_TOW_CIT_RES": "Szczecin",
+  "ENT_POS_COD": "70-884",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

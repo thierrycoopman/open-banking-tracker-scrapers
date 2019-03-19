@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!505067!576117_AG85",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG576117",
+  "ENT_NAM": "Aflah Communications Limited",
+  "ENT_ADD": "28 Baron Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "N1 9ES",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!505067",
+  "DER_CHI_ENT_AUT": "Active"
+}

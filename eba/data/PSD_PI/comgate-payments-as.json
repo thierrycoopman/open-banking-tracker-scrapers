@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "CZ_CNB!27924505",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "27924505",
+  "ENT_NAM": "ComGate Payments, a.s. ",
+  "ENT_ADD": "Jankovcova 1596/14a",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "17000",
+  "ENT_COU_RES": "CZ",
+  "ENT_AUT": [
+    "2016-12-13"
+  ]
+}

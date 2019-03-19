@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!69140022",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "69140022",
+  "ENT_NAM": "Doležalová Jitka",
+  "ENT_ADD": "Komenského 382",
+  "ENT_TOW_CIT_RES": "Nové Město nad Metují",
+  "ENT_POS_COD": "54901",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

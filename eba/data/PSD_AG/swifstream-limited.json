@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!53014!77972",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "10425158",
+  "ENT_NAM": "SWIFSTREAM LIMITED",
+  "ENT_ADD": [
+    "128 Canon Street Road",
+    "2nd Fllor"
+  ],
+  "ENT_TOW_CIT_RES": "LONDON",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!53014",
+  "DER_CHI_ENT_AUT": "Active"
+}

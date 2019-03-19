@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!812123_AG8634",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG812123",
+  "ENT_NAM": "Ramona Donka",
+  "ENT_ADD": "Via Cerri 14",
+  "ENT_TOW_CIT_RES": "Merate",
+  "ENT_POS_COD": "23807",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

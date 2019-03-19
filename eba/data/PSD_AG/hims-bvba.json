@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!807437_AG8135",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG807437",
+  "ENT_NAM": "HimS Bvba",
+  "ENT_ADD": "Jozef Verbovenlei 51",
+  "ENT_TOW_CIT_RES": "Antwerpen",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "BE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

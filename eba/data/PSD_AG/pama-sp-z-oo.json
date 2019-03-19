@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971683744!122",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "122",
+  "ENT_NAM": "PAMA SP. Z O.O.",
+  "ENT_ADD": "KRZYWOUSTEGO 304A/1A, WROCŁAW, 51-312, PL",
+  "ENT_TOW_CIT_RES": "WROCŁAW",
+  "ENT_POS_COD": "51-312",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971683744",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_EPI!PL_PFSA!6922504479!3",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3",
+  "ENT_NAM": "BIURIKS Barbara Czapska",
+  "ENT_ADD": "Tuwima  8/9, Lubin, 59-300, PL",
+  "ENT_TOW_CIT_RES": "Lubin",
+  "ENT_POS_COD": "59-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_EPI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6922504479",
+  "DER_CHI_ENT_AUT": "Active"
+}

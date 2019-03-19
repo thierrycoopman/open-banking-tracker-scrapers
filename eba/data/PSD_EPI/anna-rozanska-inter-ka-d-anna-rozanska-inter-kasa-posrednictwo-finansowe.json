@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5791836357",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5791836357",
+  "ENT_NAM": "Anna Różańska INTER - KA (d. Anna Różańska INTER KASA Pośrednictwo Finansowe)",
+  "ENT_ADD": "Kopernika 1A, Nowy Dwór Gdański, 82-100, PL",
+  "ENT_TOW_CIT_RES": "Nowy Dwór Gdański",
+  "ENT_POS_COD": "82-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!554004_AG1009",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG554004",
+  "ENT_NAM": "Lukasz Marcin Sieniuc",
+  "ENT_ADD": [
+    "Unit2, Melrose Court,",
+    "Mungret Street"
+  ],
+  "ENT_TOW_CIT_RES": "Limerick",
+  "ENT_POS_COD": "NA",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

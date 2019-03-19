@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1312",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1312",
+  "ENT_NAM": "Kamil Demski Pośrednictwo Ubezpieczeniowe",
+  "ENT_ADD": "Bystrzycka 10/5, Bystrzyca Kłodzka, 57-500, PL",
+  "ENT_TOW_CIT_RES": "Bystrzyca Kłodzka",
+  "ENT_POS_COD": "57-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

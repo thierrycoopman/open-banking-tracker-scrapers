@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "DE_BAFIN",
+  "EntityCode": "DE_BAFIN!124169",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "124169",
+  "ENT_NAM": "LAVEGO AG",
+  "ENT_ADD": "Zielstattstraße 10 a/Rgb. | 81379 München",
+  "ENT_TOW_CIT_RES": "München",
+  "ENT_POS_COD": "81379",
+  "ENT_COU_RES": "DE",
+  "ENT_AUT": [
+    "2018-07-05"
+  ]
+}

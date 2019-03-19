@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!760355_AG623",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG760355",
+  "ENT_NAM": "Muhammad Ashraf",
+  "ENT_ADD": [
+    "002",
+    "Carrer de l'Arquitecte Rodriguez 36"
+  ],
+  "ENT_TOW_CIT_RES": "Valencia",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

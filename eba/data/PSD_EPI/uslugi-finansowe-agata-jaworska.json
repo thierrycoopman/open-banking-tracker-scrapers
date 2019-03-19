@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6271558728",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6271558728",
+  "ENT_NAM": "Usługi Finansowe Agata Jaworska",
+  "ENT_ADD": "Wodna  8/II, Świętochłowice, 41-600, PL",
+  "ENT_TOW_CIT_RES": "Świętochłowice",
+  "ENT_POS_COD": "41-600",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-12-31"
+  ]
+}

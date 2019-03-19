@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!791523",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "791523",
+  "ENT_NAM": "Fractal Labs Ltd",
+  "ENT_NAM_COM": "Fractal",
+  "ENT_ADD": [
+    "138 Holborn",
+    "WeWork Waterhouse Square"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC1N 2SW",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-01-13",
+    "2018-09-11"
+  ]
+}

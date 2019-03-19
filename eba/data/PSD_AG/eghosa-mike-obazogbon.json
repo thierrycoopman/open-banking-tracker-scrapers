@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!629958_AG3469",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG629958",
+  "ENT_NAM": "Eghosa Mike Obazogbon",
+  "ENT_ADD": [
+    "114 Bellegrove Road",
+    "Welling"
+  ],
+  "ENT_TOW_CIT_RES": "Kent",
+  "ENT_POS_COD": "DA16 3QR",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

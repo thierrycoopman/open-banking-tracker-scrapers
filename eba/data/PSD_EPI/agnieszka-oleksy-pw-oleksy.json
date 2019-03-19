@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6832050916",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6832050916",
+  "ENT_NAM": "AGNIESZKA OLEKSY P.W. OLEKSY",
+  "ENT_ADD": "Słowackiego 12, Wieliczka, 32-020, PL",
+  "ENT_TOW_CIT_RES": "Wieliczka",
+  "ENT_POS_COD": "32-020",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2014-12-05",
+    "2018-12-31"
+  ]
+}

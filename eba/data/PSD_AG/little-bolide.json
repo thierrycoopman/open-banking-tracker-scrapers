@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!66547!78411",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "478550072",
+  "ENT_NAM": "LITTLE BOLIDE",
+  "ENT_ADD": "17 Rue Panhard et Levassor",
+  "ENT_TOW_CIT_RES": "CHANTELOUP LES VIGNES",
+  "ENT_POS_COD": "78570",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!66547",
+  "DER_CHI_ENT_AUT": "Active"
+}

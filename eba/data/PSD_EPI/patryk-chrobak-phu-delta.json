@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9372483560",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9372483560",
+  "ENT_NAM": "Patryk Chrobak PHU DELTA",
+  "ENT_ADD": "Kościelna  2, Małogoszcz, 28-366, PL",
+  "ENT_TOW_CIT_RES": "Małogoszcz",
+  "ENT_POS_COD": "28-366",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-07-01"
+  ]
+}

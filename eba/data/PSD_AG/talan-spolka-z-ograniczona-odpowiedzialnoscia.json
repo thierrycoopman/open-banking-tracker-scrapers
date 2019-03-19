@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1698",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1698",
+  "ENT_NAM": "\"Talan\" Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Tuszewska 45, Łowicz, 99-400, PL",
+  "ENT_TOW_CIT_RES": "Łowicz",
+  "ENT_POS_COD": "99-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

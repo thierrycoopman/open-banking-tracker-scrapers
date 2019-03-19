@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8540022937",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8540022937",
+  "ENT_NAM": "PASAGE Dariusz Burchardt",
+  "ENT_ADD": "Bema 1, Łobez, 73-150, PL",
+  "ENT_TOW_CIT_RES": "Łobez",
+  "ENT_POS_COD": "73-150",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-12"
+  ]
+}

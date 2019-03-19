@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900043",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900043",
+  "ENT_NAM": "Trustpay Global Ltd",
+  "ENT_NAM_COM": "Trustpay Global Ltd",
+  "ENT_ADD": [
+    "Surrey Research  Park",
+    "22-24 Frederick Sanger Road"
+  ],
+  "ENT_TOW_CIT_RES": "Guildford",
+  "ENT_POS_COD": "GU27YD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-11-01"
+  ]
+}

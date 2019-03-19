@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!831924_AG2523",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG831924",
+  "ENT_NAM": "Euro1 Limited",
+  "ENT_ADD": "85 Praed Street",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W2 1NT",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

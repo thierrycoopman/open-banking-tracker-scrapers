@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!756447_AG617",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG756447",
+  "ENT_NAM": "Universal Tours 2016 S.L",
+  "ENT_ADD": "Carrer de Sant Pau 38",
+  "ENT_TOW_CIT_RES": "Barcelona",
+  "ENT_POS_COD": "08001",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

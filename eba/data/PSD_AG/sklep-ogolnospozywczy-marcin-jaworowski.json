@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1606",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1606",
+  "ENT_NAM": "SKLEP OGÓLNOSPOŻYWCZY MARCIN JAWOROWSKI",
+  "ENT_ADD": "Juliusza Słowackiego 12, Pruszcz Gdański, 83-000, PL",
+  "ENT_TOW_CIT_RES": "Pruszcz Gdański",
+  "ENT_POS_COD": "83-000",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

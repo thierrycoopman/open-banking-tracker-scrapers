@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!584039",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "584039",
+  "ENT_NAM": "Khyber Money Exchange Ltd",
+  "ENT_NAM_COM": [
+    "Remit Masters",
+    "Khyber Money Exchange"
+  ],
+  "ENT_ADD": "31 Plashet Grove",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "E6 1AD",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2013-01-09"
+  ]
+}

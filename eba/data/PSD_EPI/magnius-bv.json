@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R131309",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R131309",
+  "ENT_NAM": "Magnius B.V.",
+  "ENT_NAM_COM": "Magnius B.V./Magnius",
+  "ENT_ADD": "Bargelaan 26",
+  "ENT_TOW_CIT_RES": "LEIDEN",
+  "ENT_POS_COD": "2333 CT",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

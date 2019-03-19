@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!774",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "774",
+  "ENT_NAM": "Irena POGORZELEC",
+  "ENT_ADD": "Stalmacha 9, Lubliniec, 42-700, PL",
+  "ENT_TOW_CIT_RES": "Lubliniec",
+  "ENT_POS_COD": "42-700",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

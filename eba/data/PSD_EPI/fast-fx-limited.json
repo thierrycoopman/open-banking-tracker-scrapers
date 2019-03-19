@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!774486",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "774486",
+  "ENT_NAM": "FAST FX LIMITED",
+  "ENT_ADD": "30 Beech Gardens",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W5 4AH",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-07-07"
+  ]
+}

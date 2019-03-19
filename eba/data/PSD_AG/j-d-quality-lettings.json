@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!593364!771881_AG40",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG771881",
+  "ENT_NAM": "J D QUALITY LETTINGS",
+  "ENT_ADD": [
+    "2 Station Avenue",
+    "Medina House"
+  ],
+  "ENT_TOW_CIT_RES": "Bridlington",
+  "ENT_POS_COD": "YO16 4LZ",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!593364",
+  "DER_CHI_ENT_AUT": "Active"
+}

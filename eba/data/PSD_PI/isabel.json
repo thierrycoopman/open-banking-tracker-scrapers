@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "BE_NBB",
+  "EntityCode": "BE_NBB!0455530509",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "0455530509",
+  "ENT_NAM": "Isabel",
+  "ENT_ADD": "Keizerinlaan 13-15/Boulevard de l'Impératrice 13-15",
+  "ENT_TOW_CIT_RES": "Brussel/Bruxelles",
+  "ENT_POS_COD": "1000",
+  "ENT_COU_RES": "BE",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!506692!770890_AG688",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG770890",
+  "ENT_NAM": "Basharat Hussain",
+  "ENT_ADD": [
+    "Carrer de Ramon y Cajal 25",
+    "Local 2"
+  ],
+  "ENT_TOW_CIT_RES": "Premia de Mar",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "ES",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!506692",
+  "DER_CHI_ENT_AUT": "Active"
+}

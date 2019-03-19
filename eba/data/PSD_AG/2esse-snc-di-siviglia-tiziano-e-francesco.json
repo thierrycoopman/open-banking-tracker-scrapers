@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!616001_AG3113",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG616001",
+  "ENT_NAM": "2Esse Snc Di Siviglia Tiziano E Francesco",
+  "ENT_ADD": "Via Bandini 2B",
+  "ENT_TOW_CIT_RES": "Camerino",
+  "ENT_POS_COD": "62 032",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

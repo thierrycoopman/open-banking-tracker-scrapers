@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971781665!38",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "38",
+  "ENT_NAM": "FHU EWELINA MAGALAS",
+  "ENT_ADD": "Rynek 14/1, Krajenka, 77-430, PL",
+  "ENT_TOW_CIT_RES": "Krajenka",
+  "ENT_POS_COD": "77-430",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971781665",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!9491761930!204",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204",
+  "ENT_NAM": "ANNA PERKOWSKA",
+  "ENT_ADD": "ŻEROMSKIEGO 64, OSTROŁĘKA, 07-417, PL",
+  "ENT_TOW_CIT_RES": "OSTROŁĘKA",
+  "ENT_POS_COD": "07-417",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!9491761930",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1703",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1703",
+  "ENT_NAM": "\"Fultom\" Spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "11 Listopada 2, Oborniki, 64-600, PL",
+  "ENT_TOW_CIT_RES": "Oborniki",
+  "ENT_POS_COD": "64-600",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

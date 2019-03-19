@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8241701091",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8241701091",
+  "ENT_NAM": "Agencja Ubezpieczeniowa \"Tomek\" Tomasz Sulich",
+  "ENT_ADD": "Gdańska 9, Węgrów, 07-100, PL",
+  "ENT_TOW_CIT_RES": "Węgrów",
+  "ENT_POS_COD": "07-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-04-03",
+    "2018-12-13"
+  ]
+}

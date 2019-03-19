@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!546298!622051_AG226",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG622051",
+  "ENT_NAM": "Pathmaseelan Nadarajh",
+  "ENT_ADD": "Eschersheimer land str 302",
+  "ENT_TOW_CIT_RES": "Frankfurt Am Main",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!546298",
+  "DER_CHI_ENT_AUT": "Active"
+}
+

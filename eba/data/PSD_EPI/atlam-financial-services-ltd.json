@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EPI!GB_FCA!528607",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "528607",
+  "ENT_NAM": "Atlam Financial Services Ltd",
+  "ENT_ADD": [
+    "North End Road",
+    "23 North End Parade"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W14 0SJ",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2010-12-14"
+  ]
+}

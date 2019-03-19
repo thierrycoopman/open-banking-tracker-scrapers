@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5381000808",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5381000808",
+  "ENT_NAM": "Wojciech Szczurek WOJS",
+  "ENT_ADD": "ul. Ostrowiecka 16, Radzyń Podlaski, 21-300, PL",
+  "ENT_TOW_CIT_RES": "Radzyń Podlaski",
+  "ENT_POS_COD": "21-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-01-18",
+    "2018-09-28"
+  ]
+}

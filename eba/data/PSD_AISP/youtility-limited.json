@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_AISP!GB_FCA!803462",
+  "EntityType": "PSD_AISP",
+  "ENT_NAT_REF_COD": "803462",
+  "ENT_NAM": "Youtility Limited",
+  "ENT_NAM_COM": "Youtility",
+  "ENT_ADD": "2 Eastbourne Terrace",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "W2 6LG",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-08-24"
+  ]
+}

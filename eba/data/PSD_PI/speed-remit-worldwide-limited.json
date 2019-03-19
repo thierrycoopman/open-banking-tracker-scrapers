@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!585100",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "585100",
+  "ENT_NAM": "Speed Remit Worldwide Limited",
+  "ENT_ADD": [
+    "197 Ealing Road",
+    "Atlip Centre",
+    "Unit 11/12"
+  ],
+  "ENT_TOW_CIT_RES": "Wembley",
+  "ENT_POS_COD": "HA0 4LU",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2012-11-30"
+  ]
+}

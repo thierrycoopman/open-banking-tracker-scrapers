@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7392480902",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7392480902",
+  "ENT_NAM": "Kantor Wymiany Walut Renata Chojnacka (d. Kantor Wymiany Walut Renata Lewandowska)",
+  "ENT_ADD": "11 Listopada 20, Morąg, 14-300, PL",
+  "ENT_TOW_CIT_RES": "Morąg",
+  "ENT_POS_COD": "14-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-26"
+  ]
+}

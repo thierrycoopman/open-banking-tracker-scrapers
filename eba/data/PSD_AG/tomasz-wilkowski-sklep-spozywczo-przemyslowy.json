@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!825",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "825",
+  "ENT_NAM": "Tomasz Wilkowski Sklep Spożywczo - Przemysłowy",
+  "ENT_ADD": "Klonowa 2, Józefów, 05-254, PL",
+  "ENT_TOW_CIT_RES": "Józefów",
+  "ENT_POS_COD": "05-254",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

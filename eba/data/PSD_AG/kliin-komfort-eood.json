@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!203579138",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "203579138",
+  "ENT_NAM": [
+    "Клийн Комфорт ЕООД",
+    "Kliin Komfort EOOD"
+  ],
+  "ENT_ADD": "23 trade centre City Point, Aleksandar Malinov blvd., fl. 2, office 76 ",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1729",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

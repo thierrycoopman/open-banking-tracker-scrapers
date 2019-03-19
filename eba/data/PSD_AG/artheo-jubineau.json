@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!79099",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "843968173",
+  "ENT_NAM": "ARTHEO JUBINEAU",
+  "ENT_ADD": "2 RUE DE L'EGLISE",
+  "ENT_TOW_CIT_RES": "MONTBRON",
+  "ENT_POS_COD": "16220",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

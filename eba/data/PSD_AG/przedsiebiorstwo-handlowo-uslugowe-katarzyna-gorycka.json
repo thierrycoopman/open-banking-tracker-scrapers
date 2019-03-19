@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!729",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "729",
+  "ENT_NAM": "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE KATARZYNA GORYCKA",
+  "ENT_ADD": "Lwowska 32, Katowice, 40-389, PL",
+  "ENT_TOW_CIT_RES": "Katowice",
+  "ENT_POS_COD": "40-389",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

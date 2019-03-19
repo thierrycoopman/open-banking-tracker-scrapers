@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5961502745",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5961502745",
+  "ENT_NAM": "Paweł SZCZOTKOWSKI B.H.U.\"KOMSAT 2\"",
+  "ENT_ADD": "Bohaterów Westerplatte  16/4, Zielona Góra, 65-034, PL",
+  "ENT_TOW_CIT_RES": "Zielona Góra",
+  "ENT_POS_COD": "65-034",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-07-18"
+  ]
+}

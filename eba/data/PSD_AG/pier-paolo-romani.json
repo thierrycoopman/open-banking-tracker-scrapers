@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!546742_AG770",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG546742",
+  "ENT_NAM": "Pier-Paolo Romani",
+  "ENT_ADD": [
+    "tatale Flaminia Km. 189",
+    "Centro Comm.le Flaminia Strada"
+  ],
+  "ENT_TOW_CIT_RES": "Gualdo Tadino",
+  "ENT_POS_COD": "060 23",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

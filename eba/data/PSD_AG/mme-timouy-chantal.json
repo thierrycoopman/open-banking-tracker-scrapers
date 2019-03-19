@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!68095",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "420261513",
+  "ENT_NAM": "Mme TIMOUY Chantal",
+  "ENT_ADD": "Place de l'Eglise Bourg",
+  "ENT_TOW_CIT_RES": "LOHEAC",
+  "ENT_POS_COD": "35550",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

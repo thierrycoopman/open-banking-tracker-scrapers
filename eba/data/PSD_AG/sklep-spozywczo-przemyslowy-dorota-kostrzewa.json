@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3813",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3813",
+  "ENT_NAM": "Sklep Spożywczo-Przemysłowy Dorota Kostrzewa",
+  "ENT_ADD": "  18, Baranowo, 12-160, PL",
+  "ENT_TOW_CIT_RES": "Baranowo",
+  "ENT_POS_COD": "12-160",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

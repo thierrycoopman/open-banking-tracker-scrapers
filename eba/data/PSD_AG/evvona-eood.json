@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!175325806!127624571",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "127624571",
+  "ENT_NAM": [
+    "Еввона ЕООД",
+    "Evvona EOOD"
+  ],
+  "ENT_ADD": "3 Trakiya str., fl. 14, app. 53",
+  "ENT_TOW_CIT_RES": "Shumen",
+  "ENT_POS_COD": "9700",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!175325806",
+  "DER_CHI_ENT_AUT": "Active"
+}

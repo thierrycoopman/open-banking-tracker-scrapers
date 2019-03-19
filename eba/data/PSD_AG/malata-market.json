@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!576160!538503_AG15",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG538503",
+  "ENT_NAM": "Malata Market",
+  "ENT_ADD": "213 Walworth Road",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "SE17 1RL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!576160",
+  "DER_CHI_ENT_AUT": "Active"
+}

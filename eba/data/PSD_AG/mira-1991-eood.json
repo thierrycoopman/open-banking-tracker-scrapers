@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!204778239",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "204778239",
+  "ENT_NAM": [
+    "Мира 1991 ЕООД",
+    "Mira 1991 EOOD"
+  ],
+  "ENT_ADD": "5 29-ta str., Stamboliyski municipality, Plovdiv area",
+  "ENT_TOW_CIT_RES": "Novo selo village",
+  "ENT_POS_COD": "4221",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

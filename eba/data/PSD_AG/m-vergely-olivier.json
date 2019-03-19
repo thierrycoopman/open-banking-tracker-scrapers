@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76080",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "494484876",
+  "ENT_NAM": "M. VERGELY Olivier",
+  "ENT_ADD": "RUE DE L ARBALESTIERE",
+  "ENT_TOW_CIT_RES": "LE PONTET",
+  "ENT_POS_COD": "84130",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

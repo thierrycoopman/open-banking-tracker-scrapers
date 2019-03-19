@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!593946_AG2335",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG593946",
+  "ENT_NAM": "Salim Shamima Snc Di Salim Abul Kasham Mohammed",
+  "ENT_ADD": "Via Torquato Tasso 2",
+  "ENT_TOW_CIT_RES": "Padova",
+  "ENT_POS_COD": "3513 7",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

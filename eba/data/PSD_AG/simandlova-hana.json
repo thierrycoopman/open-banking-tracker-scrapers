@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!05644496",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "05644496",
+  "ENT_NAM": "Simandlová Hana",
+  "ENT_ADD": "Čechova 1726/34",
+  "ENT_TOW_CIT_RES": "Velké Meziříčí",
+  "ENT_POS_COD": "59401",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

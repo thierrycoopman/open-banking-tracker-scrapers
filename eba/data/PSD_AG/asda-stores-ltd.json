@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!608277!407914_AG7",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG407914",
+  "ENT_NAM": "Asda Stores Ltd",
+  "ENT_ADD": [
+    "Asda House",
+    "Great Wilson Street"
+  ],
+  "ENT_TOW_CIT_RES": "Leeds",
+  "ENT_POS_COD": "LS11 5AD",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!608277",
+  "DER_CHI_ENT_AUT": "Active"
+}

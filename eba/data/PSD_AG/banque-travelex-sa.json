@@ -1,0 +1,19 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!799450_AG644",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG799450",
+  "ENT_NAM": "BANQUE TRAVELEX SA",
+  "ENT_ADD": [
+    "Bilancourt",
+    "92100",
+    "17 Route de la Reine",
+    "Boulogne"
+  ],
+  "ENT_TOW_CIT_RES": "Boulogne",
+  "ENT_POS_COD": "92100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

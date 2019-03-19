@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1843",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1843",
+  "ENT_NAM": "TERG SPÓŁKA AKCYJNA",
+  "ENT_ADD": "ZA DWORCEM 1D, ZŁOTÓW, 77-400, PL",
+  "ENT_TOW_CIT_RES": "ZŁOTÓW",
+  "ENT_POS_COD": "77-400",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

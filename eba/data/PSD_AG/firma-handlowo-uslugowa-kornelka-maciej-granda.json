@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!892",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "892",
+  "ENT_NAM": "Firma Handlowo - Usługowa \"Kornelka\" Maciej Granda",
+  "ENT_ADD": "Łopatki 64, Łopatki, 87-222, PL",
+  "ENT_TOW_CIT_RES": "Łopatki",
+  "ENT_POS_COD": "87-222",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

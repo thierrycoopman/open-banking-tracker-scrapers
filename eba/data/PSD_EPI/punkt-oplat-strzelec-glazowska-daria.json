@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9141550931",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9141550931",
+  "ENT_NAM": "PUNKT OPŁAT STRZELEC GŁAZOWSKA DARIA",
+  "ENT_ADD": "MICKIEWICZA 1/10, STRZELIN, 57-100, PL",
+  "ENT_TOW_CIT_RES": "STRZELIN",
+  "ENT_POS_COD": "57-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2017-08-07"
+  ]
+}

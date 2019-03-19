@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!568036_AG1245",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG568036",
+  "ENT_NAM": "Inter.Com",
+  "ENT_ADD": "157 Rue Ferrer",
+  "ENT_TOW_CIT_RES": "Faches-Thumesnil",
+  "ENT_POS_COD": "59 155",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

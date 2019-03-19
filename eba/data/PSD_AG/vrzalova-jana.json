@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!01927809",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "01927809",
+  "ENT_NAM": "Vrzalová Jana",
+  "ENT_ADD": "č.p. 24",
+  "ENT_TOW_CIT_RES": "Kokory",
+  "ENT_POS_COD": "75105",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

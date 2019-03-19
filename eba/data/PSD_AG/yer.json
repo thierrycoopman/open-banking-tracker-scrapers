@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!76578",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "831801022",
+  "ENT_NAM": "YER",
+  "ENT_ADD": "42 QUAI GEORGES POMPIDOU",
+  "ENT_TOW_CIT_RES": "LA GRANDE MOTTE",
+  "ENT_POS_COD": "34280",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

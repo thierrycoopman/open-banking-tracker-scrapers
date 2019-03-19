@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!594864_AG2374",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG594864",
+  "ENT_NAM": "Espace Call",
+  "ENT_ADD": "12 Rue De Narvik",
+  "ENT_TOW_CIT_RES": "Valence",
+  "ENT_POS_COD": "26 000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

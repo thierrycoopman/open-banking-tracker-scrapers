@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201084366",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201084366",
+  "ENT_NAM": [
+    "СИТ Заложна къща ЕООД",
+    "SIT Zalozhna kashta EOOD"
+  ],
+  "ENT_ADD": "zh.k. Vrabnitsa 1, build. 503, entr. B, fl. 4, app. 30",
+  "ENT_TOW_CIT_RES": "Sofia",
+  "ENT_POS_COD": "1229",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

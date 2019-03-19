@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!26978636!46095454",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "46095454",
+  "ENT_NAM": "Kulaviaková Müllerová Daria",
+  "ENT_ADD": "Bratří Venclíků 1073/8",
+  "ENT_TOW_CIT_RES": "Praha",
+  "ENT_POS_COD": "19800",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!26978636",
+  "DER_CHI_ENT_AUT": "Active"
+}

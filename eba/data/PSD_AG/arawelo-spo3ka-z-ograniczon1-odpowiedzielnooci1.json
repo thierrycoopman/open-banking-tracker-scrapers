@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!3992",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3992",
+  "ENT_NAM": "Arawelo Spó3ka z ograniczon1 odpowiedzielnooci1",
+  "ENT_ADD": "Grzebskiego 34, M3awa, 06-500, PL",
+  "ENT_TOW_CIT_RES": "M3awa",
+  "ENT_POS_COD": "06-500",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

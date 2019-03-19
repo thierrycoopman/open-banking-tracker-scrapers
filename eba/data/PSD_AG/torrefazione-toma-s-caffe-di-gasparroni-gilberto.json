@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!533647!629301_AG485",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG629301",
+  "ENT_NAM": "torrefazione toma s caffe di gasparroni gilberto",
+  "ENT_ADD": "VIA ENRICO MATTEI, 13 14,",
+  "ENT_TOW_CIT_RES": "MONDOLFO (PS),",
+  "ENT_POS_COD": "6103 7",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!533647",
+  "DER_CHI_ENT_AUT": "Active"
+}

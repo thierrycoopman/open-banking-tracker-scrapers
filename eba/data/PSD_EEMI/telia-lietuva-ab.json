@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "LT_BL",
+  "EntityCode": "PSD_EX_EMI_LT_LT_BL_121215434",
+  "EntityType": "PSD_EEMI",
+  "ENT_NAT_REF_COD": "121215434",
+  "ENT_NAM": "Telia Lietuva, AB",
+  "ENT_ADD": "Lvovo str. 25",
+  "ENT_TOW_CIT_RES": "Vilnius",
+  "ENT_POS_COD": "LT-03501",
+  "ENT_COU_RES": "LT",
+  "ENT_AUT": [
+    "2016-10-13"
+  ]
+}

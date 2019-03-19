@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!1662",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1662",
+  "ENT_NAM": "SKLEP OGÓLNOSPOŻYWCZY WANDA SZCZEGIELNIAK",
+  "ENT_ADD": "KRAKOWSKA 16, Boguszów-Gorce, 58-370, PL",
+  "ENT_TOW_CIT_RES": "Boguszów-Gorce",
+  "ENT_POS_COD": "58-370",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

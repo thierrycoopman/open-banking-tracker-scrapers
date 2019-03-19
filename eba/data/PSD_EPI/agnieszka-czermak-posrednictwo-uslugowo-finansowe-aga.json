@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8821541853",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8821541853",
+  "ENT_NAM": "Agnieszka Czermak Pośrednictwo Usługowo - Finansowe \"AGA\"",
+  "ENT_ADD": "Wolności  103a/5, Bielawa, 58-260, PL",
+  "ENT_TOW_CIT_RES": "Bielawa",
+  "ENT_POS_COD": "58-260",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-14",
+    "2019-02-06"
+  ]
+}

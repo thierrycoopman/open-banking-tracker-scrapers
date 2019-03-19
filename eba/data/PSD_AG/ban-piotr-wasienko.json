@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!3241",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "3241",
+  "ENT_NAM": "BAN - Piotr Wasienko",
+  "ENT_ADD": "marsz. Józefa Piłsudskiego 31A, Legionowo, 05-120, PL",
+  "ENT_TOW_CIT_RES": "Legionowo",
+  "ENT_POS_COD": "05-120",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!586",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "586",
+  "ENT_NAM": "AUTO - HANDEL mgr inż. Łukasz Jałowiec",
+  "ENT_ADD": "os. XX-lecia PRL 2/lok. 30, Wolbrom, 32-340, PL",
+  "ENT_TOW_CIT_RES": "Wolbrom",
+  "ENT_POS_COD": "32-340",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!126633551",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "126633551",
+  "ENT_NAM": [
+    "Лео Експрес ЕООД",
+    "Leo Expres EOOD"
+  ],
+  "ENT_ADD": "4 Vladimir Poptomov str.",
+  "ENT_TOW_CIT_RES": "Dimitrovgrad",
+  "ENT_POS_COD": "6400",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

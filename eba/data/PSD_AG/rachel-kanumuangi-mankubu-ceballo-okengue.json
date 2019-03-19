@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!823458_AG9591",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG823458",
+  "ENT_NAM": "Rachel Kanumuangi Mankubu Ceballo Okengue",
+  "ENT_ADD": "49 Avenue De La Gare",
+  "ENT_TOW_CIT_RES": "Annemasse",
+  "ENT_POS_COD": "74100",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!172",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "172",
+  "ENT_NAM": "Tadeusz Kustra P.H.U ARAKUS",
+  "ENT_ADD": "Ulanica 86A, Ulanica, 36-065, PL",
+  "ENT_TOW_CIT_RES": "Ulanica",
+  "ENT_POS_COD": "36-065",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

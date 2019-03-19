@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!215",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "215",
+  "ENT_NAM": "PIEKARNIA - CUKIERNIA BULECZKA ZBIGNIEW JAROSZ",
+  "ENT_ADD": "S3owackiego 11D, Cz3uchów, 77-300, PL",
+  "ENT_TOW_CIT_RES": "Cz3uchów",
+  "ENT_POS_COD": "77-300",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Inactive"
+}
+}

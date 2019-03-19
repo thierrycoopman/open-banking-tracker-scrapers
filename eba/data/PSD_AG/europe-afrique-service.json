@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!793116_AG7170",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG793116",
+  "ENT_NAM": "Europe Afrique Service",
+  "ENT_ADD": "154 Avenue Roger Salengro",
+  "ENT_TOW_CIT_RES": "Champigny Sur Marne",
+  "ENT_POS_COD": "94500",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

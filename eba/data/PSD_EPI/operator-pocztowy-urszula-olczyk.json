@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7291362911",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7291362911",
+  "ENT_NAM": "Operator Pocztowy Urszula Olczyk",
+  "ENT_ADD": "Plac Barlickiego /HALA TARGOWA box 135  , Łódź , 90-612, PL",
+  "ENT_TOW_CIT_RES": "Łódź ",
+  "ENT_POS_COD": "90-612",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-04-02"
+  ]
+}

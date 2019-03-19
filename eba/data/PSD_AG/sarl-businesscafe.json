@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!1376!62876",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "491255154",
+  "ENT_NAM": "SARL BUSINESSCAFE",
+  "ENT_ADD": [
+    "2 C avenue Maréchal de Lattre de",
+    "Tassigny",
+    "Sainte Clotilde"
+  ],
+  "ENT_TOW_CIT_RES": "ST DENIS",
+  "ENT_POS_COD": "AG PostCode (Not Specified)",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!1376",
+  "DER_CHI_ENT_AUT": "Active"
+}

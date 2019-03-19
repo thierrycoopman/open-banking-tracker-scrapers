@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!1134",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "1134",
+  "ENT_NAM": "Andrzej Paruzel Agencja Ubezpieczeniowa",
+  "ENT_ADD": "Nowiny Długa 137, Węglowice, 42-133, PL",
+  "ENT_TOW_CIT_RES": "Węglowice",
+  "ENT_POS_COD": "42-133",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

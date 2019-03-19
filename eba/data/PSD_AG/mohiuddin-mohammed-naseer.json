@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!582974_AG243",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG582974",
+  "ENT_NAM": "Mohiuddin Mohammed Naseer",
+  "ENT_ADD": "45 Upper Clanbvrassil Street",
+  "ENT_TOW_CIT_RES": "Dublin 8",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

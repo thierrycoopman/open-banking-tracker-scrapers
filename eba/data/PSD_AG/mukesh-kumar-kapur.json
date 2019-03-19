@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!663430_AG3790",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG663430",
+  "ENT_NAM": "Mukesh Kumar Kapur",
+  "ENT_ADD": "Roemerstrasse 24",
+  "ENT_TOW_CIT_RES": "Hanau",
+  "ENT_POS_COD": "6345 0",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

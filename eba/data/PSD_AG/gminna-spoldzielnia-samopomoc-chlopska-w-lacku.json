@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!5851425854!581",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "581",
+  "ENT_NAM": "GMINNA SPÓŁDZIELNIA \"SAMOPOMOC CHŁOPSKA\" W ŁĄCKU",
+  "ENT_ADD": "Łącko -, Łącko, 33-390, PL",
+  "ENT_TOW_CIT_RES": "Łącko",
+  "ENT_POS_COD": "33-390",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!5851425854",
+  "DER_CHI_ENT_AUT": "Active"
+}

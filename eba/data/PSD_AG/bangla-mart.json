@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!833351_AG10639",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG833351",
+  "ENT_NAM": "Bangla Mart",
+  "ENT_ADD": "35 Boulevard De Rochechouart",
+  "ENT_TOW_CIT_RES": "Paris",
+  "ENT_POS_COD": "75009",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

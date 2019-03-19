@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!791905_AG7107",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG791905",
+  "ENT_NAM": "Sarabjit Singh",
+  "ENT_ADD": [
+    "Latina",
+    "Piazza Amedeo Di Savoia 24"
+  ],
+  "ENT_TOW_CIT_RES": "Cisterna Di Latina",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

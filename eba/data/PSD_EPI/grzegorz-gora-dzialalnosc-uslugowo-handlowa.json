@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5512066128",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5512066128",
+  "ENT_NAM": "Grzegorz Góra Działalność Usługowo Handlowa",
+  "ENT_ADD": "Mydlarska 3, Wadowice, 34-100, PL",
+  "ENT_TOW_CIT_RES": "Wadowice",
+  "ENT_POS_COD": "34-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2013-06-20"
+  ]
+}

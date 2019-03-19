@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!754713_AG5356",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG754713",
+  "ENT_NAM": "Bar Stazione Di Bogosavljevic Danijela & C SAS",
+  "ENT_ADD": "Piazza Giovanni Falcone E Paolo Borsellino 13",
+  "ENT_TOW_CIT_RES": "Novi Ligure",
+  "ENT_POS_COD": "15067",
+  "ENT_COU_RES": "IT",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

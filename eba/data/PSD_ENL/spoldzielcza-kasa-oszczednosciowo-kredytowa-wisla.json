@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7161008453",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "7161008453",
+  "ENT_NAM": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa WISŁA",
+  "ENT_ADD": "ul. Centralna 21, Puławy, 24-100, PL",
+  "ENT_TOW_CIT_RES": "Puławy",
+  "ENT_POS_COD": "24-100",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2011-12-07"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!596884_AG2463",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG596884",
+  "ENT_NAM": "Taner Okcuoglu",
+  "ENT_ADD": "Nordschleswiger Strasse 18",
+  "ENT_TOW_CIT_RES": "Hamburg",
+  "ENT_POS_COD": "2204 9",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!8361601564",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "8361601564",
+  "ENT_NAM": "Maciej Broniarek Logistyka Miejska",
+  "ENT_ADD": "Tadeusza Bora-Komorowskiego 37, Kraków, 31-469, PL",
+  "ENT_TOW_CIT_RES": "Kraków",
+  "ENT_POS_COD": "31-469",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-08-16"
+  ]
+}

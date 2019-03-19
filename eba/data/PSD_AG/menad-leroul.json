@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!594456_AG2352",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG594456",
+  "ENT_NAM": "Menad Leroul",
+  "ENT_ADD": "29 Rue Des Entrepots",
+  "ENT_TOW_CIT_RES": "Saint Ouen",
+  "ENT_POS_COD": "93 400",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

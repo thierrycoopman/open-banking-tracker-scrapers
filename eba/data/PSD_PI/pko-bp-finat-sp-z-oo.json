@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5272267889",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "5272267889",
+  "ENT_NAM": "PKO BP Finat Sp. z o.o.",
+  "ENT_ADD": "Grójecka 5, Warszawa, 02-019, PL",
+  "ENT_TOW_CIT_RES": "Warszawa",
+  "ENT_POS_COD": "02-019",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-10-07"
+  ]
+}

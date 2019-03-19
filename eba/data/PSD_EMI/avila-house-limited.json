@@ -1,0 +1,22 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_EMI!GB_FCA!900883",
+  "EntityType": "PSD_EMI",
+  "ENT_NAT_REF_COD": "900883",
+  "ENT_NAM": "Avila House Limited",
+  "ENT_NAM_COM": [
+    "Avila",
+    "AvilaMoney",
+    "AvilaPay"
+  ],
+  "ENT_ADD": [
+    "11/15 William Road",
+    "Acre House"
+  ],
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "NW1 3ER",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2018-09-12"
+  ]
+}

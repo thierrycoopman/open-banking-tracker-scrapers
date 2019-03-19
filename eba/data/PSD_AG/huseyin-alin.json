@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!592593_AG2290",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG592593",
+  "ENT_NAM": "Huseyin Alin",
+  "ENT_ADD": "Kurstr 6",
+  "ENT_TOW_CIT_RES": "Berlin",
+  "ENT_POS_COD": "1358 5",
+  "ENT_COU_RES": "DE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

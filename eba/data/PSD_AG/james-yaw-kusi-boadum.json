@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!746678_AG5117",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG746678",
+  "ENT_NAM": "James Yaw Kusi Boadum",
+  "ENT_ADD": [
+    "Noord Brabant",
+    "Haagdijk 249"
+  ],
+  "ENT_TOW_CIT_RES": "Breda",
+  "ENT_POS_COD": "Not Available",
+  "ENT_COU_RES": "NL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

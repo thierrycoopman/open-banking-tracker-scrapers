@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504589!817158_AG708",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG817158",
+  "ENT_NAM": "Tejinder Bir Singh",
+  "ENT_ADD": "I Tsiggou 5",
+  "ENT_TOW_CIT_RES": "Aspropyrgos",
+  "ENT_POS_COD": "19300",
+  "ENT_COU_RES": "GR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504589",
+  "DER_CHI_ENT_AUT": "Active"
+}

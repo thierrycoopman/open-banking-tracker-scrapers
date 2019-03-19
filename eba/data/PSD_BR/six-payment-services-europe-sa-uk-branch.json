@@ -1,0 +1,13 @@
+{
+  "CA_OwnerID": "LU_CSSF",
+  "EntityCode": "PSD_PI!LU_CSSF!Z00000001!GB",
+  "EntityType": "PSD_BR",
+  "ENT_NAM": "SIX Payment Services (Europe) S.A., UK branch",
+  "ENT_ADD": "2nd Floor, 6 Devonshire Square",
+  "ENT_TOW_CIT_RES": "London",
+  "ENT_POS_COD": "EC2M4YE",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "LU_CSSF!Z00000001",
+  "DER_CHI_ENT_AUT": "Active"
+}

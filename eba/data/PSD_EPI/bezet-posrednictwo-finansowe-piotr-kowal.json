@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!5782958859",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "5782958859",
+  "ENT_NAM": "Bezet Pośrednictwo  Finansowe Piotr Kowal",
+  "ENT_ADD": "Kosynierów Gdyńskich 13a/8, Elbląg, 82-300, PL",
+  "ENT_TOW_CIT_RES": "Elbląg",
+  "ENT_POS_COD": "82-300",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-06-12"
+  ]
+}

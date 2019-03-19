@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "NL_DNB",
+  "EntityCode": "NL_DNB!R134551",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "R134551",
+  "ENT_NAM": "Webovate",
+  "ENT_NAM_COM": "CoCollect/MemberHub/Webovate/DA Webontwikkeling/MapReport",
+  "ENT_ADD": "Vinkenkade 17",
+  "ENT_TOW_CIT_RES": "UTRECHT",
+  "ENT_POS_COD": "3552 XA",
+  "ENT_COU_RES": "NL",
+  "ENT_AUT": [
+    "2019-02-19"
+  ]
+}

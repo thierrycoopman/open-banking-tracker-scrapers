@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!7411",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "7411",
+  "ENT_NAM": "Katarzyna Kośmider",
+  "ENT_ADD": "UL.FLORIAŃSKA 36, SIEDLCE, 08-110, PL",
+  "ENT_TOW_CIT_RES": "SIEDLCE",
+  "ENT_POS_COD": "08-110",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Inactive"
+}

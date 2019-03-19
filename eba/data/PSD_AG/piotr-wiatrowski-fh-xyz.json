@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!2308",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "2308",
+  "ENT_NAM": "Piotr Wiatrowski F.H. \"XYZ\"",
+  "ENT_ADD": "Brzozowa 2, Tuchomie, 77-133, PL",
+  "ENT_TOW_CIT_RES": "Tuchomie",
+  "ENT_POS_COD": "77-133",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}

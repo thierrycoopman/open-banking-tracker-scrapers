@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "PSD_PI!FR_ACPR!54167!78278",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "501726558",
+  "ENT_NAM": "SNC BENOIST",
+  "ENT_ADD": "147 Rue Saint-Jean",
+  "ENT_TOW_CIT_RES": "CAEN",
+  "ENT_POS_COD": "14000",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "FR_ACPR!54167",
+  "DER_CHI_ENT_AUT": "Active"
+}

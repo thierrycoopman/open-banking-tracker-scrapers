@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!201389970",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "201389970",
+  "ENT_NAM": [
+    "Ловеч спринт ООД",
+    "Lovech sprint OOD"
+  ],
+  "ENT_ADD": "Svoboda sqr., build. NTS No 407 room",
+  "ENT_TOW_CIT_RES": "Lovech",
+  "ENT_POS_COD": "5500",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

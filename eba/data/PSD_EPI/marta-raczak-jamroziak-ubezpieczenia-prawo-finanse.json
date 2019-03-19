@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6222305708",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6222305708",
+  "ENT_NAM": "Marta Raczak-Jamroziak - Ubezpieczenia, Prawo, Finanse",
+  "ENT_ADD": "Bema 135, Ostrów Wielkopolski, 63-400, PL",
+  "ENT_TOW_CIT_RES": "Ostrów Wielkopolski",
+  "ENT_POS_COD": "63-400",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2015-05-08"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504482!833935_AG2560",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG833935",
+  "ENT_NAM": "Badurusaman Azwar",
+  "ENT_ADD": "74 Knolton Way",
+  "ENT_TOW_CIT_RES": "Slough",
+  "ENT_POS_COD": "SL2 5TL",
+  "ENT_COU_RES": "GB",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504482",
+  "DER_CHI_ENT_AUT": "Active"
+}

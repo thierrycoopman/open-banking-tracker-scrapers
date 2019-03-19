@@ -1,0 +1,18 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "BG_BNB!831542149",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "831542149",
+  "ENT_NAM": [
+    "Чейндж Център - България ЕООД",
+    "Change Center - Bulgaria EOOD"
+  ],
+  "ENT_ADD": "PI Address (Not Specified)",
+  "ENT_TOW_CIT_RES": "PI City (Not Specified)",
+  "ENT_POS_COD": "PI Postcode (Not Specified)",
+  "ENT_COU_RES": "BG",
+  "ENT_AUT": [
+    "2010-01-25",
+    "2017-09-01"
+  ]
+}

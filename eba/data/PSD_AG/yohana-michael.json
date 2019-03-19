@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!819984_AG9217",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG819984",
+  "ENT_NAM": "Yohana Michael",
+  "ENT_ADD": "Isafjordsgatan 22 A",
+  "ENT_TOW_CIT_RES": "Kista",
+  "ENT_POS_COD": "16440",
+  "ENT_COU_RES": "SE",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6521725826",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6521725826",
+  "ENT_NAM": "HP 7 Sp. z o.o.",
+  "ENT_ADD": "Slowackiego  17, Czechowice-Dziedzice, 43-502, PL",
+  "ENT_TOW_CIT_RES": "Czechowice-Dziedzice",
+  "ENT_POS_COD": "43-502",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-01-28"
+  ]
+}

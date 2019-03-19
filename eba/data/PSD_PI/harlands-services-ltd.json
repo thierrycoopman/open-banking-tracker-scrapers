@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!779275",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "779275",
+  "ENT_NAM": "Harlands Services Ltd",
+  "ENT_ADD": [
+    "9-17 Perrymount Road",
+    "2nd Floor, Rockwood House"
+  ],
+  "ENT_TOW_CIT_RES": "Haywards Heath",
+  "ENT_POS_COD": "RH16 3TW",
+  "ENT_COU_RES": "GB",
+  "ENT_AUT": [
+    "2017-09-21"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "LV_FCMC",
+  "EntityCode": "LV_FCMC!27",
+  "EntityType": "PSD_ENL",
+  "ENT_NAT_REF_COD": "40003248087",
+  "ENT_NAM": "Kooperatīvā krājaizdevu sabiedrība \"Dzelzceļnieks KS\"",
+  "ENT_NAM_COM": "Dzelzceļnieks KS",
+  "ENT_ADD": "Turgeņeva iela 14",
+  "ENT_TOW_CIT_RES": "Rīga",
+  "ENT_POS_COD": "LV-1050",
+  "ENT_COU_RES": "LV",
+  "ENT_AUT": [
+    "2000-09-17"
+  ]
+}

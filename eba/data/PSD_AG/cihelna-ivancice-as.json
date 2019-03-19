@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "CZ_CNB",
+  "EntityCode": "PSD_PI!CZ_CNB!01993143!15530337",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "15530337",
+  "ENT_NAM": "CIHELNA IVANČICE, a.s.",
+  "ENT_ADD": "Mřenková 623/106",
+  "ENT_TOW_CIT_RES": "Ivančice",
+  "ENT_POS_COD": "66491",
+  "ENT_COU_RES": "CZ",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "CZ_CNB!01993143",
+  "DER_CHI_ENT_AUT": "Active"
+}

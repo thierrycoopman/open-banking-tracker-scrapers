@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!7120157334",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "7120157334",
+  "ENT_NAM": "Polski Związek Motorowy Okręgowy Zespół Działalności Gospodarczej spółka z ograniczoną odpowiedzialnością",
+  "ENT_ADD": "Prusa 8, Lublin, 20-064 , PL",
+  "ENT_TOW_CIT_RES": "Lublin",
+  "ENT_POS_COD": "20-064 ",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2018-01-22"
+  ]
+}

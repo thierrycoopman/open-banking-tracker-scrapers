@@ -1,0 +1,17 @@
+{
+  "CA_OwnerID": "BG_BNB",
+  "EntityCode": "PSD_EMI!BG_BNB!131344648!110564783",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "110564783",
+  "ENT_NAM": [
+    "Плевен спринт ООД",
+    "Pleven sprint OOD"
+  ],
+  "ENT_ADD": "11 Dimitar Konstantinov str.",
+  "ENT_TOW_CIT_RES": "Pleven",
+  "ENT_POS_COD": "5800",
+  "ENT_COU_RES": "BG",
+  "ENT_TYP_PAR_ENT": "PSD_EMI",
+  "ENT_COD_PAR_ENT": "BG_BNB!131344648",
+  "DER_CHI_ENT_AUT": "Active"
+}

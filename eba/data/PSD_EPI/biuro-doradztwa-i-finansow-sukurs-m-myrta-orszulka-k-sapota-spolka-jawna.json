@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6270024746",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6270024746",
+  "ENT_NAM": "Biuro Doradztwa i Finansów \"SUKURS\" M. Myrta-Orszulka, K. Sapota Spółka Jawna ",
+  "ENT_ADD": "Katowicka 169, Chorzów, 41-500, PL",
+  "ENT_TOW_CIT_RES": "Chorzów",
+  "ENT_POS_COD": "41-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-03-09"
+  ]
+}

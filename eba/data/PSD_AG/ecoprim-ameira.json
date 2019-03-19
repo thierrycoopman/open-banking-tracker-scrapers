@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "GB_FCA",
+  "EntityCode": "PSD_PI!GB_FCA!504630!674904_AG3896",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "AG674904",
+  "ENT_NAM": "Ecoprim Ameira",
+  "ENT_ADD": "Boulevard Georges Azemia",
+  "ENT_TOW_CIT_RES": "Vernon",
+  "ENT_POS_COD": "27 200",
+  "ENT_COU_RES": "FR",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PSD_PI!GB_FCA!504630",
+  "DER_CHI_ENT_AUT": "Active"
+}

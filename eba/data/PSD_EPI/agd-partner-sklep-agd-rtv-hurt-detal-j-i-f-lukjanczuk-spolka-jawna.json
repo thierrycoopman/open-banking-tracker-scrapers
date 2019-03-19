@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!6940004965",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "6940004965",
+  "ENT_NAM": "AGD PARTNER SKLEP AGD-RTV HURT-DETAL J. I F. ŁUKJAŃCZUK SPÓŁKA JAWNA",
+  "ENT_ADD": "Rynek 37, Złotoryja, 59-500, PL",
+  "ENT_TOW_CIT_RES": "Złotoryja",
+  "ENT_POS_COD": "59-500",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2012-05-21"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "CA_OwnerID": "FR_ACPR",
+  "EntityCode": "FR_ACPR!11998",
+  "EntityType": "PSD_PI",
+  "ENT_NAT_REF_COD": "493473003",
+  "ENT_NAM": "Ria France",
+  "ENT_NAM_COM": "PI Commercial Name (Not Specified)",
+  "ENT_ADD": "6 bis rue Fournier",
+  "ENT_TOW_CIT_RES": "CLICHY",
+  "ENT_POS_COD": "92110",
+  "ENT_COU_RES": "FR",
+  "ENT_AUT": [
+    "2014-01-01"
+  ]
+}

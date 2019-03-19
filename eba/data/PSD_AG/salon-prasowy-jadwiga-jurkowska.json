@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!8971683744!163",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "163",
+  "ENT_NAM": "\"SALON PRASOWY\" JADWIGA JURKOWSKA",
+  "ENT_ADD": "PIASTÓW ŚLĄSKICH 6, WOŁÓW, 56-100, PL",
+  "ENT_TOW_CIT_RES": "WOŁÓW",
+  "ENT_POS_COD": "56-100",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!8971683744",
+  "DER_CHI_ENT_AUT": "Active"
+}

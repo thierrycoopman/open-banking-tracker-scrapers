@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PL_PFSA!9680018184",
+  "EntityType": "PSD_EPI",
+  "ENT_NAT_REF_COD": "9680018184",
+  "ENT_NAM": "FIRMA ELEKTRONICZNA \"PIXEL\" JAROSŁAW MARCINIAK",
+  "ENT_ADD": "Konińska 19, Stawiszyn, 62-820, PL",
+  "ENT_TOW_CIT_RES": "Stawiszyn",
+  "ENT_POS_COD": "62-820",
+  "ENT_COU_RES": "PL",
+  "ENT_AUT": [
+    "2016-08-18"
+  ]
+}

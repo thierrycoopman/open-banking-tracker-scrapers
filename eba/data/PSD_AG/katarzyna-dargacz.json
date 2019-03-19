@@ -1,0 +1,14 @@
+{
+  "CA_OwnerID": "PL_PFSA",
+  "EntityCode": "PSD_PI!PL_PFSA!6762165116!4481",
+  "EntityType": "PSD_AG",
+  "ENT_NAT_REF_COD": "4481",
+  "ENT_NAM": "Katarzyna Dargacz",
+  "ENT_ADD": "Mokry Dwór 7, Wiślina, 83-021, PL",
+  "ENT_TOW_CIT_RES": "Wiślina",
+  "ENT_POS_COD": "83-021",
+  "ENT_COU_RES": "PL",
+  "ENT_TYP_PAR_ENT": "PSD_PI",
+  "ENT_COD_PAR_ENT": "PL_PFSA!6762165116",
+  "DER_CHI_ENT_AUT": "Active"
+}
